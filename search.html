@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Characters | Superhero Hub</title>
+    <link rel="stylesheet" href="css/search.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&family=Bebas+Neue&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="logo">
+                <i class="fas fa-mask"></i>
+                <span>Superhero<span class="logo-highlight">Hub</span></span>
+            </a>
+
+            <ul class="nav-menu">
+                <li><a href="index.html"><i class="fas fa-home"></i> Home</a></li>
+                <li><a href="search.html" class="active"><i class="fas fa-search"></i> Search Characters</a></li>
+                <li><a href="index.html#about"><i class="fas fa-info-circle"></i> About</a></li>
+            </ul>
+
+            <div class="nav-actions">
+                <button class="btn-theme" id="themeToggle">
+                    <i class="fas fa-moon"></i>
+                </button>
+            </div>
+
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Search Section -->
+    <section class="search-section">
+        <div class="container">
+            <div class="search-header">
+                <h1>Find Your Favorite Heroes</h1>
+                <p>Search through hundreds of Marvel and DC characters</p>
+            </div>
+
+            <div class="search-container">
+                <div class="search-box">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="searchInput" placeholder="Search characters by name, alias, or abilities...">
+                    <button id="clearSearch" class="clear-btn">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+
+                <div class="filters">
+                    <div class="filter-group">
+                        <label for="universeFilter"><i class="fas fa-globe"></i> Universe</label>
+                        <select id="universeFilter">
+                            <option value="all">All Universes</option>
+                            <option value="Marvel">Marvel</option>
+                            <option value="DC">DC</option>
+                            <option value="Anime">Anime</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-group">
+                        <label for="seriesFilter"><i class="fas fa-film"></i> Series</label>
+                        <select id="seriesFilter">
+                            <option value="all">All Series</option>
+                            <!-- Series options will be populated by JavaScript -->
+                        </select>
+                    </div>
+
+                    <div class="filter-group">
+                        <label for="sortFilter"><i class="fas fa-sort"></i> Sort By</label>
+                        <select id="sortFilter">
+                            <option value="name">Name (A-Z)</option>
+                            <option value="rating">Rating (High to Low)</option>
+                            <option value="universe">Universe</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Results Section -->
+    <section class="results-section">
+        <div class="container">
+            <div class="results-header">
+                <h2 id="resultsCount">Loading characters...</h2>
+                <div class="view-toggle">
+                    <button class="view-btn active" data-view="grid">
+                        <i class="fas fa-th"></i>
+                    </button>
+                    <button class="view-btn" data-view="list">
+                        <i class="fas fa-list"></i>
+                    </button>
+                </div>
+            </div>
+
+            <div class="characters-grid" id="charactersGrid">
+                <!-- Character cards will be populated by JavaScript -->
+            </div>
+
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Loading characters...</p>
+            </div>
+
+            <div class="no-results" id="noResults" style="display: none;">
+                <i class="fas fa-search"></i>
+                <h3>No characters found</h3>
+                <p>Try adjusting your search or filters</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Character Modal -->
+    <div class="modal" id="characterModal">
+        <div class="modal-overlay"></div>
+        <div class="modal-container">
+            <button class="modal-close" id="modalClose">
+                <i class="fas fa-times"></i>
+            </button>
+
+            <div class="modal-content">
+                <!-- Modal content will be populated by JavaScript -->
+            </div>
+
+            <!-- Modal Navigation -->
+            <div class="modal-nav">
+                <button class="modal-nav-btn prev" id="modalPrev">
+                    <i class="fas fa-chevron-left"></i>
+                    Previous
+                </button>
+                <button class="modal-nav-btn next" id="modalNext">
+                    Next
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Image Modal -->
+    <div class="image-modal" id="imageModal">
+        <div class="image-modal-overlay"></div>
+        <div class="image-modal-content">
+            <button class="image-modal-close">
+                <i class="fas fa-times"></i>
+            </button>
+            <img id="modalImage" src="" alt="">
+            <div class="image-modal-caption"></div>
+        </div>
+    </div>
+
+    <script src="js/search.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,100 @@
+{
+  "videos": [
+    {
+      "character_id": "dc-batman-001",
+      "title": "Batman: All Movie Fight Scenes",
+      "youtube_id": "qpmkA4O5Dv8",
+      "duration": "15:30",
+      "views": "25M",
+      "category": "fight_scenes"
+    },
+    {
+      "character_id": "dc-batman-001",
+      "title": "Batman Begins - Training with Ra's al Ghul",
+      "youtube_id": "gKbGXj8m8RE",
+      "duration": "5:45",
+      "views": "18M",
+      "category": "training"
+    },
+    {
+      "character_id": "dc-batman-001",
+      "title": "The Dark Knight - Batman Interrogates Joker",
+      "youtube_id": "7hZRw5aZqHk",
+      "duration": "4:20",
+      "views": "32M",
+      "category": "iconic_scenes"
+    },
+    {
+      "character_id": "dc-superman-001",
+      "title": "Superman - All Flight Scenes",
+      "youtube_id": "T6DJcgm3wNY",
+      "duration": "18:45",
+      "views": "22M",
+      "category": "flight_scenes"
+    },
+    {
+      "character_id": "dc-superman-001",
+      "title": "Man of Steel - First Flight",
+      "youtube_id": "Umk6RwHNwcs",
+      "duration": "6:10",
+      "views": "45M",
+      "category": "iconic_scenes"
+    },
+    {
+      "character_id": "dc-justice-001",
+      "title": "Wonder Woman - All Fight Scenes",
+      "youtube_id": "VSB4wGIdDwo",
+      "duration": "20:15",
+      "views": "30M",
+      "category": "fight_scenes"
+    },
+    {
+      "character_id": "marvel-avengers-001",
+      "title": "Iron Man - All Suit Up Scenes",
+      "youtube_id": "HtO3yB7Z-yM",
+      "duration": "22:10",
+      "views": "35M",
+      "category": "suit_up"
+    },
+    {
+      "character_id": "marvel-avengers-002",
+      "title": "Captain America - Best Fight Scenes",
+      "youtube_id": "JerVrbLldXw",
+      "duration": "20:15",
+      "views": "28M",
+      "category": "fight_scenes"
+    },
+    {
+      "character_id": "marvel-avengers-003",
+      "title": "Thor's Most Powerful Moments",
+      "youtube_id": "xURCGRexqcY",
+      "duration": "17:30",
+      "views": "19M",
+      "category": "powerful_moments"
+    },
+    {
+      "character_id": "anime-naruto-001",
+      "title": "Naruto - All Rasengan Moments",
+      "youtube_id": "v1YojYU5nQw",
+      "duration": "25:40",
+      "views": "15M",
+      "category": "techniques"
+    },
+    {
+      "character_id": "anime-onepiece-001",
+      "title": "Luffy - All Gear Transformations",
+      "youtube_id": "2zqG5CJqQcQ",
+      "duration": "28:20",
+      "views": "18M",
+      "category": "transformations"
+    },
+    {
+      "character_id": "anime-demonslayer-001",
+      "title": "Tanjiro - All Breathing Techniques",
+      "youtube_id": "4yP46kh9HkI",
+      "duration": "21:15",
+      "views": "12M",
+      "category": "techniques"
+    }
+  ]
+}

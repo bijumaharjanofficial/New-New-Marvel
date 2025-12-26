@@ -1,0 +1,34 @@
+{
+  "gallery": [
+    {
+      "image": "assets/images/gallery/marvel_dc_collage_1.jpg",
+      "title": "Marvel vs DC",
+      "description": "The ultimate superhero universe showdown",
+      "category": "all"
+    },
+    {
+      "image": "assets/images/gallery/batman_superman.jpg",
+      "title": "World's Finest",
+      "description": "Batman and Superman - The iconic duo",
+      "category": "DC"
+    },
+    {
+      "image": "assets/images/gallery/avengers_assemble.jpg",
+      "title": "Avengers Assemble",
+      "description": "Earth's mightiest heroes unite",
+      "category": "Marvel"
+    },
+    {
+      "image": "assets/images/gallery/jla_tower.jpg",
+      "title": "Justice League",
+      "description": "DC's premier superhero team",
+      "category": "DC"
+    },
+    {
+      "image": "assets/images/gallery/iron_man_cap.jpg",
+      "title": "Marvel Legends",
+      "description": "Iron Man and Captain America",
+      "category": "Marvel"
+    }
+  ]
+}

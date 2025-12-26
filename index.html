@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Superhero Hub | Marvel & DC Universe</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&family=Bebas+Neue&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="logo">
+                <i class="fas fa-mask"></i>
+                <span>Superhero<span class="logo-highlight">Hub</span></span>
+            </a>
+
+            <ul class="nav-menu">
+                <li><a href="index.html" class="active"><i class="fas fa-home"></i> Home</a></li>
+                <li><a href="search.html"><i class="fas fa-search"></i> Search Characters</a></li>
+                <li><a href="#about"><i class="fas fa-info-circle"></i> About</a></li>
+                <li><a href="#universe"><i class="fas fa-globe"></i> Universes</a></li>
+                <li><a href="#contact"><i class="fas fa-envelope"></i> Contact</a></li>
+            </ul>
+
+            <div class="nav-actions">
+                <button class="btn-theme" id="themeToggle">
+                    <i class="fas fa-moon"></i>
+                </button>
+            </div>
+
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-slider">
+            <!-- Slides will be populated by JavaScript -->
+        </div>
+        <div class="hero-overlay">
+            <div class="hero-content">
+                <h1>Explore the <span class="hero-highlight">Marvel & DC</span> Universe</h1>
+                <p>Discover in-depth profiles, abilities, and stories of your favorite superheroes and villains</p>
+                <a href="search.html" class="btn-hero">
+                    <i class="fas fa-search"></i> Explore Characters
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Universe Section -->
+    <section class="universe-section" id="universe">
+        <div class="container">
+            <h2 class="section-title">Superhero Universes</h2>
+            <div class="universe-grid">
+                <div class="universe-card marvel">
+                    <div class="universe-logo">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/2560px-Marvel_Logo.svg.png"
+                            alt="Marvel Logo">
+                    </div>
+                    <h3>Marvel Universe</h3>
+                    <p>Home to iconic heroes like Spider-Man, Iron Man, Captain America, and the Avengers</p>
+                    <div class="universe-stats">
+                        <span><i class="fas fa-user"></i> 8000+ Characters</span>
+                        <span><i class="fas fa-film"></i> 30+ Movies</span>
+                    </div>
+                </div>
+
+                <div class="universe-card dc">
+                    <div class="universe-logo">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/2048px-DC_Comics_logo.svg.png"
+                            alt="DC Logo">
+                    </div>
+                    <h3>DC Universe</h3>
+                    <p>World of legendary heroes like Batman, Superman, Wonder Woman, and the Justice League</p>
+                    <div class="universe-stats">
+                        <span><i class="fas fa-user"></i> 7000+ Characters</span>
+                        <span><i class="fas fa-film"></i> 20+ Movies</span>
+                    </div>
+                </div>
+
+                <div class="universe-card anime">
+                    <div class="universe-logo">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Anime_Love_symbol.png/640px-Anime_Love_symbol.png"
+                            alt="Anime Logo">
+                    </div>
+                    <h3>Anime Universe</h3>
+                    <p>Explore iconic anime worlds with characters from Naruto, One Piece, Demon Slayer, and more</p>
+                    <div class="universe-stats">
+                        <span><i class="fas fa-user"></i> 5000+ Characters</span>
+                        <span><i class="fas fa-film"></i> 1000+ Series</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured Characters -->
+    <section class="featured-section">
+        <div class="container">
+            <h2 class="section-title">Featured Heroes</h2>
+            <div class="featured-grid">
+                <!-- Featured characters will be populated by JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about-section" id="about">
+        <div class="container">
+            <h2 class="section-title">About Superhero Hub</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>Welcome to the ultimate destination for Marvel and DC fans! Our platform offers comprehensive
+                        character profiles, detailed ability breakdowns, and rich multimedia content.</p>
+                    <div class="features">
+                        <div class="feature">
+                            <i class="fas fa-database"></i>
+                            <h4>Comprehensive Database</h4>
+                            <p>Detailed profiles of hundreds of characters</p>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-search"></i>
+                            <h4>Advanced Search</h4>
+                            <p>Find characters by abilities, universe, or name</p>
+                        </div>
+                        <div class="feature">
+                            <i class="fas fa-images"></i>
+                            <h4>Rich Media</h4>
+                            <p>Galleries, videos, and interactive content</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="about-stats">
+                    <div class="stat">
+                        <h3>1500+</h3>
+                        <p>Character Profiles</p>
+                    </div>
+                    <div class="stat">
+                        <h3>3</h3>
+                        <p>Universes</p>
+                    </div>
+                    <div class="stat">
+                        <h3>10,000+</h3>
+                        <p>Images & Videos</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer" id="contact">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Superhero Hub</h3>
+                    <p>The ultimate platform for Marvel and DC character exploration.</p>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="search.html">Search Characters</a></li>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Universes</h4>
+                    <ul>
+                        <li><a href="#">Marvel</a></li>
+                        <li><a href="#">DC</a></li>
+                        <li><a href="#">Compare Characters</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact</h4>
+                    <p><i class="fas fa-envelope"></i> contact@superherohub.com</p>
+                    <p><i class="fas fa-phone"></i> +1 (555) 123-4567</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Superhero Hub. All rights reserved. Marvel and DC characters are trademarks of their
+                    respective owners.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
