@@ -48,7 +48,7 @@ body {
     color: var(--text-light);
     line-height: 1.6;
     overflow-x: hidden;
-    background-image: 
+    background-image:
         radial-gradient(circle at 10% 20%, rgba(29, 29, 47, 0.05) 0%, transparent 20%),
         radial-gradient(circle at 90% 80%, rgba(15, 76, 255, 0.05) 0%, transparent 20%);
     min-height: 100vh;
@@ -73,7 +73,10 @@ body {
 }
 
 /* Typography */
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
     font-family: 'Bebas Neue', 'Montserrat', sans-serif;
     font-weight: 700;
     letter-spacing: 0.5px;
@@ -109,6 +112,7 @@ h1, h2, h3, h4 {
     from {
         box-shadow: 0 0 10px var(--marvel-red), 0 0 20px var(--marvel-red);
     }
+
     to {
         box-shadow: 0 0 20px var(--dc-blue), 0 0 30px var(--dc-blue);
     }
@@ -162,8 +166,13 @@ h1, h2, h3, h4 {
 }
 
 @keyframes spin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
 }
 
 .logo-text {
@@ -297,7 +306,7 @@ h1, h2, h3, h4 {
     left: 0;
     right: 0;
     bottom: 0;
-    background: 
+    background:
         radial-gradient(circle at 20% 50%, rgba(237, 29, 36, 0.15) 0%, transparent 50%),
         radial-gradient(circle at 80% 50%, rgba(0, 120, 240, 0.15) 0%, transparent 50%),
         linear-gradient(to bottom, rgba(10, 10, 18, 0.9), rgba(10, 10, 18, 0.7));
@@ -358,6 +367,7 @@ h1, h2, h3, h4 {
         opacity: 0;
         transform: translateY(30px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
@@ -376,9 +386,12 @@ h1, h2, h3, h4 {
 }
 
 @keyframes textShine {
-    0%, 100% {
+
+    0%,
+    100% {
         background-position: 0% 50%;
     }
+
     50% {
         background-position: 100% 50%;
     }
@@ -964,7 +977,7 @@ h1, h2, h3, h4 {
         margin-left: auto;
         margin-right: auto;
     }
-    
+
     .about-content {
         grid-template-columns: 1fr;
     }
@@ -974,7 +987,7 @@ h1, h2, h3, h4 {
     .hero-content h1 {
         font-size: 3.5rem;
     }
-    
+
     .section-title {
         font-size: 3rem;
     }
@@ -995,39 +1008,39 @@ h1, h2, h3, h4 {
         border-top: 1px solid rgba(255, 255, 255, 0.1);
         box-shadow: var(--shadow-lg);
     }
-    
+
     .nav-menu.active {
         left: 0;
     }
-    
+
     .hamburger {
         display: flex;
     }
-    
+
     .hero-content {
         padding: 2rem;
     }
-    
+
     .hero-content h1 {
         font-size: 2.8rem;
     }
-    
+
     .hero-content p {
         font-size: 1.1rem;
     }
-    
+
     .section-title {
         font-size: 2.5rem;
     }
-    
+
     .universe-card {
         padding: 2rem;
     }
-    
+
     .featured-grid {
         grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     }
-    
+
     .about-content {
         gap: 3rem;
     }
@@ -1037,28 +1050,32 @@ h1, h2, h3, h4 {
     .hero-content h1 {
         font-size: 2.2rem;
     }
-    
+
+    .rating-stars {
+        gap: 0;
+    }
+
     .btn-hero {
         padding: 15px 30px;
         font-size: 1rem;
     }
-    
+
     .section-title {
         font-size: 2rem;
     }
-    
+
     .universe-card {
         padding: 1.5rem;
     }
-    
+
     .universe-card h3 {
         font-size: 2rem;
     }
-    
+
     .featured-content h3 {
         font-size: 1.5rem;
     }
-    
+
     .footer-content {
         gap: 2rem;
     }
@@ -1090,6 +1107,7 @@ h1, h2, h3, h4 {
 
 /* Light Theme Overrides */
 [data-theme="light"] {
+
     /* Navbar fixes */
     .navbar {
         background: rgba(255, 255, 255, 0.95) !important;
@@ -1126,7 +1144,7 @@ h1, h2, h3, h4 {
 
     /* Hero section fixes */
     .hero::before {
-        background: 
+        background:
             radial-gradient(circle at 20% 50%, rgba(237, 29, 36, 0.1) 0%, transparent 50%),
             radial-gradient(circle at 80% 50%, rgba(0, 120, 240, 0.1) 0%, transparent 50%),
             linear-gradient(to bottom, rgba(245, 245, 247, 0.9), rgba(245, 245, 247, 0.7)) !important;
@@ -1539,4 +1557,428 @@ img[src*="placeholder"] {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+}
+
+/* Add to style.css - Existing media queries section */
+
+/* Tablet specific fixes (768px - 1024px) */
+@media (max-width: 1024px) {
+    .universe-grid {
+        grid-template-columns: 1fr;
+        max-width: 800px;
+        margin: 2rem auto;
+    }
+
+    .about-content {
+        grid-template-columns: 1fr;
+        gap: 3rem;
+    }
+
+    .features {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .hero-content h1 {
+        font-size: 3rem;
+    }
+
+    .nav-container {
+        padding: 1rem;
+    }
+
+    .section-title {
+        font-size: 2.8rem;
+    }
+}
+
+/* Add to style.css - Mobile specific fixes */
+@media (max-width: 767px) {
+    .hero {
+        min-height: 600px;
+        height: auto;
+        padding: 100px 0 50px;
+    }
+
+    .hero-content h1 {
+        font-size: 2.2rem;
+        line-height: 1.2;
+    }
+
+    .hero-content p {
+        font-size: 1rem;
+    }
+
+    .btn-hero {
+        padding: 14px 28px;
+        font-size: 1rem;
+    }
+
+    .section-title {
+        font-size: 2.2rem;
+        margin-bottom: 2rem;
+    }
+
+    .features {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .feature {
+        padding: 1.5rem;
+    }
+
+    .universe-card {
+        padding: 1.5rem;
+    }
+
+    .universe-card h3 {
+        font-size: 2rem;
+    }
+
+    .featured-grid {
+        grid-template-columns: 1fr;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+
+    .footer-content {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+
+    /* Mobile menu fixes */
+    .nav-menu {
+        position: fixed;
+        top: 70px;
+        left: -100%;
+        flex-direction: column;
+        background: rgba(20, 20, 32, 0.98);
+        backdrop-filter: blur(20px);
+        width: 100%;
+        text-align: center;
+        transition: 0.3s;
+        padding: 2rem 0;
+        border-top: 1px solid rgba(255, 255, 255, 0.1);
+        box-shadow: var(--shadow-lg);
+    }
+
+    .nav-menu.active {
+        left: 0;
+    }
+
+    .nav-menu li {
+        margin: 0.5rem 0;
+    }
+
+    .nav-menu a {
+        padding: 0.8rem;
+        justify-content: center;
+    }
+}
+
+/* Add to search.css - Existing media queries section */
+
+/* Tablet specific fixes for search page */
+@media (max-width: 1024px) {
+    .search-container {
+        padding: 0 1rem;
+    }
+
+    .characters-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
+    .filters {
+        padding: 1.5rem;
+    }
+
+    .modal-container {
+        width: 98%;
+        height: 95vh;
+        margin: 2.5vh auto;
+    }
+
+    .modal-character {
+        grid-template-columns: 300px 1fr;
+        gap: 2rem;
+    }
+
+    .modal-character-image {
+        height: 350px;
+    }
+
+    .appearance-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .abilities-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Mobile specific fixes for search page */
+@media (max-width: 767px) {
+    .search-section {
+        padding: 6rem 0 2rem;
+    }
+
+    .search-header h1 {
+        font-size: 2.2rem;
+        margin-bottom: 1rem;
+    }
+
+    .search-header p {
+        font-size: 1rem;
+        padding: 0 1rem;
+    }
+
+    .search-container {
+        padding: 0 1rem;
+    }
+
+    #searchInput {
+        padding: 16px 50px 16px 45px;
+        font-size: 1rem;
+        border-radius: 25px;
+    }
+
+    .search-box i {
+        left: 18px;
+        font-size: 1.1rem;
+    }
+
+    .clear-btn {
+        right: 18px;
+    }
+
+    .filters {
+        grid-template-columns: 1fr;
+        padding: 1.5rem;
+        gap: 1rem;
+    }
+
+    .filter-group select {
+        padding: 12px 16px;
+        font-size: 0.95rem;
+    }
+
+    .results-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+        margin-bottom: 2rem;
+    }
+
+    .view-toggle {
+        align-self: flex-start;
+    }
+
+    .characters-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+
+    .character-card {
+        margin: 0;
+        padding: 0;
+    }
+
+    .character-image {
+        height: 220px;
+    }
+
+    .character-content {
+        padding: 1.5rem;
+    }
+
+    .character-name {
+        font-size: 1.5rem;
+    }
+
+    .character-alias {
+        font-size: 0.9rem;
+    }
+
+    /* Modal fixes for mobile */
+    .modal-container {
+        width: 100%;
+        height: 100vh;
+        margin: 0;
+        border-radius: 0;
+    }
+
+    .modal-content {
+        padding: 1.5rem;
+    }
+
+    .modal-character {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .modal-character-image {
+        height: 280px;
+    }
+
+    .modal-character-info h2 {
+        font-size: 2rem;
+    }
+
+    .modal-character-alias {
+        font-size: 1rem;
+    }
+
+    .modal-section {
+        padding: 1.5rem;
+    }
+
+    .modal-section h3 {
+        font-size: 1.4rem;
+    }
+
+    .appearance-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .modal-nav {
+        padding: 1rem 1.5rem;
+    }
+
+    .modal-nav-btn {
+        padding: 10px 16px;
+        font-size: 0.9rem;
+    }
+
+    /* List view fixes for mobile */
+    .characters-grid.list-view .character-card {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+        padding: 1.5rem;
+    }
+
+    .characters-grid.list-view .character-image {
+        height: 200px;
+    }
+
+    .characters-grid.list-view .character-content {
+        padding: 0;
+    }
+
+    /* Image slider fixes */
+    .slider-container {
+        gap: 1rem;
+        padding: 1rem;
+    }
+
+    .slider-image {
+        flex: 0 0 180px;
+        height: 140px;
+    }
+
+    /* Videos grid fixes */
+    .videos-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .video-thumbnail {
+        height: 180px;
+    }
+}
+
+/* Small mobile devices (up to 375px) */
+@media (max-width: 375px) {
+    .search-header h1 {
+        font-size: 1.8rem;
+    }
+
+    .character-name {
+        font-size: 1.3rem;
+    }
+
+    .modal-character-info h2 {
+        font-size: 1.8rem;
+    }
+
+    .modal-character-image {
+        height: 240px;
+    }
+
+    #searchInput {
+        padding: 14px 45px 14px 40px;
+    }
+}
+
+/* Fix for landscape mode on mobile */
+@media (max-height: 600px) and (orientation: landscape) {
+    .hero {
+        min-height: 100vh;
+        padding: 80px 0;
+    }
+
+    .modal-container {
+        height: 90vh;
+        margin: 5vh auto;
+    }
+
+    .modal-character-image {
+        height: 250px;
+    }
+}
+
+/* Prevent horizontal scrolling */
+@media (max-width: 767px) {
+
+    html,
+    body {
+        overflow-x: hidden;
+        width: 100%;
+        position: relative;
+    }
+
+    .container {
+        padding: 0 1rem;
+    }
+
+    * {
+        max-width: 100%;
+    }
+}
+
+/* Fix viewport for iOS devices */
+@supports (-webkit-touch-callout: none) {
+    .hero {
+        min-height: -webkit-fill-available;
+    }
+}
+
+/* Fix for buttons being too small on mobile */
+@media (max-width: 767px) {
+
+    button,
+    .view-details-btn,
+    .modal-nav-btn,
+    .btn-theme {
+        min-height: 44px;
+        /* Apple recommended minimum touch target */
+        min-width: 44px;
+    }
+
+    .clear-btn {
+        width: 36px;
+        height: 36px;
+    }
+}
+
+/* Fix for text overflow */
+@media (max-width: 767px) {
+
+    .character-name,
+    .featured-content h3,
+    .modal-character-info h2 {
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
 }
