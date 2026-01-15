@@ -86,13 +86,13 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/batman/batman_year_one.png",
-                "assets/images/characters/batman/batman_dark_knight.png",
-                "assets/images/characters/batman/batman_arkham_asylum.png",
-                "assets/images/characters/batman/batman_beyond_suit.png",
-                "assets/images/characters/batman/batman_white_knight.png",
-                "assets/images/characters/batman/batman_flashpoint.png",
-                "assets/images/characters/batman/batman_zeroyear.png"
+                "assets/images/characters/batman/batman/batman_year_one.png",
+                "assets/images/characters/batman/batman/batman_dark_knight.png",
+                "assets/images/characters/batman/batman/batman_arkham_asylum.png",
+                "assets/images/characters/batman/batman/batman_beyond_suit.png",
+                "assets/images/characters/batman/batman/batman_white_knight.png",
+                "assets/images/characters/batman/batman/batman_flashpoint.png",
+                "assets/images/characters/batman/batman/batman_zeroyear.png"
               ]
             },
             {
@@ -158,10 +158,10 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/batman/nightwing_classic.png",
-                "assets/images/characters/batman/nightwing_discowing.png",
-                "assets/images/characters/batman/nightwing_ric_grayson.png",
-                "assets/images/characters/batman/nightwing_titans.png"
+                "assets/images/characters/batman/nightwing/nightwing_classic.png",
+                "assets/images/characters/batman/nightwing/nightwing_discowing.png",
+                "assets/images/characters/batman/nightwing/nightwing_ric_grayson.png",
+                "assets/images/characters/batman/nightwing/nightwing_titans.png"
               ]
             },
             {
@@ -227,10 +227,10 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/batman/catwoman_classic.png",
-                "assets/images/characters/batman/catwoman_purple_suit.png",
-                "assets/images/characters/batman/catwoman_dark_knight.png",
-                "assets/images/characters/batman/catwoman_90s.png"
+                "assets/images/characters/batman/catwoman/catwoman_classic.png",
+                "assets/images/characters/batman/catwoman/catwoman_purple_suit.png",
+                "assets/images/characters/batman/catwoman/catwoman_dark_knight.png",
+                "assets/images/characters/batman/catwoman/catwoman_90s.png"
               ]
             }
           ]
@@ -243,7 +243,7 @@
               "id": "dc-superman-001",
               "name": "Clark Kent",
               "rating": 9.5,
-              "logo": "assets/images/logos/superman_logo.png",
+              "logo": "assets/images/logos/superman/superman_logo.png",
               "alias": [
                 "Superman",
                 "The Man of Steel",
@@ -310,11 +310,11 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/superman_classic.png",
-                "assets/images/characters/superman_black_suit.png",
-                "assets/images/characters/superman_kingdom_come.png",
-                "assets/images/characters/superman_red_son.png",
-                "assets/images/characters/superman_rebirth.png"
+                "assets/images/characters/superman/superman/superman_classic.png",
+                "assets/images/characters/superman/superman/superman_black_suit.png",
+                "assets/images/characters/superman/superman/superman_kingdom_come.png",
+                "assets/images/characters/superman/superman/superman_red_son.png",
+                "assets/images/characters/superman/superman/superman_rebirth.png"
               ]
             }
           ]
@@ -335,7 +335,7 @@
               "id": "dc-justice-001",
               "name": "Princess Diana",
               "rating": 9.5,
-              "logo": "assets/images/logos/wonderwoman_logo.png",
+              "logo": "assets/images/logos/wonderwoman/wonderwoman_logo.png",
               "alias": [
                 "Wonder Woman",
                 "Amazon Princess",
@@ -395,10 +395,10 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/wonder_woman_classic.png",
-                "assets/images/characters/wonder_woman_golden_armor.png",
-                "assets/images/characters/wonder_woman_300.png",
-                "assets/images/characters/wonder_woman_rebirth.png"
+                "assets/images/characters/wonderwoman/wonderwoman/wonder_woman_classic.png",
+                "assets/images/characters/wonderwoman/wonderwoman/wonder_woman_golden_armor.png",
+                "assets/images/characters/wonderwoman/wonderwoman/wonder_woman_300.png",
+                "assets/images/characters/wonderwoman/wonderwoman/wonder_woman_rebirth.png"
               ]
             }
           ]
@@ -416,7 +416,7 @@
               "id": "marvel-avengers-001",
               "name": "Tony Stark",
               "rating": 9.5,
-              "logo": "assets/images/logos/ironman_logo.png",
+              "logo": "assets/images/logos/ironman/ironman_logo.png",
               "alias": [
                 "Iron Man",
                 "The Invincible Iron Man",
@@ -476,18 +476,18 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/iron_man_mark1.png",
-                "assets/images/characters/iron_man_mark3.png",
-                "assets/images/characters/iron_man_hulkbuster.png",
-                "assets/images/characters/iron_man_bleeding_edge.png",
-                "assets/images/characters/iron_man_endgame.png"
+                "assets/images/characters/ironman/ironman/iron_man_mark1.png",
+                "assets/images/characters/ironman/ironman/iron_man_mark3.png",
+                "assets/images/characters/ironman/ironman/iron_man_hulkbuster.png",
+                "assets/images/characters/ironman/ironman/iron_man_bleeding_edge.png",
+                "assets/images/characters/ironman/ironman/iron_man_endgame.png"
               ]
             },
             {
               "id": "marvel-avengers-002",
               "name": "Steve Rogers",
               "rating": 9,
-              "logo": "assets/images/logos/captainamerica_logo.png",
+              "logo": "assets/images/logos/captainamerica/captainamerica_logo.png",
               "alias": [
                 "Captain America",
                 "Cap",
@@ -547,18 +547,18 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/captain_america_ww2.png",
-                "assets/images/characters/captain_america_classic.png",
-                "assets/images/characters/captain_america_nomad.png",
-                "assets/images/characters/captain_america_hydra.png",
-                "assets/images/characters/captain_america_sam_wilson.png"
+                "assets/images/characters/captainamerica/captainamerica/captain_america_ww2.png",
+                "assets/images/characters/captainamerica/captainamerica/captain_america_classic.png",
+                "assets/images/characters/captainamerica/captainamerica/captain_america_nomad.png",
+                "assets/images/characters/captainamerica/captainamerica/captain_america_hydra.png",
+                "assets/images/characters/captainamerica/captainamerica/captain_america_sam_wilson.png"
               ]
             },
             {
               "id": "marvel-avengers-003",
               "name": "Thor Odinson",
               "rating": 9.5,
-              "logo": "assets/images/logos/thor_logo.png",
+              "logo": "assets/images/logos/thor/thor_logo.png",
               "alias": [
                 "God of Thunder",
                 "The Mighty Thor",
@@ -618,11 +618,11 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/thor_classic.png",
-                "assets/images/characters/thor_ultimate.png",
-                "assets/images/characters/thor_unworthy.png",
-                "assets/images/characters/thor_heralds.png",
-                "assets/images/characters/thor_jane_foster.png"
+                "assets/images/characters/thor/thor/thor_classic.png",
+                "assets/images/characters/thor/thor/thor_ultimate.png",
+                "assets/images/characters/thor/thor/thor_unworthy.png",
+                "assets/images/characters/thor/thor/thor_heralds.png",
+                "assets/images/characters/thor/thor/thor_jane_foster.png"
               ]
             }
           ]
@@ -640,7 +640,7 @@
               "id": "anime-naruto-001",
               "name": "Naruto Uzumaki",
               "rating": 9.5,
-              "logo": "assets/images/logos/naruto_logo.png",
+              "logo": "assets/images/logos/naruto/naruto_logo.png",
               "alias": [
                 "Number One Hyperactive Knucklehead Ninja",
                 "Child of Prophecy",
@@ -700,11 +700,11 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/naruto_part1.png",
-                "assets/images/characters/naruto_shippuden.png",
-                "assets/images/characters/naruto_sage_mode.png",
-                "assets/images/characters/naruto_kurama_mode.png",
-                "assets/images/characters/naruto_hokage.png"
+                "assets/images/characters/naruto/naruto/naruto_part1.png",
+                "assets/images/characters/naruto/naruto/naruto_shippuden.png",
+                "assets/images/characters/naruto/naruto/naruto_sage_mode.png",
+                "assets/images/characters/naruto/naruto/naruto_kurama_mode.png",
+                "assets/images/characters/naruto/naruto/naruto_hokage.png"
               ]
             }
           ]
@@ -717,7 +717,7 @@
               "id": "anime-onepiece-001",
               "name": "Monkey D. Luffy",
               "rating": 9.5,
-              "logo": "assets/images/logos/luffy_logo.png",
+              "logo": "assets/images/logos/onepiece/luffy_logo.png",
               "alias": [
                 "Straw Hat Luffy",
                 "Fifth Emperor of the Sea",
@@ -777,11 +777,11 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/luffy_east_blue.png",
-                "assets/images/characters/luffy_gear_second.png",
-                "assets/images/characters/luffy_gear_fourth.png",
-                "assets/images/characters/luffy_wano.png",
-                "assets/images/characters/luffy_gear_fifth.png"
+                "assets/images/characters/onepiece/luffy/luffy_east_blue.png",
+                "assets/images/characters/onepiece/luffy/luffy_gear_second.png",
+                "assets/images/characters/onepiece/luffy/luffy_gear_fourth.png",
+                "assets/images/characters/onepiece/luffy/luffy_wano.png",
+                "assets/images/characters/onepiece/luffy/luffy_gear_fifth.png"
               ]
             }
           ]
@@ -2536,7 +2536,7 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/muzan_human.png",
+                "assets/images/characters/demonslayer/muzan_human.jpeg",
                 "assets/images/characters/demonslayer/muzan_true_form.png",
                 "assets/images/characters/demonslayer/muzan_shapeshift.png",
                 "assets/images/characters/demonslayer/muzan_demon_king.png",
@@ -3097,7 +3097,7 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/yoriichi_serious.png",
+                "assets/images/characters/demonslayer/yoriichi_serious.jpeg",
                 "assets/images/characters/demonslayer/yoriichi_sun_breathing.png",
                 "assets/images/characters/demonslayer/yoriichi_muzan.png",
                 "assets/images/characters/demonslayer/yoriichi_young.png",
@@ -3333,10 +3333,10 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/thor_resting.png",
-                "assets/images/characters/ror/thor_awakening.png",
-                "assets/images/characters/ror/thor_mjolnir_true.png",
-                "assets/images/characters/ror/thor_victory.png"
+                "assets/images/characters/ror/thor/thor_resting.png",
+                "assets/images/characters/ror/thor/thor_awakening.png",
+                "assets/images/characters/ror/thor/thor_mjolnir_true.png",
+                "assets/images/characters/ror/thor/thor_victory.png"
               ]
             },
             {
@@ -3403,10 +3403,10 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/lubu_riding.png",
-                "assets/images/characters/ror/lubu_sky_piercer.png",
-                "assets/images/characters/ror/lubu_sky_eater.png",
-                "assets/images/characters/ror/lubu_final_stand.png"
+                "assets/images/characters/ror/lubu/lubu_riding.png",
+                "assets/images/characters/ror/lubu/lubu_sky_piercer.png",
+                "assets/images/characters/ror/lubu/lubu_sky_eater.png",
+                "assets/images/characters/ror/lubu/lubu_final_stand.png"
               ]
             },
             {
@@ -3473,10 +3473,10 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/zeus_old.png",
-                "assets/images/characters/ror/zeus_serious.png",
-                "assets/images/characters/ror/zeus_adamas.png",
-                "assets/images/characters/ror/zeus_true_form.png"
+                "assets/images/characters/ror/zeus/zeus_old.png",
+                "assets/images/characters/ror/zeus/zeus_serious.png",
+                "assets/images/characters/ror/zeus/zeus_adamas.png",
+                "assets/images/characters/ror/zeus/zeus_true_form.png"
               ]
             },
             {
@@ -3543,10 +3543,10 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/adam_casual.png",
-                "assets/images/characters/ror/adam_fighting.png",
-                "assets/images/characters/ror/adam_eyes_active.png",
-                "assets/images/characters/ror/adam_final_stand.png"
+                "assets/images/characters/ror/adam/adam_casual.png",
+                "assets/images/characters/ror/adam/adam_fighting.png",
+                "assets/images/characters/ror/adam/adam_eyes_active.png",
+                "assets/images/characters/ror/adam/adam_final_stand.png"
               ]
             },
             {
@@ -3613,10 +3613,10 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/kojiro_meditating.png",
-                "assets/images/characters/ror/kojiro_analyzing.png",
-                "assets/images/characters/ror/kojiro_swallow.png",
-                "assets/images/characters/ror/kojiro_victory.png"
+                "assets/images/characters/ror/kojiro/kojiro_meditating.png",
+                "assets/images/characters/ror/kojiro/kojiro_analyzing.png",
+                "assets/images/characters/ror/kojiro/kojiro_swallow.png",
+                "assets/images/characters/ror/kojiro/kojiro_victory.png"
               ]
             },
             {
@@ -3683,10 +3683,10 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/poseidon_contempt.png",
-                "assets/images/characters/ror/poseidon_trident.png",
-                "assets/images/characters/ror/poseidon_40day.png",
-                "assets/images/characters/ror/poseidon_amphitrite.png"
+                "assets/images/characters/ror/poseidon/poseidon_contempt.png",
+                "assets/images/characters/ror/poseidon/poseidon_trident.png",
+                "assets/images/characters/ror/poseidon/poseidon_40day.png",
+                "assets/images/characters/ror/poseidon/poseidon_amphitrite.png"
               ]
             },
             {
@@ -3753,15 +3753,15 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/jack_gentleman.png",
-                "assets/images/characters/ror/jack_madness.png",
-                "assets/images/characters/ror/jack_pandora.png",
-                "assets/images/characters/ror/jack_final_trick.png"
+                "assets/images/characters/ror/jack/jack_gentleman.png",
+                "assets/images/characters/ror/jack/jack_madness.png",
+                "assets/images/characters/ror/jack/jack_pandora.png",
+                "assets/images/characters/ror/jack/jack_final_trick.png"
               ]
             },
             {
               "id": "ror-hercules-008",
-              "name": "Heracles",
+              "name": "Hercules",
               "rating": 9.0,
               "logo": "assets/images/logos/ror/hercules_logo.png",
               "alias": [
@@ -3823,10 +3823,10 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/hercules_human.png",
-                "assets/images/characters/ror/hercules_labors.png",
-                "assets/images/characters/ror/hercules_god_form.png",
-                "assets/images/characters/ror/hercules_final_sacrifice.png"
+                "assets/images/characters/ror/hercules/hercules_human.png",
+                "assets/images/characters/ror/hercules/hercules_labors.png",
+                "assets/images/characters/ror/hercules/hercules_god_form.png",
+                "assets/images/characters/ror/hercules/hercules_final_sacrifice.png"
               ]
             },
             {
@@ -3893,10 +3893,10 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/raiden_entrance.png",
-                "assets/images/characters/ror/raiden_sumo.png",
-                "assets/images/characters/ror/raiden_yatagarasu.png",
-                "assets/images/characters/ror/raiden_final_bout.png"
+                "assets/images/characters/ror/raiden/raiden_entrance.png",
+                "assets/images/characters/ror/raiden/raiden_sumo.png",
+                "assets/images/characters/ror/raiden/raiden_yatagarasu.png",
+                "assets/images/characters/ror/raiden/raiden_final_bout.png"
               ]
             },
             {
@@ -3963,10 +3963,1200 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/shiva_meditating.png",
-                "assets/images/characters/ror/shiva_dancing.png",
-                "assets/images/characters/ror/shiva_tandava.png",
-                "assets/images/characters/ror/shiva_true_form.png"
+                "assets/images/characters/ror/shiva/shiva_meditating.png",
+                "assets/images/characters/ror/shiva/shiva_dancing.png",
+                "assets/images/characters/ror/shiva/shiva_tandava.png",
+                "assets/images/characters/ror/shiva/shiva_true_form.png"
+              ]
+            },
+            {
+              "id": "ror-buddha-011",
+              "name": "Buddha",
+              "rating": 9.2,
+              "logo": "assets/images/logos/ror/buddha_logo.png",
+              "alias": [
+                "The Enlightened One",
+                "Siddhartha Gautama",
+                "Tathagata"
+              ],
+              "title": [
+                "Founder of Buddhism",
+                "Supreme Enlightened Warrior",
+                "Master of Nirvana"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Eyes that see all suffering and liberation simultaneously, half-closed in meditation but seeing through illusions",
+                  "nose": "Subtle nose that breathes the air of enlightenment",
+                  "ears": "Elongated earlobes from royal jewelry, now hearing the cries of all beings",
+                  "extra_facial_features": "Third eye of wisdom on forehead when using enlightenment powers. Ushnisha (cranial protuberance) containing supreme wisdom. Gentle smile hiding universe-ending calm. Golden skin radiating inner peace"
+                },
+                "body": {
+                  "chest": "Slender but infinitely strong torso containing compressed enlightenment. Muscles move with meditative precision. Chest bears Dharma wheel symbol glowing with wisdom. Skin emits soft golden light",
+                  "arms": "Multiple arms when manifesting Bodhisattva forms. Each arm represents different paramita. Hands form mudras that alter reality. Normal form shows two perfectly balanced arms"
+                },
+                "lower_body": {
+                  "legs": "Lotus position legs that can transform into fighting stances instantly. Feet that walked the eightfold path now crush demonic illusions"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Simple monk's robe hood. Ushnisha crown when serious. Third eye usually invisible. Simple hairstyle"
+                },
+                {
+                  "torso": "Simple saffron robe covering left shoulder. Exposed right arm for mudras. Robe woven from enlightenment itself"
+                },
+                {
+                  "arms": "Simple bracelets containing past life memories. No excessive jewelry beyond what's needed for battle"
+                },
+                {
+                  "legs": "Bare feet with lotus marks. Simple trousers under robe for movement. Knees calloused from eternal meditation"
+                },
+                {
+                  "accessories": "Buddhist prayer beads. Begging bowl that can contain universes. Staff of awakening. Dharma wheel floating behind back"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Nirvana Strike",
+                  "type": "enlightenment technique",
+                  "short_description": "Attack that liberates opponents from existence itself",
+                  "full_description": "Each strike carries weight of enlightenment. Fists deliver blows of impermanence. Palms open doors to nirvana. Ultimate technique 'Samsara Shatter' breaks cycle of rebirth for target. Can move through time as if all moments are one",
+                  "image": "buddha_nirvana.png"
+                },
+                {
+                  "name": "Bodhi Field",
+                  "type": "enlightenment realm",
+                  "short_description": "Creates space where Buddha's enlightenment rules all perception",
+                  "full_description": "Manifests area where only Dharma laws apply. All illusions dissolve. Suffering becomes visible and transformable. Ultimate technique 'Diamond Realm' makes everything including void indestructible yet transparent",
+                  "image": "buddha_bodhi.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/buddha/buddha_meditating.png",
+                "assets/images/characters/ror/buddha/buddha_enlightened.png",
+                "assets/images/characters/ror/buddha/buddha_nirvana_strike.png",
+                "assets/images/characters/ror/buddha/buddha_true_form.png"
+              ]
+            },
+            {
+              "id": "ror-qin-012",
+              "name": "Qin Shi Huang",
+              "rating": 8.9,
+              "logo": "assets/images/logos/ror/qin_logo.png",
+              "alias": [
+                "First Emperor",
+                "Dragon Emperor",
+                "Unifier of China"
+              ],
+              "title": [
+                "First Emperor of Unified China",
+                "Heavenly Mandate Bearer",
+                "Master of Terracotta Arts"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Imperial eyes that see all within his domain, glowing with dragon's might",
+                  "nose": "Noble nose that smells treason and loyalty alike",
+                  "ears": "Ears that hear whispers from any corner of his empire",
+                  "extra_facial_features": "Dragon scales appearing when using imperial power. Imperial seal glowing on forehead. Beard of authority. Crown of unification floating above head. Expression of absolute command"
+                },
+                "body": {
+                  "chest": "Imperial torso containing the weight of China's history. Muscles move with dragon's grace. Chest bears Chinese character for 'emperor' glowing with power. Skin shows terracotta texture when using techniques",
+                  "arms": "Multiple arms when summoning terracotta warriors. Each arm commands different military division. Hands hold imperial seal and sword simultaneously. Normal form shows two regal arms"
+                },
+                "lower_body": {
+                  "legs": "Legs that marched across unified China. Thighs containing strength of Great Wall. Feet that crushed six warring states"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Imperial crown with jade beads. Dragon hairpin. Emperor's headdress with twelve tassels"
+                },
+                {
+                  "torso": "Imperial dragon robe with nine dragon embroidery. Terracotta armor plates. Silk undergarments with cloud patterns"
+                },
+                {
+                  "arms": "Jade bracelets. Dragon arm guards. Imperial seal ring on each finger"
+                },
+                {
+                  "legs": "Imperial boots with dragon heads. Knee guards with tiger designs. Gilded greaves"
+                },
+                {
+                  "accessories": "Imperial sword. Seal of command. Terracotta army summoning bell. Scroll of unification. Dragon standard"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Unification Strike",
+                  "type": "imperial technique",
+                  "short_description": "Attacks that force all things to become one under his rule",
+                  "full_description": "Each strike carries weight of unified China. Fists deliver blows of standardization. Palms enforce single language and measurement. Ultimate technique 'Great Wall Divide' separates then unifies reality. Can command terrain to fight for him",
+                  "image": "qin_unification.png"
+                },
+                {
+                  "name": "Imperial Domain",
+                  "type": "emperor's realm",
+                  "short_description": "Creates space where Qin's laws become reality itself",
+                  "full_description": "Manifests area where only imperial decrees apply. All become terracotta soldiers under his command. Time flows according to dynastic cycles. Ultimate technique 'Eternal Dynasty' makes his rule permanent within domain",
+                  "image": "qin_domain.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/qin/qin_imperial.png",
+                "assets/images/characters/ror/qin/qin_terracotta.png",
+                "assets/images/characters/ror/qin/qin_unification_strike.png",
+                "assets/images/characters/ror/qin/qin_dragon_form.png"
+              ]
+            },
+            {
+              "id": "ror-tesla-013",
+              "name": "Nikola Tesla",
+              "rating": 9.5,
+              "logo": "assets/images/logos/ror/nikola_logo.png",
+              "alias": [
+                "Master of Lightning",
+                "Modern Prometheus",
+                "Father of AC"
+              ],
+              "title": [
+                "Greatest Inventor of Modern Era",
+                "Lightning Manipulator",
+                "Visionary Scientist"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Eyes that see electricity in all things, glowing with blue lightning",
+                  "nose": "Sharp nose that smells ozone and innovation",
+                  "ears": "Ears that hear electromagnetic frequencies",
+                  "extra_facial_features": "Tesla coil implants on temples. Hair constantly static with electricity. Goggles for high-voltage experiments. Face illuminated by inner lightning. Smile of mad genius"
+                },
+                "body": {
+                  "chest": "Inventor's torso containing Wardenclyffe Tower power. Chest bears Tesla coil array glowing with power. Skin shows Lichtenberg figures when charged. Muscles move with electric precision",
+                  "arms": "Multiple mechanical arms when using inventions. Each arm wields different electrical weapon. Hands crackle with controlled lightning. Normal form shows two arms with conductor gloves"
+                },
+                "lower_body": {
+                  "legs": "Legs insulated for million-volt strikes. Feet that ground continental electricity. Calves containing rotating magnetic fields"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Welding goggles. Electrostatic hair. Copper crown conducting lightning"
+                },
+                {
+                  "torso": "Leather inventor's apron. Tesla coil chest plate. Electrically insulated suit. Bow tie that measures voltage"
+                },
+                {
+                  "arms": "Conductor gloves. Copper arm coils. Electromagnet bracers"
+                },
+                {
+                  "legs": "Insulated boots. Faraday cage leggings. Knee joints with plasma vents"
+                },
+                {
+                  "accessories": "Tesla coil staff. Wireless energy orb. Notebook of infinite inventions. Pocket dimension of gadgets. Plasma balls"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Thunderbolt Symphony",
+                  "type": "electrical science",
+                  "short_description": "Orchestrates lightning with scientific precision",
+                  "full_description": "Each lightning bolt follows mathematical perfection. Creates resonant frequencies that shatter targets. Generates ball lightning that pursues enemies. Ultimate technique 'Global Resonance' uses Earth itself as conductor. Can weaponize all electromagnetic forces",
+                  "image": "tesla_lightning.png"
+                },
+                {
+                  "name": "Laboratory of Tomorrow",
+                  "type": "invention realm",
+                  "short_description": "Manifests personal laboratory where physics obeys his theories",
+                  "full_description": "Creates space where only Tesla's science applies. All matter becomes conductive. Time flows at electrical speed. Ultimate technique 'Death Ray Manifestation' creates weapon that pierces dimensions",
+                  "image": "tesla_lab.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/tesla/tesla_lab.png",
+                "assets/images/characters/ror/tesla/tesla_lightning.png",
+                "assets/images/characters/ror/tesla/tesla_thunderbolt.png",
+                "assets/images/characters/ror/tesla/tesla_true_form.png"
+              ]
+            },
+            {
+              "id": "ror-leonidas-014",
+              "name": "Leonidas",
+              "rating": 9.1,
+              "logo": "assets/images/logos/ror/leonidas_logo.png",
+              "alias": [
+                "Spartan King",
+                "Hot Gates Defender",
+                "Shield of Sparta"
+              ],
+              "title": [
+                "King of Sparta",
+                "Perfect Hoplite",
+                "Last Stand Master"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Warrior's eyes that see all battlefields, burning with Spartan fire",
+                  "nose": "Broken and rebuilt nose from countless battles",
+                  "ears": "Ears that hear formation commands over battlefield chaos",
+                  "extra_facial_features": "Battle scars as medals of honor. Spartan helmet with red crest. Beard of command. Face painted for war. Expression of unbreakable will"
+                },
+                "body": {
+                  "chest": "Spartan torso containing strength of 300. Chest bears lambda symbol glowing with power. Skin covered in battle scars and bronze tan. Muscles move with phalanx precision",
+                  "arms": "Shield arm permanently strengthened from holding line. Spear arm trained from age 7. Both arms bear Spartan citizenship scars. Normal form shows two perfected warrior arms"
+                },
+                "lower_body": {
+                  "legs": "Legs that stood at Thermopylae for days. Thighs containing march endurance. Feet that never retreated"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Corinthian helmet with horsehair crest. Cheek guards bearing Spartan symbols. Battle-scarred face paint"
+                },
+                {
+                  "torso": "Bronze muscle cuirass. Red Spartan cloak. Pteruges leather strips. Bare arms for maximum movement"
+                },
+                {
+                  "arms": "Bronze greaves. Leather arm guards. Shield straps permanently attached"
+                },
+                {
+                  "legs": "Bronze greaves. Spartan sandals. Knee guards bearing lambda"
+                },
+                {
+                  "accessories": "Dory spear. Aspis shield. Xiphos sword. Corinthian helmet. Red commander's cloak"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Phalanx Impervious",
+                  "type": "Spartan formation",
+                  "short_description": "Defensive technique that makes one man an impassable wall",
+                  "full_description": "Each stance carries weight of Spartan line. Shield becomes impenetrable when defending homeland. Spear strikes with precision of 300 warriors. Ultimate technique 'Thermopylae Reenactment' summons ghost Spartans to fight alongside. Can make any ground defensible",
+                  "image": "leonidas_phalanx.png"
+                },
+                {
+                  "name": "Spartan Agoge",
+                  "type": "warrior's realm",
+                  "short_description": "Creates battlefield where only Spartan laws of war apply",
+                  "full_description": "Manifests area where only martial discipline applies. All become hoplites in his phalanx. Time flows with battle rhythm. Ultimate technique 'Final Stand' makes position absolutely unassailable",
+                  "image": "leonidas_agoge.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/leonidas/leonidas_phalanx.png",
+                "assets/images/characters/ror/leonidas/leonidas_shield.png",
+                "assets/images/characters/ror/leonidas/leonidas_spear.png",
+                "assets/images/characters/ror/leonidas/leonidas_king.png"
+              ]
+            },
+            {
+              "id": "ror-okita-015",
+              "name": "Soji Okita",
+              "rating": 9.3,
+              "logo": "assets/images/logos/ror/okita_logo.png",
+              "alias": [
+                "Shinsengumi Captain",
+                "God of the Sword",
+                "Coughing Demon"
+              ],
+              "title": [
+                "First Squad Captain of Shinsengumi",
+                "Masterswordsman of Bakumatsu",
+                "Three-Piece Style Master"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Swordsman's eyes that see all cutting lines, sharp as blade edges",
+                  "nose": "Refined nose that smells blood and cherry blossoms",
+                  "ears": "Ears that hear sword drawn from any distance",
+                  "extra_facial_features": "Pale skin from tuberculosis. Hair in samurai topknot. Calm expression hiding deadly intent. Blood occasionally at mouth from illness. Youthful face with ancient eyes"
+                },
+                "body": {
+                  "chest": "Slender torso containing compressed sword energy. Chest bears Shinsengumi symbol. Skin pale but resilient. Muscles move with blade precision despite illness",
+                  "arms": "Sword arms trained since childhood. Wrists that move faster than sight. Hands permanently calloused from sword grip. Normal form shows two arms of perfect balance"
+                },
+                "lower_body": {
+                  "legs": "Legs that use Sandanzuki footwork. Thighs containing explosive dash power. Feet that never miss stepping stone"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Shinsengumi headband. Samurai topknot. Haori cord. No helmet for maximum awareness"
+                },
+                {
+                  "torso": "Light blue Shinsengumi haori. Kimono underneath. Light armor vest. Exposed arms for sword movement"
+                },
+                {
+                  "arms": "Kote arm guards. Wrist straps. Fingerless gloves for grip"
+                },
+                {
+                  "legs": "Hakama trousers. Waraji sandals. Light leg guards. Knee pads for quick kneeling cuts"
+                },
+                {
+                  "accessories": "Kiku-ichimonji sword. Wakizashi short sword. Shinsengumi flag. Medicine for tuberculosis. Cherry blossom petals"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Sandanzuki",
+                  "type": "swordsmanship",
+                  "short_description": "Three-piece thrust that strikes simultaneously",
+                  "full_description": "Each thrust exists in three places at once. Sword moves faster than illness spreads in his body. Creates afterimages that also cut. Ultimate technique 'Mankitsu no Tachi' cuts everything in range. Can cut concepts like illness or fate",
+                  "image": "okita_sandanzuki.png"
+                },
+                {
+                  "name": "Shinsengumi Code",
+                  "type": "samurai realm",
+                  "short_description": "Creates space where only sword discipline applies",
+                  "full_description": "Manifests area where only bushido applies. All become subject to sword law. Time flows with duel timing. Ultimate technique 'Aku Soku Zan' instantly slays evil within domain",
+                  "image": "okita_code.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/okita/okita_standing.png",
+                "assets/images/characters/ror/okita/okita_sandanzuki.png",
+                "assets/images/characters/ror/okita/okita_shinsengumi.png",
+                "assets/images/characters/ror/okita/okita_true_form.png"
+              ]
+            },
+            {
+              "id": "ror-simo-016",
+              "name": "Simo Häyhä",
+              "rating": 9.0,
+              "logo": "assets/images/logos/ror/simo_logo.png",
+              "alias": [
+                "White Death",
+                "Winter Ghost",
+                "Greatest Sniper"
+              ],
+              "title": [
+                "Finnish Sniper Legend",
+                "Winter War Hero",
+                "One-Man Army"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Sniper's eyes that see kilometers in blizzard, one eye squinting for aim",
+                  "nose": "Cold-adapted nose that smells powder and pine",
+                  "ears": "Ears that hear heartbeats through snowstorm",
+                  "extra_facial_features": "White winter camouflage paint. Goggles for snow glare. Scar from explosive bullet on left cheek. Calm expression of hunter waiting for prey. Breath visible in cold"
+                },
+                "body": {
+                  "chest": "Winter survivor torso containing arctic endurance. Chest bears Finnish cross symbol. Skin adapted to -40° temperatures. Muscles move with glacial patience",
+                  "arms": "Sniper arms that never tremble. Right trigger finger calloused permanently. Left supporting arm steady as rock. Normal form shows two arms of perfect stillness"
+                },
+                "lower_body": {
+                  "legs": "Legs that skied 100km daily. Thighs containing cross-country power. Feet that leave no tracks in snow"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "White winter hood. Snow goggles. Face camouflage. No helmet for unimpeded sight"
+                },
+                {
+                  "torso": "White winter parka. Snow camouflage suit. Light body armor. Multiple insulation layers"
+                },
+                {
+                  "arms": "White gloves with trigger finger cut out. Arm camouflage. Sling for rifle support"
+                },
+                {
+                  "legs": "White snow pants. Winter boots with skis attached. Gaiters for snow"
+                },
+                {
+                  "accessories": "Mosin–Nagant rifle. Suomi KP/-31 submachine gun. Sniper scope. Snowshoes. Winter survival kit"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "White Death",
+                  "type": "sniper technique",
+                  "short_description": "Kills from impossible distances in impossible conditions",
+                  "full_description": "Each bullet follows calculated trajectory through any weather. Can shoot through blizzards, forests, and time itself. Creates kill zone of absolute death. Ultimate technique 'Frozen Moment' stops time for perfect shot. Can kill with snow and cold as weapons",
+                  "image": "simo_sniper.png"
+                },
+                {
+                  "name": "Winter War",
+                  "type": "arctic realm",
+                  "short_description": "Creates eternal winter battlefield where he is supreme hunter",
+                  "full_description": "Manifests area where only winter war conditions apply. All become visible to him while he remains hidden. Temperature drops to -40°. Ultimate technique 'Perpetual Blizzard' makes him completely undetectable",
+                  "image": "simo_winter.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/simo/simo_sniper.png",
+                "assets/images/characters/ror/simo/simo_winter.png",
+                "assets/images/characters/ror/simo/simo_white_death.png",
+                "assets/images/characters/ror/simo/simo_true_form.png"
+              ]
+            },
+            {
+              "id": "ror-kintoki-017",
+              "name": "Sakata Kintoki",
+              "rating": 8.8,
+              "logo": "assets/images/logos/ror/kintoki_logo.png",
+              "alias": [
+                "Golden Boy",
+                "Child of Strength",
+                "Mountain Demon"
+              ],
+              "title": [
+                "Folklore Superhuman Child",
+                "Minamoto no Yorimitsu's Retainer",
+                "Natural Born Warrior"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Golden eyes that shine with supernatural strength, childlike but ancient",
+                  "nose": "Small nose that smells mountain air and demons",
+                  "ears": "Ears that hear forest whispers and monster growls",
+                  "extra_facial_features": "Golden hair like sunlight. Childish face with serious warrior eyes. Red makeup marks on forehead. Permanent smile of enjoyment. Freckles like gold dust"
+                },
+                "body": {
+                  "chest": "Child-sized torso containing mountain-moving strength. Chest bears golden oni symbol. Skin tanned from mountain life. Muscles disproportionate to size, containing compressed power",
+                  "arms": "Arms that wrestled bears as infant. Hands that crush boulders for fun. Wrists thicker than legs of normal men. Normal form shows two golden arms"
+                },
+                "lower_body": {
+                  "legs": "Legs that climbed mountains before walking. Thighs containing jumping power of deer. Feet that kick down trees"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Golden hair in traditional style. Red forehead protector. No helmet to show golden hair"
+                },
+                {
+                  "torso": "Red harakake apron. Kimono with golden patterns. Bare chest showing strength. Fundoshi loincloth"
+                },
+                {
+                  "arms": "Golden arm bands. Wrist guards with bear designs. No gloves for direct contact"
+                },
+                {
+                  "legs": "Bare legs showing muscle. Traditional sandals. Knee pads for mountain kneeling"
+                },
+                {
+                  "accessories": "Golden axe. Bear companion. Oni-summoning gourd. Mountain spirit charms. Giant rock as weapon"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Golden Strength",
+                  "type": "natural power",
+                  "short_description": "Raw physical power that defies physics and age",
+                  "full_description": "Each strike carries weight of mountain he was born on. Can throw boulders like pebbles. Wrestling techniques learned from bears. Ultimate technique 'Oni Transformation' becomes giant golden demon. Strength increases with enjoyment of battle",
+                  "image": "kintoki_golden.png"
+                },
+                {
+                  "name": "Mount Ashigara",
+                  "type": "mountain realm",
+                  "short_description": "Manifests his birthplace mountain where everything empowers him",
+                  "full_description": "Creates space where only natural laws of strength apply. All terrain becomes his playground. Animals fight alongside him. Ultimate technique 'Golden Oni Summit' becomes unstoppable mountain god",
+                  "image": "kintoki_mountain.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/kintoki/kintoki_child.png",
+                "assets/images/characters/ror/kintoki/kintoki_golden.png",
+                "assets/images/characters/ror/kintoki/kintoki_axe.png",
+                "assets/images/characters/ror/kintoki/kintoki_oni.png"
+              ]
+            },
+            {
+              "id": "ror-nostradamus-018",
+              "name": "Michel Nostradamus",
+              "rating": 9.6,
+              "logo": "assets/images/logos/ror/nostradamus_logo.png",
+              "alias": [
+                "The Prophet",
+                "Seer of Centuries",
+                "Apocalypse Writer"
+              ],
+              "title": [
+                "Renowned Prophet and Seer",
+                "Master of Future Sight",
+                "Apocalypse Scholar"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Eyes that see all possible futures, constantly shifting through timelines",
+                  "nose": "Scholar's nose that smells coming ages",
+                  "ears": "Ears that hear whispers from future and past",
+                  "extra_facial_features": "Third eye of prophecy constantly open. Beard containing written prophecies in strands. Crown of seeing floating above head. Skin showing moving quatrain tattoos. Expression of knowing too much"
+                },
+                "body": {
+                  "chest": "Scholar's torso containing knowledge of all centuries. Chest bears astrological chart glowing with power. Skin shows moving star maps. Muscles move with certainty of foreseen actions",
+                  "arms": "Multiple arms when viewing multiple timelines. Each arm writes different future. Hands hold quill and orb simultaneously. Normal form shows two arms of precise gesture"
+                },
+                "lower_body": {
+                  "legs": "Legs that stand in river of time. Thighs containing stability against temporal currents. Feet planted in multiple eras simultaneously"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Prophet's hood with star patterns. Third eye visible. Astrologer's cap. Goggles for seeing time streams"
+                },
+                {
+                  "torso": "Scholar's robe with zodiac embroidery. Time-resistant fabric. Pocket dimension for prophecies. Belt of chronological anchors"
+                },
+                {
+                  "arms": "Quill-holding rings. Ink-stained fingers. Arm bands with hourglass designs"
+                },
+                {
+                  "legs": "Time-walker boots. Robe extending to floor. Leggings with timeline diagrams"
+                },
+                {
+                  "accessories": "Prophetic quill. Orb of foresight. Book of Centuries. Hourglass staff. Constellation map"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Century Quatrains",
+                  "type": "prophetic manipulation",
+                  "short_description": "Makes prophecies come true during battle",
+                  "full_description": "Speaks quatrains that become reality. Can choose which future manifests. Creates paradoxes as weapons. Ultimate technique 'Final Prophecy' writes opponent's defeat into timeline. Can see and attack through all possible futures",
+                  "image": "nostradamus_prophecy.png"
+                },
+                {
+                  "name": "Timeline Library",
+                  "type": "temporal realm",
+                  "short_description": "Manifests library containing all possible futures",
+                  "full_description": "Creates space where only prophecy applies. All become characters in written fate. Time becomes pages to flip through. Ultimate technique 'Apocalypse Chapter' ends story of anything within",
+                  "image": "nostradamus_library.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/nostradamus/nostradamus_prophecy.png",
+                "assets/images/characters/ror/nostradamus/nostradamus_seer.png",
+                "assets/images/characters/ror/nostradamus/nostradamus_quatrain.png",
+                "assets/images/characters/ror/nostradamus/nostradamus_true_form.png"
+              ]
+            },
+            {
+              "id": "ror-rasputin-019",
+              "name": "Grigori Rasputin",
+              "rating": 9.4,
+              "logo": "assets/images/logos/ror/rasputin_logo.png",
+              "alias": [
+                "Mad Monk",
+                "Undying Holy Man",
+                "Russian Mystery"
+              ],
+              "title": [
+                "Russian Mystic and Survivor",
+                "Master of Endurance",
+                "Unkillable Monk"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Hypnotic eyes that see souls, one slightly wandering from poison",
+                  "nose": "Large nose broken from brawls",
+                  "ears": "Ears that hear confessions and conspiracies",
+                  "extra_facial_features": "Long beard containing fragments of assassination attempts. Wild hair of holy madness. Scar from knife attacks. Face that survived cyanide, shooting, drowning. Smile of unkillable certainty"
+                },
+                "body": {
+                  "chest": "Monk's torso containing impossible endurance. Chest bears orthodox cross glowing with power. Skin shows scars from all assassination methods. Muscles move with relentless life force",
+                  "arms": "Strong arms that worked Siberian farms. Hands that healed and fought. Wrists scarred from bindings. Normal form shows two arms of grasping survival"
+                },
+                "lower_body": {
+                  "legs": "Legs that walked across Russia. Thighs containing escape power. Feet that survived frozen river immersion"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Monk's hood. Wild hair and beard. Simple head covering. No helmet - believes he cannot die"
+                },
+                {
+                  "torso": "Simple monk's robe. Orthodox cross visible. Hidden chainmail from assassination attempts. Robe stained with wine and blood"
+                },
+                {
+                  "arms": "Simple rope bracelets. Prayer beads on wrists. Scarred hands from poison handling"
+                },
+                {
+                  "legs": "Simple trousers. Worn boots. Leg wraps for walking"
+                },
+                {
+                  "accessories": "Orthodox cross. Poison bottles. Knife from assassination attempt. Vodka flask. Holy scriptures"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Unkillable",
+                  "type": "survival technique",
+                  "short_description": "Cannot die no matter what damage is taken",
+                  "full_description": "Survives any wound that would kill others. Poison heals him. Drowning strengthens him. Bullets become part of him. Ultimate technique 'Final Death' where he dies then resurrects stronger. Pain increases his power",
+                  "image": "rasputin_unkillable.png"
+                },
+                {
+                  "name": "Russian Winter Soul",
+                  "type": "endurance realm",
+                  "short_description": "Creates space where only survival matters",
+                  "full_description": "Manifests area where only endurance applies. All damage becomes temporary. Death has no meaning. Ultimate technique 'Immortal Tsardom' makes everything within as unkillable as him",
+                  "image": "rasputin_winter.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/rasputin/rasputin_monk.png",
+                "assets/images/characters/ror/rasputin/rasputin_unkillable.png",
+                "assets/images/characters/ror/rasputin/rasputin_survival.png",
+                "assets/images/characters/ror/rasputin/rasputin_true_form.png"
+              ]
+            },
+            {
+              "id": "ror-zerofuku-020",
+              "name": "Zerofuku",
+              "rating": 8.7,
+              "logo": "assets/images/logos/ror/zerofuku_logo.png",
+              "alias": [
+                "God of Misfortune",
+                "Accumulation of Miseries",
+                "Zero"
+              ],
+              "title": [
+                "God of Misfortune",
+                "Living Accumulation of Human Suffering",
+                "Destroyer Through Despair"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Multiple eyes showing accumulated sorrows, each eye representing different human misery",
+                  "nose": "Broken nose from endless suffering",
+                  "ears": "Ears that hear only cries and lamentations",
+                  "extra_facial_features": "Face constantly shifting between different expressions of pain. Tears of black misery flowing continuously. Mouth that can split into multiple wailing mouths. Crown of thorns made from human despair"
+                },
+                "body": {
+                  "chest": "Torso composed of compressed human suffering. Chest bears inverted cross of misfortune. Skin shows moving faces of tormented humans. Muscles twitch with accumulated pain",
+                  "arms": "Multiple arms when manifesting full misery. Each arm represents different type of suffering. Hands hold misery weapons. Normal form shows four arms of different lengths"
+                },
+                "lower_body": {
+                  "legs": "Legs that drag chains of despair. Thighs containing weight of world's misery. Feet that leave footprints of decay"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Crown of thorns and broken hopes. Veil of tears. Multiple misery masks floating around head"
+                },
+                {
+                  "torso": "Rags soaked in human suffering. Chains of despair crisscrossing body. No armor - pain is his protection"
+                },
+                {
+                  "arms": "Manacles on wrists. Rope burns visible. Hands stained with misery"
+                },
+                {
+                  "legs": "Shackles on ankles. Ripped trousers showing scarred legs. Bare feet with wounds"
+                },
+                {
+                  "accessories": "Misery Cleaver. Chain of despair. Bag of sorrows. Mirror showing worst fears. Bell that rings with suffering"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Accumulated Misery",
+                  "type": "suffering manipulation",
+                  "short_description": "Grows stronger by accumulating and weaponizing suffering",
+                  "full_description": "Each strike carries weight of accumulated human misery. Can absorb opponent's pain to empower himself. Creates area of despair that weakens enemies. Ultimate technique 'Zero Point' reduces everything to absolute misery. Suffering physically manifests as weapons",
+                  "image": "zerofuku_misery.png"
+                },
+                {
+                  "name": "Realm of Despair",
+                  "type": "misery domain",
+                  "short_description": "Creates space where only suffering exists",
+                  "full_description": "Manifests area where all hope is drained. Everything decays to misery. Positive emotions become pain. Ultimate technique 'Absolute Zero Happiness' erases all joy from existence within domain",
+                  "image": "zerofuku_despair.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/zerofuku/zerofuku_misery.png",
+                "assets/images/characters/ror/zerofuku/zerofuku_despair.png",
+                "assets/images/characters/ror/zerofuku/zerofuku_weapon.png",
+                "assets/images/characters/ror/zerofuku/zerofuku_true_form.png"
+              ]
+            },
+            {
+              "id": "ror-hades-021",
+              "name": "Hades",
+              "rating": 9.7,
+              "logo": "assets/images/logos/ror/hades_logo.png",
+              "alias": [
+                "King of the Underworld",
+                "God of the Dead",
+                "The Unseen One"
+              ],
+              "title": [
+                "Greek God of the Underworld",
+                "Ruler of the Dead",
+                "Olympian Brother-King"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Eyes that see through life and death, glowing with underworld energy",
+                  "nose": "Noble nose that smells decay and mortality",
+                  "ears": "Ears that hear whispers of the dead",
+                  "extra_facial_features": "Pale skin from underworld residence. Dark beard of authority. Helm of invisibility when active. Crown of souls floating above. Expression of eternal seriousness"
+                },
+                "body": {
+                  "chest": "Godly torso containing power over afterlife. Chest bears bident symbol glowing with death energy. Skin pale but radiating underworld might. Muscles move with kingly authority",
+                  "arms": "Arms that judge countless souls. Hands that hold keys to underworld. Wrists bearing chains of the dead. Normal form shows two powerful arms"
+                },
+                "lower_body": {
+                  "legs": "Legs that tread in underworld for eons. Thighs containing strength to hold up realms. Feet that walk between worlds"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Helm of darkness (invisibility). Crown of ebony and souls. Dark hair with gray streaks"
+                },
+                {
+                  "torso": "Black and purple chiton. Cerberus pelt cloak. Armor forged in Styx. Royal purple sash"
+                },
+                {
+                  "arms": "Gold arm bands with death motifs. Wrist guards made from Tartarus ore. No gloves for direct touch of souls"
+                },
+                {
+                  "legs": "Greaves depicting suffering souls. Sandals that leave no footprints. Knee guards with underworld scenes"
+                },
+                {
+                  "accessories": "Bident (two-pronged spear). Keys to underworld. Cerberus companion. Pomegranate seeds. Soul-judging scale"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Stygian Authority",
+                  "type": "underworld dominion",
+                  "short_description": "Commands powers of death and the underworld",
+                  "full_description": "Each strike carries weight of all dead souls. Bident opens portals to underworld. Can summon spirits to fight. Ultimate technique 'Judgement of the Dead' instantly judges opponent's soul. Can manipulate shades and ghosts",
+                  "image": "hades_stygian.png"
+                },
+                {
+                  "name": "Underworld Expansion",
+                  "type": "death realm",
+                  "short_description": "Brings underworld into battlefield",
+                  "full_description": "Manifests area where underworld laws apply. All become subject to death's judgement. Time flows with eternity's pace. Ultimate technique 'Tartarus Descent' traps enemies in deepest underworld",
+                  "image": "hades_underworld.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/hades/hades_king.png",
+                "assets/images/characters/ror/hades/hades_bident.png",
+                "assets/images/characters/ror/hades/hades_underworld.png",
+                "assets/images/characters/ror/hades/hades_true_form.png"
+              ]
+            },
+            {
+              "id": "ror-beelzebub-022",
+              "name": "Beelzebub",
+              "rating": 9.8,
+              "logo": "assets/images/logos/ror/beelzebub_logo.png",
+              "alias": [
+                "Lord of the Flies",
+                "Prince of Demons",
+                "The Accuser"
+              ],
+              "title": [
+                "Demon Lord of Gluttony",
+                "Supreme Devil Scientist",
+                "Master of Corruption"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Insectoid compound eyes that see all corruption, glowing with hellfire",
+                  "nose": "Sharp nose that smells decay and sin",
+                  "ears": "Ears that hear buzzing of flies and whispers of temptation",
+                  "extra_facial_features": "Crown of flies constantly buzzing. Mouth that can split for devouring. Horns of demonic nobility. Pale skin with insect carapace patches. Smile of calculated malice"
+                },
+                "body": {
+                  "chest": "Demonic torso containing hellish power and scientific knowledge. Chest bears fly symbol glowing with corruption. Skin shows moving insect patterns. Muscles move with precise, calculated movements",
+                  "arms": "Multiple arms when using full power. Each arm conducts different experiment. Hands that dissect and reconstruct. Normal form shows four arms (two human, two insectoid)"
+                },
+                "lower_body": {
+                  "legs": "Insectoid legs with multiple joints. Thighs containing jumping power of locusts. Feet that leave corruption trails"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Crown of living flies. Insectoid helmet with mandibles. Goggles for scientific observation"
+                },
+                {
+                  "torso": "Lab coat over demonic armor. Multiple pockets containing experiments. Exoskeleton plates. Tailcoat of shadows"
+                },
+                {
+                  "arms": "Surgical gloves. Multiple bracelets with vials. Insectoid claw gauntlets"
+                },
+                {
+                  "legs": "Insectoid leg armor. Hooved boots. Knee joints with injector ports"
+                },
+                {
+                  "accessories": "Staff of corruption. Vial of plagues. Book of forbidden science. Scalpel that cuts souls. Jar of flies"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Scientific Corruption",
+                  "type": "demonic science",
+                  "short_description": "Uses scientific method to corrupt and destroy",
+                  "full_description": "Each attack is calculated experiment. Can analyze and exploit weaknesses scientifically. Creates plagues tailored to opponent. Ultimate technique 'Final Solution' applies perfect corruption formula. Can weaponize knowledge itself",
+                  "image": "beelzebub_science.png"
+                },
+                {
+                  "name": "Laboratory of Sin",
+                  "type": "experimental realm",
+                  "short_description": "Creates personal laboratory where all is subject to experimentation",
+                  "full_description": "Manifests space where only scientific corruption applies. All become test subjects. Reality follows experimental parameters. Ultimate technique 'Control Group Zero' erases variables from existence",
+                  "image": "beelzebub_lab.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/beelzebub/beelzebub_scientist.png",
+                "assets/images/characters/ror/beelzebub/beelzebub_corruption.png",
+                "assets/images/characters/ror/beelzebub/beelzebub_experiment.png",
+                "assets/images/characters/ror/beelzebub/beelzebub_true_form.png"
+              ]
+            },
+            {
+              "id": "ror-apollo-023",
+              "name": "Apollo",
+              "rating": 9.3,
+              "logo": "assets/images/logos/ror/apollo_logo.png",
+              "alias": [
+                "God of the Sun",
+                "The Archer",
+                "Lord of Light"
+              ],
+              "title": [
+                "Greek God of Sun and Archery",
+                "Patron of Arts and Prophecy",
+                "Master of Light"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Eyes that shine like sun, seeing all illuminated by light",
+                  "nose": "Perfect nose of divine beauty",
+                  "ears": "Ears that hear music of spheres",
+                  "extra_facial_features": "Radiant golden hair like sunlight. Face of perfect beauty. Laurel wreath crown glowing with light. Skin that emits gentle warmth. Smile that could charm nations"
+                },
+                "body": {
+                  "chest": "Godly torso containing solar power. Chest bears sun symbol glowing with energy. Skin golden and perfect. Muscles move with athletic grace of perfect archer",
+                  "arms": "Archer's arms of perfect form. Hands that never miss. Wrists that draw bow of sunlight. Normal form shows two perfectly sculpted arms"
+                },
+                "lower_body": {
+                  "legs": "Runner's legs of perfect proportion. Thighs containing speed of sun chariot. Feet that leave light trails"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Laurel wreath of gold. Sun crown when serious. Hair glowing with inner light"
+                },
+                {
+                  "torso": "Golden chest plate depicting sun. Light chiton. Cape of sunlight. Minimal armor for maximum movement"
+                },
+                {
+                  "arms": "Golden arm guards. Archer's bracer. Finger tabs for bowstring"
+                },
+                {
+                  "legs": "Golden greaves. Sandals with winged design. Knee guards with sun motifs"
+                },
+                {
+                  "accessories": "Bow of sunlight. Lyre that controls light. Sun chariot summon. Quiver of light arrows. Mirror that reflects all"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Solar Archery",
+                  "type": "light manipulation",
+                  "short_description": "Shoots arrows made of concentrated sunlight",
+                  "full_description": "Each arrow is ray of focused sunlight. Can curve light to hit any target. Creates blinding flashes. Ultimate technique 'Apollo's Arrow' is arrow of pure solar plasma. Can shoot through anything light penetrates",
+                  "image": "apollo_archery.png"
+                },
+                {
+                  "name": "Solar Domain",
+                  "type": "light realm",
+                  "short_description": "Creates personal sun-centered battlefield",
+                  "full_description": "Manifests area where only light rules. All shadows are banished. Everything illuminated and vulnerable. Ultimate technique 'Nova Burst' creates miniature sun that consumes all",
+                  "image": "apollo_domain.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/apollo/apollo_archer.png",
+                "assets/images/characters/ror/apollo/apollo_light.png",
+                "assets/images/characters/ror/apollo/apollo_solar.png",
+                "assets/images/characters/ror/apollo/apollo_true_form.png"
+              ]
+            },
+            {
+              "id": "ror-susanoo-024",
+              "name": "Susano'o no Mikoto",
+              "rating": 9.4,
+              "logo": "assets/images/logos/ror/susanoo_logo.png",
+              "alias": [
+                "Storm God",
+                "Impetuous Male",
+                "Slayer of Orochi"
+              ],
+              "title": [
+                "Shinto God of Storms and Sea",
+                "Brother of Amaterasu",
+                "Master Sword of Gathering Clouds"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Wild eyes that see through storms, glowing with tempest energy",
+                  "nose": "Strong nose that smells rain and ozone",
+                  "ears": "Ears that hear thunder before it strikes",
+                  "extra_facial_features": "Wild hair like storm clouds. Beard of sea foam. Face marked with lightning scars. Expression of wild joy in battle. Storm crown floating above"
+                },
+                "body": {
+                  "chest": "Godly torso containing storm's fury. Chest bears lightning symbol. Skin shows moving cloud patterns. Muscles move with storm's unpredictability",
+                  "arms": "Arms that wield giant sword. Hands that control weather. Wrists wrapped in storm clouds. Normal form shows two powerful arms"
+                },
+                "lower_body": {
+                  "legs": "Legs that stand in hurricanes. Thighs containing power of tidal waves. Feet that create thunderstorms with stomps"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Storm cloud hair. Lightning headpiece. No helmet - enjoys wind in hair"
+                },
+                {
+                  "torso": "Minimal armor showing chest. Loose kimono that flows like clouds. Dragon scale pauldrons. Exposed midriff"
+                },
+                {
+                  "arms": "Storm bracelets. Arm bands with dragon motifs. Wrist guards made from sea serpent scales"
+                },
+                {
+                  "legs": "Loose hakama trousers. Bare feet for grounding lightning. Ankle bells that sound like thunder"
+                },
+                {
+                  "accessories": "Ame-no-Murakumo-no-Tsurugi (Sword of Gathering Clouds). Storm drum. Lightning bolts. Rain summoning gourd. Eight-headed serpent pelt"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Storm God's Fury",
+                  "type": "weather manipulation",
+                  "short_description": "Controls all aspects of weather as weapons",
+                  "full_description": "Each swing of sword creates tornadoes. Can summon lightning at will. Controls rain as cutting blades. Ultimate technique 'Eightfold Tempest' recreates Orochi-slaying storm. Can breathe hurricanes",
+                  "image": "susanoo_storm.png"
+                },
+                {
+                  "name": "Tempest Realm",
+                  "type": "storm domain",
+                  "short_description": "Creates eternal storm battlefield",
+                  "full_description": "Manifests area where only storm laws apply. Constant lightning, rain, wind. All become subject to weather's fury. Ultimate technique 'Perfect Storm' combines all weather phenomena into one attack",
+                  "image": "susanoo_tempest.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/susanoo/susanoo_storm.png",
+                "assets/images/characters/ror/susanoo/susanoo_sword.png",
+                "assets/images/characters/ror/susanoo/susanoo_tempest.png",
+                "assets/images/characters/ror/susanoo/susanoo_true_form.png"
+              ]
+            },
+            {
+              "id": "ror-loki-025",
+              "name": "Loki",
+              "rating": 9.6,
+              "logo": "assets/images/logos/ror/loki_logo.png",
+              "alias": [
+                "God of Mischief",
+                "The Trickster",
+                "Shape-Shifter"
+              ],
+              "title": [
+                "Norse God of Mischief",
+                "Master of Deception",
+                "Father of Monsters"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Eyes that shift color with lies, glowing with mischief",
+                  "nose": "Sharp nose that smells opportunities and secrets",
+                  "ears": "Ears that hear truths to twist",
+                  "extra_facial_features": "Face that constantly shifts features. Smirk of knowing secrets. Hair color that changes with mood. Scar from thread binding visible. Crown of illusions when serious"
+                },
+                "body": {
+                  "chest": "Shape-shifter torso containing infinite forms. Chest bears chaos symbol. Skin shows shifting patterns. Muscles can change form at will",
+                  "arms": "Arms that can become any weapon. Hands that craft illusions. Wrists that once were bound. Normal form shows two arms that can multiply"
+                },
+                "lower_body": {
+                  "legs": "Legs that can become animal limbs. Thighs containing speed of lies. Feet that leave no tracks"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Horns of illusion. Mask that shows different faces. Hair that shifts style"
+                },
+                {
+                  "torso": "Leather armor that changes appearance. Cloak of many colors. Shifting patterns that confuse eye"
+                },
+                {
+                  "arms": "Bracelets that bind/unbind reality. Gloves that leave false fingerprints. Arm guards that shift material"
+                },
+                {
+                  "legs": "Boots that change footprint. Leggings that alter perception of size. Knee pads that don't exist"
+                },
+                {
+                  "accessories": "Staff of illusions. Bag of tricks. Thread of fate. Mirror that shows lies. Dice that cheat reality"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Infinite Deception",
+                  "type": "illusion and shape-shifting",
+                  "short_description": "Can become anything and make others believe anything",
+                  "full_description": "Each form is perfect deception. Can mimic any fighter perfectly. Creates illusions that become real if believed. Ultimate technique 'Ragnarok Trick' changes outcome of battle through deception. Can lie so well it alters reality",
+                  "image": "loki_deception.png"
+                },
+                {
+                  "name": "Hall of Illusions",
+                  "type": "trickster realm",
+                  "short_description": "Creates maze of lies and deceptions",
+                  "full_description": "Manifests space where only deception applies. Reality follows lies. Truth becomes weakness. Ultimate technique 'Perfect Lie' makes illusion so complete it replaces reality",
+                  "image": "loki_hall.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/loki/loki_trickster.png",
+                "assets/images/characters/ror/loki/loki_shapeshift.png",
+                "assets/images/characters/ror/loki/loki_illusions.png",
+                "assets/images/characters/ror/loki/loki_true_form.png"
+              ]
+            },
+            {
+              "id": "ror-odin-026",
+              "name": "Odin",
+              "rating": 9.9,
+              "logo": "assets/images/logos/ror/odin_logo.png",
+              "alias": [
+                "All-Father",
+                "One-Eyed God",
+                "Ruler of Asgard"
+              ],
+              "title": [
+                "Supreme Norse God",
+                "God of Wisdom and War",
+                "Seeker of Knowledge"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "One eye seeing all wisdom, empty socket containing universe secrets",
+                  "nose": "Strong nose that smells fate and knowledge",
+                  "ears": "Ears that hear thoughts and raven whispers",
+                  "extra_facial_features": "Long white beard of wisdom. Face marked with runes of power. Broad-brimmed hat when traveling. Expression of ancient knowledge and burden of foresight"
+                },
+                "body": {
+                  "chest": "God-king torso containing wisdom of ages. Chest bears valknut symbol glowing with power. Skin shows carved runes. Muscles move with deliberate, knowing motions",
+                  "arms": "Arms that wield Gungnir. Hands that wrote runes. Wrists that bound Fenrir. Normal form shows two arms of kingly power"
+                },
+                "lower_body": {
+                  "legs": "Legs that rode across realms. Thighs containing endurance of quests. Feet that walked to wisdom well"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Broad-brimmed traveler's hat. Eye patch over empty socket. Crown of Asgard when formal"
+                },
+                {
+                  "torso": "Royal armor of Asgard. Cloak of raven feathers. Chainmail of dwarven make. Belt of strength"
+                },
+                {
+                  "arms": "Arm rings of oath. Gauntlets that grip fate. Wrist guards with runic inscriptions"
+                },
+                {
+                  "legs": "Greaves depicting world tree. Boots that travel between worlds. Knee guards with wisdom symbols"
+                },
+                {
+                  "accessories": "Gungnir spear. Draupnir ring. Ravens Huginn and Muninn. Wolves Geri and Freki. Mead of poetry"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Runic Omniscience",
+                  "type": "wisdom and fate manipulation",
+                  "short_description": "Knows all and can rewrite reality with runes",
+                  "full_description": "Each rune carved changes reality. Can see all possible futures. Spear never misses target. Ultimate technique 'Ragnarok Knowledge' knows exact way to win any battle. Can sacrifice anything for perfect victory",
+                  "image": "odin_runes.png"
+                },
+                {
+                  "name": "Asgard's Throne",
+                  "type": "wisdom realm",
+                  "short_description": "Brings authority of Asgard to battlefield",
+                  "full_description": "Manifests space where only Odin's wisdom applies. All become subject to his knowledge. Time flows with memory's pace. Ultimate technique 'All-Father's Judgement' applies perfect knowledge to erase opposition",
+                  "image": "odin_asgard.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/odin/odin_allfather.png",
+                "assets/images/characters/ror/odin/odin_gungnir.png",
+                "assets/images/characters/ror/odin/odin_runes.png",
+                "assets/images/characters/ror/odin/odin_true_form.png"
+              ]
+            },
+            {
+              "id": "ror-anubis-027",
+              "name": "Anubis",
+              "rating": 9.2,
+              "logo": "assets/images/logos/ror/anubis_logo.png",
+              "alias": [
+                "God of Death",
+                "Guardian of Scales",
+                "Jackal-Headed God"
+              ],
+              "title": [
+                "Egyptian God of Death and Mummification",
+                "Weigher of Hearts",
+                "Guide to Afterlife"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Jackal eyes that see through to souls, glowing with death energy",
+                  "nose": "Jackal snout that smells mortality and truth",
+                  "ears": "Jackal ears that hear final heartbeats",
+                  "extra_facial_features": "Jackal head on human body. Gold and black coloration. Eyes that judge without pity. Crown of Upper and Lower Egypt. Expression of impartial judgement"
+                },
+                "body": {
+                  "chest": "Godly torso containing authority over death. Chest bears ankh symbol glowing with afterlife energy. Skin shows hieroglyphs of judgement. Muscles move with measured, judicial motions",
+                  "arms": "Arms that weigh hearts. Hands that prepare mummies. Wrists bearing scales of justice. Normal form shows two jackal-armed limbs"
+                },
+                "lower_body": {
+                  "legs": "Legs that walk between worlds. Thighs containing endurance of eternal duty. Feet that tread in Duat"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Jackal headpiece. Nemes headdress with stripes. Gold collar around neck"
+                },
+                {
+                  "torso": "Egyptian kilt with gold belt. Bare chest showing musculature. Shoulder armor with jackal heads"
+                },
+                {
+                  "arms": "Gold arm bands. Wrist guards with scale motifs. No gloves for direct touch of hearts"
+                },
+                {
+                  "legs": "Simple sandals. Gold leg bands. Knee guards with eye of Horus"
+                },
+                {
+                  "accessories": "Scale of judgement. Ankh staff. Was scepter. Feather of Ma'at. Canopic jars"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Heart Weighing",
+                  "type": "soul judgement",
+                  "short_description": "Weighs hearts against feather of truth",
+                  "full_description": "Each attack judges opponent's soul. Can measure sins and virtues. Creates scales that determine fate. Ultimate technique 'Final Judgement' instantly weighs heart and delivers sentence. Guilt becomes physical weight",
+                  "image": "anubis_scales.png"
+                },
+                {
+                  "name": "Duat Convergence",
+                  "type": "afterlife realm",
+                  "short_description": "Brings Egyptian underworld to battlefield",
+                  "full_description": "Manifests space where only death's judgement applies. All become souls to be weighed. Time flows with eternity of afterlife. Ultimate technique 'Field of Reeds' rewards pure hearts while punishing guilty",
+                  "image": "anubis_duat.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/ror/anubis/anubis_judge.png",
+                "assets/images/characters/ror/anubis/anubis_scales.png",
+                "assets/images/characters/ror/anubis/anubis_afterlife.png",
+                "assets/images/characters/ror/anubis/anubis_true_form.png"
               ]
             }
           ]

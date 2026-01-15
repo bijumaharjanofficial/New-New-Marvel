@@ -1,5 +1,6 @@
 // DOM Elements
 const searchInput = document.getElementById('searchInput');
+const hamburger = document.querySelector('.hamburger');
 const clearSearch = document.getElementById('clearSearch');
 const universeFilter = document.getElementById('universeFilter');
 const seriesFilter = document.getElementById('seriesFilter');
@@ -33,6 +34,20 @@ document.addEventListener('DOMContentLoaded', async () => {
     setupEventListeners();
     setupTheme();
     checkUrlForCharacter();
+});
+
+// Mobile Menu Toggle
+hamburger.addEventListener('click', () => {
+    hamburger.classList.toggle('active');
+    navMenu.classList.toggle('active');
+});
+
+// Close menu when clicking links
+document.querySelectorAll('.nav-menu a').forEach(link => {
+    link.addEventListener('click', () => {
+        hamburger.classList.remove('active');
+        navMenu.classList.remove('active');
+    });
 });
 
 // Image Path Helpers - FIXED LOGO PATHS

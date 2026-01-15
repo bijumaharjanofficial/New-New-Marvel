@@ -1,0 +1,1253 @@
+{
+    "Worlds": [
+        {
+            "id": "world-chinesemyth",
+            "name": "ChineseMyth",
+            "description": "The cosmological system of Chinese mythology, encompassing celestial guardians, terrestrial beasts, divine hybrids, and primordial entities that govern cosmic balance, seasons, elements, and human fortune.",
+            "cosmology": {
+                "heavenly_realms": "Nine Heavens (九天), Celestial Bureaucracy, Jade Emperor's Court",
+                "terrestrial_realms": "Four Seas, Sacred Mountains, Yellow Springs, Mortal World",
+                "underworld": "Diyu (十八层地狱) - 18 Levels of Hell, Fengdu Ghost City",
+                "concepts": [
+                    "Yin-Yang",
+                    "Five Elements (Wu Xing)",
+                    "Qi (Vital Energy)",
+                    "Mandate of Heaven"
+                ]
+            },
+            "series": [
+                {
+                    "id": "series-fourguardians",
+                    "name": "The Four Celestial Guardians (四象)",
+                    "era": "Zhou Dynasty - Present",
+                    "origin": "Ancient Chinese astronomy and cosmology, representing four constellations and directions",
+                    "purpose": "Guard the cosmos, regulate seasons and elements, maintain celestial-terrestrial balance",
+                    "characters": [
+                        {
+                            "id": "cm-qinglong-001",
+                            "name": "Qinglong",
+                            "rating": 9.8,
+                            "alignment": "Lawful Benevolent",
+                            "logo": "assets/images/logos/qinglong/azure_dragon_seal.png",
+                            "alias": [
+                                "Azure Dragon",
+                                "Green Dragon",
+                                "Dragon of the East",
+                                "Spring Dragon",
+                                "Meng Zhang"
+                            ],
+                            "title": [
+                                "Celestial Emperor of the East",
+                                "Governor of Spring and Wood",
+                                "Bearer of the Cosmic Compass",
+                                "Ancestor of All Terrestrial Dragons"
+                            ],
+                            "element": "Wood (木)",
+                            "direction": "East",
+                            "season": "Spring",
+                            "constellation": "Azure Dragon of the East (东方青龙座) - 7 Mansions",
+                            "governing_planet": "Jupiter (木星)",
+                            "appearance": {
+                                "head": {
+                                    "eyes": "Molten gold eyes shaped like solar crescents, perceiving celestial qi flows and mortal fortunes. Radiate both wisdom and ancient authority.",
+                                    "nose": "Prominent with flaring nostrils exhaling spring mists. Bridge adorned with vine-like patterns symbolizing wood element.",
+                                    "ears": "Large fin-like, semi-translucent ears attuned to Eastern prayers and cosmic vibrations. Constantly monitoring Jupiter's movements.",
+                                    "extra_facial_features": "Long flowing whiskers sensitive to weather changes. Beard of shimmering azure threads. Intelligent brow ridge. Pearl of condensed wisdom resting on tongue."
+                                },
+                                "body": {
+                                    "chest": "Serpentine torso with 81 major jade-azure scales (9x9 completion). Each scale inscribed with Eastern star maps. Pulsating heart-orb of spring energy. Cobalt-silver mane flows from head to spine.",
+                                    "arms": "Four limbs with five-clawed imperial paws (obsidian claws). Forelimbs often grasp Pearl of Wisdom or Seal of the East."
+                                },
+                                "lower_body": {
+                                    "legs": "Coiling form transitioning seamlessly or powerful leonine legs. Tail whip-like with typhoon-stirring tuft. Treads on Pathmaking Clouds (Xiangyun).",
+                                    "special_features": "Body length varies from 30 feet to 300 miles when manifesting fully. Scales change hue with seasons from pale green (early spring) to deep azure (late spring)."
+                                },
+                                "color_scheme": {
+                                    "primary": "Azure (青) - between blue and green",
+                                    "secondary": "Jade green, silver, gold accents",
+                                    "glow": "Soft verdant luminescence from scales"
+                                }
+                            },
+                            "armor_costume": [
+                                {
+                                    "head": "Eastern Directional Talisman - green jade disc with Bagua inscription floating above head, emitting ward against evil and regulating seasons."
+                                },
+                                {
+                                    "torso": "Stellar Heartguard - dense scales around heart glowing with seven major stars of its constellation. Natural armor of celestial bronze-jade composite."
+                                },
+                                {
+                                    "arms": "Cloud Bracers - ethereal bands of mist and lightning that solidify. Claws sheathed in Yang-energy effective against ghosts."
+                                },
+                                {
+                                    "legs": "Pathmaking Clouds - self-materializing transport clouds colored azure-silver, part of its celestial being."
+                                },
+                                {
+                                    "celestial_regalia": "Azure Emperor's Scepter - aged living peach wood staff from Queen Mother's gardens, topped with spinning destiny compass pointing East."
+                                }
+                            ],
+                            "divine_artifacts": [
+                                {
+                                    "name": "Spring Emergence Pearl",
+                                    "type": "Internal Divine Core",
+                                    "description": "A pearl formed from the first sunrise of creation, residing in its throat. Contains the essence of growth and new beginnings."
+                                },
+                                {
+                                    "name": "Dragon-Seal of the Eastern Heaven",
+                                    "type": "Official Seal",
+                                    "description": "A square jade seal granted by Jade Emperor, authorizing its governance over Eastern territories and spring administration."
+                                }
+                            ],
+                            "abilities": [
+                                {
+                                    "name": "Cosmic Season Weaving",
+                                    "type": "Divine Mandate",
+                                    "rank": "Cosmic",
+                                    "short_description": "Governs celestial mechanics of Spring and Wood element globally.",
+                                    "full_description": "Breath initiates spring equinox. Controls germination, sap rising, plant growth. Emotional state influences spring storm intensity. Can accelerate growth (forests in moments) or reverse blight within Eastern domain.",
+                                    "activation": "Automatic with celestial position, enhanced by focused will",
+                                    "limitations": "Power diminishes outside Eastern quadrant; requires celestial bureaucracy approval for major deviations",
+                                    "visual_effects": "Verdant energy waves, sprouting flora in wake, seasonal light shifts"
+                                },
+                                {
+                                    "name": "Storm Sovereignty",
+                                    "type": "Elemental Command",
+                                    "rank": "Continental",
+                                    "short_description": "Absolute command over rains, winds, thunder, benevolent weather.",
+                                    "full_description": "Summons life-giving rains or pollen-spreading breezes. At full power: Dragon's Wake Typhoon - directed storm cleansing corruption. Roar becomes thunder, scale-clash creates lightning, tail-waving gathers clouds.",
+                                    "activation": "Ritual dance or focused intent",
+                                    "limitations": "Must maintain cosmic balance; cannot cause unjust destruction without heavenly censure",
+                                    "visual_effects": "Cloud formation from body, rain falling from whiskers, lightning from scales"
+                                },
+                                {
+                                    "name": "Astral Projection & Geomancy",
+                                    "type": "Cosmic Navigation",
+                                    "rank": "Global",
+                                    "short_description": "Manipulates terrestrial/celestial energies for protection/blessing.",
+                                    "full_description": "Spirit form mapped onto Eastern constellations. Projects to inspect territories or bless dragon-veins (Lung Mei). Expert in cosmic-scale Feng Shui; flight paths determine beneficial qi flow. Can raise mountains or divert rivers to correct geomancy.",
+                                    "activation": "Meditation or celestial alignment",
+                                    "limitations": "Bound by natural laws of geomancy; cannot create permanent changes without terrestrial spirit consent",
+                                    "visual_effects": "Ghostly astral dragon form, visible ley lines, mountain-shifting tremors"
+                                },
+                                {
+                                    "name": "Divine Draconic Authority",
+                                    "type": "Aura",
+                                    "rank": "Hierarchical",
+                                    "short_description": "Commands respect/obedience from all lesser dragon spirits.",
+                                    "full_description": "Presence suppresses chaotic flood dragons (Jiaolong) and river spirits. Lesser rain deities are its vassals. Aura calms raging waters or compels dragon obedience to celestial mandate.",
+                                    "activation": "Passive aura, intensified by display of regalia",
+                                    "limitations": "Weakened against renegade dragons with independent cult followings",
+                                    "visual_effects": "Pressure waves causing lesser dragons to bow, water surfaces stilling"
+                                }
+                            ],
+                            "cultivation_level": "Primordial Celestial (先天神) - born divine, no cultivation needed",
+                            "temples_worship": [
+                                "Dongyue Temple (东岳庙)",
+                                "Dragon King Temples in East",
+                                "Imperial Altar of Heaven ceremonies"
+                            ],
+                            "festivals": [
+                                "Spring Begins (立春)",
+                                "Qingming Festival",
+                                "Dragon Head-raising Day (二月二)"
+                            ],
+                            "allies": [
+                                "Jade Emperor",
+                                "Other Three Guardians",
+                                "Local Eastern Dragon Kings",
+                                "Green Emperor of Spring"
+                            ],
+                            "enemies": [
+                                "Metal-element creatures",
+                                "Renegade dragons",
+                                "The Four Perils (especially Qiongqi)",
+                                "Demons of stagnation"
+                            ],
+                            "notable_stories": [
+                                "Helped Yellow Emperor defeat Chi You by controlling weather",
+                                "Taught first farmers planting cycles",
+                                "Annual battle with White Tiger to maintain seasonal transition balance"
+                            ],
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/qinglong/han_dynasty_relief.png",
+                                "assets/images/characters/chinesemyth/qinglong/ming_dynasty_painting.png",
+                                "assets/images/characters/chinesemyth/qinglong/constellation_map.png",
+                                "assets/images/characters/chinesemyth/qinglong/temple_guardian_statue.png",
+                                "assets/images/characters/chinesemyth/qinglong/modern_digital_art.png",
+                                "assets/images/characters/chinesemyth/qinglong/cloud_ascension.png",
+                                "assets/images/characters/chinesemyth/qinglong/battle_chi_you.png"
+                            ]
+                        },
+                        {
+                            "id": "cm-zhuque-001",
+                            "name": "Zhuque",
+                            "rating": 9.6,
+                            "alignment": "Lawful Noble",
+                            "logo": "assets/images/logos/zhuque/vermillion_bird_sigil.png",
+                            "alias": [
+                                "Vermilion Bird",
+                                "Phoenix of the South",
+                                "Fire Bird",
+                                "Suzaku"
+                            ],
+                            "title": [
+                                "Celestial Empress of the South",
+                                "Governor of Summer and Fire",
+                                "Solar Ambassador",
+                                "Ancestor of All Phoenix-kind"
+                            ],
+                            "element": "Fire (火)",
+                            "direction": "South",
+                            "season": "Summer",
+                            "constellation": "Vermilion Bird of the South (南方朱雀座) - 7 Mansions",
+                            "governing_planet": "Mars (火星)",
+                            "appearance": {
+                                "head": "Majestic bird with five-colored plumage (primary vermilion). Phoenix crown of flames. Eyes like burning coals. Beak of polished coral that glows with inner fire.",
+                                "body": "Plumage patterns resemble flowing lava and solar flares. Tail feathers trail celestial fire. Wingspan creates rainbow halos.",
+                                "special_features": "Constantly surrounded by harmless nimbus of flame. Tears are molten pearls. Song causes plants to fruit."
+                            },
+                            "abilities": [
+                                {
+                                    "name": "Solar Resonance",
+                                    "description": "Channels and amplifies sun's energy. Can intensify sunlight or create miniature suns."
+                                },
+                                {
+                                    "name": "Rebirth from Ashes",
+                                    "description": "Immortal cycle of death and rebirth every 500 years, emerging stronger."
+                                }
+                            ],
+                            "notable_stories": [
+                                "Herald of virtuous rulers",
+                                "Companion to Queen Mother of West"
+                            ],
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/zhuque/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-baihu-001",
+                            "name": "Baihu",
+                            "rating": 9.4,
+                            "alignment": "Lawful Martial",
+                            "logo": "assets/images/logos/baihu/white_tiger_emblem.png",
+                            "alias": [
+                                "White Tiger",
+                                "Metal Tiger",
+                                "Autumn Executioner",
+                                "Byakko"
+                            ],
+                            "title": [
+                                "Celestial General of the West",
+                                "Governor of Autumn and Metal",
+                                "Executioner of Celestial Law",
+                                "King of Mountain Beasts"
+                            ],
+                            "element": "Metal (金)",
+                            "direction": "West",
+                            "season": "Autumn",
+                            "constellation": "White Tiger of the West (西方白虎座) - 7 Mansions",
+                            "governing_planet": "Venus (金星)",
+                            "appearance": {
+                                "head": "Fierce tiger with fur white as fresh snow. Stripes are metallic silver that sharpen to blade-edges. Eyes glacial blue with slit pupils. Fangs of crystalline quartz.",
+                                "body": "Muscular frame with metallic sheen. Claws extend/retract like steel blades. Tail tipped with spiked metal ball.",
+                                "special_features": "Roar shreds metal. Paws leave frost patterns. Presence causes weapons to resonate."
+                            },
+                            "abilities": [
+                                {
+                                    "name": "Weapon Mastery Aura",
+                                    "description": "All metal weapons within range become sharper, never break."
+                                },
+                                {
+                                    "name": "Executioner's Gaze",
+                                    "description": "Can discern guilt and impose celestial punishment through directed will."
+                                }
+                            ],
+                            "notable_stories": [
+                                "Guardian of underworld entrances",
+                                "Executioner of corrupt deities"
+                            ],
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/baihu/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-xuanwu-001",
+                            "name": "Xuanwu",
+                            "rating": 9.7,
+                            "alignment": "Lawful Protective",
+                            "logo": "assets/images/logos/xuanwu/black_tortoise_symbol.png",
+                            "alias": [
+                                "Black Tortoise",
+                                "Dark Warrior",
+                                "Winter Sage",
+                                "Genbu"
+                            ],
+                            "title": [
+                                "Celestial Chancellor of the North",
+                                "Governor of Winter and Water",
+                                "Bearer of World Mountain",
+                                "Master of Longevity"
+                            ],
+                            "element": "Water (水)",
+                            "direction": "North",
+                            "season": "Winter",
+                            "constellation": "Black Tortoise of the North (北方玄武座) - 7 Mansions",
+                            "governing_planet": "Mercury (水星)",
+                            "appearance": {
+                                "head": "Composite being: tortoise body with snake coiled around it/twin heads. Tortoise head: wise, ancient eyes, beak of obsidian. Snake head: vigilant, forked tongue tasting fate.",
+                                "body": "Tortoise shell inscribed with universe map and celestial calendar. Shell patterns shift with constellations. Snake body scales are black jade.",
+                                "special_features": "Moves with glacial slowness but instant teleportation ability. Shell contains microcosm."
+                            },
+                            "abilities": [
+                                {
+                                    "name": "Cosmic Endurance",
+                                    "description": "Can bear infinite weight. Shell protects against any attack given time to prepare."
+                                },
+                                {
+                                    "name": "Water Memory",
+                                    "description": "Remembers everything that has ever been reflected in water; oracle of past/future."
+                                }
+                            ],
+                            "notable_stories": [
+                                "Supports world on back in some myths",
+                                "Adviser to Yu the Great during flood control"
+                            ],
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/xuanwu/..."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "series-fourperils",
+                    "name": "The Four Perils (四凶)",
+                    "era": "Legendary Age (Age of Yellow Emperor)",
+                    "origin": "Exiled by sage-kings for embodying fundamental vices and chaos",
+                    "purpose": "Test humanity's virtue, represent cosmic imbalances that must be contained",
+                    "characters": [
+                        {
+                            "id": "cm-hundun-001",
+                            "name": "Hundun",
+                            "rating": 8.9,
+                            "alignment": "Chaotic Neutral",
+                            "logo": "assets/images/logos/hundun/chaos_emblem.png",
+                            "alias": [
+                                "Primordial Chaos",
+                                "Formless One",
+                                "The Wonton",
+                                "Chaotic Soup"
+                            ],
+                            "title": [
+                                "Embodiment of Pre-Creation",
+                                "The Uncarved Block",
+                                "Blissful Ignorance Incarnate"
+                            ],
+                            "element": "Primordial Chaos (无元素)",
+                            "appearance": {
+                                "head": "NO DISTINCT FEATURES - A fleshy, sack-like being with no facial orifices. Surface smooth like unborn egg. Color shifts between fog-gray and deep void black.",
+                                "body": "Amorphous blob that changes shape. No limbs or defined anatomy. Sometimes depicted with six legs and wings but no head (contradictory forms).",
+                                "special_features": "Absorbs light and sound nearby. Reality warps subtly around it. Cannot perceive or interact with world conventionally."
+                            },
+                            "nature_paradox": "Kind to the good (who appreciate chaos as potential), attacks the wicked (who fear disorder). Represents both creative potential and destructive confusion.",
+                            "abilities": [
+                                {
+                                    "name": "Conceptual Inversion",
+                                    "description": "Inverts cause-effect, logic, and perception in vicinity. Makes organized plans fall apart, but also inspires breakthroughs from chaos."
+                                },
+                                {
+                                    "name": "Blissful Ignorance Field",
+                                    "description": "Suppresses sensory input and higher thought. Creates state of contented, thoughtless existence."
+                                }
+                            ],
+                            "defeat_method": "Died when well-meaning friends bored holes for senses (giving it perception which destroyed its chaotic nature).",
+                            "symbolic_meaning": "The danger of imposing order where chaos is natural; the value of unformed potential.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/hundun/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-taotie-001",
+                            "name": "Taotie",
+                            "rating": 8.5,
+                            "alignment": "Chaotic Gluttonous",
+                            "logo": "assets/images/logos/taotie/glutton_mask.png",
+                            "alias": [
+                                "The Glutton",
+                                "Devouring Mask",
+                                "Insatiable Hunger"
+                            ],
+                            "title": [
+                                "Embodiment of Excess",
+                                "Feast Demon",
+                                "Consumer of Worlds"
+                            ],
+                            "element": "Earth (土) corrupted",
+                            "appearance": {
+                                "head": "Often depicted as frontal mask only: bulging eyes, gaping mouth with fangs, no lower jaw. When fully formed: corpulent humanoid with mouth covering abdomen.",
+                                "body": "Massive distended stomach that's never full. Hands constantly grasping. Skin covered in food stains and precious material remnants.",
+                                "special_features": "Can consume anything material or spiritual. The more it eats, the larger its hunger grows exponentially."
+                            },
+                            "abilities": [
+                                {
+                                    "name": "All-Consuming Maw",
+                                    "description": "Can devour objects, energy, memories, even abstract concepts like 'time' or 'hope' if focused."
+                                },
+                                {
+                                    "name": "Feast Mirage",
+                                    "description": "Creates illusions of boundless banquets to lure victims."
+                                }
+                            ],
+                            "symbolic_meaning": "Warning against greed, consumerism, excess. Common decoration on bronze vessels to remind of moderation.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/taotie/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-taowu-001",
+                            "name": "Taowu",
+                            "rating": 8.3,
+                            "alignment": "Chaotic Stupid",
+                            "logo": "assets/images/logos/taowu/stubborn_beast.png",
+                            "alias": [
+                                "The Blockhead",
+                                "Stubborn Beast",
+                                "Unlearnable One"
+                            ],
+                            "title": [
+                                "Embodiment of Ignorance",
+                                "Willful Fool",
+                                "Anti-Wisdom"
+                            ],
+                            "element": "Metal (金) corrupted",
+                            "appearance": {
+                                "head": "Tiger-like with boar tusks and dull, uncomprehending eyes. Human ears that hear but don't process. Permanent confused snarl.",
+                                "body": "Muscular but clumsy frame. Covered in unhealed wounds from refusing to learn danger. Tail like barbed club.",
+                                "special_features": "Aura of confusion that muddles complex thoughts. Knowledge dissipates near it."
+                            },
+                            "abilities": [
+                                {
+                                    "name": "Knowledge Nullification",
+                                    "description": "Creates field where education, reason, and wisdom fail. Complex strategies simplify to brute force."
+                                },
+                                {
+                                    "name": "Inexorable Charge",
+                                    "description": "Once set on path, cannot be reasoned or diverted. Gains momentum ignoring obstacles."
+                                }
+                            ],
+                            "symbolic_meaning": "Danger of willful ignorance, refusal to learn, anti-intellectualism.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/taowu/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-qiongqi-001",
+                            "name": "Qiongqi",
+                            "rating": 8.7,
+                            "alignment": "Chaotic Evil",
+                            "logo": "assets/images/logos/qiongqi/devious_insignia.png",
+                            "alias": [
+                                "The Devious",
+                                "Perverse Beast",
+                                "Inverter of Morals"
+                            ],
+                            "title": [
+                                "Embodiment of Betrayal",
+                                "Patron of Villains",
+                                "Rewarder of Wickedness"
+                            ],
+                            "element": "Wind (风) corrupted",
+                            "appearance": {
+                                "head": "Winged tiger with ox tail or ox-like body with tiger stripes. Eyes that reflect opposite of reality (good appears repulsive). Smirk of malicious amusement.",
+                                "body": "Wings of tattered justice. Fur pattern forms mocking faces. Claws tipped with poison that rewards evil deeds.",
+                                "special_features": "Sees moral alignment inverted. Drawn to acts of betrayal."
+                            },
+                            "abilities": [
+                                {
+                                    "name": "Moral Inversion",
+                                    "description": "Rewards wicked acts with power/fortune, punishes good deeds with misfortune. Actively seeks to corrupt."
+                                },
+                                {
+                                    "name": "Betrayal Empowerment",
+                                    "description": "Grows stronger from acts of treachery nearby. Can sense loyalties to exploit."
+                                }
+                            ],
+                            "notable_behavior": "Devours good people on command of evil ones, brings criminals gifts from gods.",
+                            "symbolic_meaning": "Ultimate perversion of justice, cosmic unfairness, betrayal as fundamental evil.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/qiongqi/..."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "series-celestialministry",
+                    "name": "Celestial Ministry Beasts",
+                    "era": "Various - Mostly Han Dynasty onward",
+                    "origin": "Beasts serving in celestial bureaucracy or as divine omens",
+                    "purpose": "Assist heavenly administration, act as divine messengers, embody specific virtues",
+                    "characters": [
+                        {
+                            "id": "cm-qilin-001",
+                            "name": "Qilin",
+                            "rating": 9.5,
+                            "alignment": "Lawful Good",
+                            "logo": "assets/images/logos/qilin/benevolent_unicorn.png",
+                            "alias": [
+                                "Chinese Unicorn",
+                                "Benevolent Beast",
+                                "Holy Omen"
+                            ],
+                            "title": [
+                                "Herald of Sage-Kings",
+                                "Embodiment of Perfect Virtue",
+                                "Walking Auspice"
+                            ],
+                            "element": "All Five Elements in Harmony",
+                            "appearance": {
+                                "head": "Dragon-like with antlers (usually two), kind eyes showing infinite compassion. Beard of silk threads. Mouth small, rarely opens.",
+                                "body": "Deer body with ox tail, horse hooves. Scales like fish on belly, fur on back. Single horn (male) or no horn (female) with flesh tip (cannot harm).",
+                                "color": "Multi-colored but never garish - soft pastels that shift. Often white as base.",
+                                "special_features": "Walks on clouds without disturbing grass. Steps create lotus blossoms. Voice like wind chimes."
+                            },
+                            "divine_purpose": "Appears only during reign of wise rulers or before birth/death of great sages (Confucius' mother dreamt of one).",
+                            "abilities": [
+                                {
+                                    "name": "Divine Judgement",
+                                    "description": "Can discern pure hearts. Will gore the wicked with its harmless horn (psychic punishment)."
+                                },
+                                {
+                                    "name": "Fertility Blessing",
+                                    "description": "Presence ensures healthy offspring and abundant harvests."
+                                }
+                            ],
+                            "symbolic_meaning": "Perfect virtue, benevolent rule, miraculous birth, protection of children.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/qilin/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-pixiu-001",
+                            "name": "Pixiu",
+                            "rating": 9.2,
+                            "alignment": "Lawful Neutral",
+                            "logo": "assets/images/logos/pixiu/wealth_guardian.png",
+                            "alias": [
+                                "Pi Yao",
+                                "Wealth Beast",
+                                "Money Devourer"
+                            ],
+                            "title": [
+                                "Guardian of Treasures",
+                                "Wealth Attractor",
+                                "Imperial Protector"
+                            ],
+                            "element": "Earth (土) for wealth",
+                            "appearance": {
+                                "head": "Lion-like with dragon features. Wide mouth, sharp teeth, single horn (male) or two horns (female). Fierce but loyal expression.",
+                                "body": "Winged lion body. No anus (key feature). Often depicted sitting on gold ingots or with coin in mouth.",
+                                "special_features": "Cannot excrete - wealth only enters. Wings allow travel between material and spiritual realms for treasure."
+                            },
+                            "divine_purpose": "Protects wealth, attracts fortune, guards against financial loss, wards off evil spirits seeking riches.",
+                            "abilities": [
+                                {
+                                    "name": "Wealth Magnetism",
+                                    "description": "Attracts gold, silver, jewels from surroundings. Prevents wealth from leaving premises."
+                                },
+                                {
+                                    "name": "Evil Wealth Detection",
+                                    "description": "Can discern ill-gotten gains and refuse them."
+                                }
+                            ],
+                            "cultural_significance": "Popular in feng shui and business. Statues face outward to attract wealth, inward to guard it.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/pixiu/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-baize-001",
+                            "name": "Bai Ze",
+                            "rating": 9.3,
+                            "alignment": "Neutral Good",
+                            "logo": "assets/images/logos/baize/wisdom_beast.png",
+                            "alias": [
+                                "White Marsh",
+                                "Knowledge Beast",
+                                "Spirit Catalog"
+                            ],
+                            "title": [
+                                "Knower of 11,520 Supernaturals",
+                                "Imperial Advisor on Spirits",
+                                "Walking Bestiary"
+                            ],
+                            "element": "Metal (金) for discernment",
+                            "appearance": {
+                                "head": "Lion-like with goat beard, single or multiple horns. Eyes that see all forms. Mouth capable of human speech.",
+                                "body": "White fur with blue patterns mapping supernatural realms. Often seated in scholarly pose.",
+                                "special_features": "Forehead eye that sees true forms. Knowledge manifests as glowing script on fur."
+                            },
+                            "divine_purpose": "Appeared to Yellow Emperor to catalog all supernatural beings and how to counter them. Basis for Chinese demonology.",
+                            "abilities": [
+                                {
+                                    "name": "Omniscient Bestiary",
+                                    "description": "Knows name, appearance, habits, and weaknesses of every supernatural creature."
+                                },
+                                {
+                                    "name": "Exorcism Protocols",
+                                    "description": "Can teach proper rituals to ward off or banish any entity."
+                                }
+                            ],
+                            "legacy": "Its teachings compiled into lost 'Bai Ze Tu' (Bai Ze Charts) used by exorcists for millennia.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/baize/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-xiezhi-001",
+                            "name": "Xiezhi",
+                            "rating": 9.4,
+                            "alignment": "Lawful Just",
+                            "logo": "assets/images/logos/xiezhi/justice_beast.png",
+                            "alias": [
+                                "Justice Beast",
+                                "Truth Gorer",
+                                "Single-Horned Judge"
+                            ],
+                            "title": [
+                                "Living Scales of Justice",
+                                "Divine Arbiter",
+                                "Bane of Liars"
+                            ],
+                            "element": "Fire (火) for truth",
+                            "appearance": {
+                                "head": "Goat-lion-ox hybrid. Single straight horn on forehead that glows in presence of falsehood. Eyes see through deception.",
+                                "body": "Lean muscular build. Often depicted in courtroom settings. Ancient Han dynasty judges wore Xiezhi hats.",
+                                "special_features": "Horn vibrates near lies. Can't be in presence of injustice without acting."
+                            },
+                            "divine_purpose": "Attends celestial court proceedings. In ancient times, released in courtrooms to gore the guilty.",
+                            "abilities": [
+                                {
+                                    "name": "Unerring Truth Detection",
+                                    "description": "Cannot be fooled by any deception, magical or mundane. Sees intent, not just words."
+                                },
+                                {
+                                    "name": "Compelled Confession",
+                                    "description": "Presence forces guilty parties to confess under spiritual pressure."
+                                }
+                            ],
+                            "symbolic_meaning": "Divine justice, incorruptible judgement, truth as fundamental cosmic principle.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/xiezhi/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-zouyu-001",
+                            "name": "Zouyu",
+                            "rating": 9.1,
+                            "alignment": "Lawful Peaceful",
+                            "logo": "assets/images/logos/zouyu/righteous_hunter.png",
+                            "alias": [
+                                "Righteous Hunter",
+                                "Benevolent Tiger",
+                                "Vegetarian Predator"
+                            ],
+                            "title": [
+                                "Omen of Perfect Governance",
+                                "Moral Carnivore",
+                                "Peace Guardian"
+                            ],
+                            "element": "Wood (木) for benevolence",
+                            "appearance": {
+                                "head": "White tiger with black stripes forming righteous text patterns. Gentle eyes. Mouth that never shows fangs.",
+                                "body": "Powerful but graceful. Moves silently. Claws retracted unless performing divine duty.",
+                                "special_features": "Only eats winter-growing plants. Leaves no tracks. Glows softly with virtuous light."
+                            },
+                            "divine_purpose": "Appears only during reigns of perfectly virtuous rulers (vanishes with first sign of corruption).",
+                            "abilities": [
+                                {
+                                    "name": "Virtue Resonance",
+                                    "description": "Senses moral character of rulers from miles away. Drawn to benevolence, repelled by corruption."
+                                },
+                                {
+                                    "name": "Selective Hunting",
+                                    "description": "Only hunts when fulfilling celestial mandate against evil beings. Otherwise strictly herbivorous."
+                                }
+                            ],
+                            "historical_record": "Reported during reigns of legendary sage-kings Yao and Shun.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/zouyu/..."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "series-transformative",
+                    "name": "Transformative & Legendary Beasts",
+                    "era": "Various, from Zhuangzi (Warring States) to folklore",
+                    "origin": "Philosophical metaphors, folk tales, regional legends",
+                    "purpose": "Illustrate philosophical concepts, explain natural phenomena, embody human aspirations",
+                    "characters": [
+                        {
+                            "id": "cm-kunpeng-001",
+                            "name": "Kun / Peng",
+                            "rating": 9.3,
+                            "alignment": "Neutral Transcendent",
+                            "logo": "assets/images/logos/kunpeng/transformative_pair.png",
+                            "alias": [
+                                "Giant Fish / Colossal Bird",
+                                "Transformative Pair",
+                                "Zhuangzi's Metaphor"
+                            ],
+                            "title": [
+                                "Embodiment of Potential",
+                                "Being of Two Natures",
+                                "Symbol of Perspective"
+                            ],
+                            "element": "Water (Kun) / Wind (Peng)",
+                            "appearance": {
+                                "kun_form": "Fish thousands of miles long. Dorsal fin like mountain range. Scales like continental plates. Eyes like deep sea trenches.",
+                                "peng_form": "Bird with wings like clouds across sky. Back measures thousands of miles. Feathers like celestial banners. Shadow darkens entire regions.",
+                                "transformation": "Metamorphosis involves mist, storms, and reality-warping as fish becomes bird."
+                            },
+                            "origin_story": "Central parable in Zhuangzi's 'Free and Easy Wandering' illustrating relativity and transformation.",
+                            "philosophical_meaning": "What seems enormous from one perspective (Kun in northern sea) is preparation for something even greater (Peng flying south). Represents latent potential and changing perspectives.",
+                            "abilities": [
+                                {
+                                    "name": "Cosmic Transformation",
+                                    "description": "Can shift between aquatic and aerial forms at will, changing fundamental nature."
+                                },
+                                {
+                                    "name": "Perspective Shift",
+                                    "description": "Those who witness its transformation gain enlightenment about their own potential."
+                                }
+                            ],
+                            "cultural_impact": "Influenced Chinese concepts of self-cultivation and transformation. Common in literary allusions.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/kunpeng/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-moonrabbit-001",
+                            "name": "Yutu",
+                            "rating": 8.8,
+                            "alignment": "Lawful Good",
+                            "logo": "assets/images/logos/yutu/jade_rabbit.png",
+                            "alias": [
+                                "Jade Rabbit",
+                                "Moon Rabbit",
+                                "Elixir Pounder"
+                            ],
+                            "title": [
+                                "Pharmacist of the Moon",
+                                "Companion to Chang'e",
+                                "Symbol of Longevity"
+                            ],
+                            "element": "Water (yin) / Metal (mortar)",
+                            "appearance": {
+                                "form": "White rabbit often standing upright. Jade fur that glows softly. Intelligent, kind eyes. Sometimes depicted with pestle and mortar.",
+                                "moon_habitat": "Lives in Moon Palace (广寒宫). Works under cassia tree that regenerates as it's chopped.",
+                                "special_features": "Immortal. Can communicate with mortals through dreams."
+                            },
+                            "mythological_role": "Pounds elixir of immortality for Moon Goddess Chang'e and heavenly beings. Occasionally descends to cure plagues.",
+                            "abilities": [
+                                {
+                                    "name": "Elixir Crafting",
+                                    "description": "Can create panaceas and longevity potions from lunar ingredients."
+                                },
+                                {
+                                    "name": "Dream Messaging",
+                                    "description": "Appears in dreams of healers to transmit medical knowledge."
+                                }
+                            ],
+                            "festival_association": "Mid-Autumn Festival - people see rabbit shape in moon.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/yutu/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-nian-001",
+                            "name": "Nian",
+                            "rating": 8.2,
+                            "alignment": "Chaotic Predatory",
+                            "logo": "assets/images/logos/nian/new_year_beast.png",
+                            "alias": [
+                                "Year Beast",
+                                "New Year Monster",
+                                "Spring Terror"
+                            ],
+                            "title": [
+                                "Ancient Scourge",
+                                "Seasonal Predator",
+                                "Reason for Traditions"
+                            ],
+                            "element": "Fire (fears red/fire) / Earth (lives in mountains/sea)",
+                            "appearance": {
+                                "head": "Lion-like with ox horns. Large mouth with sharp teeth. Eyes sensitive to bright colors/lights.",
+                                "body": "Size of bull with scales. Loud roar. Moves with surprising speed despite size.",
+                                "special_features": "Hibernates most of year. Only active around lunar new year. Weaknesses discovered by villagers."
+                            },
+                            "mythological_role": "Ancient beast that terrorized villages every spring until its weaknesses (red, fire, loud noises) were discovered. Defeat celebration became Chinese New Year.",
+                            "abilities": [
+                                {
+                                    "name": "Seasonal Awakening",
+                                    "description": "Emerges with spring, drawn to human settlements after winter hibernation."
+                                },
+                                {
+                                    "name": "Fear Induction",
+                                    "description": "Roar causes paralyzing fear in humans and animals."
+                                }
+                            ],
+                            "legacy": "Explains New Year traditions: red decorations (against Nian), firecrackers (scare Nian), lion dances (imitating Nian's defeat).",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/nian/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-hulijing-001",
+                            "name": "Huli Jing",
+                            "rating": 8.9,
+                            "alignment": "Chaotic Neutral (varies)",
+                            "logo": "assets/images/logos/hulijing/fox_spirit.png",
+                            "alias": [
+                                "Fox Spirit",
+                                "Nine-Tailed Fox",
+                                "Kitsune (Japanese)"
+                            ],
+                            "title": [
+                                "Shape-shifting Cultivator",
+                                "Trickster Spirit",
+                                "Ascension Seeker"
+                            ],
+                            "element": "Fire (for transformation)",
+                            "appearance": {
+                                "fox_form": "Fox with increasing tails (1 per century of cultivation). At nine tails: fur silver-white, eyes intelligent, aura powerful.",
+                                "human_form": "Beautiful human (usually female) with fox features subtly visible (slit pupils, pointed ears). Can vary appearance.",
+                                "special_features": "Fox pearl (修炼珠) contains cultivation power. Tails indicate power level."
+                            },
+                            "cultivation_system": "Gains power through meditation, absorbing moonlight/yang energy, sometimes seducing humans for their vital essence. Seeks immortality and celestial status.",
+                            "types": [
+                                {
+                                    "name": "Good Huli Jing",
+                                    "description": "Repays kindness, becomes guardian spirit, may marry human and bear special children."
+                                },
+                                {
+                                    "name": "Evil Huli Jing",
+                                    "description": "Seduces and consumes life force, causes madness, possesses people."
+                                },
+                                {
+                                    "name": "Celestial Huli Jing",
+                                    "description": "Achieved immortality, serves in heaven (like Daji who became goddess after redemption)."
+                                }
+                            ],
+                            "notable_examples": [
+                                "Daji (possessed by nine-tail, destroyed Shang)",
+                                "White Maiden legends"
+                            ],
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/hulijing/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-sanzuwwu-001",
+                            "name": "San Zu Wu",
+                            "rating": 8.7,
+                            "alignment": "Lawful Solar",
+                            "logo": "assets/images/logos/sanzuwwu/three_legged_crow.png",
+                            "alias": [
+                                "Three-Legged Crow",
+                                "Sun Crow",
+                                "Yang Crow"
+                            ],
+                            "title": [
+                                "Solar Charioteer",
+                                "Sun Essence",
+                                "Ten Suns Problem"
+                            ],
+                            "element": "Pure Fire (太阳火)",
+                            "appearance": {
+                                "form": "Golden crow with three legs (two for standing, one for power). Plumage like molten gold. Eyes like solar flares.",
+                                "size": "Varies - can be normal crow size or enormous when carrying sun.",
+                                "special_features": "Radiates intense heat. Leaves fire trails. Third leg channels solar energy."
+                            },
+                            "mythological_role": "Originally ten sun crows (children of solar goddess Xihe) who took turns crossing sky. When all ten emerged simultaneously causing drought, Houyi shot down nine.",
+                            "abilities": [
+                                {
+                                    "name": "Solar Manifestation",
+                                    "description": "Can become or carry the sun across sky. Body temperature matches solar core."
+                                },
+                                {
+                                    "name": "Drought Causation",
+                                    "description": "Presence evaporates water, withers plants if uncontrolled."
+                                }
+                            ],
+                            "current_status": "One remains as our sun. The nine dead became nine springs of hot water.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/sanzuwwu/..."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "series-ninesonsofdragon",
+                    "name": "Nine Sons of the Dragon (龙生九子)",
+                    "era": "Ming Dynasty folklore (systematized)",
+                    "origin": "Dragon fathered nine sons with different mothers, each inheriting different traits",
+                    "purpose": "Architectural guardians, decorative motifs with specific protective functions",
+                    "characters": [
+                        {
+                            "id": "cm-bixi-001",
+                            "name": "Bixi",
+                            "rating": 8.5,
+                            "alignment": "Lawful Enduring",
+                            "logo": "assets/images/logos/bixi/stone_carrier.png",
+                            "alias": [
+                                "Stone Turtle",
+                                "Stele Bearer",
+                                "First Dragon Son"
+                            ],
+                            "title": [
+                                "Bearer of Historical Records",
+                                "Foundation Guardian"
+                            ],
+                            "appearance": {
+                                "form": "Turtle-like with dragon head. Strong shell for bearing weight. Often shown carrying stone tablet on back.",
+                                "special_features": "Exceptional strength for carrying. Shell inscriptions tell its history."
+                            },
+                            "purpose": "Carries stone stelae with important inscriptions (historical records, edicts) in temples, palaces, graves.",
+                            "symbolic_meaning": "Endurance, longevity, preservation of history and knowledge.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/bixi/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-chiwen-001",
+                            "name": "Chiwen",
+                            "rating": 8.4,
+                            "alignment": "Lawful Protective",
+                            "logo": "assets/images/logos/chiwen/roof_guardian.png",
+                            "alias": [
+                                "Roof-End Beast",
+                                "Rain Dragon",
+                                "Second Dragon Son"
+                            ],
+                            "title": [
+                                "Protector Against Fire",
+                                "Rain Caller"
+                            ],
+                            "appearance": {
+                                "form": "Fish-dragon hybrid. Tail curves upward. Mouth wide open as if swallowing roof ridges.",
+                                "special_features": "Believed to summon rain to extinguish fires."
+                            },
+                            "purpose": "Decorates roof ridge ends of important buildings to protect against fire.",
+                            "symbolic_meaning": "Protection from disaster, especially fire. Water/rain association.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/chiwen/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-pulao-001",
+                            "name": "Pulao",
+                            "rating": 8.3,
+                            "alignment": "Neutral Vocal",
+                            "logo": "assets/images/logos/pulao/bell_dragon.png",
+                            "alias": [
+                                "Bell Dragon",
+                                "Roaring Dragon",
+                                "Third Dragon Son"
+                            ],
+                            "title": [
+                                "Amplifier of Sound",
+                                "Bell Handle"
+                            ],
+                            "appearance": {
+                                "form": "Small dragon that likes to roar. Often depicted on bell handles.",
+                                "special_features": "Voice carries great distance when motivated."
+                            },
+                            "purpose": "Decorates bells and gongs to make them louder. Likes sound, responds to ringing.",
+                            "symbolic_meaning": "Communication, making one's voice heard, alertness.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/pulao/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-bi-an-001",
+                            "name": "Bi'an",
+                            "rating": 8.6,
+                            "alignment": "Lawful Just",
+                            "logo": "assets/images/logos/bian/court_dragon.png",
+                            "alias": [
+                                "Court Dragon",
+                                "Tiger-Dragon",
+                                "Seventh Dragon Son"
+                            ],
+                            "title": [
+                                "Guardian of Justice",
+                                "Prison Warden"
+                            ],
+                            "appearance": {
+                                "form": "Tiger-dragon hybrid. Fierce expression. Often depicted on prison gates.",
+                                "special_features": "Can discern guilt. Intimidates the wicked."
+                            },
+                            "purpose": "Decorates prison gates and courtrooms. Keeps prisoners in, wards off evil from legal proceedings.",
+                            "symbolic_meaning": "Justice, law enforcement, discernment of guilt.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/bian/..."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "series-mountainsea",
+                    "name": "Classic of Mountains & Seas (山海经)",
+                    "era": "Warring States to Han Dynasty (compilation)",
+                    "origin": "Ancient geographical and mythological compendium",
+                    "purpose": "Catalog strange lands, creatures, and gods; possibly early geography mixed with myth",
+                    "characters": [
+                        {
+                            "id": "cm-jiangshi-001",
+                            "name": "Jiangshi",
+                            "rating": 7.8,
+                            "alignment": "Chaotic Restless",
+                            "logo": "assets/images/logos/jiangshi/hopping_vampire.png",
+                            "alias": [
+                                "Hopping Corpse",
+                                "Stiff Zombie",
+                                "Reanimated Dead"
+                            ],
+                            "title": [
+                                "Restless Spirit",
+                                "Victim of Improper Burial"
+                            ],
+                            "appearance": {
+                                "form": "Corpse in Qing dynasty official robes. Rigid arms outstretched. Moves by hopping due to rigor mortis.",
+                                "special_features": "Pale green skin. Long white hair and nails. Breathes out poisonous qi. Wears talisman on forehead that controls it."
+                            },
+                            "creation_methods": [
+                                "Improper burial/funeral",
+                                "Death by violence with unfinished business",
+                                "Deliberate reanimation by Taoist sorcerers"
+                            ],
+                            "abilities": [
+                                {
+                                    "name": "Life Drain",
+                                    "description": "Drains life force (qi) from living through breath or touch."
+                                },
+                                {
+                                    "name": "Supernatural Strength",
+                                    "description": "Stronger than in life due to rigor mortis and dark energy."
+                                }
+                            ],
+                            "weaknesses": [
+                                "Taoist talismans",
+                                "Mirrors (show their non-reflection)",
+                                "Peach wood swords",
+                                "Sticky rice",
+                                "Rooster crow (returns to coffin)"
+                            ],
+                            "cultural_impact": "Popular in Hong Kong cinema. Represents fear of improper death rituals.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/jiangshi/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-bashe-001",
+                            "name": "Bashe",
+                            "rating": 8.9,
+                            "alignment": "Neutral Predatory",
+                            "logo": "assets/images/logos/bashe/giant_python.png",
+                            "alias": [
+                                "Ba Snake",
+                                "Elephant-Swallower",
+                                "Giant Python"
+                            ],
+                            "title": [
+                                "Mountain-Sized Serpent",
+                                "Devourer of Elephants"
+                            ],
+                            "appearance": {
+                                "form": "Python hundreds of feet long. Black with green patterns. Eyes like ponds. Mouth can unhinge to enormous size.",
+                                "special_features": "Takes three years to digest elephant. Regurgitated bones form hills."
+                            },
+                            "habitat": "Ancient jungles and mountains in southern regions.",
+                            "abilities": [
+                                {
+                                    "name": "Engulfing Swallow",
+                                    "description": "Can swallow creatures many times its apparent size through spatial manipulation."
+                                },
+                                {
+                                    "name": "Bone Excretion",
+                                    "description": "Regurgitated bones petrify into mineral deposits."
+                                }
+                            ],
+                            "legend": "Mentioned in Shan Hai Jing as snake that eats elephants, digests for three years. Possibly inspired by prehistoric snake fossils.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/bashe/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-fusang-001",
+                            "name": "Fusang Tree & Ten Suns",
+                            "rating": 9.0,
+                            "alignment": "Neutral Natural",
+                            "logo": "assets/images/logos/fusang/sun_tree.png",
+                            "alias": [
+                                "Solar Mulberry",
+                                "Sun Tree",
+                                "World Tree"
+                            ],
+                            "title": [
+                                "Home of Sun Crows",
+                                "Axis Mundi of East"
+                            ],
+                            "appearance": {
+                                "form": "Giant mulberry tree thousands of feet tall. Grows in Eastern sea (or alternatively, in Mexico according to some theories).",
+                                "special_features": "Each branch hosts a sun. Tree pulses with solar energy."
+                            },
+                            "mythological_role": "Ten sun crows roost here overnight. One departs each morning on solar journey. When all ten left simultaneously, caused great drought.",
+                            "associated_beings": [
+                                "Xihe (solar goddess/mother of suns)",
+                                "San Zu Wu (three-legged sun crows)"
+                            ],
+                            "cultural_significance": "Early Chinese cosmology. Name Fusang later used for Japan and possibly the Americas in historical texts.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/fusang/..."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "series-divinewarriors",
+                    "name": "Divine Warriors & Legendary Heroes",
+                    "era": "Age of Sage-Kings (mythical prehistoric)",
+                    "origin": "Myths of cultural heroes who battled monsters and established order",
+                    "purpose": "Explain origins of civilization, represent triumph of order over chaos",
+                    "characters": [
+                        {
+                            "id": "cm-yinglong-001",
+                            "name": "Yinglong",
+                            "rating": 9.4,
+                            "alignment": "Lawful Martial",
+                            "logo": "assets/images/logos/yinglong/winged_dragon.png",
+                            "alias": [
+                                "Winged Dragon",
+                                "Responding Dragon",
+                                "Rain-Maker Dragon"
+                            ],
+                            "title": [
+                                "Ancient Rain Deity",
+                                "Dragon Who Helped Huangdi",
+                                "Flood Controller"
+                            ],
+                            "element": "Water (雨)",
+                            "appearance": {
+                                "form": "Dragon with fully developed wings (unusual among Chinese dragons). Ancient, scarred appearance. Beard white with age. Scales dulled from eons of service.",
+                                "special_features": "Wings allow flight without clouds. Older than most gods. Missing from current world (resting after flood control)."
+                            },
+                            "notable_deeds": [
+                                "Helped Yellow Emperor defeat Chi You by controlling weather",
+                                "Used tail to carve out riverbeds during Great Flood to control waters",
+                                "Assisted Yu the Great in flood control projects"
+                            ],
+                            "abilities": [
+                                {
+                                    "name": "Terrain Sculpting",
+                                    "description": "Can carve land with tail and claws, creating rivers, valleys, and canals."
+                                },
+                                {
+                                    "name": "Strategic Weather Control",
+                                    "description": "Precise meteorological manipulation for military or engineering purposes."
+                                }
+                            ],
+                            "current_status": "Resting in southern quadrant after exhausting efforts. Will awaken for world-ending floods.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/yinglong/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-houyi-001",
+                            "name": "Hou Yi",
+                            "rating": 9.3,
+                            "alignment": "Chaotic Good (initially heroic, later tragic)",
+                            "logo": "assets/images/logos/houyi/divine_archer.png",
+                            "alias": [
+                                "Divine Archer",
+                                "Sun-Shooter",
+                                "Hero Who Shot Suns"
+                            ],
+                            "title": [
+                                "Savior from Drought",
+                                "Marksman of Heaven",
+                                "Husband of Moon Goddess"
+                            ],
+                            "element": "Metal (金 - arrows)",
+                            "appearance": {
+                                "mortal_form": "Tall, muscular archer with keen eyes. Simple hunter's attire. Divine bow that only he can draw.",
+                                "special_features": "Eyesight can spot sparrow from miles. Strength to draw heaven's bow."
+                            },
+                            "notable_deeds": [
+                                "Shot down nine of ten suns to save world from drought",
+                                "Killed various monsters terrorizing humanity (Yaoguai, giant beasts)",
+                                "Received elixir of immortality but his wife Chang'e consumed it and fled to moon"
+                            ],
+                            "tragedy": "Became tyrannical after losing wife. Eventually killed by disciples or poisoned arrow.",
+                            "abilities": [
+                                {
+                                    "name": "Perfect Archery",
+                                    "description": "Never misses. Can hit celestial bodies and conceptual targets (like 'the essence of drought')."
+                                },
+                                {
+                                    "name": "Monster Slaying",
+                                    "description": "Specialized in killing supernatural creatures with crafted arrows."
+                                }
+                            ],
+                            "legacy": "Represents both heroic sacrifice and tragic flaw. Cultural hero who saved world but couldn't save his marriage.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/houyi/..."
+                            ]
+                        },
+                        {
+                            "id": "cm-chiyou-001",
+                            "name": "Chi You",
+                            "rating": 9.1,
+                            "alignment": "Chaotic Ambitious",
+                            "logo": "assets/images/logos/chiyou/rebellious_god.png",
+                            "alias": [
+                                "God of War",
+                                "Copper-Headed Rebel",
+                                "First Weapon Smith"
+                            ],
+                            "title": [
+                                "Chieftain of Nine Li Tribes",
+                                "Inventor of Metal Weapons",
+                                "Rival of Yellow Emperor"
+                            ],
+                            "element": "Metal (铜)",
+                            "appearance": {
+                                "form": "Giant with bronze/copper head, iron forehead. Four eyes, six arms. Bull horns. Sometimes depicted with bull hooves.",
+                                "special_features": "Can create fog and storms. Skin metallic. Commanded supernatural armies."
+                            },
+                            "historical_role": "Legendary tribal chieftain who rebelled against Yellow Emperor. Battle of Zhuolu established Yellow Emperor's supremacy.",
+                            "inventions": [
+                                "Metal weapons (spears, halberds)",
+                                "Military armor",
+                                "Possibly earliest forms of law and punishment"
+                            ],
+                            "abilities": [
+                                {
+                                    "name": "Weather Manipulation",
+                                    "description": "Created impenetrable fog at Zhuolu, countered by Yellow Emperor's compass chariot."
+                                },
+                                {
+                                    "name": "Army Command",
+                                    "description": "Led armies of demons, giants, and supernatural beings."
+                                }
+                            ],
+                            "legacy": "Worshipped as war god and patron of weapon smiths. Some Miao and Hmong peoples consider him ancestor.",
+                            "gallery": [
+                                "assets/images/characters/chinesemyth/chiyou/..."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
