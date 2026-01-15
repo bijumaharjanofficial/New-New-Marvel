@@ -1816,10 +1816,8 @@
                 }
             ],
             "gallery": [
-                "assets/images/characters/ror/odin/odin_allfather.png",
-                "assets/images/characters/ror/odin/odin_gungnir.png",
-                "assets/images/characters/ror/odin/odin_runes.png",
-                "assets/images/characters/ror/odin/odin_true_form.png"
+                "assets/images/characters/ror/odin/image_0001.png",
+                "assets/images/characters/ror/odin/image_0002.png",
             ]
         },
         {
@@ -1886,10 +1884,8 @@
                 }
             ],
             "gallery": [
-                "assets/images/characters/ror/anubis/anubis_judge.png",
-                "assets/images/characters/ror/anubis/anubis_scales.png",
-                "assets/images/characters/ror/anubis/anubis_afterlife.png",
-                "assets/images/characters/ror/anubis/anubis_true_form.png"
+                "assets/images/characters/ror/anubis/image_0001.png",
+                "assets/images/characters/ror/anubis/image_0002.png",
             ]
         }
     ]

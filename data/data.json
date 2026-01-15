@@ -86,13 +86,10 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/batman/batman/batman_year_one.png",
-                "assets/images/characters/batman/batman/batman_dark_knight.png",
-                "assets/images/characters/batman/batman/batman_arkham_asylum.png",
-                "assets/images/characters/batman/batman/batman_beyond_suit.png",
-                "assets/images/characters/batman/batman/batman_white_knight.png",
-                "assets/images/characters/batman/batman/batman_flashpoint.png",
-                "assets/images/characters/batman/batman/batman_zeroyear.png"
+                "assets/images/characters/batman/batman/image_0001.jpeg",
+                "assets/images/characters/batman/batman/image_0002.png",
+                "assets/images/characters/batman/batman/image_0003.jpeg",
+                "assets/images/characters/batman/batman/image_0004.jpeg"
               ]
             },
             {
@@ -158,10 +155,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/batman/nightwing/nightwing_classic.png",
-                "assets/images/characters/batman/nightwing/nightwing_discowing.png",
-                "assets/images/characters/batman/nightwing/nightwing_ric_grayson.png",
-                "assets/images/characters/batman/nightwing/nightwing_titans.png"
+                "assets/images/characters/batman/nightwing/image_0001.png",
+                "assets/images/characters/batman/nightwing/image_0002.png"
               ]
             },
             {
@@ -227,10 +222,11 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/batman/catwoman/catwoman_classic.png",
-                "assets/images/characters/batman/catwoman/catwoman_purple_suit.png",
-                "assets/images/characters/batman/catwoman/catwoman_dark_knight.png",
-                "assets/images/characters/batman/catwoman/catwoman_90s.png"
+                "assets/images/characters/batman/catwoman/image_0001.jpeg",
+                "assets/images/characters/batman/catwoman/image_0002.jpeg",
+                "assets/images/characters/batman/catwoman/image_0003.jpeg",
+                "assets/images/characters/batman/catwoman/image_0004.jpeg",
+                "assets/images/characters/batman/catwoman/image_0005.jpeg"
               ]
             }
           ]
@@ -310,11 +306,12 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/superman/superman/superman_classic.png",
-                "assets/images/characters/superman/superman/superman_black_suit.png",
-                "assets/images/characters/superman/superman/superman_kingdom_come.png",
-                "assets/images/characters/superman/superman/superman_red_son.png",
-                "assets/images/characters/superman/superman/superman_rebirth.png"
+                "assets/images/characters/superman/superman/image_0001.jpeg",
+                "assets/images/characters/superman/superman/image_0002.jpeg",
+                "assets/images/characters/superman/superman/image_0003.jpeg",
+                "assets/images/characters/superman/superman/image_0004.jpeg",
+                "assets/images/characters/superman/superman/image_0005.jpeg",
+                "assets/images/characters/superman/superman/image_0006.jpeg"
               ]
             }
           ]
@@ -395,10 +392,12 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/wonderwoman/wonderwoman/wonder_woman_classic.png",
-                "assets/images/characters/wonderwoman/wonderwoman/wonder_woman_golden_armor.png",
-                "assets/images/characters/wonderwoman/wonderwoman/wonder_woman_300.png",
-                "assets/images/characters/wonderwoman/wonderwoman/wonder_woman_rebirth.png"
+                "assets/images/characters/wonderwoman/wonderwoman/image_0001.jpeg",
+                "assets/images/characters/wonderwoman/wonderwoman/image_0002.jpeg",
+                "assets/images/characters/wonderwoman/wonderwoman/image_0003.jpeg",
+                "assets/images/characters/wonderwoman/wonderwoman/image_0004.jpeg",
+                "assets/images/characters/wonderwoman/wonderwoman/image_0005.jpeg",
+                "assets/images/characters/wonderwoman/wonderwoman/image_0006.jpeg"
               ]
             }
           ]
@@ -476,11 +475,13 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ironman/ironman/iron_man_mark1.png",
-                "assets/images/characters/ironman/ironman/iron_man_mark3.png",
-                "assets/images/characters/ironman/ironman/iron_man_hulkbuster.png",
-                "assets/images/characters/ironman/ironman/iron_man_bleeding_edge.png",
-                "assets/images/characters/ironman/ironman/iron_man_endgame.png"
+                "assets/images/characters/ironman/ironman/image_0001.jpeg",
+                "assets/images/characters/ironman/ironman/image_0002.jpeg",
+                "assets/images/characters/ironman/ironman/image_0003.jpeg",
+                "assets/images/characters/ironman/ironman/image_0004.jpeg",
+                "assets/images/characters/ironman/ironman/image_0005.jpeg",
+                "assets/images/characters/ironman/ironman/image_0006.jpeg",
+                "assets/images/characters/ironman/ironman/image_0007.jpeg"
               ]
             },
             {
@@ -547,11 +548,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/captainamerica/captainamerica/captain_america_ww2.png",
-                "assets/images/characters/captainamerica/captainamerica/captain_america_classic.png",
-                "assets/images/characters/captainamerica/captainamerica/captain_america_nomad.png",
-                "assets/images/characters/captainamerica/captainamerica/captain_america_hydra.png",
-                "assets/images/characters/captainamerica/captainamerica/captain_america_sam_wilson.png"
+                "assets/images/characters/captainamerica/captainamerica/image_0001.png",
+                "assets/images/characters/captainamerica/captainamerica/image_0002.png"
               ]
             },
             {
@@ -618,11 +616,97 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/thor/thor/thor_classic.png",
-                "assets/images/characters/thor/thor/thor_ultimate.png",
-                "assets/images/characters/thor/thor/thor_unworthy.png",
-                "assets/images/characters/thor/thor/thor_heralds.png",
-                "assets/images/characters/thor/thor/thor_jane_foster.png"
+                "assets/images/characters/thor/thor/image_0001.png",
+                "assets/images/characters/thor/thor/image_0002.png"
+              ]
+            },
+            {
+              "id": "marvel-avengers-004",
+              "name": "Peter Parker",
+              "rating": 9.0,
+              "logo": "assets/images/logos/spiderman/spiderman_logo.png",
+              "alias": [
+                "Spider-Man",
+                "The Amazing Spider-Man",
+                "The Spectacular Spider-Man",
+                "The Friendly Neighborhood Spider-Man",
+                "Web-Head"
+              ],
+              "title": [
+                "Scientific Genius",
+                "The Wall-Crawler",
+                "Web-Slinger",
+                "Avenger"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Expressive brown eyes that are constantly observing and calculating. Behind the mask, lenses are capable of multiple vision modes (infrared, night vision, telescopic) and emotive 'eye pieces' that narrow and widen to convey expression.",
+                  "nose": "Unassuming but straight, frequently sniffing the air for chemical signatures or smoke due to enhanced senses. Has been broken and healed multiple times.",
+                  "ears": "Normal human appearance, but hearing is tuned to detect police scanners, distress calls, and subtle vibrations through walls from several blocks away.",
+                  "extra_facial_features": "Youthful face that belies the weight of responsibility. Often has faint dark circles under eyes from late-night patrols. Hair is a tousled mess of brown. Expression is typically quick to shift from thoughtful worry to a genuine, reassuring smile."
+                },
+                "body": {
+                  "chest": "Lean, athletic build optimized for acrobatics rather than brute strength. Chest measures approximately 42 inches. Dense, flexible muscle fiber allows for incredible contortion. Skin is slightly tougher than normal human skin and clings to surfaces.",
+                  "arms": "Deceptively strong arms capable of supporting multiple tons. Biceps measure 16 inches. Wrists house web-shooter mechanisms. Forearms are defined and agile, essential for precise web-slinging and hand-to-hand combat."
+                },
+                "lower_body": {
+                  "legs": "Powerful legs built for leaping and sprinting. Thighs are 22 inches of explosive muscle. Calves are taut and springy, allowing for silent landings from great heights and rapid vertical scaling. Reflexes in the legs are near-instantaneous."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Full-face mask with iconic large white eye pieces. Lenses contain a heads-up display (HUD) linked to Karen or other AI systems, providing tactical data, communications, and vision modes. Mask is insulated and filters toxins."
+                },
+                {
+                  "torso": "Skin-tight suit made of advanced tri-polymer weave, resistant to tears, punctures, and moderate impacts. Iconic red and blue color scheme with black web pattern and spider emblem on chest. Underarm webbing allows for gliding. Some suits include heating, cooling, or stealth technology."
+                },
+                {
+                  "arms": "Red sections from shoulders to wrists. Gauntlets integrate seamlessly with web-shooters. Suit material allows full range of motion for complex web gestures and acrobatics."
+                },
+                {
+                  "legs": "Blue sections with red boots. Boots soles are textured for enhanced wall-crawling and silent movement. Some versions include web-shooters in the soles or retractable talons."
+                },
+                {
+                  "weapon": "Mechanical Web-Shooters (wrist-mounted). Can fire various web types: impact webbing, taser webs, ricochet webs, netting, and simple lines. Web fluid is a biodegradable polymer of Parker's own invention. Also utilizes spider-tracers and spider-drones."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Spider-Sense",
+                  "type": "passive",
+                  "short_description": "Precognitive danger awareness and spatial tracking",
+                  "full_description": "A tingling sensation at the base of the skull that warns of immediate danger, its severity indicated by the intensity of the tingling. Provides near-360-degree spatial awareness, allowing him to fight blindfolded, dodge gunfire, and sense hidden enemies. Can be overloaded by massive, widespread threats or specifically dampened by certain foes.",
+                  "image": "spiderman_spider_sense.png"
+                },
+                {
+                  "name": "Wall-Crawling",
+                  "type": "passive",
+                  "short_description": "Ability to adhere to and traverse any surface",
+                  "full_description": "Can control molecular attraction between his body and surfaces through his hands and feet. Allows him to scale walls, ceilings, and windows with ease. Grip is strong enough to support his weight and additional loads on slick, vertical, or inverted surfaces. Can be consciously deactivated.",
+                  "image": "spiderman_wallcrawling.png"
+                },
+                {
+                  "name": "Superhuman Strength, Agility & Reflexes",
+                  "type": "passive",
+                  "short_description": "Enhanced physical capabilities far beyond human limits",
+                  "full_description": "Strength level allows him to lift approximately 10-25 tons, stop moving vehicles, and support collapsing structures. Agility, balance, and flexibility are peak-human plus, enabling impossible acrobatics, contortions, and mid-air reorientations. Reflexes are approximately 40 times faster than a normal human's, allowing him to perceive the world in slow motion and react accordingly.",
+                  "image": "spiderman_agility.png"
+                },
+                {
+                  "name": "Genius-Level Intellect",
+                  "type": "passive",
+                  "short_description": "Brilliant scientist, engineer, and tactician",
+                  "full_description": "Expert in chemistry (web-fluid invention), physics, engineering (web-shooter design), and robotics. A gifted tactician who uses his environment creatively in combat. Quick-witted and uses banter to unsettle opponents. Frequently reverse-engineers and improves upon encountered technology.",
+                  "image": "spiderman_intellect.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/spiderman/spiderman/image_0001.jpeg",
+                "assets/images/characters/spiderman/spiderman/image_0002.jpeg",
+                "assets/images/characters/spiderman/spiderman/image_0003.jpeg",
+                "assets/images/characters/spiderman/spiderman/image_0004.jpeg",
+                "assets/images/characters/spiderman/spiderman/image_0005.jpeg",
+                "assets/images/characters/spiderman/spiderman/image_0006.jpeg"
               ]
             }
           ]
@@ -700,11 +784,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/naruto/naruto/naruto_part1.png",
-                "assets/images/characters/naruto/naruto/naruto_shippuden.png",
-                "assets/images/characters/naruto/naruto/naruto_sage_mode.png",
-                "assets/images/characters/naruto/naruto/naruto_kurama_mode.png",
-                "assets/images/characters/naruto/naruto/naruto_hokage.png"
+                "assets/images/characters/naruto/naruto/image_0001.png",
+                "assets/images/characters/naruto/naruto/image_0002.png"
               ]
             }
           ]
@@ -777,11 +858,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/onepiece/luffy/luffy_east_blue.png",
-                "assets/images/characters/onepiece/luffy/luffy_gear_second.png",
-                "assets/images/characters/onepiece/luffy/luffy_gear_fourth.png",
-                "assets/images/characters/onepiece/luffy/luffy_wano.png",
-                "assets/images/characters/onepiece/luffy/luffy_gear_fifth.png"
+                "assets/images/characters/onepiece/luffy/image_0001.png",
+                "assets/images/characters/onepiece/luffy/image_0002.png"
               ]
             }
           ]
@@ -854,12 +932,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/tanjiro_01.png",
-                "assets/images/characters/demonslayer/tanjiro_initial.png",
-                "assets/images/characters/demonslayer/tanjiro_water_breathing.png",
-                "assets/images/characters/demonslayer/tanjiro_hinokami_kagura.png",
-                "assets/images/characters/demonslayer/tanjiro_demon_form.png",
-                "assets/images/characters/demonslayer/tanjiro_hashira.png"
+                "assets/images/characters/demonslayer/tanjiro/image_0001.png",
+                "assets/images/characters/demonslayer/tanjiro/image_0002.png"
               ]
             },
             {
@@ -934,12 +1008,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/nezuko_01.png",
-                "assets/images/characters/demonslayer/nezuko_child.png",
-                "assets/images/characters/demonslayer/nezuko_adult.png",
-                "assets/images/characters/demonslayer/nezuko_blood_art.png",
-                "assets/images/characters/demonslayer/nezuko_protector.png",
-                "assets/images/characters/demonslayer/nezuko_sunlight.png"
+                "assets/images/characters/demonslayer/nezuko/image_0001.png",
+                "assets/images/characters/demonslayer/nezuko/image_0002.png"
               ]
             },
             {
@@ -1014,12 +1084,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/zenitsu_01.png",
-                "assets/images/characters/demonslayer/zenitsu_crying.png",
-                "assets/images/characters/demonslayer/zenitsu_thunder.png",
-                "assets/images/characters/demonslayer/zenitsu_sleeping.png",
-                "assets/images/characters/demonslayer/zenitsu_determined.png",
-                "assets/images/characters/demonslayer/zenitsu_seventh_form.png"
+                "assets/images/characters/demonslayer/zenitsu/image_0001.png",
+                "assets/images/characters/demonslayer/zenitsu/image_0002.png"
               ]
             },
             {
@@ -1094,12 +1160,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/inosuke_01.png",
-                "assets/images/characters/demonslayer/inosuke_boar_mask.png",
-                "assets/images/characters/demonslayer/inosuke_unmasked.png",
-                "assets/images/characters/demonslayer/inosuke_beast_breathing.png",
-                "assets/images/characters/demonslayer/inosuke_dual_wield.png",
-                "assets/images/characters/demonslayer/inosuke_tantrum.png"
+                "assets/images/characters/demonslayer/inosuke/image_0001.png",
+                "assets/images/characters/demonslayer/inosuke/image_0002.png"
               ]
             },
             {
@@ -1174,12 +1236,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/giyu_01.png",
-                "assets/images/characters/demonslayer/giyu_serious.png",
-                "assets/images/characters/demonslayer/giyu_water_forms.png",
-                "assets/images/characters/demonslayer/giyu_dead_calm.png",
-                "assets/images/characters/demonslayer/giyu_flashback.png",
-                "assets/images/characters/demonslayer/giyu_smile.png"
+                "assets/images/characters/demonslayer/giyu/image_0001.png",
+                "assets/images/characters/demonslayer/giyu/image_0002.png"
               ]
             },
             {
@@ -1254,12 +1312,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/shinobu_01.png",
-                "assets/images/characters/demonslayer/shinobu_smile.png",
-                "assets/images/characters/demonslayer/shinobu_insect_breathing.png",
-                "assets/images/characters/demonslayer/shinobu_medical.png",
-                "assets/images/characters/demonslayer/shinobu_angry.png",
-                "assets/images/characters/demonslayer/shinobu_butterfly.png"
+                "assets/images/characters/demonslayer/shinobu/image_0001.png",
+                "assets/images/characters/demonslayer/shinobu/image_0002.png"
               ]
             },
             {
@@ -1334,12 +1388,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/rengoku_01.png",
-                "assets/images/characters/demonslayer/rengoku_smile.png",
-                "assets/images/characters/demonslayer/rengoku_flame_breathing.png",
-                "assets/images/characters/demonslayer/rengoku_train.png",
-                "assets/images/characters/demonslayer/rengoku_final_stand.png",
-                "assets/images/characters/demonslayer/rengoku_legacy.png"
+                "assets/images/characters/demonslayer/rengoku/image_0001.png",
+                "assets/images/characters/demonslayer/rengoku/image_0002.png"
               ]
             },
             {
@@ -1414,12 +1464,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/uzui_01.png",
-                "assets/images/characters/demonslayer/uzui_flamboyant.png",
-                "assets/images/characters/demonslayer/uzui_sound_breathing.png",
-                "assets/images/characters/demonslayer/uzui_shinobi.png",
-                "assets/images/characters/demonslayer/uzui_serious.png",
-                "assets/images/characters/demonslayer/uzui_wives.png"
+                "assets/images/characters/demonslayer/uzui/image_0001.png",
+                "assets/images/characters/demonslayer/uzui/image_0002.png"
               ]
             },
             {
@@ -1494,12 +1540,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/mitsuri_01.png",
-                "assets/images/characters/demonslayer/mitsuri_shy.png",
-                "assets/images/characters/demonslayer/mitsuri_love_breathing.png",
-                "assets/images/characters/demonslayer/mitsuri_strong.png",
-                "assets/images/characters/demonslayer/mitsuri_blushing.png",
-                "assets/images/characters/demonslayer/mitsuri_serious.png"
+                "assets/images/characters/demonslayer/mitsuri/image_0001.png",
+                "assets/images/characters/demonslayer/mitsuri/image_0002.png"
               ]
             },
             {
@@ -1574,12 +1616,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/obanai_01.png",
-                "assets/images/characters/demonslayer/obanai_serious.png",
-                "assets/images/characters/demonslayer/obanai_serpent_breathing.png",
-                "assets/images/characters/demonslayer/obanai_kaburamaru.png",
-                "assets/images/characters/demonslayer/obanai_unbandaged.png",
-                "assets/images/characters/demonslayer/obanai_mitsuri.png"
+                "assets/images/characters/demonslayer/obanai/image_0001.png",
+                "assets/images/characters/demonslayer/obanai/image_0002.png"
               ]
             },
             {
@@ -1654,12 +1692,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/sanemi_01.png",
-                "assets/images/characters/demonslayer/sanemi_angry.png",
-                "assets/images/characters/demonslayer/sanemi_wind_breathing.png",
-                "assets/images/characters/demonslayer/sanemi_scars.png",
-                "assets/images/characters/demonslayer/sanemi_genya.png",
-                "assets/images/characters/demonslayer/sanemi_rare_smile.png"
+                "assets/images/characters/demonslayer/sanemi/image_0001.png",
+                "assets/images/characters/demonslayer/sanemi/image_0002.png"
               ]
             },
             {
@@ -1734,12 +1768,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/gyomei_01.png",
-                "assets/images/characters/demonslayer/gyomei_crying.png",
-                "assets/images/characters/demonslayer/gyomei_stone_breathing.png",
-                "assets/images/characters/demonslayer/gyomei_weapon.png",
-                "assets/images/characters/demonslayer/gyomei_serious.png",
-                "assets/images/characters/demonslayer/gyomei_orphans.png"
+                "assets/images/characters/demonslayer/gyomei/image_0001.png",
+                "assets/images/characters/demonslayer/gyomei/image_0002.png"
               ]
             },
             {
@@ -1814,12 +1844,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/muichiro_01.png",
-                "assets/images/characters/demonslayer/muichiro_distant.png",
-                "assets/images/characters/demonslayer/muichiro_mist_breathing.png",
-                "assets/images/characters/demonslayer/muichiro_mark.png",
-                "assets/images/characters/demonslayer/muichiro_memory.png",
-                "assets/images/characters/demonslayer/muichiro_twin.png"
+                "assets/images/characters/demonslayer/muichiro/image_0001.png",
+                "assets/images/characters/demonslayer/muichiro/image_0002.png"
               ]
             },
             {
@@ -1895,12 +1921,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/kokushibo_01.png",
-                "assets/images/characters/demonslayer/kokushibo_serious.png",
-                "assets/images/characters/demonslayer/kokushibo_moon_breathing.png",
-                "assets/images/characters/demonslayer/kokushibo_multiple_arms.png",
-                "assets/images/characters/demonslayer/kokushibo_human.png",
-                "assets/images/characters/demonslayer/kokushibo_final.png"
+                "assets/images/characters/demonslayer/kokushibo/image_0001.png",
+                "assets/images/characters/demonslayer/kokushibo/image_0002.png"
               ]
             },
             {
@@ -1975,12 +1997,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/doma_01.png",
-                "assets/images/characters/demonslayer/doma_smile.png",
-                "assets/images/characters/demonslayer/doma_ice_art.png",
-                "assets/images/characters/demonslayer/doma_cult.png",
-                "assets/images/characters/demonslayer/doma_fighting.png",
-                "assets/images/characters/demonslayer/doma_serious.png"
+                "assets/images/characters/demonslayer/doma/image_0001.png",
+                "assets/images/characters/demonslayer/doma/image_0002.png"
               ]
             },
             {
@@ -2055,12 +2073,11 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/akaza_01.png",
-                "assets/images/characters/demonslayer/akaza_fighting.png",
-                "assets/images/characters/demonslayer/akaza_compass_needle.png",
-                "assets/images/characters/demonslayer/akaza_martial_arts.png",
-                "assets/images/characters/demonslayer/akaza_human.png",
-                "assets/images/characters/demonslayer/akaza_final.png"
+                "assets/images/characters/demonslayer/akaza/image_0001.png",
+                "assets/images/characters/demonslayer/akaza/image_0002.png",
+                "assets/images/characters/demonslayer/akaza/image_0003.png",
+                "assets/images/characters/demonslayer/akaza/image_0004.png",
+                "assets/images/characters/demonslayer/akaza/image_0005.png"
               ]
             },
             {
@@ -2135,11 +2152,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/hantengu_main.png",
-                "assets/images/characters/demonslayer/hantengu_clones.png",
-                "assets/images/characters/demonslayer/hantengu_zohakuten.png",
-                "assets/images/characters/demonslayer/hantengu_final.png",
-                "assets/images/characters/demonslayer/hantengu_human.png"
+                "assets/images/characters/demonslayer/hantengu/image_0001.png",
+                "assets/images/characters/demonslayer/hantengu/image_0002.png"
               ]
             },
             {
@@ -2214,11 +2228,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/gyokko_pot.png",
-                "assets/images/characters/demonslayer/gyokko_art.png",
-                "assets/images/characters/demonslayer/gyokko_transport.png",
-                "assets/images/characters/demonslayer/gyokko_dragon_fish.png",
-                "assets/images/characters/demonslayer/gyokko_defeat.png"
+                "assets/images/characters/demonslayer/gyokko/image_0001.png",
+                "assets/images/characters/demonslayer/gyokko/image_0002.png"
               ]
             },
             {
@@ -2293,11 +2304,9 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/daki_beautiful.png",
-                "assets/images/characters/demonslayer/gyutaro_grotesque.png",
-                "assets/images/characters/demonslayer/daki_obi.png",
-                "assets/images/characters/demonslayer/gyutaro_sickles.png",
-                "assets/images/characters/demonslayer/siblings_together.png"
+                "assets/images/characters/demonslayer/gyutaro_daki/image_0001.png",
+                "assets/images/characters/demonslayer/gyutaro_daki/image_0001.png",
+                "assets/images/characters/demonslayer/gyutaro_daki/image_0003.png"
               ]
             },
             {
@@ -2372,11 +2381,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/enmu_gentle.png",
-                "assets/images/characters/demonslayer/enmu_dream.png",
-                "assets/images/characters/demonslayer/enmu_train.png",
-                "assets/images/characters/demonslayer/enmu_monster.png",
-                "assets/images/characters/demonslayer/enmu_defeat.png"
+                "assets/images/characters/demonslayer/enmu/image_0001.png",
+                "assets/images/characters/demonslayer/enmu/image_0002.png"
               ]
             },
             {
@@ -2449,11 +2455,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/rui_child.png",
-                "assets/images/characters/demonslayer/rui_threads.png",
-                "assets/images/characters/demonslayer/rui_family.png",
-                "assets/images/characters/demonslayer/rui_web.png",
-                "assets/images/characters/demonslayer/rui_memory.png"
+                "assets/images/characters/demonslayer/rui/image_0001.png",
+                "assets/images/characters/demonslayer/rui/image_0002.png"
               ]
             },
             {
@@ -2536,11 +2539,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/muzan_human.jpeg",
-                "assets/images/characters/demonslayer/muzan_true_form.png",
-                "assets/images/characters/demonslayer/muzan_shapeshift.png",
-                "assets/images/characters/demonslayer/muzan_demon_king.png",
-                "assets/images/characters/demonslayer/muzan_final.png"
+                "assets/images/characters/demonslayer/muzan/image_0001.jpeg",
+                "assets/images/characters/demonslayer/muzan/image_0002.png"
               ]
             },
             {
@@ -2615,11 +2615,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/kagaya_gentle.png",
-                "assets/images/characters/demonslayer/kagaya_family.png",
-                "assets/images/characters/demonslayer/kagaya_curse.png",
-                "assets/images/characters/demonslayer/kagaya_final.png",
-                "assets/images/characters/demonslayer/kagaya_legacy.png"
+                "assets/images/characters/demonslayer/kagaya/image_0001.png",
+                "assets/images/characters/demonslayer/kagaya/image_0002.png"
               ]
             },
             {
@@ -2694,11 +2691,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/amane_kagaya.png",
-                "assets/images/characters/demonslayer/amane_children.png",
-                "assets/images/characters/demonslayer/amane_estate.png",
-                "assets/images/characters/demonslayer/amane_strong.png",
-                "assets/images/characters/demonslayer/amane_legacy.png"
+                "assets/images/characters/demonslayer/amane/image_0001.png",
+                "assets/images/characters/demonslayer/amane/image_0002.png"
               ]
             },
             {
@@ -2773,11 +2767,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/kiriya_young.png",
-                "assets/images/characters/demonslayer/kiriya_leader.png",
-                "assets/images/characters/demonslayer/kiriya_twin.png",
-                "assets/images/characters/demonslayer/kiriya_command.png",
-                "assets/images/characters/demonslayer/kiriya_future.png"
+                "assets/images/characters/demonslayer/kiriya/image_0001.png",
+                "assets/images/characters/demonslayer/kiriya/image_0002.png"
               ]
             },
             {
@@ -2852,11 +2843,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/kanao_emotionless.png",
-                "assets/images/characters/demonslayer/kanao_flower_breathing.png",
-                "assets/images/characters/demonslayer/kanao_coin.png",
-                "assets/images/characters/demonslayer/kanao_emotional.png",
-                "assets/images/characters/demonslayer/kanao_future.png"
+                "assets/images/characters/demonslayer/kanao/image_0001.png",
+                "assets/images/characters/demonslayer/kanao/image_0002.png"
               ]
             },
             {
@@ -2931,11 +2919,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/genya_angry.png",
-                "assets/images/characters/demonslayer/genya_gun.png",
-                "assets/images/characters/demonslayer/genya_demon_eat.png",
-                "assets/images/characters/demonslayer/genya_transformation.png",
-                "assets/images/characters/demonslayer/genya_brothers.png"
+                "assets/images/characters/demonslayer/genya/image_0001.png",
+                "assets/images/characters/demonslayer/genya/image_0002.png"
               ]
             },
             {
@@ -3010,11 +2995,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/murata_normal.png",
-                "assets/images/characters/demonslayer/murata_water.png",
-                "assets/images/characters/demonslayer/murata_survival.png",
-                "assets/images/characters/demonslayer/murata_team.png",
-                "assets/images/characters/demonslayer/murata_final.png"
+                "assets/images/characters/demonslayer/murata/image_0001.png",
+                "assets/images/characters/demonslayer/murata/image_0002.png"
               ]
             },
             {
@@ -3097,11 +3079,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/yoriichi_serious.jpeg",
-                "assets/images/characters/demonslayer/yoriichi_sun_breathing.png",
-                "assets/images/characters/demonslayer/yoriichi_muzan.png",
-                "assets/images/characters/demonslayer/yoriichi_young.png",
-                "assets/images/characters/demonslayer/yoriichi_legend.png"
+                "assets/images/characters/demonslayer/yoriichi/image_0001.jpeg",
+                "assets/images/characters/demonslayer/yoriichi/image_0002.png"
               ]
             },
             {
@@ -3177,11 +3156,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/tamayo_kind.png",
-                "assets/images/characters/demonslayer/tamayo_medical.png",
-                "assets/images/characters/demonslayer/tamayo_yushiro.png",
-                "assets/images/characters/demonslayer/tamayo_research.png",
-                "assets/images/characters/demonslayer/tamayo_sacrifice.png"
+                "assets/images/characters/demonslayer/tamayo/image_0001.png",
+                "assets/images/characters/demonslayer/tamayo/image_0002.png"
               ]
             },
             {
@@ -3256,11 +3232,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/demonslayer/yushiro_annoyed.png",
-                "assets/images/characters/demonslayer/yushiro_illusions.png",
-                "assets/images/characters/demonslayer/yushiro_tamayo.png",
-                "assets/images/characters/demonslayer/yushiro_protection.png",
-                "assets/images/characters/demonslayer/yushiro_future.png"
+                "assets/images/characters/demonslayer/yushiro/image_0001.png",
+                "assets/images/characters/demonslayer/yushiro/image_0002.png"
               ]
             }
           ]
@@ -3333,10 +3306,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/thor/thor_resting.png",
-                "assets/images/characters/ror/thor/thor_awakening.png",
-                "assets/images/characters/ror/thor/thor_mjolnir_true.png",
-                "assets/images/characters/ror/thor/thor_victory.png"
+                "assets/images/characters/ror/thor/image_0001.png",
+                "assets/images/characters/ror/thor/image_0002.png"
               ]
             },
             {
@@ -3403,10 +3374,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/lubu/lubu_riding.png",
-                "assets/images/characters/ror/lubu/lubu_sky_piercer.png",
-                "assets/images/characters/ror/lubu/lubu_sky_eater.png",
-                "assets/images/characters/ror/lubu/lubu_final_stand.png"
+                "assets/images/characters/ror/lubu/image_0001.png",
+                "assets/images/characters/ror/lubu/image_0002.png"
               ]
             },
             {
@@ -3473,10 +3442,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/zeus/zeus_old.png",
-                "assets/images/characters/ror/zeus/zeus_serious.png",
-                "assets/images/characters/ror/zeus/zeus_adamas.png",
-                "assets/images/characters/ror/zeus/zeus_true_form.png"
+                "assets/images/characters/ror/zeus/image_0001.png",
+                "assets/images/characters/ror/zeus/image_0002.png"
               ]
             },
             {
@@ -3543,10 +3510,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/adam/adam_casual.png",
-                "assets/images/characters/ror/adam/adam_fighting.png",
-                "assets/images/characters/ror/adam/adam_eyes_active.png",
-                "assets/images/characters/ror/adam/adam_final_stand.png"
+                "assets/images/characters/ror/adam/image_0001.png",
+                "assets/images/characters/ror/adam/image_0002.png"
               ]
             },
             {
@@ -3613,10 +3578,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/kojiro/kojiro_meditating.png",
-                "assets/images/characters/ror/kojiro/kojiro_analyzing.png",
-                "assets/images/characters/ror/kojiro/kojiro_swallow.png",
-                "assets/images/characters/ror/kojiro/kojiro_victory.png"
+                "assets/images/characters/ror/kojiro/image_0001.png",
+                "assets/images/characters/ror/kojiro/image_0002.png"
               ]
             },
             {
@@ -3683,10 +3646,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/poseidon/poseidon_contempt.png",
-                "assets/images/characters/ror/poseidon/poseidon_trident.png",
-                "assets/images/characters/ror/poseidon/poseidon_40day.png",
-                "assets/images/characters/ror/poseidon/poseidon_amphitrite.png"
+                "assets/images/characters/ror/poseidon/image_0001.png",
+                "assets/images/characters/ror/poseidon/image_0002.png"
               ]
             },
             {
@@ -3753,10 +3714,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/jack/jack_gentleman.png",
-                "assets/images/characters/ror/jack/jack_madness.png",
-                "assets/images/characters/ror/jack/jack_pandora.png",
-                "assets/images/characters/ror/jack/jack_final_trick.png"
+                "assets/images/characters/ror/jack/image_0001.png",
+                "assets/images/characters/ror/jack/image_0002.png"
               ]
             },
             {
@@ -3823,10 +3782,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/hercules/hercules_human.png",
-                "assets/images/characters/ror/hercules/hercules_labors.png",
-                "assets/images/characters/ror/hercules/hercules_god_form.png",
-                "assets/images/characters/ror/hercules/hercules_final_sacrifice.png"
+                "assets/images/characters/ror/hercules/image_0001.png",
+                "assets/images/characters/ror/hercules/image_0002.png"
               ]
             },
             {
@@ -3893,10 +3850,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/raiden/raiden_entrance.png",
-                "assets/images/characters/ror/raiden/raiden_sumo.png",
-                "assets/images/characters/ror/raiden/raiden_yatagarasu.png",
-                "assets/images/characters/ror/raiden/raiden_final_bout.png"
+                "assets/images/characters/ror/raiden/image_0001.png",
+                "assets/images/characters/ror/raiden/image_0002.png"
               ]
             },
             {
@@ -3963,10 +3918,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/shiva/shiva_meditating.png",
-                "assets/images/characters/ror/shiva/shiva_dancing.png",
-                "assets/images/characters/ror/shiva/shiva_tandava.png",
-                "assets/images/characters/ror/shiva/shiva_true_form.png"
+                "assets/images/characters/ror/shiva/image_0001.png",
+                "assets/images/characters/ror/shiva/image_0002.png"
               ]
             },
             {
@@ -4033,10 +3986,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/buddha/buddha_meditating.png",
-                "assets/images/characters/ror/buddha/buddha_enlightened.png",
-                "assets/images/characters/ror/buddha/buddha_nirvana_strike.png",
-                "assets/images/characters/ror/buddha/buddha_true_form.png"
+                "assets/images/characters/ror/buddha/image_0001.png",
+                "assets/images/characters/ror/buddha/image_0002.png"
               ]
             },
             {
@@ -4103,10 +4054,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/qin/qin_imperial.png",
-                "assets/images/characters/ror/qin/qin_terracotta.png",
-                "assets/images/characters/ror/qin/qin_unification_strike.png",
-                "assets/images/characters/ror/qin/qin_dragon_form.png"
+                "assets/images/characters/ror/qin/image_0001.png",
+                "assets/images/characters/ror/qin/image_0002.png"
               ]
             },
             {
@@ -4173,10 +4122,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/tesla/tesla_lab.png",
-                "assets/images/characters/ror/tesla/tesla_lightning.png",
-                "assets/images/characters/ror/tesla/tesla_thunderbolt.png",
-                "assets/images/characters/ror/tesla/tesla_true_form.png"
+                "assets/images/characters/ror/tesla/image_0001.png",
+                "assets/images/characters/ror/tesla/image_0002.png"
               ]
             },
             {
@@ -4243,10 +4190,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/leonidas/leonidas_phalanx.png",
-                "assets/images/characters/ror/leonidas/leonidas_shield.png",
-                "assets/images/characters/ror/leonidas/leonidas_spear.png",
-                "assets/images/characters/ror/leonidas/leonidas_king.png"
+                "assets/images/characters/ror/leonidas/image_0001.png",
+                "assets/images/characters/ror/leonidas/image_0002.png"
               ]
             },
             {
@@ -4313,10 +4258,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/okita/okita_standing.png",
-                "assets/images/characters/ror/okita/okita_sandanzuki.png",
-                "assets/images/characters/ror/okita/okita_shinsengumi.png",
-                "assets/images/characters/ror/okita/okita_true_form.png"
+                "assets/images/characters/ror/okita/image_0001.png",
+                "assets/images/characters/ror/okita/image_0002.png"
               ]
             },
             {
@@ -4383,10 +4326,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/simo/simo_sniper.png",
-                "assets/images/characters/ror/simo/simo_winter.png",
-                "assets/images/characters/ror/simo/simo_white_death.png",
-                "assets/images/characters/ror/simo/simo_true_form.png"
+                "assets/images/characters/ror/simo/image_0001.png",
+                "assets/images/characters/ror/simo/image_0002.png"
               ]
             },
             {
@@ -4453,10 +4394,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/kintoki/kintoki_child.png",
-                "assets/images/characters/ror/kintoki/kintoki_golden.png",
-                "assets/images/characters/ror/kintoki/kintoki_axe.png",
-                "assets/images/characters/ror/kintoki/kintoki_oni.png"
+                "assets/images/characters/ror/kintoki/image_0001.png",
+                "assets/images/characters/ror/kintoki/image_0002.png"
               ]
             },
             {
@@ -4523,10 +4462,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/nostradamus/nostradamus_prophecy.png",
-                "assets/images/characters/ror/nostradamus/nostradamus_seer.png",
-                "assets/images/characters/ror/nostradamus/nostradamus_quatrain.png",
-                "assets/images/characters/ror/nostradamus/nostradamus_true_form.png"
+                "assets/images/characters/ror/nostradamus/image_0001.png",
+                "assets/images/characters/ror/nostradamus/image_0002.png"
               ]
             },
             {
@@ -4593,10 +4530,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/rasputin/rasputin_monk.png",
-                "assets/images/characters/ror/rasputin/rasputin_unkillable.png",
-                "assets/images/characters/ror/rasputin/rasputin_survival.png",
-                "assets/images/characters/ror/rasputin/rasputin_true_form.png"
+                "assets/images/characters/ror/rasputin/image_0001.png",
+                "assets/images/characters/ror/rasputin/image_0002.png"
               ]
             },
             {
@@ -4663,10 +4598,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/zerofuku/zerofuku_misery.png",
-                "assets/images/characters/ror/zerofuku/zerofuku_despair.png",
-                "assets/images/characters/ror/zerofuku/zerofuku_weapon.png",
-                "assets/images/characters/ror/zerofuku/zerofuku_true_form.png"
+                "assets/images/characters/ror/zerofuku/image_0001.png",
+                "assets/images/characters/ror/zerofuku/image_0002.png"
               ]
             },
             {
@@ -4733,10 +4666,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/hades/hades_king.png",
-                "assets/images/characters/ror/hades/hades_bident.png",
-                "assets/images/characters/ror/hades/hades_underworld.png",
-                "assets/images/characters/ror/hades/hades_true_form.png"
+                "assets/images/characters/ror/hades/image_0001.png",
+                "assets/images/characters/ror/hades/image_0002.png"
               ]
             },
             {
@@ -4803,10 +4734,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/beelzebub/beelzebub_scientist.png",
-                "assets/images/characters/ror/beelzebub/beelzebub_corruption.png",
-                "assets/images/characters/ror/beelzebub/beelzebub_experiment.png",
-                "assets/images/characters/ror/beelzebub/beelzebub_true_form.png"
+                "assets/images/characters/ror/beelzebub/image_0001.png",
+                "assets/images/characters/ror/beelzebub/image_0002.png"
               ]
             },
             {
@@ -4873,10 +4802,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/apollo/apollo_archer.png",
-                "assets/images/characters/ror/apollo/apollo_light.png",
-                "assets/images/characters/ror/apollo/apollo_solar.png",
-                "assets/images/characters/ror/apollo/apollo_true_form.png"
+                "assets/images/characters/ror/apollo/image_0001.png",
+                "assets/images/characters/ror/apollo/image_0002.png"
               ]
             },
             {
@@ -4943,10 +4870,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/susanoo/susanoo_storm.png",
-                "assets/images/characters/ror/susanoo/susanoo_sword.png",
-                "assets/images/characters/ror/susanoo/susanoo_tempest.png",
-                "assets/images/characters/ror/susanoo/susanoo_true_form.png"
+                "assets/images/characters/ror/susanoo/image_0001.png",
+                "assets/images/characters/ror/susanoo/image_0002.png"
               ]
             },
             {
@@ -5013,10 +4938,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/loki/loki_trickster.png",
-                "assets/images/characters/ror/loki/loki_shapeshift.png",
-                "assets/images/characters/ror/loki/loki_illusions.png",
-                "assets/images/characters/ror/loki/loki_true_form.png"
+                "assets/images/characters/ror/loki/image_0001.png",
+                "assets/images/characters/ror/loki/image_0002.png"
               ]
             },
             {
@@ -5083,10 +5006,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/odin/odin_allfather.png",
-                "assets/images/characters/ror/odin/odin_gungnir.png",
-                "assets/images/characters/ror/odin/odin_runes.png",
-                "assets/images/characters/ror/odin/odin_true_form.png"
+                "assets/images/characters/ror/odin/image_0001.png",
+                "assets/images/characters/ror/odin/image_0002.png"
               ]
             },
             {
@@ -5153,10 +5074,8 @@
                 }
               ],
               "gallery": [
-                "assets/images/characters/ror/anubis/anubis_judge.png",
-                "assets/images/characters/ror/anubis/anubis_scales.png",
-                "assets/images/characters/ror/anubis/anubis_afterlife.png",
-                "assets/images/characters/ror/anubis/anubis_true_form.png"
+                "assets/images/characters/ror/anubis/image_0001.png",
+                "assets/images/characters/ror/anubis/image_0002.png"
               ]
             }
           ]
