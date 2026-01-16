@@ -1156,7 +1156,7 @@
     }
 
     .modal-character-image {
-        height: 300px;
+        height: 100%;
     }
 
     .modal-nav {
@@ -2026,7 +2026,7 @@ img {
     }
 
     .modal-character-image {
-        height: 350px;
+        height: 100%;
     }
 
     .appearance-grid {
@@ -2141,7 +2141,7 @@ img {
     }
 
     .modal-character-image {
-        height: 280px;
+        height: 100%;
     }
 
     .modal-character-info h2 {
@@ -2224,7 +2224,7 @@ img {
     }
 
     .modal-character-image {
-        height: 240px;
+        height: 100%;
     }
 
     #searchInput {
@@ -2245,7 +2245,7 @@ img {
     }
 
     .modal-character-image {
-        height: 250px;
+        height: 100%;
     }
 }
 
