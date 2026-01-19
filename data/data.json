@@ -89,7 +89,9 @@
                 "assets/images/characters/batman/batman/image_0001.jpeg",
                 "assets/images/characters/batman/batman/image_0002.png",
                 "assets/images/characters/batman/batman/image_0003.jpeg",
-                "assets/images/characters/batman/batman/image_0004.jpeg"
+                "assets/images/characters/batman/batman/image_0004.jpeg",
+                "assets/images/characters/batman/batman/image_0005.png",
+                "assets/images/characters/batman/batman/image_0006.png"
               ]
             },
             {
@@ -97,8 +99,15 @@
               "name": "Dick Grayson",
               "rating": 8.5,
               "logo": "assets/images/logos/batman/nightwing_logo.png",
-              "alias": ["Nightwing", "Former Robin", "The Acrobat"],
-              "title": ["Leader of the Titans", "Protector of Blüdhaven"],
+              "alias": [
+                "Nightwing",
+                "Former Robin",
+                "The Acrobat"
+              ],
+              "title": [
+                "Leader of the Titans",
+                "Protector of Blüdhaven"
+              ],
               "appearance": {
                 "head": {
                   "eyes": "Vibrant blue eyes that sparkle with mischievous energy, framed by dark eyebrows that often arch in amusement or concentration. Eyes show both the wisdom of experience and youthful enthusiasm",
@@ -149,7 +158,8 @@
               ],
               "gallery": [
                 "assets/images/characters/batman/nightwing/image_0001.png",
-                "assets/images/characters/batman/nightwing/image_0002.png"
+                "assets/images/characters/batman/nightwing/image_0002.png",
+                "assets/images/characters/batman/nightwing/image_0003.png"
               ]
             },
             {
@@ -157,8 +167,15 @@
               "name": "Selina Kyle",
               "rating": 9,
               "logo": "assets/images/logos/batman/catwoman_logo.png",
-              "alias": ["Catwoman", "The Cat", "Princess of Plunder"],
-              "title": ["Master Thief", "Protector of Gotham's East End"],
+              "alias": [
+                "Catwoman",
+                "The Cat",
+                "Princess of Plunder"
+              ],
+              "title": [
+                "Master Thief",
+                "Protector of Gotham's East End"
+              ],
               "appearance": {
                 "head": {
                   "eyes": "Piercing emerald green eyes that seem to change color in different light, always alert and calculating. Eyes are almond-shaped with naturally long lashes that require no enhancement",
@@ -297,7 +314,9 @@
                 "assets/images/characters/superman/superman/image_0003.jpeg",
                 "assets/images/characters/superman/superman/image_0004.jpeg",
                 "assets/images/characters/superman/superman/image_0005.jpeg",
-                "assets/images/characters/superman/superman/image_0006.jpeg"
+                "assets/images/characters/superman/superman/image_0006.jpeg",
+                "assets/images/characters/superman/superman/image_0007.jpeg",
+                "assets/images/characters/superman/superman/image_0008.jpeg"
               ]
             }
           ]
@@ -402,7 +421,11 @@
               "name": "Tony Stark",
               "rating": 9.5,
               "logo": "assets/images/logos/ironman/ironman_logo.png",
-              "alias": ["Iron Man", "The Invincible Iron Man", "Shellhead"],
+              "alias": [
+                "Iron Man",
+                "The Invincible Iron Man",
+                "Shellhead"
+              ],
               "title": [
                 "CEO of Stark Industries",
                 "Genius Billionaire Playboy Philanthropist",
@@ -471,7 +494,11 @@
               "name": "Steve Rogers",
               "rating": 9,
               "logo": "assets/images/logos/captainamerica/captainamerica_logo.png",
-              "alias": ["Captain America", "Cap", "The Sentinel of Liberty"],
+              "alias": [
+                "Captain America",
+                "Cap",
+                "The Sentinel of Liberty"
+              ],
               "title": [
                 "Living Legend",
                 "First Avenger",
@@ -535,7 +562,11 @@
               "name": "Thor Odinson",
               "rating": 9.5,
               "logo": "assets/images/logos/thor/thor_logo.png",
-              "alias": ["God of Thunder", "The Mighty Thor", "Odinson"],
+              "alias": [
+                "God of Thunder",
+                "The Mighty Thor",
+                "Odinson"
+              ],
               "title": [
                 "Prince of Asgard",
                 "Protector of the Nine Realms",
@@ -911,7 +942,11 @@
                 "assets/images/characters/demonslayer/tanjiro/image_0003.png",
                 "assets/images/characters/demonslayer/tanjiro/image_0004.png",
                 "assets/images/characters/demonslayer/tanjiro/image_0005.png",
-                "assets/images/characters/demonslayer/tanjiro/image_0006.png"
+                "assets/images/characters/demonslayer/tanjiro/image_0006.png",
+                "assets/images/characters/demonslayer/tanjiro/image_0007.png",
+                "assets/images/characters/demonslayer/tanjiro/image_0008.png",
+                "assets/images/characters/demonslayer/tanjiro/image_0009.png",
+                "assets/images/characters/demonslayer/tanjiro/image_0010.png"
               ]
             },
             {
@@ -991,7 +1026,9 @@
                 "assets/images/characters/demonslayer/nezuko/image_0003.png",
                 "assets/images/characters/demonslayer/nezuko/image_0004.png",
                 "assets/images/characters/demonslayer/nezuko/image_0005.png",
-                "assets/images/characters/demonslayer/nezuko/image_0006.png"
+                "assets/images/characters/demonslayer/nezuko/image_0006.png",
+                "assets/images/characters/demonslayer/nezuko/image_0007.png",
+                "assets/images/characters/demonslayer/nezuko/image_0008.png"
               ]
             },
             {
@@ -1796,7 +1833,9 @@
                 "assets/images/characters/demonslayer/gyomei/image_0003.png",
                 "assets/images/characters/demonslayer/gyomei/image_0004.png",
                 "assets/images/characters/demonslayer/gyomei/image_0005.png",
-                "assets/images/characters/demonslayer/gyomei/image_0006.png"
+                "assets/images/characters/demonslayer/gyomei/image_0006.png",
+                "assets/images/characters/demonslayer/gyomei/image_0007.png",
+                "assets/images/characters/demonslayer/gyomei/image_0008.png"
               ]
             },
             {
@@ -2347,7 +2386,11 @@
               ],
               "gallery": [
                 "assets/images/characters/demonslayer/gyutaro_daki/image_0001.png",
-                "assets/images/characters/demonslayer/gyutaro_daki/image_0002.png"
+                "assets/images/characters/demonslayer/gyutaro_daki/image_0002.png",
+                "assets/images/characters/demonslayer/gyutaro_daki/image_0003.png",
+                "assets/images/characters/demonslayer/gyutaro_daki/image_0004.png",
+                "assets/images/characters/demonslayer/gyutaro_daki/image_0005.png",
+                "assets/images/characters/demonslayer/gyutaro_daki/image_0006.png"
               ]
             },
             {
@@ -2584,7 +2627,9 @@
                 "assets/images/characters/demonslayer/muzan/image_0002.png",
                 "assets/images/characters/demonslayer/muzan/image_0003.png",
                 "assets/images/characters/demonslayer/muzan/image_0004.png",
-                "assets/images/characters/demonslayer/muzan/image_0005.png"
+                "assets/images/characters/demonslayer/muzan/image_0005.png",
+                "assets/images/characters/demonslayer/muzan/image_0006.png",
+                "assets/images/characters/demonslayer/muzan/image_0007.png"
               ]
             },
             {
@@ -3497,7 +3542,11 @@
               "name": "Adam",
               "rating": 9.9,
               "logo": "assets/images/logos/ror/adam_logo.png",
-              "alias": ["The First Man", "Father of Humanity", "God's Mirror"],
+              "alias": [
+                "The First Man",
+                "Father of Humanity",
+                "God's Mirror"
+              ],
               "title": [
                 "Original Human",
                 "Eve's Partner",
@@ -3629,7 +3678,11 @@
               "name": "Poseidon",
               "rating": 9.1,
               "logo": "assets/images/logos/ror/poseidon_logo.png",
-              "alias": ["God of the Seas", "The Untouchable", "Perfect God"],
+              "alias": [
+                "God of the Seas",
+                "The Untouchable",
+                "Perfect God"
+              ],
               "title": [
                 "Ruler of Oceans",
                 "Olympian Perfection Incarnate",
@@ -3693,7 +3746,11 @@
               "name": "Jack the Ripper",
               "rating": 9.5,
               "logo": "assets/images/logos/ror/jack_logo.png",
-              "alias": ["The Ripper", "London's Horror", "Genius of Malice"],
+              "alias": [
+                "The Ripper",
+                "London's Horror",
+                "Genius of Malice"
+              ],
               "title": [
                 "Most Notorious Serial Killer",
                 "Master of Deception",
@@ -3896,7 +3953,11 @@
               "name": "Shiva",
               "rating": 9.4,
               "logo": "assets/images/logos/ror/shiva_logo.png",
-              "alias": ["The Destroyer", "Lord of Dance", "Three-Eyed God"],
+              "alias": [
+                "The Destroyer",
+                "Lord of Dance",
+                "Three-Eyed God"
+              ],
               "title": [
                 "Hindu God of Destruction",
                 "Trimurti Member",
@@ -4033,7 +4094,11 @@
               "name": "Qin Shi Huang",
               "rating": 8.9,
               "logo": "assets/images/logos/ror/qin_logo.png",
-              "alias": ["First Emperor", "Dragon Emperor", "Unifier of China"],
+              "alias": [
+                "First Emperor",
+                "Dragon Emperor",
+                "Unifier of China"
+              ],
               "title": [
                 "First Emperor of Unified China",
                 "Heavenly Mandate Bearer",
@@ -4304,7 +4369,11 @@
               "name": "Simo Häyhä",
               "rating": 9.0,
               "logo": "assets/images/logos/ror/simo_logo.png",
-              "alias": ["White Death", "Winter Ghost", "Greatest Sniper"],
+              "alias": [
+                "White Death",
+                "Winter Ghost",
+                "Greatest Sniper"
+              ],
               "title": [
                 "Finnish Sniper Legend",
                 "Winter War Hero",
@@ -4368,7 +4437,11 @@
               "name": "Sakata Kintoki",
               "rating": 8.8,
               "logo": "assets/images/logos/ror/kintoki_logo.png",
-              "alias": ["Golden Boy", "Child of Strength", "Mountain Demon"],
+              "alias": [
+                "Golden Boy",
+                "Child of Strength",
+                "Mountain Demon"
+              ],
               "title": [
                 "Folklore Superhuman Child",
                 "Minamoto no Yorimitsu's Retainer",
@@ -4500,7 +4573,11 @@
               "name": "Grigori Rasputin",
               "rating": 9.4,
               "logo": "assets/images/logos/ror/rasputin_logo.png",
-              "alias": ["Mad Monk", "Undying Holy Man", "Russian Mystery"],
+              "alias": [
+                "Mad Monk",
+                "Undying Holy Man",
+                "Russian Mystery"
+              ],
               "title": [
                 "Russian Mystic and Survivor",
                 "Master of Endurance",
@@ -4700,7 +4777,11 @@
               "name": "Beelzebub",
               "rating": 9.8,
               "logo": "assets/images/logos/ror/beelzebub_logo.png",
-              "alias": ["Lord of the Flies", "Prince of Demons", "The Accuser"],
+              "alias": [
+                "Lord of the Flies",
+                "Prince of Demons",
+                "The Accuser"
+              ],
               "title": [
                 "Demon Lord of Gluttony",
                 "Supreme Devil Scientist",
@@ -4764,7 +4845,11 @@
               "name": "Apollo",
               "rating": 9.3,
               "logo": "assets/images/logos/ror/apollo_logo.png",
-              "alias": ["God of the Sun", "The Archer", "Lord of Light"],
+              "alias": [
+                "God of the Sun",
+                "The Archer",
+                "Lord of Light"
+              ],
               "title": [
                 "Greek God of Sun and Archery",
                 "Patron of Arts and Prophecy",
@@ -4828,7 +4913,11 @@
               "name": "Susano'o no Mikoto",
               "rating": 9.4,
               "logo": "assets/images/logos/ror/susanoo_logo.png",
-              "alias": ["Storm God", "Impetuous Male", "Slayer of Orochi"],
+              "alias": [
+                "Storm God",
+                "Impetuous Male",
+                "Slayer of Orochi"
+              ],
               "title": [
                 "Shinto God of Storms and Sea",
                 "Brother of Amaterasu",
@@ -4892,7 +4981,11 @@
               "name": "Loki",
               "rating": 9.6,
               "logo": "assets/images/logos/ror/loki_logo.png",
-              "alias": ["God of Mischief", "The Trickster", "Shape-Shifter"],
+              "alias": [
+                "God of Mischief",
+                "The Trickster",
+                "Shape-Shifter"
+              ],
               "title": [
                 "Norse God of Mischief",
                 "Master of Deception",
@@ -4956,7 +5049,11 @@
               "name": "Odin",
               "rating": 9.9,
               "logo": "assets/images/logos/ror/odin_logo.png",
-              "alias": ["All-Father", "One-Eyed God", "Ruler of Asgard"],
+              "alias": [
+                "All-Father",
+                "One-Eyed God",
+                "Ruler of Asgard"
+              ],
               "title": [
                 "Supreme Norse God",
                 "God of Wisdom and War",
