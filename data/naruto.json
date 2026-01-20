@@ -2,76 +2,148 @@
     "id": "anime-001",
     "name": "Naruto Series",
     "characters": [
-        {
-            "id": "anime-naruto-001",
-            "name": "Naruto Uzumaki",
-            "rating": 9.5,
-            "logo": "assets/images/logos/naruto/naruto_logo.png",
-            "alias": [
+            {
+              "id": "anime-naruto-001",
+              "name": "Naruto Uzumaki",
+              "rating": 9.5,
+              "logo": "assets/images/logos/naruto/naruto_logo.png",
+              "alias": [
                 "Number One Hyperactive Knucklehead Ninja",
                 "Child of Prophecy",
                 "Seventh Hokage"
-            ],
-            "title": [
+              ],
+              "title": [
                 "Hokage of Konoha",
                 "Jinchuriki of Kurama",
                 "Hero of the Fourth Great Ninja War"
-            ],
-            "appearance": {
+              ],
+              "appearance": {
                 "head": {
-                    "eyes": "Bright blue eyes that shift to fox-like slits when accessing Kurama's chakra, radiating determination and boundless energy. Eyes contain the wisdom of both youthful innocence and hard-won experience, often sparkling with mischief or narrowing in fierce concentration",
-                    "nose": "Small, slightly upturned nose with faint freckles across bridge. Can sniff out clones and transformations due to enhanced sensory abilities from sage training",
-                    "ears": "Normal human ears that are surprisingly attuned to negative emotions due to childhood experiences. Earlobes slightly elongated from occasionally wearing heavy headbands",
-                    "extra_facial_features": "Three distinctive whisker-like marks on each cheek from Kurama's chakra. Spiky blond hair that defies gravity, with longer bangs framing his face. Wide, infectious grin that shows slightly pointed canines. Tanned skin from constant outdoor training. Forehead protector with Konoha symbol worn proudly"
+                  "eyes": "Bright blue eyes that shift to fox-like slits when accessing Kurama's chakra, radiating determination and boundless energy. Eyes contain the wisdom of both youthful innocence and hard-won experience, often sparkling with mischief or narrowing in fierce concentration",
+                  "nose": "Small, slightly upturned nose with faint freckles across bridge. Can sniff out clones and transformations due to enhanced sensory abilities from sage training",
+                  "ears": "Normal human ears that are surprisingly attuned to negative emotions due to childhood experiences. Earlobes slightly elongated from occasionally wearing heavy headbands",
+                  "extra_facial_features": "Three distinctive whisker-like marks on each cheek from Kurama's chakra. Spiky blond hair that defies gravity, with longer bangs framing his face. Wide, infectious grin that shows slightly pointed canines. Tanned skin from constant outdoor training. Forehead protector with Konoha symbol worn proudly"
                 },
                 "body": {
-                    "chest": "Lean, athletic build developed through years of intense ninja training. Chest shows defined musculature (42 inches) without bulk, optimized for speed and agility. Scar from Sasuke's Chidori visible on left pectoral. Skin shows numerous training scars that tell stories of battles won",
-                    "arms": "Well-defined arms with wiry strength. Biceps (15 inches) show perfect balance between power and flexibility. Forearms crisscrossed with scars from rasengan training. Hands are calloused but surprisingly dexterous for complex hand signs"
+                  "chest": "Lean, athletic build developed through years of intense ninja training. Chest shows defined musculature (42 inches) without bulk, optimized for speed and agility. Scar from Sasuke's Chidori visible on left pectoral. Skin shows numerous training scars that tell stories of battles won",
+                  "arms": "Well-defined arms with wiry strength. Biceps (15 inches) show perfect balance between power and flexibility. Forearms crisscrossed with scars from rasengan training. Hands are calloused but surprisingly dexterous for complex hand signs"
                 },
                 "lower_body": {
-                    "legs": "Powerful legs built for incredible speed and jumping ability. Thighs (22 inches) show explosive power development. Calves are perfectly toned from tree-walking practice. Can leap between trees and buildings with effortless grace"
+                  "legs": "Powerful legs built for incredible speed and jumping ability. Thighs (22 inches) show explosive power development. Calves are perfectly toned from tree-walking practice. Can leap between trees and buildings with effortless grace"
                 }
+              },
+              "armor_costume": [
+                {
+                  "head": "Konoha forehead protector with distinctive scratch across symbol. Orange goggles in early years replaced by headband. Can summon toad sage headdress when entering sage mode. Hair remains unhelmeted for maximum mobility"
+                },
+                {
+                  "torso": "Signature orange jumpsuit with blue accents, made of durable shinobi fabric. Black shirt underneath for layering. Flame pattern orange jacket as Hokage. Chest protector can be worn over or under depending on mission"
+                },
+                {
+                  "arms": "No gauntlets, allowing free movement for hand signs. Wrist and forearm guards for kunai storage. Fingerless gloves that allow chakra flow while protecting palms"
+                },
+                {
+                  "legs": "Blue shinobi pants with multiple pockets for tools. Leg warmers for additional protection. Special reinforced sandals that allow chakra adhesion for water and tree walking"
+                },
+                {
+                  "accessories": "Large scroll for summoning jutsu. Multiple kunai and shuriken holsters. Medical pouch with soldier pills. Rasengan training glove for practice"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Rasengan",
+                  "type": "active",
+                  "short_description": "Spiraling sphere of compressed chakra that rotates at cellular level",
+                  "full_description": "Created by Fourth Hokage, perfected by Naruto. Chakra rotation at 1000+ RPM creates devastating drilling force. Can be thrown (Rasenshuriken), made giant (Mega Rasengan), or combined with elemental nature. Mastery allows one-handed formation. Ultimate form can destroy at molecular level",
+                  "image": "naruto_rasengan.png"
+                },
+                {
+                  "name": "Shadow Clone Jutsu",
+                  "type": "active",
+                  "short_description": "Mass production of physical clones with shared consciousness",
+                  "full_description": "Forbidden technique mastered due to immense chakra reserves. Can create thousands of clones simultaneously. Each clone has equal power to original. Experiences transfer back when dispersed. Allows for massive multitasking and training acceleration. Tactical applications include reconnaissance, combat overwhelm, and substitution",
+                  "image": "naruto_clones.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/naruto/image_0001.png",
+                "assets/images/characters/naruto/naruto/image_0002.png",
+                "assets/images/characters/naruto/naruto/image_0003.png",
+                "assets/images/characters/naruto/naruto/image_0004.png",
+                "assets/images/characters/naruto/naruto/image_0005.png",
+                "assets/images/characters/naruto/naruto/image_0006.png",
+                "assets/images/characters/naruto/naruto/image_0007.png"
+              ]
             },
-            "armor_costume": [
-                {
-                    "head": "Konoha forehead protector with distinctive scratch across symbol. Orange goggles in early years replaced by headband. Can summon toad sage headdress when entering sage mode. Hair remains unhelmeted for maximum mobility"
+            {
+              "id": "anime-naruto-002",
+              "name": "Sasuke Uchiha",
+              "rating": 9.4,
+              "logo": "assets/images/logos/naruto/sasuke_logo.png",
+              "alias": [
+                "Last Loyal Uchiha",
+                "Avenger",
+                "Shadow Hokage"
+              ],
+              "title": [
+                "Co-Founder of Konoha's Reform",
+                "Master of the Rinnegan",
+                "Bearer of the Eternal Mangekyo Sharingan"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Onyx black eyes that become crimson with three tomoe when activated, evolving into the Mangekyo and eventually the Rinnegan with concentric circles in the left eye. Eyes hold intense focus, deep-seated pain, and cool calculation. Dark, heavy eyelashes frame them.",
+                  "nose": "Straight, well-defined nose. Keen sense of smell honed for tracking.",
+                  "ears": "Unadorned ears, often hidden by his hair. Piercingly sharp hearing, able to detect subtle shifts in battle.",
+                  "extra_facial_features": "Pale complexion from the Uchiha lineage. Jet-black hair, spiky and unruly, framing a sharp, handsome face. A permanent slight frown or neutral expression, rarely smiling. The Uchiha clan crest is sometimes worn on his collar."
                 },
-                {
-                    "torso": "Signature orange jumpsuit with blue accents, made of durable shinobi fabric. Black shirt underneath for layering. Flame pattern orange jacket as Hokage. Chest protector can be worn over or under depending on mission"
+                "body": {
+                  "chest": "Lean, toned, and athletic build (41 inches), built for speed and precision over brute strength. Carries the scar of his brother's fingertip on his left shoulder. Skin is relatively unmarred due to his evasive fighting style.",
+                  "arms": "Sleek, powerful arms (14.5 inches) optimized for swift swordplay and hand signs. Left arm is a white Zetsu-based prosthetic after losing his original. Hands are slender and dexterous, perfect for lightning-release jutsu."
                 },
-                {
-                    "arms": "No gauntlets, allowing free movement for hand signs. Wrist and forearm guards for kunai storage. Fingerless gloves that allow chakra flow while protecting palms"
-                },
-                {
-                    "legs": "Blue shinobi pants with multiple pockets for tools. Leg warmers for additional protection. Special reinforced sandals that allow chakra adhesion for water and tree walking"
-                },
-                {
-                    "accessories": "Large scroll for summoning jutsu. Multiple kunai and shuriken holsters. Medical pouch with soldier pills. Rasengan training glove for practice"
+                "lower_body": {
+                  "legs": "Long, powerful legs (23 inches) for high-speed movement and agile footwork. Calves are defined for explosive chakra-enhanced leaps. Wears traditional ninja sandals or boots."
                 }
-            ],
-            "abilities": [
+              },
+              "armor_costume": [
                 {
-                    "name": "Rasengan",
-                    "type": "active",
-                    "short_description": "Spiraling sphere of compressed chakra that rotates at cellular level",
-                    "full_description": "Created by Fourth Hokage, perfected by Naruto. Chakra rotation at 1000+ RPM creates devastating drilling force. Can be thrown (Rasenshuriken), made giant (Mega Rasengan), or combined with elemental nature. Mastery allows one-handed formation. Ultimate form can destroy at molecular level",
-                    "image": "naruto_rasengan.png"
+                  "head": "Blue Konoha forehead protector with a deep slash through the symbol, later worn on his arm. As an adult, his hair is shorter and he wears a simple black headband."
                 },
                 {
-                    "name": "Shadow Clone Jutsu",
-                    "type": "active",
-                    "short_description": "Mass production of physical clones with shared consciousness",
-                    "full_description": "Forbidden technique mastered due to immense chakra reserves. Can create thousands of clones simultaneously. Each clone has equal power to original. Experiences transfer back when dispersed. Allows for massive multitasking and training acceleration. Tactical applications include reconnaissance, combat overwhelm, and substitution",
-                    "image": "naruto_clones.png"
+                  "torso": "Signature blue high-collared shirt with the Uchiha fan on the back during Part I. Later, a simple black or grey outfit, often with a cloak. As an adult, a dark travel cloak over a grey outfit."
+                },
+                {
+                  "arms": "White arm warmers or bandages in early years. Later, his prosthetic arm is usually covered by a sleeve. Wears a single purple rope bracelet on his right wrist as an adult."
+                },
+                {
+                  "legs": "Beige or grey pants, often with bandages around the calves. Simple ninja sandals. As a rogue ninja, added rope ties and a sword scabbard at his hip."
+                },
+                {
+                  "accessories": "Kusanagi blade (or other katana) in a back scabbard. Multiple shuriken and kunai pouches. A traveling pack with minimal supplies."
                 }
-            ],
-            "gallery": [
-                "assets/images/characters/naruto/naruto_part1.png",
-                "assets/images/characters/naruto/naruto_shippuden.png",
-                "assets/images/characters/naruto/naruto_sage_mode.png",
-                "assets/images/characters/naruto/naruto_kurama_mode.png",
-                "assets/images/characters/naruto/naruto_hokage.png"
-            ]
-        }
+              ],
+              "abilities": [
+                {
+                  "name": "Chidori / Lightning Cutter",
+                  "type": "active",
+                  "short_description": "High-density lightning chakra focused in the palm, producing a sound like a thousand birds.",
+                  "full_description": "A-rank assassination technique taught by Kakashi. Pierces with extreme speed and precision. Evolved into \"Chidori Sharp Spear,\" \"Chidori Stream,\" and the ultimate \"Kirín\" which summons and guides natural lightning. The pinnacle is \"Lightning Cutter,\" a more refined and powerful version.",
+                  "image": "sasuke_chidori.png"
+                },
+                {
+                  "name": "Sharingan & Rinnegan",
+                  "type": "passive/active",
+                  "short_description": "Doujutsu kekkei genkai granting perception, illusion, and unique spacetime powers.",
+                  "full_description": "Sharingan grants predictive sight, copy ability, and access to genjutsu. Mangekyo unlocks Susano'o, Amaterasu (black flames), and Kagutsuchi (flame control). Eternal Mangekyo prevents blindness. Rinnegan in left eye grants the Six Paths powers, including gravitational control (Amenotejikara), chakra absorption, and planetary devastation.",
+                  "image": "sasuke_sharingan.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/sasuke/image_0001.png",
+                "assets/images/characters/naruto/sasuke/image_0002.png",
+                "assets/images/characters/naruto/sasuke/image_0003.png",
+                "assets/images/characters/naruto/sasuke/image_0004.png"
+              ]
+            }
     ]
 }

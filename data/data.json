@@ -790,7 +790,1013 @@
               ],
               "gallery": [
                 "assets/images/characters/naruto/naruto/image_0001.png",
-                "assets/images/characters/naruto/naruto/image_0002.png"
+                "assets/images/characters/naruto/naruto/image_0002.png",
+                "assets/images/characters/naruto/naruto/image_0003.png",
+                "assets/images/characters/naruto/naruto/image_0004.png",
+                "assets/images/characters/naruto/naruto/image_0005.png",
+                "assets/images/characters/naruto/naruto/image_0006.png",
+                "assets/images/characters/naruto/naruto/image_0007.png"
+              ]
+            },
+            {
+              "id": "anime-naruto-002",
+              "name": "Sasuke Uchiha",
+              "rating": 9.4,
+              "logo": "assets/images/logos/naruto/sasuke_logo.png",
+              "alias": [
+                "Last Loyal Uchiha",
+                "Avenger",
+                "Shadow Hokage"
+              ],
+              "title": [
+                "Co-Founder of Konoha's Reform",
+                "Master of the Rinnegan",
+                "Bearer of the Eternal Mangekyo Sharingan"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Onyx black eyes that become crimson with three tomoe when activated, evolving into the Mangekyo and eventually the Rinnegan with concentric circles in the left eye. Eyes hold intense focus, deep-seated pain, and cool calculation. Dark, heavy eyelashes frame them.",
+                  "nose": "Straight, well-defined nose. Keen sense of smell honed for tracking.",
+                  "ears": "Unadorned ears, often hidden by his hair. Piercingly sharp hearing, able to detect subtle shifts in battle.",
+                  "extra_facial_features": "Pale complexion from the Uchiha lineage. Jet-black hair, spiky and unruly, framing a sharp, handsome face. A permanent slight frown or neutral expression, rarely smiling. The Uchiha clan crest is sometimes worn on his collar."
+                },
+                "body": {
+                  "chest": "Lean, toned, and athletic build (41 inches), built for speed and precision over brute strength. Carries the scar of his brother's fingertip on his left shoulder. Skin is relatively unmarred due to his evasive fighting style.",
+                  "arms": "Sleek, powerful arms (14.5 inches) optimized for swift swordplay and hand signs. Left arm is a white Zetsu-based prosthetic after losing his original. Hands are slender and dexterous, perfect for lightning-release jutsu."
+                },
+                "lower_body": {
+                  "legs": "Long, powerful legs (23 inches) for high-speed movement and agile footwork. Calves are defined for explosive chakra-enhanced leaps. Wears traditional ninja sandals or boots."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Blue Konoha forehead protector with a deep slash through the symbol, later worn on his arm. As an adult, his hair is shorter and he wears a simple black headband."
+                },
+                {
+                  "torso": "Signature blue high-collared shirt with the Uchiha fan on the back during Part I. Later, a simple black or grey outfit, often with a cloak. As an adult, a dark travel cloak over a grey outfit."
+                },
+                {
+                  "arms": "White arm warmers or bandages in early years. Later, his prosthetic arm is usually covered by a sleeve. Wears a single purple rope bracelet on his right wrist as an adult."
+                },
+                {
+                  "legs": "Beige or grey pants, often with bandages around the calves. Simple ninja sandals. As a rogue ninja, added rope ties and a sword scabbard at his hip."
+                },
+                {
+                  "accessories": "Kusanagi blade (or other katana) in a back scabbard. Multiple shuriken and kunai pouches. A traveling pack with minimal supplies."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Chidori / Lightning Cutter",
+                  "type": "active",
+                  "short_description": "High-density lightning chakra focused in the palm, producing a sound like a thousand birds.",
+                  "full_description": "A-rank assassination technique taught by Kakashi. Pierces with extreme speed and precision. Evolved into \"Chidori Sharp Spear,\" \"Chidori Stream,\" and the ultimate \"Kirín\" which summons and guides natural lightning. The pinnacle is \"Lightning Cutter,\" a more refined and powerful version.",
+                  "image": "sasuke_chidori.png"
+                },
+                {
+                  "name": "Sharingan & Rinnegan",
+                  "type": "passive/active",
+                  "short_description": "Doujutsu kekkei genkai granting perception, illusion, and unique spacetime powers.",
+                  "full_description": "Sharingan grants predictive sight, copy ability, and access to genjutsu. Mangekyo unlocks Susano'o, Amaterasu (black flames), and Kagutsuchi (flame control). Eternal Mangekyo prevents blindness. Rinnegan in left eye grants the Six Paths powers, including gravitational control (Amenotejikara), chakra absorption, and planetary devastation.",
+                  "image": "sasuke_sharingan.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/sasuke/image_0001.png",
+                "assets/images/characters/naruto/sasuke/image_0002.png",
+                "assets/images/characters/naruto/sasuke/image_0003.png",
+                "assets/images/characters/naruto/sasuke/image_0004.png"
+              ]
+            },
+            {
+              "id": "anime-naruto-003",
+              "name": "Sakura Haruno",
+              "rating": 8.8,
+              "logo": "assets/images/logos/naruto/sakura_logo.png",
+              "alias": [
+                "The Slug Princess's Successor",
+                "Konoha's Top Medical Ninja",
+                "Unrivaled Strength Genin"
+              ],
+              "title": [
+                "Head of Konoha Medical Corps",
+                "Master of Strength of a Hundred Seal",
+                "Member of Team 7"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, expressive emerald green eyes that convey intelligence, compassion, and fierce determination. They soften when healing and sharpen in combat.",
+                  "nose": "Small and straight. Keen sense for diagnosing illnesses and poisons.",
+                  "ears": "Delicate ears, usually visible. Can pick up faint heartbeats and breath sounds for medical diagnosis.",
+                  "extra_facial_features": "Pink hair, originally long and worn down, later cut short for practicality as a medic. A wide, bright smile when happy. A small diamond-shaped mark (Strength of a Hundred Seal) on her forehead when released. Fair skin."
+                },
+                "body": {
+                  "chest": "Slender but deceptively strong build (36 inches). Peak physical condition maintained for chakra control and medical precision. No major scars due to her own healing abilities.",
+                  "arms": "Toned arms (12 inches) with incredible explosive power concentrated in the fists. Hands are skilled and steady for surgery, yet can deliver earth-shattering punches."
+                },
+                "lower_body": {
+                  "legs": "Strong, athletic legs (20 inches) for high mobility in the field. Excellent balance and footwork, crucial for dodging and closing distance."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Red Konoha forehead protector worn as a hair band. No helmet, as it would obstruct medical procedures. Short hair for minimal interference."
+                },
+                {
+                  "torso": "Classic red qipao dress in early years. Later, a functional maroon top with mesh armor and the Medic symbol on the back. As an adult, a simple black top with a red skirt or pants."
+                },
+                {
+                  "arms": "No heavy arm guards, allowing full range for medical jutsu. Wears standard fingerless ninja gloves."
+                },
+                {
+                  "legs": "Practical shorts or pants for mobility. Standard ninja sandals. Sometimes wears leg warmers."
+                },
+                {
+                  "accessories": "Large medical kit pouch on her back or thigh. Soldier pills. A small knife for field surgery. Emergency scrolls with stored chakra."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Chakra Enhanced Strength",
+                  "type": "active",
+                  "short_description": "Precise chakra control to concentrate immense force into her fists.",
+                  "full_description": "By gathering chakra at the point of impact and releasing it instantly, Sakura can deliver punches that crater the ground and shatter boulders. The technique requires flawless control to avoid self-injury. Its pinnacle is the \"Cherry Blossom Crash,\" which can destroy Susano'o ribcages.",
+                  "image": "sakura_strength.png"
+                },
+                {
+                  "name": "Creation Rebirth & Strength of a Hundred Seal",
+                  "type": "active/passive",
+                  "short_description": "The ultimate regenerative medical ninjutsu, powered by years of stored chakra.",
+                  "full_description": "The Strength of a Hundred Seal is a Byakugo mark formed by storing vast amounts of chakra over years. When released, it fuels \"Creation Rebirth,\" which regenerates any injury near-instantly, making her virtually unkillable. It also massively boosts her physical abilities and chakra for other medical techniques.",
+                  "image": "sakura_byakugo.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/sakura/image_0001.png",
+                "assets/images/characters/naruto/sakura/image_0002.png",
+                "assets/images/characters/naruto/sakura/image_0003.png",
+                "assets/images/characters/naruto/sakura/image_0004.png",
+                "assets/images/characters/naruto/sakura/image_0005.png",
+                "assets/images/characters/naruto/sakura/image_0006.png",
+                "assets/images/characters/naruto/sakura/image_0007.png"
+              ]
+            },
+            {
+              "id": "anime-naruto-004",
+              "name": "Kakashi Hatake",
+              "rating": 9.3,
+              "logo": "assets/images/logos/naruto/kakashi_logo.png",
+              "alias": [
+                "Copy Ninja Kakashi",
+                "The Man of a Thousand Techniques",
+                "Sixth Hokage"
+              ],
+              "title": [
+                "Former Leader of Team 7",
+                "Master of the Sharingan",
+                "Jonin Commander of Konoha"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Usually seen as a single dark grey, lazy-looking eye. His left eye is a Sharingan (and later a Mangekyo Sharingan) covered by his headband, glowing red when revealed. His visible eye holds a mix of weariness, sharp intelligence, and hidden warmth.",
+                  "nose": "Straight and unremarkable, often buried in his mask or a book.",
+                  "ears": "Normal ears, always alert. Known for his exceptional hearing and perception.",
+                  "extra_facial_features": "Distinctive silver, spiky hair that sticks up. A black fabric mask covering the lower half of his face, its full appearance a running mystery. A vertical scar runs through his left eye (under the headband). A perpetually relaxed and late demeanor."
+                },
+                "body": {
+                  "chest": "Lean, well-conditioned athlete's build (40 inches). Not overly bulky, but possesses incredible stamina and resilience from decades of ANBU and frontline duty.",
+                  "arms": "Strong, defined arms (14 inches) from years of weapon use and training. Hands are quick and precise for his famed hand-sign speed."
+                },
+                "lower_body": {
+                  "legs": "Long, powerful legs (22 inches) for high-speed pursuit and agile movement. Famous for his tree-walking and water-walking prowess."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Konoha forehead protector worn slanted over his left eye to cover the Sharingan. No other headgear."
+                },
+                {
+                  "torso": "Standard Konoha Jonin flak jacket over a long-sleeved black shirt. As Hokage, wears the traditional white robe with red flame patterns. Often seen with his signature green vest."
+                },
+                {
+                  "arms": "Fingerless gloves. No heavy arm armor, preferring mobility for his copying techniques."
+                },
+                {
+                  "legs": "Grey pants. Standard ninja sandals. His posture is always slightly slouched and relaxed."
+                },
+                {
+                  "accessories": "A well-worn copy of 'Make-Out Paradise.' A large backpack with various tools. Multiple weapon pouches. A forehead protector memorial band on his left arm."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Sharingan Copy Technique",
+                  "type": "passive/active",
+                  "short_description": "Using the Sharingan to perfectly mimic any non-Kekkei Genkai technique seen.",
+                  "full_description": "Kakashi's signature skill. His borrowed Sharingan allows him to copy and master over a thousand jutsu, earning his nickname. He combines them with brilliant tactical analysis. While the eye is draining, his genius allows him to use it more efficiently than most Uchiha.",
+                  "image": "kakashi_copy.png"
+                },
+                {
+                  "name": "Lightning Cutter & Kamui",
+                  "type": "active",
+                  "short_description": "His original S-rank piercing technique and his Mangekyo's spacetime distortion.",
+                  "full_description": "Lightning Cutter: A more refined, powerful version of Chidori that cut a lightning bolt. It's his ultimate assassination tool. Kamui: The power of his Mangekyo Sharingan. It can warp targets or parts of targets to a separate dimension. He uses it for defense, offense, and long-range sniping, though it exhausts him greatly.",
+                  "image": "kakashi_raikiri.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/kakashi/image_0001.png",
+                "assets/images/characters/naruto/kakashi/image_0002.png",
+                "assets/images/characters/naruto/kakashi/image_0003.png",
+                "assets/images/characters/naruto/kakashi/image_0004.png",
+                "assets/images/characters/naruto/kakashi/image_0005.png"
+              ]
+            },
+            {
+              "id": "anime-naruto-005",
+              "name": "Minato Namikaze",
+              "rating": 9.6,
+              "logo": "assets/images/logos/naruto/minato_logo.png",
+              "alias": [
+                "Konoha's Yellow Flash",
+                "The Savior of the Shinobi World",
+                "Child of Prophecy's Father"
+              ],
+              "title": [
+                "Fourth Hokage",
+                "Creator of the Rasengan",
+                "Master of Space-Time Ninjutsu"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Kind, sharp blue eyes that radiate calm intelligence and warmth. They can turn deadly serious and focused in an instant.",
+                  "nose": "Straight and proportionate. A classic, handsome feature.",
+                  "ears": "Normal ears, attuned to the slightest sound, crucial for his instantaneous reactions.",
+                  "extra_facial_features": "Bright, spiky golden hair. Three markings on each cheek resembling whiskers (inspired by his son's future marks). A gentle, reassuring smile. Wears the standard Hokage hat when in office."
+                },
+                "body": {
+                  "chest": "A fit, commander's build (41 inches). Not overly muscular, but every ounce is tuned for speed and explosive movement. The physique of a master tactician and sprinter.",
+                  "arms": "Well-toned arms (14 inches) with incredible hand-speed for sealing jutsu. His fingers are precise enough for the most complex fuinjutsu."
+                },
+                "lower_body": {
+                  "legs": "Powerful, runner's legs (23 inches) built for the blinding speed he's famous for. His calves are springs of chakra-enhanced motion."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Konoha forehead protector worn normally. As Hokage, adds the traditional hat and long white robe with red flame patterns."
+                },
+                {
+                  "torso": "As a Jonin, a simple green flak jacket over a black shirt. His Hokage cloak is iconic. Wears a special white short-sleeved jacket during the Nine-Tails attack."
+                },
+                {
+                  "arms": "Long, fingerless gloves that extend to his biceps, often marked with seals. No bulky armor to maximize speed."
+                },
+                {
+                  "legs": "Standard blue shinobi pants. Special three-strap sandals. Every piece of clothing is streamlined."
+                },
+                {
+                  "accessories": "Multiple special kunai marked with his Flying Thunder God formula. A scroll holster for sealing techniques. A standard weapon pouch."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Flying Thunder God Technique",
+                  "type": "active",
+                  "short_description": "Instantaneous teleportation to any location marked with his special seal.",
+                  "full_description": "S-rank Space-Time Ninjutsu. Minato places his formula seal on kunai, people, or locations. He can then teleport himself or anything else to those seals instantly. This allows him to be in multiple places at once, dodge any attack, and strike from impossible angles, making him the fastest shinobi of his era.",
+                  "image": "minato_ftg.png"
+                },
+                {
+                  "name": "Rasengan",
+                  "type": "active",
+                  "short_description": "A spinning sphere of chakra, created without hand signs.",
+                  "full_description": "An A-rank technique representing the pinnacle of shape transformation. Minato conceived it, inspired by the Tailed Beast Ball. It's a concentrated vortex of chakra that grinds and blasts away anything it touches. He intended to combine it with nature transformation but never completed it, leaving that to his son.",
+                  "image": "minato_rasengan.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/minato/image_0001.png",
+                "assets/images/characters/naruto/minato/image_0002.png",
+                "assets/images/characters/naruto/minato/image_0003.png",
+                "assets/images/characters/naruto/minato/image_0004.png",
+                "assets/images/characters/naruto/minato/image_0005.png"
+              ]
+            },
+            {
+              "id": "anime-naruto-006",
+              "name": "Madara Uchiha",
+              "rating": 9.7,
+              "logo": "assets/images/logos/naruto/madara_logo.png",
+              "alias": [
+                "The Ghost of the Uchiha",
+                "The Great Villain of the Shinobi World",
+                "Rival of the First Hokage"
+              ],
+              "title": [
+                "Co-Founder of Konohagakure",
+                "Awakener of the Rinnegan",
+                "Ten-Tails Jinchuriki"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Initially black, then crimson Sharingan, evolving to Mangekyo, and finally the majestic, purple Rinnegan. In his reanimated state, he gains a third Rinnegan on his forehead. His gaze is imperious, arrogant, and holds the weight of centuries of ambition.",
+                  "nose": "Strong and prominent. A feature of his proud lineage.",
+                  "ears": "Unadorned. His hearing is secondary to his unparalleled visual prowess.",
+                  "extra_facial_features": "Long, wild black hair that flows like a mane. In youth, it was spiky. Distinctive armor plates on his cheeks. A permanent scowl of disdain or a smirk of absolute confidence. As the Ten-Tails Jinchuriki, his skin turns pale and he gains a horn and Truth-Seeking Balls."
+                },
+                "body": {
+                  "chest": "A powerful, broad-shouldered warrior's build (46 inches) even in old age. His physique speaks of raw power and endurance that challenged Hashirama Senju. In reanimation, he is restored to his prime.",
+                  "arms": "Massive, muscular arms (17 inches) capable of wielding his giant fan and gunbai with one hand. His grip strength is monstrous."
+                },
+                "lower_body": {
+                  "legs": "Legs like tree trunks (25 inches), granting him stability and power for his colossal Susano'o and leaping attacks."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No forehead protector. In his prime, wore a red, armored helmet with his hair flowing out the back. Later, his hair is wild and free. As an Edo Tensei, his hair is tied back."
+                },
+                {
+                  "torso": "Signature red samurai-style armor with multiple plates and a blue cord. Wears a long, black cloak. As the Ten-Tails Jinchuriki, his armor integrates with the beast's form and he gains the Sage's Six Paths Tomoe robe."
+                },
+                {
+                  "arms": "Armored gauntlets and sleeves as part of his red armor. His arms are always protected for close combat."
+                },
+                {
+                  "legs": "Matching red armored leggings and sandals. His lower body is fully armored for frontline warfare."
+                },
+                {
+                  "accessories": "His giant Uchiha fan (Gunbai) which can reflect attacks. A kusarigama (chain-sickle) weapon. A connected chain to his fan. In later stages, carries the Sage's staff and Truth-Seeking Balls."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Perfect Susano'o",
+                  "type": "active",
+                  "short_description": "The ultimate manifestation of Uchiha power, a colossal warrior of chakra.",
+                  "full_description": "The pinnacle of Mangekyo Sharingan power. Madara's Susano'o is a mountainous, armored samurai wielding twin swords that can cut entire mountain ranges with a single swing. It flies and provides near-absolute defense. It represents his indomitable will and supreme power among the Uchiha.",
+                  "image": "madara_susanoo.png"
+                },
+                {
+                  "name": "Rinnegan & Limbo: Border Jail",
+                  "type": "active/passive",
+                  "short_description": "The eyes of the Sage, granting god-like powers and invisible clones.",
+                  "full_description": "Awakened near the end of his life, the Rinnegan grants him all Six Paths abilities (gravity control, soul ripping, chakra absorption, etc.). His unique Rinnegan power is \"Limbo,\" which creates invisible, intangible clones in a parallel world that can interact with the real one. Only those with Six Paths Senjutsu or a Rinnegan can perceive them.",
+                  "image": "madara_rinnegan.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/madara/image_0001.png",
+                "assets/images/characters/naruto/madara/image_0002.png",
+                "assets/images/characters/naruto/madara/image_0003.png",
+                "assets/images/characters/naruto/madara/image_0004.png",
+                "assets/images/characters/naruto/madara/image_0005.png"
+              ]
+            },
+            {
+              "id": "anime-naruto-007",
+              "name": "Hashirama Senju",
+              "rating": 9.6,
+              "logo": "assets/images/logos/naruto/hashirama_logo.png",
+              "alias": [
+                "God of Shinobi",
+                "The First Hokage",
+                "The Sage's Successor"
+              ],
+              "title": [
+                "Founder of Konohagakure",
+                "Master of Wood Release",
+                "Bearer of Sage Mode"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Warm, dark brown eyes that usually hold a friendly, slightly naive glint, but can become fiercely determined. In Sage Mode, his eyes turn yellow with horizontal pupils.",
+                  "nose": "Strong and straight. A feature of his robust health and vitality.",
+                  "ears": "Normal ears. His hearing is good, but his sensory skills come from his sage abilities and connection to nature.",
+                  "extra_facial_features": "Long, dark brown hair worn loose to his mid-back. A kind, open face with a wide, goofy smile. Distinctive red markings on his face that extend in Sage Mode. Tanned skin from an outdoor life. Wears the Hokage hat when formal."
+                },
+                "body": {
+                  "chest": "An incredibly powerful, broad, and muscular build (48 inches). His body is a testament to his immense life force and physical strength, capable of wrestling tailed beasts.",
+                  "arms": "Massive, tree-trunk-like arms (18 inches) that can perform the mightiest of seals and punches. His grip is legendary."
+                },
+                "lower_body": {
+                  "legs": "Immensely strong legs (26 inches) that provide a stable foundation for his colossal wood constructs. He is grounded and immovable like an ancient tree."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Konoha forehead protector worn under his Hokage hat. In battle, his hair flows freely. His Sage Mode markings appear on his face."
+                },
+                {
+                  "torso": "Traditional samurai armor in red and black, often with a white fur collar. As Hokage, wears the standard white robe with red flame patterns. Prefers lightweight, traditional garments."
+                },
+                {
+                  "arms": "Armored sleeves and gauntlets as part of his samurai set. His arms are protected but allow for the complex hand signs of Wood Release."
+                },
+                {
+                  "legs": "Matching armored leggings and traditional Japanese sandals. His lower body is armored for the thick of battle."
+                },
+                {
+                  "accessories": "A large scroll for summoning. His Hokage necklace. He rarely carries many tools, as his body is his greatest weapon."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Wood Release",
+                  "type": "active",
+                  "short_description": "Kekkei Genkai combining earth and water to create wood and plants, controlling life itself.",
+                  "full_description": "A unique power stemming from his Asura lineage and immense life force. He can generate vast forests instantly, create giant wooden golems, and even construct buildings. His wood can suppress tailed beast chakra. Signature techniques include \"Deep Forest Emergence,\" \"Wood Dragon,\" and \"Wood Golem.\" It represents his will for creation and peace.",
+                  "image": "hashirama_mokuton.png"
+                },
+                {
+                  "name": "Sage Mode & Self-Regeneration",
+                  "type": "active/passive",
+                  "short_description": "A perfect, instant Sage Mode and a healing factor that borders on immortality.",
+                  "full_description": "Hashirama's Sage Mode is considered perfect and can be entered instantly. It massively boosts all his stats and sensory abilities. Combined with his innate \"Self-Regeneration\" ability, he can heal any wound near-instantly without forming hand signs, making him nearly impossible to kill in battle. This is a product of his unparalleled life force.",
+                  "image": "hashirama_sage.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/hashirama/image_0001.png",
+                "assets/images/characters/naruto/hashirama/image_0002.png",
+                "assets/images/characters/naruto/hashirama/image_0003.png",
+                "assets/images/characters/naruto/hashirama/image_0004.png",
+                "assets/images/characters/naruto/hashirama/image_0005.png"
+              ]
+            },
+            {
+              "id": "anime-naruto-009",
+              "name": "Jiraiya",
+              "rating": 9.2,
+              "logo": "assets/images/logos/naruto/jiraiya_logo.png",
+              "alias": [
+                "The Toad Sage",
+                "The Pervy Sage",
+                "The Teacher of the Child of Prophecy"
+              ],
+              "title": [
+                "Member of the Legendary Sannin",
+                "Author of the 'Make-Out' Series",
+                "Master of Toad Summoning"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Sharp, narrow eyes that are usually crinkled in a lecherous grin but can become intensely serious and wise. In Sage Mode, they turn yellow with horizontal toad-like pupils and red markings around them.",
+                  "nose": "Large and distinctive. Often wrinkled when he laughs or gets excited.",
+                  "ears": "Large ears that can hear gossip from a mile away. Attuned to the natural energy of Mount Myoboku.",
+                  "extra_facial_features": "Long, spiky white hair worn in a ponytail. Two red lines running down from his eyes. A large wart on the left side of his nose. A wide, infectious, and often perverted smile. Bushy white eyebrows."
+                },
+                "body": {
+                  "chest": "A tall, broad, and powerfully built frame (46 inches). He is heavily muscular but carries it with a lumbering, relaxed gait. Has the physique of a seasoned warrior who enjoys life.",
+                  "arms": "Thick, powerful arms (16 inches) capable of powerful rasengan strikes and complex sealing jutsu. His hands are large and strong."
+                },
+                "lower_body": {
+                  "legs": "Strong, pillar-like legs (24 inches) that allow for great jumping power, enhanced by toad-style taijutsu."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Konoha forehead protector with a red scarf wrapped around it, forming a sun-like design. His long white hair is tied back. In Sage Mode, his hair spikes up and he gains toad features."
+                },
+                {
+                  "torso": "His signature red vest with no shirt underneath, showing his chest. Wears a short kimono jacket. As a traveler, he wears a large brown cloak. His chest is often exposed."
+                },
+                {
+                  "arms": "No arm guards. He wears blue wristbands and simple hand wrappings."
+                },
+                {
+                  "legs": "Loose, dark blue pants. Traditional wooden geta sandals. His clothing is loose and comfortable for travel and battle."
+                },
+                {
+                  "accessories": "A large scroll for summoning toads. A smaller scroll for his 'research' (Make-Out Paradise). A flask of sake. A tobacco pipe. Various ink and writing tools."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Sage Mode & Toad Summoning",
+                  "type": "active",
+                  "short_description": "Harnessing natural energy with the toads of Mount Myoboku, and summoning them to aid in battle.",
+                  "full_description": "Jiraiya summons and fights alongside giant toads like Gamabunta. His Sage Mode is imperfect (needs the two elder toads on his shoulders to gather nature energy), but grants a massive boost in strength, durability, and new techniques like \"Toad Sage: Toad Oil Flame Bullet.\" His bond with the toads is his greatest strength.",
+                  "image": "jiraiya_sage.png"
+                },
+                {
+                  "name": "Rasengan & Diverse Jutsu Arsenal",
+                  "type": "active",
+                  "short_description": "Master of the Rasengan and a vast array of ninjutsu, from fire to sealing techniques.",
+                  "full_description": "Jiraiya is a master of the Rasengan, which he taught to Minato and later Naruto. His true power lies in his incredible versatility: powerful Fire Release techniques, Earth Release for defense, hair-based needle attacks, and complex barrier and sealing ninjutsu (like the Five-Pronged Seal). He is a true all-rounder and tactical genius.",
+                  "image": "jiraiya_rasengan.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/jiraiya/image_0001.png",
+                "assets/images/characters/naruto/jiraiya/image_0002.png",
+                "assets/images/characters/naruto/jiraiya/image_0003.png",
+                "assets/images/characters/naruto/jiraiya/image_0004.png",
+                "assets/images/characters/naruto/jiraiya/image_0005.png",
+                "assets/images/characters/naruto/jiraiya/image_0006.png",
+                "assets/images/characters/naruto/jiraiya/image_0007.png"
+              ]
+            },
+            {
+              "id": "anime-naruto-008",
+              "name": "Tsunade",
+              "rating": 9.0,
+              "logo": "assets/images/logos/naruto/tsunade_logo.png",
+              "alias": [
+                "The Legendary Sucker",
+                "The Slug Princess",
+                "The Strongest Kunoichi"
+              ],
+              "title": [
+                "Fifth Hokage",
+                "World's Greatest Medical Ninja",
+                "Granddaughter of the First Hokage"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Beautiful, warm amber-brown eyes that can shift from gentle and caring to fierce and commanding in an instant. They hold the wisdom of decades and a hint of old sorrow.",
+                  "nose": "Straight and elegant. Keen for diagnosing ailments.",
+                  "ears": "Delicate ears, usually adorned with simple green gemstone earrings. Her hearing is sharp for a medic's needs.",
+                  "extra_facial_features": "Blonde hair tied into twin ponytails. A youthful appearance maintained by precise chakra control, belying her true age. A small diamond-shaped mark (Strength of a Hundred Seal) on her forehead. Full lips often set in a determined line. The Byakugo seal is released as a violet diamond pattern across her face and body."
+                },
+                "body": {
+                  "chest": "A voluptuous and powerful figure (44 inches). Her body is a paradox of incredible strength and delicate medical precision. She maintains peak physical condition.",
+                  "arms": "Deceptively slender arms (13 inches) that contain monstrous power. Her hands are the most skilled surgical tools in the world, yet can shatter the ground."
+                },
+                "lower_body": {
+                  "legs": "Strong, shapely legs (21 inches) for stability in combat and during long surgeries. Her balance is perfect."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Konoha forehead protector worn as a necklace with a large green gem. When acting as Hokage, she wears the traditional hat. Her hair is always practical."
+                },
+                {
+                  "torso": "Signature green short jacket with the kanji for \"gamble\" on the back. Often wears a brown kimono-style shirt underneath. As Hokage, wears the white robe over her usual clothes."
+                },
+                {
+                  "arms": "No arm guards. She needs her arms completely free for medical jutsu and her powerful strikes."
+                },
+                {
+                  "legs": "Simple brown or black shorts or a short skirt for maximum mobility. High-heeled sandals (a personal preference, balanced by her chakra control)."
+                },
+                {
+                  "accessories": "A large, green gemstone pendant on her forehead protector. A dark red vest. Her legendary gambling dice. A large medical supply scroll."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Creation Rebirth & Strength of a Hundred Seal",
+                  "type": "active/passive",
+                  "short_description": "The pinnacle of medical ninjutsu, granting instant regeneration.",
+                  "full_description": "As the creator of this technique, Tsunade's mastery is absolute. The Byakugo Seal stores years of chakra. When released, it fuels \"Creation Rebirth,\" which continuously regenerates all damage, making her effectively immortal in battle. It also provides a massive chakra boost for other techniques. It is the ultimate expression of a medic's will to protect.",
+                  "image": "tsunade_byakugo.png"
+                },
+                {
+                  "name": "Monstrous Strength",
+                  "type": "active",
+                  "short_description": "Precise chakra control that releases explosive force on contact.",
+                  "full_description": "While not inherently strong, Tsunade uses flawless chakra control to gather chakra at the point of impact (fist, finger, foot) and release it in a devastating explosion. This allows her to crater the ground, destroy Susano'o ribcages, and harm even Madara Uchiha. A single touch can be fatal.",
+                  "image": "tsunade_strength.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/tsunade/image_0001.png",
+                "assets/images/characters/naruto/tsunade/image_0002.png",
+                "assets/images/characters/naruto/tsunade/image_0003.png",
+                "assets/images/characters/naruto/tsunade/image_0004.png",
+                "assets/images/characters/naruto/tsunade/image_0005.png",
+                "assets/images/characters/naruto/tsunade/image_0006.png",
+                "assets/images/characters/naruto/tsunade/image_0007.png",
+                "assets/images/characters/naruto/tsunade/image_0008.png",
+                "assets/images/characters/naruto/tsunade/image_0009.png"
+              ]
+            },
+            {
+              "id": "anime-naruto-010",
+              "name": "Orochimaru",
+              "rating": 8.9,
+              "logo": "assets/images/logos/naruto/orochimaru_logo.png",
+              "alias": [
+                "The Snake Sannin",
+                "The Immortal Rogue Ninja",
+                "The Eternal Seeker of Truth"
+              ],
+              "title": [
+                "Founder of the Hidden Sound Village",
+                "Master of Forbidden Jutsu",
+                "Father of Mitsuki"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Piercing, golden snake-like eyes with vertical slits for pupils. They hold a cold, analytical, and deeply curious gaze, devoid of conventional morality. Can induce paralyzing fear.",
+                  "nose": "Sharp and narrow. His sense of smell is keen, like a snake's.",
+                  "ears": "Pointed, almost elven ears. He hears everything, especially secrets and weaknesses.",
+                  "extra_facial_features": "Pale, almost sickly lavender-tinged skin. Long, straight black hair that frames his narrow face. Purple markings around his eyes that extend down his cheeks. A long, often-forked tongue that darts out. A chilling, unsettling smile that doesn't reach his eyes."
+                },
+                "body": {
+                  "chest": "A slender, almost androgynous build (39 inches). His body is not built for raw power but for flexibility, regeneration, and hosting countless forbidden techniques. It is more a vessel than a fixed form.",
+                  "arms": "Long, slender arms (15 inches) that can stretch and contort impossibly. His hands are pale and nimble, perfect for experiments and snake-like strikes."
+                },
+                "lower_body": {
+                  "legs": "Similarly long and slender legs (22 inches). He moves with a silent, slithering grace rather than explosive speed."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "A simple blue rope headband from the Hidden Sound, or later, no headband at all. His long hair is his main feature. Sometimes wears a white hooded cloak."
+                },
+                {
+                  "torso": "Favors simple, loose-fitting purple or white robes, often with a thick purple rope belt. His clothing is designed for ease of movement and concealment of his snake-like abilities."
+                },
+                {
+                  "arms": "No arm guards. He often has bandages on his wrists or arms, hiding his Living Corpse Reincarnation seals or other modifications."
+                },
+                {
+                  "legs": "Loose-fitting pants. Simple sandals. His attire is minimalist and functional for a lab or battlefield."
+                },
+                {
+                  "accessories": "His legendary Kusanagi sword, which he can summon from his mouth. Various scrolls and vials of chemicals and specimens. A laboratory coat when experimenting."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Living Corpse Reincarnation",
+                  "type": "active",
+                  "short_description": "A forbidden immortality technique that transfers his consciousness to a new host body.",
+                  "full_description": "The core of Orochimaru's quest for immortality. He prepares a host, then sheds his old body like a snake's skin, transferring his soul and all knowledge into the new one. This grants him eternal life and the ability to learn all jutsu. The process weakens him for three years after each use.",
+                  "image": "orochimaru_reincarnation.png"
+                },
+                {
+                  "name": "Mastery of Forbidden Jutsu & Snake Arts",
+                  "type": "active",
+                  "short_description": "An unparalleled knowledge of cursed techniques, snake summoning, and body modification.",
+                  "full_description": "Orochimaru's power is his vast knowledge. He can summon giant snakes, stretch his body like rubber, vomit swords, and regenerate from most injuries. He has mastered countless kinjutsu, including the Edo Tensei (Impure World Reincarnation), which he perfected. His fighting style is unpredictable, creepy, and exploits every weakness.",
+                  "image": "orochimaru_snakes.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/orochimaru/image_0001.png",
+                "assets/images/characters/naruto/orochimaru/image_0002.png",
+                "assets/images/characters/naruto/orochimaru/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-naruto-011",
+              "name": "Itachi Uchiha",
+              "rating": 9.8,
+              "logo": "assets/images/logos/naruto/itachi_logo.png",
+              "alias": [
+                "Itachi of the Sharingan",
+                "The Clan Killer",
+                "The Loyal Shadow of Konoha"
+              ],
+              "title": [
+                "Former ANBU Captain",
+                "Bearer of the Mangekyo Sharingan",
+                "Member of Akatsuki"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Sharp, obsidian-black eyes that become a crimson Sharingan with three tomoe, evolving into the intricate pinwheel pattern of his Mangekyo. His gaze is perpetually calm, profound, and filled with hidden sorrow and love.",
+                  "nose": "Straight and defined. A noble feature.",
+                  "ears": "Normal ears, often hidden by his long hair. He hears the truth behind words.",
+                  "extra_facial_features": "Pale, flawless complexion. Long, straight black hair tied in a low ponytail. Pronounced tear troughs under his eyes, accentuated by his Mangekyo's strain. A handsome, stoic face that rarely shows emotion. Two vertical lines running down from the inner corners of his eyes."
+                },
+                "body": {
+                  "chest": "A slender, almost delicate build (40 inches) that belies his immense power and speed. He relies on precision and genius, not brute strength.",
+                  "arms": "Long, slender arms (14 inches) with lightning-fast hand signs. His fingers are dexterous, used for subtle genjutsu casting and swift weapon throws."
+                },
+                "lower_body": {
+                  "legs": "Lean, agile legs (21 inches) for graceful, efficient movement. He is a master of evasion and positioning."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "A Konoha forehead protector with a deep scratch through the symbol, worn on his forehead as an ANBU, then on his hip as a rogue ninja. As Akatsuki, he wears the cloud-patterned cloak."
+                },
+                {
+                  "torso": "As Akatsuki, the black cloak with red clouds over a simple black outfit. As an ANBU, the standard grey armor and gear. In his youth, a simple Uchiha high-collared shirt."
+                },
+                {
+                  "arms": "No heavy arm guards. Wears the Akatsuki ring 'Kite' (朱, crimson) on his right ring finger. His hands are often in his pockets or performing subtle signs."
+                },
+                {
+                  "legs": "Simple black pants. Standard ninja sandals. His attire is always neat and uncluttered."
+                },
+                {
+                  "accessories": "A small weapon pouch for kunai and shuriken. As Akatsuki, wears a woven straw hat. Carries the Sword of Totsuka and the Yata Mirror within his Susano'o."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Tsukuyomi",
+                  "type": "active",
+                  "short_description": "An ultimate genjutsu that tortures the victim's mind in a world where Itachi controls time and space.",
+                  "full_description": "Cast through eye contact, Tsukuyomi places the victim in a illusory world completely under Itachi's control. He can make days of torture pass in an instant in the real world. Only those with a Mangekyo Sharingan or special bloodline (like a Jinchuriki) have a chance to resist. It represents his mastery over illusion and the mind.",
+                  "image": "itachi_tsukuyomi.png"
+                },
+                {
+                  "name": "Susano'o & Spiritual Weapons",
+                  "type": "active",
+                  "short_description": "A giant, ethereal warrior that wields god-like, sealed weapons.",
+                  "full_description": "Itachi's Susano'o is a orange-hued, armored samurai. It is unique for wielding two legendary items: the \"Sword of Totsuka,\" a ethereal blade that seals anything it pierces into a genjutsu world of eternal drunkenness, and the \"Yata Mirror,\" a shield that changes its nature to nullify any attack. This makes his Susano'o virtually invincible and captures rather than kills.",
+                  "image": "itachi_susanoo.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/itachi/image_0001.png",
+                "assets/images/characters/naruto/itachi/image_0002.png",
+                "assets/images/characters/naruto/itachi/image_0003.png",
+                "assets/images/characters/naruto/itachi/image_0004.png",
+                "assets/images/characters/naruto/itachi/image_0005.png",
+                "assets/images/characters/naruto/itachi/image_0006.png"
+              ]
+            },
+            {
+              "id": "anime-naruto-012",
+              "name": "Obito Uchiha",
+              "rating": 9.1,
+              "logo": "assets/images/logos/naruto/obito_logo.png",
+              "alias": [
+                "Masked Man",
+                "Tobi",
+                "The One Who Started the Fourth War"
+              ],
+              "title": [
+                "Ten-Tails Jinchuriki",
+                "Master of Kamui",
+                "Leader of the Akatsuki (as Tobi)"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "As a child, kind black eyes. After trauma, one eye is his original Sharingan/Mangekyo, the other is a Rinnegan (given by Madara). His right side of his face is severely scarred and covered by white Zetsu material. His visible eye cycles through goofy (as Tobi), menacing, and finally regretful.",
+                  "nose": "His original nose is intact on the left side. The right side is scarred/masked.",
+                  "ears": "One normal ear. His hearing is fine.",
+                  "extra_facial_features": "Spiky black hair. The right half of his face is a mass of scars and is fused with white Zetsu cells, giving it a rough, bumpy texture. He initially hides this with a orange spiral mask, later a simpler one. As an adult, his face is grim and weathered."
+                },
+                "body": {
+                  "chest": "A tall, powerful build (44 inches) in adulthood. His right side is reinforced with Hashirama's cells, granting him enhanced strength and vitality.",
+                  "arms": "His right arm is also composed of Zetsu material, giving it regenerative properties. His left arm is normal but strong. He is ambidextrous in combat."
+                },
+                "lower_body": {
+                  "legs": "Strong legs (23 inches). His right leg is also partially Zetsu-enhanced. He moves with solid, determined strides."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "His iconic masks: first an orange, spiral-patterned mask with one eye hole, later a plain white one. As the Ten-Tails Jinchuriki, he has long, wild white hair and a horn."
+                },
+                {
+                  "torso": "As Tobi, wears the Akatsuki cloak over a black outfit. Earlier, wore a grey flak jacket. During the war, wore a simple black jumpsuit. His right side is often bandaged or covered."
+                },
+                {
+                  "arms": "Wears a single black glove on his left hand. His right Zetsu arm is usually uncovered or wrapped. No heavy armor, relying on Kamui for defense."
+                },
+                {
+                  "legs": "Black pants. Standard ninja sandals. His attire is practical for his intangible fighting style."
+                },
+                {
+                  "accessories": "A large, connected chain with a sickle. A giant shuriken. As Ten-Tails Jinchuriki, gains the Truth-Seeking Balls and the Sage's staff."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Kamui",
+                  "type": "active",
+                  "short_description": "A Mangekyo Sharingan ability that grants intangibility and long-range teleportation to a pocket dimension.",
+                  "full_description": "Obito's left eye allows him to become intangible by sending parts of himself to the Kamui dimension, making attacks pass through him. He can also teleport himself or others entirely. His right eye (given to Kakashi) allows long-range targeting and teleportation of distant objects. Together, they make him nearly untouchable and a master of surprise attacks.",
+                  "image": "obito_kamui.png"
+                },
+                {
+                  "name": "Ten-Tails Jinchuriki & Six Paths Power",
+                  "type": "active",
+                  "short_description": "Becoming the host of the Ten-Tails grants him god-like abilities akin to the Sage of Six Paths.",
+                  "full_description": "As the Jinchuriki of the Ten-Tails, Obito gains near-limitless chakra, flight, Truth-Seeking Balls that nullify all ninjutsu, and the ability to use all five basic nature transformations plus Yin-Yang Release. He can also use the \"Six Paths Ten-Tails Coffin Seal\" to become the beast's core. In this state, he is one of the most powerful beings in history.",
+                  "image": "obito_jinchuriki.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/obito/image_0001.png",
+                "assets/images/characters/naruto/obito/image_0002.png",
+                "assets/images/characters/naruto/obito/image_0003.png",
+                "assets/images/characters/naruto/obito/image_0004.png"
+              ]
+            },
+            {
+              "id": "anime-naruto-013",
+              "name": "Rock Lee",
+              "rating": 8.7,
+              "logo": "assets/images/logos/naruto/lee_logo.png",
+              "alias": [
+                "The Beautiful Green Beast of Konoha",
+                "The Genius of Hard Work",
+                "Bushier-Browed Sensei's Student"
+              ],
+              "title": [
+                "Master of Taijutsu",
+                "Konoha's Splendid Ninja",
+                "Member of Team Guy"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, round, and perpetually determined black eyes. They shine with unwavering spirit and enthusiasm. They become fierce slits when he opens the Inner Gates.",
+                  "nose": "Small and rounded. Often scrunched up when he's yelling or crying with passion.",
+                  "ears": "Normal ears. He listens intently to his sensei's teachings.",
+                  "extra_facial_features": "His most iconic feature: extremely thick, shiny black eyebrows. A bowl-cut hairstyle. A wide, toothy smile that is almost always present. Tanned skin from endless training. Wears a green jumpsuit headband on his forehead."
+                },
+                "body": {
+                  "chest": "A compact, incredibly dense and muscular build (38 inches). Every muscle is honed for speed, power, and endurance through inhuman training. His body is a weapon.",
+                  "arms": "Powerful, well-defined arms (13 inches) wrapped in bandages. His fists are calloused and capable of breaking stone."
+                },
+                "lower_body": {
+                  "legs": "His most powerful asset. Legendarily strong legs (21 inches) from thousands of laps and leg weights. His kicks are devastating. He always wears heavy training weights on his calves."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Konoha forehead protector worn as a bandana. His iconic bowl-cut and eyebrows are always visible. No helmet."
+                },
+                {
+                  "torso": "His signature bright green full-body jumpsuit, often with orange leg warmers. Sometimes wears a matching green vest. The jumpsuit is durable and allows maximum flexibility.",
+                  "arms": "White bandages wrapped around his hands and forearms for protection and to improve grip. No gauntlets."
+                },
+                {
+                  "legs": "The green jumpsuit continues. Orange leg warmers. His most important feature: the heavy metal training weights he removes for battle, which crater the ground when dropped."
+                },
+                {
+                  "accessories": "His removable leg weights. A small first-aid kit. A photo of Guy-sensei for inspiration. A flask of water."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "The Eight Inner Gates",
+                  "type": "active",
+                  "short_description": "Releasing the body's natural limiters to access explosive, life-threatening power.",
+                  "full_description": "By opening chakra gates within the body, Lee can massively increase his speed and strength far beyond normal human limits. Each gate opened multiplies his power but damages his body. The ultimate gate, the Gate of Death, grants power rivaling a Kage but at the cost of the user's life. Lee can safely open up to the Fifth Gate.",
+                  "image": "lee_gates.png"
+                },
+                {
+                  "name": "Supreme Taijutsu Mastery",
+                  "type": "active",
+                  "short_description": "A pure, weapons-free fighting style developed to overcome his lack of ninjutsu.",
+                  "full_description": "Lee is a master of strong, direct taijutsu. His style, taught by Might Guy, includes techniques like \"Leaf Hurricane\" (spinning kick), \"Front Lotus\" (a powerful grab and slam), and \"Reverse Lotus\" (using the Gates). His speed, agility, and power make him a formidable opponent even against genjutsu and ninjutsu specialists.",
+                  "image": "lee_taijutsu.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/lee/image_0001.png",
+                "assets/images/characters/naruto/lee/image_0002.png",
+                "assets/images/characters/naruto/lee/image_0003.png",
+                "assets/images/characters/naruto/lee/image_0004.png"
+              ]
+            },
+            {
+              "id": "anime-naruto-014",
+              "name": "Hinata Hyuga",
+              "rating": 8.5,
+              "logo": "assets/images/logos/naruto/hinata_logo.png",
+              "alias": [
+                "The Byakugan Princess",
+                "The Gentle Heiress",
+                "Naruto-kun's Supporter"
+              ],
+              "title": [
+                "Heiress of the Hyuga Clan",
+                "Master of the Gentle Fist",
+                "Mother of Boruto and Himawari"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, gentle lavender eyes that are usually shy and downcast, but can become fiercely determined. When activated, her Byakugan makes the pupils vanish and veins bulge around her eyes, granting 359-degree vision.",
+                  "nose": "Small and delicate. Blushes easily.",
+                  "ears": "Small ears, often hidden by her hair. She is a good listener but often too shy to speak.",
+                  "extra_facial_features": "Dark blue hair cut in a short, neat style with a fringe. A pale, delicate complexion that flushes bright red easily, especially around Naruto. A kind, soft smile. She has the classic Hyuga pupil-less eyes when using her kekkei genkai."
+                },
+                "body": {
+                  "chest": "A slender, graceful build (34 inches). Her physique is optimized for the precise, close-quarters Gentle Fist style, requiring flexibility and fine control over chakra points.",
+                  "arms": "Slender arms (11 inches) that strike with pinpoint accuracy. Her hands are delicate but can shut down an opponent's chakra system with a touch."
+                },
+                "lower_body": {
+                  "legs": "Graceful, agile legs (19 inches) for the fluid footwork of the Hyuga's Eight Trigrams style. She moves with quiet elegance."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No standard forehead protector. As a Hyuga, she has the branch family's Cursed Seal symbol on her forehead in Part I, but it is removed later. Her hair is simple and practical."
+                },
+                {
+                  "torso": "In Part I, a traditional lavender-colored Hyuga kimono-style top. Later, she adopts a more practical dark purple jacket with zip-up and mesh armor. As an adult, she wears simple, elegant civilian clothing or a modified combat jacket."
+                },
+                {
+                  "arms": "No arm guards. She needs her arms completely free for the precise strikes of Gentle Fist."
+                },
+                {
+                  "legs": "Matching purple pants or a long skirt. Standard ninja sandals. Her clothing allows for full range of motion."
+                },
+                {
+                  "accessories": "A small medical pouch. A kunai holster. A photo of Naruto for courage (in her youth)."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Byakugan & Gentle Fist",
+                  "type": "active/passive",
+                  "short_description": "The Hyuga clan's doujutsu that sees chakra and a martial art that attacks the body's chakra network.",
+                  "full_description": "The Byakugan grants near-360-degree vision, the ability to see through objects, and detailed chakra perception. Hinata uses this with the \"Gentle Fist\" style, striking an opponent's chakra points (tenketsu) to block their chakra flow, damage internal organs, and paralyze limbs. Her signature technique is \"Eight Trigrams Sixty-Four Palms.\"",
+                  "image": "hinata_byakugan.png"
+                },
+                {
+                  "name": "Twin Lion Fists",
+                  "type": "active",
+                  "short_description": "An advanced Gentle Fist technique that forms chakra into lion heads around the fists.",
+                  "full_description": "A technique that signifies Hinata's growth and resolve. She shapes her chakra into the form of two roaring lion heads around her hands. These lions amplify her Gentle Fist strikes, allowing her to attack from a slightly longer range and drain the opponent's chakra on contact. It represents her finding her own fierce strength within her gentle nature.",
+                  "image": "hinata_twinlions.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/hinata/image_0001.png",
+                "assets/images/characters/naruto/hinata/image_0002.png",
+                "assets/images/characters/naruto/hinata/image_0003.png",
+                "assets/images/characters/naruto/hinata/image_0004.png",
+                "assets/images/characters/naruto/hinata/image_0005.png",
+                "assets/images/characters/naruto/hinata/image_0006.png",
+                "assets/images/characters/naruto/hinata/image_0007.png",
+                "assets/images/characters/naruto/hinata/image_0008.png",
+                "assets/images/characters/naruto/hinata/image_0009.png",
+                "assets/images/characters/naruto/hinata/image_0019.png"
+              ]
+            },
+            {
+              "id": "anime-naruto-015",
+              "name": "Kurama",
+              "rating": 9.5,
+              "logo": "assets/images/logos/naruto/kurama_logo.png",
+              "alias": [
+                "The Nine-Tails",
+                "Kyubi",
+                "The King of Bijuu"
+              ],
+              "title": [
+                "Tailed Beast of Orange Chakra",
+                "Partner of the Seventh Hokage",
+                "The Strongest of the Bijuu"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Gleaming, intelligent crimson eyes with slit pupils, capable of expressing a vast range of emotions from pure malice to grudging respect to fondness. They glow with immense power.",
+                  "nose": "A fox-like snout with a black nose, capable of sniffing out malice and negative emotions.",
+                  "ears": "Large, pointed vulpine ears that are always perked and alert. They can hear the whispers of chakra and distant conversations.",
+                  "extra_facial_features": "The face of a giant fox, with sharp fangs and black markings around the eyes that look like war paint. His expression evolved from a permanent snarl to a more dignified, knowing look. His entire form is composed of swirling, fiery orange chakra."
+                },
+                "body": {
+                  "chest": "A colossal, quadrupedal body made of pure chakra. In his full form, he is a mountain-sized fox with nine powerful tails. His chakra is so dense it feels physical. His chest houses his core consciousness.",
+                  "arms": "As a quadruped, his front legs are massive pillars of power, ending in sharp claws that can rend the earth. When standing bipedally in cooperation with Naruto, he has defined, muscular arms."
+                },
+                "lower_body": {
+                  "legs": "His hind legs are even more powerful, allowing for leaps that cover miles. His nine tails are his most distinctive feature, each capable of independent movement and storing vast amounts of chakra."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No armor. His body is his armor. In his cooperative form with Naruto, he appears as a chakra cloak with a fox-like hood and face."
+                },
+                {
+                  "torso": "His form is pure chakra. When Naruto uses his power, it manifests as a chakra shroud, a tailed beast mode, or a perfect Jinchuriki form where they merge completely."
+                },
+                {
+                  "arms": "See above. His claws are his weapons."
+                },
+                {
+                  "legs": "See above."
+                },
+                {
+                  "accessories": "As a tailed beast, he has no accessories. His power is accessed through the Jinchuriki's seal and cooperation."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Tailed Beast Ball",
+                  "type": "active",
+                  "short_description": "A sphere of condensed positive and negative chakra that causes a massive explosion.",
+                  "full_description": "The signature attack of all tailed beasts. Kurama gathers an immense amount of chakra, mixing positive (black) and negative (white) chakra in an 8:2 ratio to form a dark sphere. He then fires it as a beam or projectile. At full power, it can vaporize mountains and create craters miles wide. It is the pinnacle of raw destructive power.",
+                  "image": "kurama_bijudama.png"
+                },
+                {
+                  "name": "Immense Chakra Reservoir & Negative Emotion Sensing",
+                  "type": "passive/active",
+                  "short_description": "Possesses the largest chakra pool of the nine bijuu and can sense malice and hatred.",
+                  "full_description": "Kurama's chakra is vast enough to supply an entire army. It grants his Jinchuriki near-limitless stamina, enhanced healing, and a massive power boost. He can also sense negative emotions and malice, a trait born from humanity's hatred towards him. After reconciling with Naruto, this chakra becomes a pure, warm power that can be shared with others and even heal them.",
+                  "image": "kurama_chakra.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/naruto/kurama/image_0001.png",
+                "assets/images/characters/naruto/kurama/image_0002.png",
+                "assets/images/characters/naruto/kurama/image_0003.png",
+                "assets/images/characters/naruto/kurama/image_0004.png",
+                "assets/images/characters/naruto/kurama/image_0005.png"
               ]
             }
           ]
@@ -3329,7 +4335,7 @@
           ]
         },
         {
-          "id": "anime-002",
+          "id": "anime-004",
           "name": "Record of Ragnarok",
           "characters": [
             {
@@ -5179,6 +6185,1048 @@
               "gallery": [
                 "assets/images/characters/ror/anubis/image_0001.png",
                 "assets/images/characters/ror/anubis/image_0002.png"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "anime-005",
+          "name": "Inuyasha Series",
+          "characters": [
+            {
+              "id": "anime-inuyasha-001",
+              "name": "Inuyasha",
+              "rating": 9.4,
+              "logo": "assets/images/logos/inuyasha/inuyasha_logo.png",
+              "alias": [
+                "Half-Demon",
+                "Tetsusaiga's Wielder",
+                "Protector of the Shikon Jewel"
+              ],
+              "title": [
+                "Son of the Great Dog Demon",
+                "Master of the Tetsusaiga",
+                "Kagome's Guardian"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Golden eyes with slit pupils, reflecting his demon heritage. Eyes shift between feral intensity when angry and softer warmth when with Kagome. Can see in complete darkness with demonic vision",
+                  "nose": "Canine-enhanced nose that can track scents for miles. Small but highly sensitive nostrils. Can distinguish individuals by scent alone even through barriers",
+                  "ears": "Distinctive white dog ears atop his head that twitch with emotion. Extremely sensitive hearing that can detect whispers from hundreds of feet away. Ears flatten against head when angry or embarrassed",
+                  "extra_facial_features": "Silver-white hair that flows to his waist with bangs framing his face. Two magenta stripes on each cheek (demon markings). Sharp fangs visible when speaking or snarling. Youthful face that belies his 150+ years"
+                },
+                "body": {
+                  "chest": "Lean, muscular build (40 inches) developed through constant battle. Covered in red robe of the fire-rat that regenerates and repels attacks. Skin shows resistance to most conventional weapons when in demon form",
+                  "arms": "Powerful arms (15 inches) capable of wielding Tetsusaiga one-handed. Clawed fingers that can extend into deadly weapons. Red sleeve tattoos that symbolize his demon blood"
+                },
+                "lower_body": {
+                  "legs": "Powerful legs built for incredible jumping and running speed. Can leap between treetops effortlessly. White dog-like fur covers his feet and lower legs when transformed"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No helmet or head protection aside from natural durability. White dog ears exposed. Sometimes wears a simple bandana when traveling incognito"
+                },
+                {
+                  "torso": "Signature red suikan (robe) made from fire-rat fur that is impervious to fire and regenerates. White kosode (undershirt). Bare chest often exposed when robe is open"
+                },
+                {
+                  "arms": "No armor on arms for maximum mobility. Red sleeves of his robe provide some protection. Beads of subjugation necklace around neck (later removed)"
+                },
+                {
+                  "legs": "White hakama pants tied with red cord. Barefoot or wearing simple straw sandals. Leg wrappings for long journeys"
+                },
+                {
+                  "accessories": "Tetsusaiga (transforming sword) in sheath at hip. Beads of Subjugation necklace (early series). Occasionally carries small traveling pack"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Tetsusaiga Transformations",
+                  "type": "active",
+                  "short_description": "Demonic sword that transforms based on Inuyasha's will and growth",
+                  "full_description": "Forged from father's fang, transforms from rusty katana to massive fang-blade. Abilities include: Wind Scar (cuts through 100 demons), Backlash Wave (reflects demonic energy), Dragon-Scaled Tetsusaiga (absorbs demon powers), Meido Zangetsuha (cuts portals to afterlife). Requires demon blood to activate fully",
+                  "image": "inuyasha_tetsusaiga.png"
+                },
+                {
+                  "name": "Demon Blood Awakening",
+                  "type": "transformative",
+                  "short_description": "Temporary full demon transformation with enhanced abilities",
+                  "full_description": "During new moon or when severely threatened, transforms into full demon with silver hair, crimson eyes, and extended claws. Gains massive strength, speed, and regeneration but loses rationality. Must wear beads of subjugation to prevent rampages. Later learns partial control",
+                  "image": "inuyasha_demonform.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/inuyasha/image_0001.png",
+                "assets/images/characters/inuyasha/inuyasha/image_0002.png",
+                "assets/images/characters/inuyasha/inuyasha/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-inuyasha-002",
+              "name": "Kagome Higurashi",
+              "rating": 9.2,
+              "logo": "assets/images/logos/inuyasha/kagome_logo.png",
+              "alias": [
+                "Shikon Jewel Priestess",
+                "Girl from the Future",
+                "Kikyo's Reincarnation"
+              ],
+              "title": [
+                "Guardian of the Shikon Jewel",
+                "Modern-Day Miko",
+                "Inuyasha's Partner"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Warm brown eyes that show compassion, determination, and occasional mischief. Eyesight sharp enough to aim bow accurately at long distances",
+                  "nose": "Small, cute nose. Normal human sense of smell but sensitive to evil presences",
+                  "ears": "Normal human ears, often hidden by hair. Can hear spiritual disturbances that others miss",
+                  "extra_facial_features": "Dark brown hair typically in high school uniform or casual modern clothes. Bright, kind smile that lights up her face. Youthful appearance of a 15-year-old. Wears no makeup naturally"
+                },
+                "body": {
+                  "chest": "Slender teenage build (34 inches). Not physically strong but possesses immense spiritual power. Wears modern clothes or traditional miko attire",
+                  "arms": "Slender arms (11 inches) with surprising draw strength for her bow. Hands are soft but develop calluses from archery practice"
+                },
+                "lower_body": {
+                  "legs": "Athletic legs from running and climbing in feudal era. Often seen in school skirt or practical pants for travel"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No head protection. Sometimes wears a simple hair clip or ribbon. School hat when in modern era"
+                },
+                {
+                  "torso": "Green and white sailor fuku (school uniform) or traditional red and white miko robes. Yellow backpack containing modern supplies. Sometimes wears sweaters or jackets"
+                },
+                {
+                  "arms": "No armor. Sleeves of her clothing. Occasionally wears finger guards for archery"
+                },
+                {
+                  "legs": "School skirt with bicycle shorts underneath for modesty or practical pants. Sneakers or traditional zori sandals"
+                },
+                {
+                  "accessories": "Bow and arrows (spiritual). School backpack with first aid, food, and modern items. Shikon Jewel fragments in special container. Camera and other modern tools"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Spiritual Arrows",
+                  "type": "active",
+                  "short_description": "Purification arrows powered by Kagome's spiritual energy",
+                  "full_description": "Can fire arrows of pure spiritual energy that purify demons and evil. Doesn't require physical arrows when power is focused. Can sense Shikon Jewel shards and demonic presences. Power increases with emotional state and determination. Can create barriers and seals",
+                  "image": "kagome_arrow.png"
+                },
+                {
+                  "name": "Modern Knowledge",
+                  "type": "passive",
+                  "short_description": "Knowledge from 21st century applied in feudal Japan",
+                  "full_description": "Uses modern medicine, hygiene, and problem-solving in feudal era. Understands science that seems like magic to others. Brings modern tools (flashlight, bicycle, medicine) that give tactical advantages. School education helps with strategy and logic puzzles",
+                  "image": "kagome_modern.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/kagome/image_0001.png",
+                "assets/images/characters/inuyasha/kagome/image_0002.png"
+              ]
+            },
+            {
+              "id": "anime-inuyasha-003",
+              "name": "Miroku",
+              "rating": 8.9,
+              "logo": "assets/images/logos/inuyasha/miroku_logo.png",
+              "alias": [
+                "Lecherous Monk",
+                "Wind Tunnel Bearer",
+                "Cursed Priest"
+              ],
+              "title": [
+                "Houshi of the Buddha",
+                "Slayer of Demons",
+                "Sango's Husband"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Dark purple eyes that are usually calm and calculating, but light up with mischief or perversion. Can appear deeply spiritual or completely shameless",
+                  "nose": "Normal human nose. Keen sense for detecting both evil and beautiful women",
+                  "ears": "Normal ears often covered by hair or headwear. Pierced ears with simple studs",
+                  "extra_facial_features": "Handsome face with charming smile he uses to seduce women. Purple diamond-shaped curse mark on right hand. Shaved head with small ponytail. Wears monk's robes with modern casual attitude"
+                },
+                "body": {
+                  "chest": "Lean but strong build (38 inches) from years of training and travel. Robes hide his physique but show shoulder when seducing women",
+                  "arms": "Strong arms (13 inches) from staff fighting and sealing techniques. Right hand always bandaged to cover the Wind Tunnel curse"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Simple black headband or sometimes goes bareheaded. Buddhist prayer beads around neck"
+                },
+                {
+                  "torso": "Traditional purple and black monk robes over lighter undergarments. Often leaves top open when flirting. Carries numerous scrolls and charms in sleeves"
+                },
+                {
+                  "arms": "No armor. Right hand wrapped in bandages and prayer beads to seal Wind Tunnel. Left hand free for seals and gestures"
+                },
+                {
+                  "legs": "Loose black pants tied with rope belt. Simple sandals for quiet movement"
+                },
+                {
+                  "accessories": "Staff with rings (shakujo). Numerous ofuda (paper charms). Money purse (often empty). Flirting fan (for dramatic effect)"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Wind Tunnel (Kazaana)",
+                  "type": "active",
+                  "short_description": "Cursed void in right palm that sucks in everything",
+                  "full_description": "Cursed by Naraku to suck in anything including demons, objects, and poison. Grows larger with each use until it consumes the user. Can be sealed with prayer beads. Deadly against swarm-type enemies. Family curse passed through generations",
+                  "image": "miroku_windtunnel.png"
+                },
+                {
+                  "name": "Buddhist Exorcism",
+                  "type": "active",
+                  "short_description": "Spiritual techniques for purification and binding",
+                  "full_description": "Uses ofuda (paper charms) to seal demons and create barriers. Mantras and hand signs for purification. Staff techniques for combat. Can perform blessings and spiritual cleansings. Knowledge of demon lore and weaknesses",
+                  "image": "miroku_exorcism.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/miroku/image_0001.png",
+                "assets/images/characters/inuyasha/miroku/image_0002.png"
+              ]
+            },
+            {
+              "id": "anime-inuyasha-004",
+              "name": "Sango",
+              "rating": 9.0,
+              "logo": "assets/images/logos/inuyasha/sango_logo.png",
+              "alias": [
+                "Demon Slayer",
+                "Hiraikotsu Master",
+                "Survivor"
+              ],
+              "title": [
+                "Last of the Demon Slayer Village",
+                "Kohaku's Sister",
+                "Miroku's Wife"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Dark brown eyes showing strength, sorrow, and determination. Eyes harden in battle but soften with comrades",
+                  "nose": "Small, practical nose. Can smell demonic substances and poisons",
+                  "ears": "Normal ears, often hidden by hair or armor. Wears no jewelry",
+                  "extra_facial_features": "Beautiful face marked by tragedy and resilience. Dark hair tied in practical ponytail. Wears traditional demon slayer face paint in battle. Serious expression most of the time, rare smiles"
+                },
+                "body": {
+                  "chest": "Athletic feminine build (36 inches) with strength from years of weapon training. Wears light armor over traditional kimono. Scar from Naraku's betrayal",
+                  "arms": "Strong, defined arms (12 inches) from wielding massive Hiraikotsu. Calloused hands from weapon maintenance. Agile fingers for traps and tools"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Traditional demon slayer helmet-mask combo that covers lower face. Can be worn up or down. Protects against poison gas"
+                },
+                {
+                  "torso": "Pink and white demon slayer armor over black bodysuit. Lightweight but resistant to claws and fangs. Carries numerous weapons and tools"
+                },
+                {
+                  "arms": "Armored gauntlets that allow full mobility. Wrist guards for throwing weapons. Fingerless gloves for grip"
+                },
+                {
+                  "legs": "Armored skirt-pants combination. Light greaves on shins. Practical boots for stealth and combat"
+                },
+                {
+                  "accessories": "Hiraikotsu (massive boomerang). Sword and dagger. Poison antidotes and medicines. Demon-slaying tools and traps"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Hiraikatsugi (Boomerang Mastery)",
+                  "type": "active",
+                  "short_description": "Wields massive demon bone boomerang with precision",
+                  "full_description": "Hiraikotsu is made from demon bones and returns like a boomerang. Can be thrown with incredible force to slice through multiple enemies. Learns to imbue it with spiritual energy. Can control its trajectory mid-flight. Family heirloom weapon",
+                  "image": "sango_hiraikotsu.png"
+                },
+                {
+                  "name": "Demon Slayer Techniques",
+                  "type": "active/passive",
+                  "short_description": "Comprehensive knowledge of demon hunting and extermination",
+                  "full_description": "Trained from childhood in all demon slaying arts. Knowledge of demon weaknesses, habitats, and behaviors. Expert in traps, poisons, and antidotes. Stealth and tracking skills. Hand-to-hand combat and sword techniques",
+                  "image": "sango_slayer.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/sango/image_0001.png",
+                "assets/images/characters/inuyasha/sango/image_0002.png"
+              ]
+            },
+            {
+              "id": "anime-inuyasha-005",
+              "name": "Shippo",
+              "rating": 8.5,
+              "logo": "assets/images/logos/inuyasha/shippo_logo.png",
+              "alias": [
+                "Little Fox Demon",
+                "Team Mascot",
+                "Trickster"
+              ],
+              "title": [
+                "Young Kitsune",
+                "In Training",
+                "Kagome's Adopted Little Brother"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, expressive green eyes that show curiosity, fear, or mischief. Pupils are slit like a cat's",
+                  "nose": "Small black fox nose, very sensitive to smells",
+                  "ears": "Large, triangular fox ears that twitch with emotion. Can rotate to pinpoint sounds",
+                  "extra_facial_features": "Orange fox fur covering most of body. Cute, childlike face. Two white marks on forehead. Wears traditional fox demon garments. Big, fluffy tail that shows emotion"
+                },
+                "body": {
+                  "chest": "Small child-sized body (20 inches). Not built for strength but for agility and magic",
+                  "arms": "Small arms capable of transformation signs and holding tools. Clawed fingers"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No helmet. Sometimes wears a leaf or small hat for disguise"
+                },
+                {
+                  "torso": "Traditional blue kimono with white patterns. Small demon slayer pouch (gift from Sango). Often rides on Inuyasha or Kagome's shoulder"
+                },
+                {
+                  "arms": "No armor. Kimono sleeves"
+                },
+                {
+                  "legs": "Bare fox legs. Sometimes wears little pants under kimono"
+                },
+                {
+                  "accessories": "Fox magic scrolls. Prank items and toys. Sometimes carries small versions of team's weapons"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Kitsune Illusions",
+                  "type": "active",
+                  "short_description": "Fox demon transformation and illusion magic",
+                  "full_description": "Can transform into various objects and people (though often imperfect). Creates illusions to confuse enemies. Fox fire (small blue flames). Can multiply himself briefly. Grows more powerful with age and training",
+                  "image": "shippo_illusions.png"
+                },
+                {
+                  "name": "Seven Treasures Tool",
+                  "type": "active",
+                  "short_description": "Magic items inherited from father",
+                  "full_description": "Includes: Thunder Brothers' Megaphone (creates sonic attacks), Horse-Cutter (giant blade), Floaty-Tokey (flying bed), and others. Each has specific magical properties. Uses creatively in battle despite small size",
+                  "image": "shippo_treasures.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/shippo/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-inuyasha-006",
+              "name": "Sesshomaru",
+              "rating": 9.5,
+              "logo": "assets/images/logos/inuyasha/sesshomaru_logo.png",
+              "alias": [
+                "The Killing Perfection",
+                "Great Dog Demon Lord",
+                "Inuyasha's Brother"
+              ],
+              "title": [
+                "Lord of the Western Lands",
+                "Wielder of Tenseiga",
+                "Rin's Guardian"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Cold golden eyes with red pupils that show no emotion. Eyes can see life forces and spiritual flows. Gaze can paralyze weaker demons",
+                  "nose": "Highly sensitive canine nose like Inuyasha's but more refined",
+                  "ears": "No visible ears (human form). In true form, has massive dog ears. Can hear heartbeats from great distances",
+                  "extra_facial_features": "Extremely beautiful androgynous features. Long silver hair that flows like water. Magenta crescent moon on forehead. Two magenta stripes on each cheek. Pale, flawless skin. Always expressionless"
+                },
+                "body": {
+                  "chest": "Slender, elegant build (39 inches) that belies immense power. Covered in traditional armor and flowing white fur. Skin is literally perfect - no scars or blemishes",
+                  "arms": "Sleek arms with deadly claws. Left arm regrows after being severed. Wears armor pauldrons. Hands are elegant but deadly"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No helmet. Magenta crescent moon marking on forehead. White fur collar frames face like a mane"
+                },
+                {
+                  "torso": "Traditional white and purple kimono with massive white fur collar/shawl. Armor plates on shoulders and chest. Flowing sash that moves like living thing"
+                },
+                {
+                  "arms": "Armored sleeves with purple patterns. Claws are always exposed. Wears Tenseiga at hip"
+                },
+                {
+                  "legs": "White hakama pants. Armored boots that allow silent movement. Flowing sash continues down legs"
+                },
+                {
+                  "accessories": "Tenseiga (sword of life). Tokijin (sword of death, later). Poison whip (light energy). Magical beads and regalia of his station"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Tenseiga's Power",
+                  "type": "active",
+                  "short_description": "Sword that can revive the dead but cannot kill",
+                  "full_description": "Can revive recently dead by cutting hell beings. Creates protective barriers. Can purify poison and corruption. Later gains Meido Zangetsuha ability (like Tetsusaiga). Only works for those with compassion, which Sesshomaru develops",
+                  "image": "sesshomaru_tenseiga.png"
+                },
+                {
+                  "name": "Full Demon Transformation",
+                  "type": "transformative",
+                  "short_description": "Massive dog demon form of immense power",
+                  "full_description": "True form is giant white dog with purple markings. Can fly and create tornados with tail. Breathes demonic energy attacks. Nearly invulnerable in this form. Only transforms for most serious threats",
+                  "image": "sesshomaru_demonform.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/sesshomaru/image_0001.png",
+                "assets/images/characters/inuyasha/sesshomaru/image_0002.png"
+              ]
+            },
+            {
+              "id": "anime-inuyasha-007",
+              "name": "Kikyo",
+              "rating": 9.1,
+              "logo": "assets/images/logos/inuyasha/kikyo_logo.png",
+              "alias": [
+                "The Dead Priestess",
+                "Shikon Jewel Guardian",
+                "Inuyasha's First Love"
+              ],
+              "title": [
+                "Former Guardian of the Jewel",
+                "Most Powerful Miko of Her Era",
+                "Resurrected Warrior"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Dark, soulful eyes that hold centuries of wisdom and sorrow. Eyes can see spiritual impurities and life forces",
+                  "nose": "Delicate nose. Can smell death and spiritual corruption",
+                  "ears": "Normal ears, often hidden by hair. Wears no earrings",
+                  "extra_facial_features": "Pale, beautiful face that shows little emotion. Long black hair with straight bangs. Traditional miko appearance. Clay body gives unnatural pallor. Soul collectors sometimes visible around her"
+                },
+                "body": {
+                  "chest": "Slender build (35 inches) of a priestess. Appears fragile but contains immense power. Clay body animated by stolen souls",
+                  "arms": "Slender arms that draw bow with supernatural strength. Hands are pale and cool to touch"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No headwear. Sometimes wears traveling hood or cloak"
+                },
+                {
+                  "torso": "Traditional red and white miko robes. Sometimes wears purple kimono when traveling. Carries bow and arrows always"
+                },
+                {
+                  "arms": "No armor. Kimono sleeves. Sometimes wears arm guards for archery"
+                },
+                {
+                  "legs": "Traditional hakama pants under robes. Zori sandals. Moves silently despite clothing"
+                },
+                {
+                  "accessories": "Sacred bow and arrows. Soul collection clay dolls. Healing herbs and medicines. Spiritual purification tools"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Purification Arrows",
+                  "type": "active",
+                  "short_description": "Arrows of pure spiritual energy stronger than Kagome's",
+                  "full_description": "Can purify demons with single arrow. Arrows seek evil. Can create barriers that repel all impurity. Spiritual pressure can paralyze weaker demons. Knowledge of ancient sealing techniques. Power comes from complete spiritual purity",
+                  "image": "kikyo_arrow.png"
+                },
+                {
+                  "name": "Soul Manipulation",
+                  "type": "active",
+                  "short_description": "Controls souls due to her undead nature",
+                  "full_description": "Can collect souls of recently dead to sustain her clay body. Can transfer souls between bodies. Sense disturbances in soul flows. Understands reincarnation cycle intimately. As undead, has unique perspective on life and death",
+                  "image": "kikyo_souls.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/kikyo/image_0001.png",
+                "assets/images/characters/inuyasha/kikyo/image_0002.png"
+              ]
+            },
+            {
+              "id": "anime-inuyasha-008",
+              "name": "Naraku",
+              "rating": 9.3,
+              "logo": "assets/images/logos/inuyasha/naraku_logo.png",
+              "alias": [
+                "The Schemer",
+                "Half-Demon",
+                "Onigumo's Will"
+              ],
+              "title": [
+                "Master of Illusions and Puppets",
+                "Creator of the Shikon Jewel",
+                "Primary Antagonist"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Cold, calculating eyes that see all as pawns. Usually appears as handsome man with dark hair, but true form is monstrous",
+                  "nose": "Normal human nose in human form. Can smell emotions and weaknesses",
+                  "ears": "Normal ears in human form. Multiple sensory organs in true form",
+                  "extra_facial_features": "Appears as handsome nobleman with pale skin and dark hair. True form is mass of demons fused together. Often wears elegant kimono to hide monstrous nature. Smile never reaches eyes"
+                },
+                "body": {
+                  "chest": "Human form: slender nobleman build. True form: amorphous mass of demons. Contains hundreds of absorbed demons within. Regenerates from almost any damage",
+                  "arms": "Human form: normal arms. Can extend limbs or transform them into weapons. Creates puppet bodies from his flesh"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Sometimes wears nobleman's hat or hood. Jewel shard glows on forehead in true form"
+                },
+                {
+                  "torso": "Elegant purple and black kimono of nobleman. Underneath is mass of demon flesh. Carries Shikon Jewel (incomplete)"
+                },
+                {
+                  "arms": "Kimono sleeves hide demonic transformations. Can shed skin to create clones"
+                },
+                {
+                  "legs": "Traditional hakama. Can dissolve into miasma or swarm of insects"
+                },
+                {
+                  "accessories": "Shikon Jewel fragments. Demon puppets and minions. Illusion-creating items. Poison manufacturing tools"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Miasma and Poison",
+                  "type": "active",
+                  "short_description": "Deadly demonic poison that corrodes everything",
+                  "full_description": "Produces toxic miasma that kills humans and weakens demons. Can control its density and composition. Creates poisonous insects and clones. Immune to most toxins. Can analyze and copy any poison encountered",
+                  "image": "naraku_miasma.png"
+                },
+                {
+                  "name": "Demon Absorption and Creation",
+                  "type": "active",
+                  "short_description": "Absorbs demons to gain their powers and create puppets",
+                  "full_description": "Can absorb any demon to gain its abilities. Creates puppet demons from his flesh (Kagura, Kanna, etc.). Can split into multiple bodies. Each分身 has specialized powers. True body hides while puppets act",
+                  "image": "naraku_absorption.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/naraku/image_0001.png",
+                "assets/images/characters/inuyasha/naraku/image_0002.png"
+              ]
+            },
+            {
+              "id": "anime-inuyasha-009",
+              "name": "Koga",
+              "rating": 8.7,
+              "logo": "assets/images/logos/inuyasha/koga_logo.png",
+              "alias": [
+                "Wolf Demon Prince",
+                "Kagome's Suitor",
+                "Speed Demon"
+              ],
+              "title": [
+                "Leader of the Eastern Wolf Tribe",
+                "Bearer of Shikon Jewel Shards",
+                "Inuyasha's Rival"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Vibrant blue eyes that show fierce loyalty and pride. Eyesight enhanced for tracking at high speeds",
+                  "nose": "Wolf nose even more sensitive than dog demons. Can track over hundreds of miles",
+                  "ears": "Wolf ears on top of head, gray like his hair. Can hear prey heartbeat while running",
+                  "extra_facial_features": "Handsome, wild features with gray hair styled in mohawk. Three red stripes on each cheek. Sharp fangs. Wears wolf pelt and tribal markings. Confident, cocky smile"
+                },
+                "body": {
+                  "chest": "Powerful, athletic build (42 inches) built for running. Covered in tribal tattoos and wolf pelts. Multiple Shikon jewel shards embedded in legs",
+                  "arms": "Strong arms (15 inches) for grappling and weapon use. Clawed fingers. Tribal armbands"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Wolf pelt headband. Sometimes wears full wolf head as helmet"
+                },
+                {
+                  "torso": "Wolf pelt across shoulders. Leather chest armor with tribal designs. Exposed midriff showing muscles. Shikon jewel shards visible in legs"
+                },
+                {
+                  "arms": "Leather arm guards. Clawed fingers exposed. Wrist bands with wolf teeth"
+                },
+                {
+                  "legs": "Loosely fitting pants for running. Shikon shards embedded in both legs. Barefoot or light footwraps"
+                },
+                {
+                  "accessories": "Tribal necklace with fangs. Sometimes carries simple weapons. Travels with wolf pack"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Super Speed",
+                  "type": "active",
+                  "short_description": "Extreme running speed powered by Shikon jewel shards",
+                  "full_description": "Shikon shards in legs grant speed faster than eyes can follow. Can run on air by kicking so fast. Creates afterimages and tornadoes. Enhanced reflexes to match speed. Can carry others while running",
+                  "image": "koga_speed.png"
+                },
+                {
+                  "name": "Wolf Pack Techniques",
+                  "type": "active",
+                  "short_description": "Commands wolf pack and uses wind attacks",
+                  "full_description": "Commands loyal wolf demons in battle. Can summon pack from distance. Wind-based claw attacks (Goraishi). Enhanced senses from wolf nature. Pack hunting tactics and coordination",
+                  "image": "koga_wolves.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/koga/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-inuyasha-010",
+              "name": "Rin",
+              "rating": 8.8,
+              "logo": "assets/images/logos/inuyasha/rin_logo.png",
+              "alias": [
+                "Sesshomaru's Ward",
+                "The Smiling Girl",
+                "Life Touched by Tenseiga"
+              ],
+              "title": [
+                "Human Companion of a Great Demon",
+                "Twice-Born Child",
+                "Jaken's Charge"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, innocent brown eyes that see good in everyone. Eyes hold wisdom beyond her years",
+                  "nose": "Small, normal human nose",
+                  "ears": "Normal ears, sometimes hidden by hair",
+                  "extra_facial_features": "Sweet, round face of a young girl. Always smiling despite tragic past. Black hair in simple cut. Wears simple peasant clothes. Scars from past abuse mostly healed"
+                },
+                "body": {
+                  "chest": "Small child's body (age 8-10). Not built for combat but for compassion",
+                  "arms": "Small arms that gather flowers and help others. Hands are gentle"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No headwear. Sometimes wears flower crown or simple ribbon"
+                },
+                {
+                  "torso": "Simple red kimono given by Sesshomaru. Sometimes wears additional layers in cold. Carries small satchel"
+                },
+                {
+                  "arms": "Kimono sleeves. No armor or protection"
+                },
+                {
+                  "legs": "Simple pants under kimono. Straw sandals"
+                },
+                {
+                  "accessories": "Flowers and herbs she collects. Small doll or toy. Sometimes carries food for animals"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Innocence and Compassion",
+                  "type": "passive",
+                  "short_description": "Pure heart that affects even the coldest demon",
+                  "full_description": "Her unconditional kindness softens Sesshomaru's heart. Can approach dangerous animals without fear. Understands emotions of non-humans. Brings out protective instincts in others. Represents humanity's best qualities",
+                  "image": "rin_compassion.png"
+                },
+                {
+                  "name": "Survival Skills",
+                  "type": "passive",
+                  "short_description": "Knowledge of living in wilderness and demon world",
+                  "full_description": "Can identify edible plants and berries. Basic first aid knowledge. Understands demon behaviors and customs. Travels safely through dangerous lands with Sesshomaru's protection. Adapts to life among demons",
+                  "image": "rin_survival.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/rin/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-inuyasha-011",
+              "name": "Jaken",
+              "rating": 8.4,
+              "logo": "assets/images/logos/inuyasha/jaken_logo.png",
+              "alias": [
+                "Sesshomaru's Retainer",
+                "The Imp",
+                "Staff of Two Heads"
+              ],
+              "title": [
+                "Loyal Servant of the Western Lands",
+                "Rin's Guardian",
+                "Messenger Demon"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Beady yellow eyes that show anxiety, loyalty, and occasional cunning",
+                  "nose": "Long, pointed nose. Good sense of smell for servant duties",
+                  "ears": "Large, pointed imp ears. Can hear Sesshomaru's commands from distance",
+                  "extra_facial_features": "Green imp-like face with warts. Bald head. Often looks nervous or officious. Wears simple servant garments"
+                },
+                "body": {
+                  "chest": "Small, frail imp body. Not built for combat but for service",
+                  "arms": "Thin arms that wield staff. Hands are delicate but dexterous"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Sometimes wears small hat or hood. Usually bareheaded"
+                },
+                {
+                  "torso": "Simple brown and green servant robes. Carries Sesshomaru's items and messages"
+                },
+                {
+                  "arms": "Robes sleeves. No armor"
+                },
+                {
+                  "legs": "Simple pants. Small sandals"
+                },
+                {
+                  "accessories": "Staff of Two Heads (can shoot fire). Scrolls and messages. Supplies for Rin. Sometimes rides two-headed dragon Ah-Un"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Staff of Two Heads",
+                  "type": "active",
+                  "short_description": "Magic staff that shoots fire and has limited sentience",
+                  "full_description": "Heads argue with each other but obey Jaken. Shoots fireballs of varying intensity. Can extend or change size. Occasionally disobeys or acts independently. Gift from Sesshomaru",
+                  "image": "jaken_staff.png"
+                },
+                {
+                  "name": "Servant Skills",
+                  "type": "passive",
+                  "short_description": "Knowledge of demon nobility and service",
+                  "full_description": "Understands protocols of demon lords. Can deliver messages across Japan. Basic care-taking of Rin. Knowledge of demon politics and territories. Survival skills while traveling with Sesshomaru",
+                  "image": "jaken_service.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/jaken/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-inuyasha-012",
+              "name": "Kagura",
+              "rating": 8.9,
+              "logo": "assets/images/logos/inuyasha/kagura_logo.png",
+              "alias": [
+                "Wind Sorceress",
+                "Naraku's Puppet",
+                "Wandering Heart"
+              ],
+              "title": [
+                "Daughter of Wind",
+                "Seeker of Freedom",
+                "Sesshomaru's Ally"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Red eyes that show defiance and longing for freedom. Eyeshadow adds dramatic effect",
+                  "nose": "Normal nose. Can smell approaching enemies with wind",
+                  "ears": "Normal ears, often hidden by hair",
+                  "extra_facial_features": "Beautiful but cold features. White hair with red tips. Uses feather as hair ornament. Wears red and white kimono. Often looks distant or plotting"
+                },
+                "body": {
+                  "chest": "Slender feminine build (35 inches). Light and agile like the wind",
+                  "arms": "Graceful arms that control wind and fan. Hands often hold her fan feather"
+                }
+              },
+              "armume_costume": [
+                {
+                  "head": "White hair with red tips. Feather hair ornament. Sometimes wears traveling hat"
+                },
+                {
+                  "torso": "Red and white kimono with feather patterns. Light armor underneath. Carries fan always"
+                },
+                {
+                  "arms": "Kimono sleeves allow full movement. No heavy armor"
+                },
+                {
+                  "legs": "Traditional hakama. Light boots for quick movement"
+                },
+                {
+                  "accessories": "Feather fan (controls wind). Sometimes carries sword. Demon horse for travel"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Wind Control",
+                  "type": "active",
+                  "short_description": "Manipulates wind with feather fan",
+                  "full_description": "Creates razor-sharp wind blades. Can fly on wind currents. Creates tornadoes and hurricanes. Uses wind for defense and propulsion. Most powerful wind user in series",
+                  "image": "kagura_wind.png"
+                },
+                {
+                  "name": "Puppet Body Knowledge",
+                  "type": "passive",
+                  "short_description": "Understanding of Naraku's creations and weaknesses",
+                  "full_description": "Knows how Naraku creates puppets. Understands weaknesses of other puppets (Kanna, etc.). Can resist some of Naraku's control. Knowledge of Naraku's hiding places and methods",
+                  "image": "kagura_puppet.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/kagura/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-inuyasha-013",
+              "name": "Kohaku",
+              "rating": 8.6,
+              "logo": "assets/images/logos/inuyasha/kohaku_logo.png",
+              "alias": [
+                "The Boy Without Memory",
+                "Sango's Brother",
+                "Naraku's Pawn"
+              ],
+              "title": [
+                "Demon Slayer Prodigy",
+                "Bearer of Shikon Shard",
+                "Redeemed Warrior"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Young, troubled eyes that have seen too much. Often blank when memory-less",
+                  "nose": "Normal nose, similar to Sango's",
+                  "ears": "Normal ears",
+                  "extra_facial_features": "Youthful face of a boy (12-14). Looks like younger male version of Sango. Short dark hair. Often looks confused or determined. Shikon shard visible on back of neck"
+                },
+                "body": {
+                  "chest": "Boy's developing build. Wears light demon slayer armor",
+                  "arms": "Young but trained arms. Wields chain sickle weapon skillfully"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Sometimes wears demon slayer mask. Usually bareheaded"
+                },
+                {
+                  "torso": "Simplified demon slayer armor in blue and white. Lighter than Sango's for his size",
+                  "arms": "Light arm guards. Allows full mobility for his weapon"
+                },
+                {
+                  "legs": "Light pants and boots. Built for agility over strength"
+                },
+                {
+                  "accessories": "Chain sickle weapon. Basic demon slayer tools. Medicine for memory loss"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Chain Sickle Mastery",
+                  "type": "active",
+                  "short_description": "Wields unique chain weapon with precision",
+                  "full_description": "Weapon extends and retracts with chained sections. Can entangle enemies or strike from distance. Uses with demon slayer techniques. Trained since childhood. Adapts weapon to compensate for smaller size",
+                  "image": "kohaku_sickle.png"
+                },
+                {
+                  "name": "Memory Fragmentation",
+                  "type": "passive",
+                  "short_description": "Lives with controlled memories and conditioning",
+                  "full_description": "Memories controlled by Naraku via shard. Can be turned into puppet assassin. Gradually regains true memories. Develops resistance to control. Represents trauma and recovery",
+                  "image": "kohaku_memory.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/kohaku/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-inuyasha-014",
+              "name": "Kaede",
+              "rating": 8.5,
+              "logo": "assets/images/logos/inuyasha/kaede_logo.png",
+              "alias": [
+                "Village Elder",
+                "One-Eyed Miko",
+                "Kikyo's Sister"
+              ],
+              "title": [
+                "Village Priestess of Edo Period",
+                "Keeper of Knowledge",
+                "Kagome's Mentor"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "One wise eye (lost other protecting village). Eye sees spiritual truths and practical realities",
+                  "nose": "Normal aged nose. Can smell illness and spiritual corruption",
+                  "ears": "Normal ears, often hidden by hair",
+                  "extra_facial_features": "Elderly woman with kind, wrinkled face. White hair. Missing right eye (covered by patch). Wears simple miko robes. Always calm and knowing"
+                },
+                "body": {
+                  "chest": "Elderly woman's build. Not physically strong but spiritually powerful",
+                  "arms": "Aged arms that still can perform rituals and healing"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Eye patch over right eye. Sometimes wears simple scarf"
+                },
+                {
+                  "torso": "Traditional miko robes in red and white. Simpler than Kikyo's. Practical for village life"
+                },
+                {
+                  "arms": "Kimono sleeves. No armor"
+                },
+                {
+                  "legs": "Traditional hakama. Simple sandals"
+                },
+                {
+                  "accessories": "Healing herbs and medicines. Spiritual tools. Village records and scrolls. Pipe for smoking"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Elder's Wisdom",
+                  "type": "passive",
+                  "short_description": "Decades of experience with demons and village life",
+                  "full_description": "Knowledge of demon lore and history. Understands human nature and village dynamics. Medicinal and herbal knowledge. Spiritual guidance and counseling. Bridge between feudal and modern (via Kagome)",
+                  "image": "kaede_wisdom.png"
+                },
+                {
+                  "name": "Spiritual Guidance",
+                  "type": "active",
+                  "short_description": "Limited spiritual powers for protection and healing",
+                  "full_description": "Can create basic purification barriers. Performs blessings and ceremonies. Basic healing of spiritual wounds. Can sense evil presences. Teaches Kagome about her powers",
+                  "image": "kaede_guidance.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/kaede/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-inuyasha-015",
+              "name": "Bankotsu",
+              "rating": 8.8,
+              "logo": "assets/images/logos/inuyasha/bankotsu_logo.png",
+              "alias": [
+                "Leader of the Band of Seven",
+                "Banryu's Wielder",
+                "The Immortal Mercenary"
+              ],
+              "title": [
+                "Strongest of the Band of Seven",
+                "Bearer of the Shikon Jewel",
+                "Master of the Banryu"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Sharp, battle-hungry eyes that enjoy combat. Eyes show both brutality and odd honor code",
+                  "nose": "Normal nose, scarred from battles",
+                  "ears": "Normal ears. Wears earrings with skull motifs",
+                  "extra_facial_features": "Handsome but brutal face. White hair in distinctive style. Cross-shaped scar on forehead. Often grinning with bloodlust. Wears mercenary armor and furs"
+                },
+                "body": {
+                  "chest": "Massive, powerful build (46 inches) of seasoned warrior. Covered in scars and tattoos. Wears heavy armor pieces",
+                  "arms": "Enormously strong arms (17 inches) from wielding giant sword. Covered in battle scars"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No helmet. White hair styled up. Cross forehead scar visible"
+                },
+                {
+                  "torso": "Heavy fur and leather armor. Exposes chest to show fearlessness. Carries Banryu on shoulder"
+                },
+                {
+                  "arms": "Heavy arm guards. No gloves to better grip weapon"
+                },
+                {
+                  "legs": "Heavy pants and boots. Practical for all terrains"
+                },
+                {
+                  "accessories": "Banryu (giant double-bladed sword). Shikon jewel shards (when obtained). Skull motif jewelry. Traveling supplies"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Banryu Mastery",
+                  "type": "active",
+                  "short_description": "Wields massive double-bladed sword with superhuman strength",
+                  "full_description": "Banryu can extend into segments for whip-like attacks. Can channel demonic energy when combined with Shikon Jewel. Creates shockwaves with swings. Trained to use weight as advantage. Can fight multiple opponents simultaneously",
+                  "image": "bankotsu_banryu.png"
+                },
+                {
+                  "name": "Undead Resilience",
+                  "type": "passive",
+                  "short_description": "Resurrected body with enhanced abilities",
+                  "full_description": "Brought back by Naraku with clay bodies and Shikon shards. Doesn't feel pain or fatigue. Can reattach severed limbs. Enhanced strength beyond human limits. Only dies if shard is destroyed",
+                  "image": "bankotsu_undead.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/bankotsu/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-inuyasha-016",
+              "name": "Totosai",
+              "rating": 8.3,
+              "logo": "assets/images/logos/inuyasha/totosai_logo.png",
+              "alias": [
+                "The Sword Smith",
+                "Three-Eyed Ox Demon",
+                "Ancient Craftsman"
+              ],
+              "title": [
+                "Forger of Tetsusaiga and Tenseiga",
+                "Master Smith of Demon Swords",
+                "Living History"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Three eyes (third on forehead). Eyes show ancient wisdom and craft knowledge",
+                  "nose": "Bull-like nose. Can smell metal purity and demon energies",
+                  "ears": "Ox ears. Can hear the 'voice' of swords",
+                  "extra_facial_features": "Old ox demon face with white beard. Third eye on forehead. Wears simple craftsman clothes. Always looks busy or thoughtful"
+                },
+                "body": {
+                  "chest": "Old but strong ox demon body. Years of smithing built durable frame",
+                  "arms": "Powerful arms from centuries of hammering. Hands are calloused but precise"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No helmet. Third eye visible. Sometimes wears eye protection when smithing"
+                },
+                {
+                  "torso": "Simple craftsman apron over robes. Covered in soot and burn marks"
+                },
+                {
+                  "arms": "Leather arm guards for smithing. No fancy armor"
+                },
+                {
+                  "legs": "Simple pants. Sturdy boots for forge work"
+                },
+                {
+                  "accessories": "Smithing hammer and tools. Blueprints and scrolls. Travels on three-eyed cow. Samples of special metals"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Legendary Sword Smithing",
+                  "type": "passive",
+                  "short_description": "Knowledge of creating and repairing demon swords",
+                  "full_description": "Created Tetsusaiga and Tenseiga from Great Dog Demon's fang. Understands all demon sword properties. Can repair even magical blades. Knows history and secrets of every major sword. Teaching ability to pass on craft",
+                  "image": "totosai_smithing.png"
+                },
+                {
+                  "name": "Ancient Demon Lore",
+                  "type": "passive",
+                  "short_description": "Millennia of knowledge about demons and their weapons",
+                  "full_description": "Knew Inuyasha and Sesshomaru's father personally. Understands demon politics and history. Knows weaknesses and strengths of all demon types. Repository of lost knowledge. Advisor to powerful demons",
+                  "image": "totosai_lore.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/inuyasha/totosai/image_0001.png"
               ]
             }
           ]
