@@ -1809,71 +1809,1718 @@
           "name": "One Piece Series",
           "characters": [
             {
-              "id": "anime-onepiece-001",
+              "id": "onepiece-001",
               "name": "Monkey D. Luffy",
-              "rating": 9.5,
+              "rating": 9.7,
               "logo": "assets/images/logos/onepiece/luffy_logo.png",
               "alias": [
                 "Straw Hat Luffy",
                 "Fifth Emperor of the Sea",
-                "Joy Boy"
+                "Sun God Nika",
+                "The Man Who Will Be King of the Pirates"
               ],
               "title": [
-                "Captain of Straw Hat Pirates",
-                "Future Pirate King",
-                "Warrior of Liberation"
+                "Captain of the Straw Hat Pirates",
+                "Joy Boy",
+                "Warrior of Liberation",
+                "Son of Monkey D. Dragon"
               ],
               "appearance": {
                 "head": {
-                  "eyes": "Dark, determined eyes that shine with unbreakable will. Eyes become more intense when using Conqueror's Haki, seeming to pierce through opponents' souls. Always sparkling with adventure and curiosity about the world",
-                  "nose": "Normal human nose that's surprisingly good at smelling meat from great distances. Can detect specific ingredients in dishes. Slightly rounded tip that gives boyish appearance",
-                  "ears": "Normal ears that listen intently to friends' dreams and enemies' weaknesses. Can hear the 'voice of all things' including ancient poneglyphs. Usually hidden under straw hat",
-                  "extra_facial_features": "Prominent scar under left eye from self-inflicted childhood demonstration of courage. Wide, rubbery grin that stretches impossibly wide when laughing. Black hair that's short and messy. Cheeks retain youthful roundness despite harsh experiences. Straw hat constantly present except in most intense battles"
+                  "eyes": "Round, dark brown eyes that sparkle with determination and childlike wonder. When serious, they narrow with intense focus. Eyes reflect unwavering will and absolute freedom. Distinctive scar under left eye from self-inflicted wound to prove courage",
+                  "nose": "Small, rounded nose with excellent sense of smell for food. Slightly upturned when laughing",
+                  "ears": "Normal human ears that are surprisingly perceptive to friends' distress. Both ears pierced but rarely wears earrings",
+                  "extra_facial_features": "Messy black hair that resists styling. Prominent scar shaped like 'X' on chest from Akainu and Jinbe's blood transfusion. Wide, toothy grin often showing all teeth. Boyish face that belies incredible strength. Straw hat constantly perched on head or back"
                 },
                 "body": {
-                  "chest": "Lean, rubbery torso that can stretch and compress amazingly. Chest bears large X-shaped scar from Akainu's magma fist. Muscles are deceptively strong despite slim appearance (38-inch chest). Skin has rubber texture that bounces back from impacts. Can inflate like balloon using Gear 3 techniques",
-                  "arms": "Long, stretchable arms that can extend for miles. Biceps can expand to gigantic proportions. Shoulders are incredibly flexible. Hands are usually clenched in fists ready for Gum-Gum Pistol attacks. Wrists bear friendship tattoos from Impel Down"
+                  "chest": "Lean, wiry frame (41 inches) deceptively powerful due to rubber properties. Chest shows defined but not bulky musculature. Multiple scars including large X-shaped scar across chest. Skin tanned from years at sea. Ribcage expanded after timeskip for greater lung capacity",
+                  "arms": "Long, stretchable arms with defined biceps (15 inches). Forearms show rope-like muscle definition from constant stretching. Hands are calloused from combat but remain nimble. Distinctive '3D2Y' tattoo on left forearm"
                 },
                 "lower_body": {
-                  "legs": "Rubbery legs that can stretch like elastic. Thighs can expand for Gear 3 attacks. Calves are strong enough to kick through steel. Feet are usually barefoot or in simple sandals. Can spin legs like propellers for unique movement techniques"
+                  "legs": "Powerful legs (22 inches) capable of incredible stretching and compression. Calves defined for Gum-Gum Rocket propulsion. Feet permanently barefoot for better grip and mobility. Can stretch legs up to several hundred meters"
                 }
               },
               "armor_costume": [
                 {
-                  "head": "Straw hat given by Shanks, his most precious treasure. Hat is surprisingly durable, surviving countless battles. Symbol of promise to become Pirate King. Worn always except in most serious fights"
+                  "head": "Straw hat (treasured gift from Shanks). No helmet or head protection. Hair exposed. Occasionally wears goggles or bandana during specific battles"
                 },
                 {
-                  "torso": "Red vest worn open over bare chest. Sometimes adds longer red coat when in colder climates or formal situations. No armor as rubber body provides natural defense. Scar proudly displayed as badge of survival"
+                  "torso": "Red sleeveless vest (post-timeskip) or various colored vests. Often shirtless or in simple tops. Yellow sash around waist. Sometimes wears open red cardigan. Minimal chest protection"
                 },
                 {
-                  "arms": "No arm protection. Wrist tattoos from Impel Down alliance. Arms free for maximum stretching capability. Sometimes wears armbands in different arcs"
+                  "arms": "No gauntlets or arm guards. Wears wristbands occasionally. Arms free for maximum stretching ability"
                 },
                 {
-                  "legs": "Blue shorts or pants depending on arc. No leg armor. Simple sandals or going barefoot. Clothing designed not to restrict rubber body movements"
+                  "legs": "Blue denim shorts or various colored shorts. No leg armor. Barefoot at all times. Sometimes wears sandals in formal settings"
                 },
                 {
-                  "accessories": "Yellow sash tied around waist. Sometimes adds backpack for food storage. No weapons as his body is his weapon. Den Den Mushi for communication when needed"
+                  "accessories": "Straw hat (most important). Yellow sash. Occasionally wears goggles. Den Den Mushi. Meat in hand. No weapons"
                 }
               ],
               "abilities": [
                 {
-                  "name": "Gum-Gum Fruit Powers",
-                  "type": "passive",
-                  "short_description": "Rubber body with incredible stretching, bouncing, and impact resistance",
-                  "full_description": "Body has properties of rubber: immune to blunt attacks, electricity, and bullets. Can stretch any body part up to 72 times original length. Elasticity allows for incredible speed when snapping back. Impact resistance scales with willpower. Can inflate bones and muscles for power boosts. Awakening allows environment to become rubber",
-                  "image": "luffy_gum_gum.png"
+                  "name": "Gomu Gomu no Mi (Gear System)",
+                  "type": "active",
+                  "short_description": "Rubber human abilities enhanced through innovative gear transformations",
+                  "full_description": "Paramecia-type Devil Fruit making body properties of rubber. Gear Second: Accelerates blood flow for speed. Gear Third: Blows air into bones for giant limbs. Gear Fourth: Blows air into muscles with Haki coating - Boundman (speed/power), Snakeman (speed), Tankman (defense). Gear Fifth: Awakening - 'Sun God Nika' form with reality-warping cartoon physics, complete freedom of movement",
+                  "image": "luffy_gear5.png"
                 },
                 {
-                  "name": "Haki Mastery",
-                  "type": "active",
-                  "short_description": "Three types of spiritual energy: Observation, Armament, and Conqueror's",
-                  "full_description": "Observation Haki: Sense presence, emotions, and predict movements. Advanced form sees several seconds into future. Armament Haki: Hardens body like iron, can hit logia users. Advanced form emits internal destruction. Conqueror's Haki: Knocks out weak-willed, can coat attacks for supreme power. Only one in millions has this ability",
+                  "name": "Haoshoku Haki (Conqueror's)",
+                  "type": "active/passive",
+                  "short_description": "Supreme King's Haki that overwhelms weaker wills",
+                  "full_description": "1 in several million possess this ability. Can knock out thousands simultaneously. Advanced form allows coating attacks in conqueror's haki (internal destruction). Combined with Armament Haki for most powerful attacks. Can clash with other conquerors creating sky-splitting effects",
                   "image": "luffy_haki.png"
                 }
               ],
               "gallery": [
                 "assets/images/characters/onepiece/luffy/image_0001.png",
-                "assets/images/characters/onepiece/luffy/image_0002.png"
+                "assets/images/characters/onepiece/luffy/image_0002.png",
+                "assets/images/characters/onepiece/luffy/image_0003.png",
+                "assets/images/characters/onepiece/luffy/image_0004.png",
+                "assets/images/characters/onepiece/luffy/image_0005.png",
+                "assets/images/characters/onepiece/luffy/image_0006.png",
+                "assets/images/characters/onepiece/luffy/image_0007.png"
+              ]
+            },
+            {
+              "id": "onepiece-002",
+              "name": "Roronoa Zoro",
+              "rating": 9.5,
+              "logo": "assets/images/logos/onepiece/zoro_logo.png",
+              "alias": [
+                "Pirate Hunter Zoro",
+                "King of Hell",
+                "Three Sword Style Master"
+              ],
+              "title": [
+                "Vice-Captain of Straw Hat Pirates",
+                "Greatest Swordsman Candidate",
+                "Supernova of the Worst Generation"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Sharp, intense dark brown eyes that gleam with fighting spirit. Left eye bears prominent scar from Mihawk, permanently closed but contains enhanced observation haki. Right eye narrows in concentration. Piercing gaze that intimidates opponents",
+                  "nose": "Straight, unremarkable nose. Good sense of direction (contrary to popular belief)",
+                  "ears": "Triple gold earrings in left ear symbolizing three sword style. Normal hearing but enhanced perception through haki",
+                  "extra_facial_features": "Green hair (natural) styled in short, spiky cut. Distinctive scar across left eye from Mihawk. Angular, handsome face with stern expression. Rare smiles except in victory. Tanned skin. Strong jawline"
+                },
+                "body": {
+                  "chest": "Extremely muscular build (48 inches) with defined eight-pack abs. Covered in numerous scars including massive diagonal scar from chest to hip from Kuma. Muscles honed through extreme weight training. Skin shows years of combat experience",
+                  "arms": "Incredibly powerful arms (18 inches) with bulging biceps and triceps. Forearms heavily muscled for sword control. Hands calloused from sword grips. Can maintain three-sword style for hours"
+                },
+                "lower_body": {
+                  "legs": "Powerful legs (24 inches) for stable sword stances. Calves defined for quick dashes and jumps. Strong ankles for pivoting during attacks. Can slice through steel with leg strength alone"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Green bandana tied around head during serious fights. No helmet. Three golden earrings in left ear"
+                },
+                {
+                  "torso": "Open black haramaki (belly band) showing chest. Often shirtless or in minimal tops. Post-timeskip wears green samurai-like robes over black pants. White shirt underneath when formal"
+                },
+                {
+                  "arms": "No armor on arms. Wears wristbands for sweat absorption. Arms completely free for sword movement"
+                },
+                {
+                  "legs": "Black pants or hakama-style trousers. No leg armor. Traditional Japanese sandals or boots"
+                },
+                {
+                  "accessories": "Three swords: Wado Ichimonji (white), Sandai Kitetsu (red), Enma (black). Swords carried at left hip. Black bandana. Sake bottle often nearby"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Santoryu (Three Sword Style)",
+                  "type": "active",
+                  "short_description": "Unique sword style using three blades simultaneously",
+                  "full_description": "Uses one sword in each hand and third in mouth. Created original techniques: Oni Giri, Rashomon, 1080 Pound Phoenix. Post-timeskip adds haki coating to blades (especially Enma that draws out haki). Can cut steel, fire, and even mountain-sized objects. Asura form creates illusion of nine swords",
+                  "image": "zoro_santoryu.png"
+                },
+                {
+                  "name": "Ryou (Advanced Armament Haki)",
+                  "type": "active",
+                  "short_description": "Flowing haki that allows cutting from inside",
+                  "full_description": "Advanced armament haki mastered in Wano. Can project haki beyond blades for ranged cuts. Internal destruction technique. Combined with conqueror's haki unconsciously. Can cut through anything including Kaido's scales. 'King of Hell' technique combines all haki types",
+                  "image": "zoro_haki.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/zoro/image_0001.png",
+                "assets/images/characters/onepiece/zoro/image_0002.png",
+                "assets/images/characters/onepiece/zoro/image_0003.png",
+                "assets/images/characters/onepiece/zoro/image_0004.png"
+              ]
+            },
+            {
+              "id": "onepiece-003",
+              "name": "Nami",
+              "rating": 9.1,
+              "logo": "assets/images/logos/onepiece/nami_logo.png",
+              "alias": [
+                "Cat Burglar",
+                "Weather Witch",
+                "Navigator of the Straw Hats"
+              ],
+              "title": [
+                "Chief Navigator of Straw Hat Pirates",
+                "Former Member of Arlong Pirates",
+                "Best Cartographer in the World"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Bright blue eyes that shift from warm and kind to cunning and calculating. Sparkle with intelligence when plotting routes or weather patterns. Can glare fiercely when angry (especially about money)",
+                  "nose": "Small, cute nose. Excellent sense for detecting changes in air pressure",
+                  "ears": "Normal ears with occasional earrings. Can detect subtle wind shifts",
+                  "extra_facial_features": "Shoulder-length orange hair (natural) usually styled. Post-timeskip longer hair with ponytail. Tattoo on left shoulder (originally Arlong Pirates mark, changed to mikan tree and pinwheel). Beautiful face with expressive features. Often wears makeup"
+                },
+                "body": {
+                  "chest": "Slender, feminine build (36 inches) with hourglass figure. Surprisingly strong core from years of sailing. Skin soft but resilient to sea conditions",
+                  "arms": "Slender arms with good dexterity for map-making and theft. Strong enough to wield Clima-Tact. Wrists flexible for complex maneuvers"
+                },
+                "lower_body": {
+                  "legs": "Long, toned legs (proportional) for balance on rocking ships. Agile for climbing and quick movements. Often shown barefoot on ship"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No helmet. Often wears various hats or bandanas. Log Pose on left wrist (now tattoo)"
+                },
+                {
+                  "torso": "Variety of fashionable outfits, often revealing. Typically wears bikini tops or low-cut shirts. Post-timeskip more varied wardrobe. Carries multiple maps in waterproof cases"
+                },
+                {
+                  "arms": "No armor. Sometimes wears bracelets or watches. Arms free for navigation instruments"
+                },
+                {
+                  "legs": "Short skirts, shorts, or sarongs. High heels despite being on ship (amazing balance). No leg armor"
+                },
+                {
+                  "accessories": "Sorcery Clima-Tact (weather staff). Multiple maps and navigation tools. Money purse (always full). Den Den Mushi. Eternal Pose collection"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Weather Science & Clima-Tact",
+                  "type": "active",
+                  "short_description": "Controls weather using scientifically enhanced staff",
+                  "full_description": "Created by Usopp, upgraded by Weatheria scientists. Can create fog, rain, lightning, wind bursts, and mirages. Perfect Storm combines elements for tornadoes and thunderstorms. Zeus (homie) now part of staff for enhanced lightning. Uses knowledge of meteorology for tactical advantage",
+                  "image": "nami_climatact.png"
+                },
+                {
+                  "name": "Navigation & Cartography",
+                  "type": "passive",
+                  "short_description": "Unparalleled navigation skills and map-making",
+                  "full_description": "Can navigate through any sea condition. Draws perfect maps from memory. Understands all ocean currents, wind patterns, and weather systems. Can predict weather days in advance. Only person who can navigate to certain islands like Weatheria",
+                  "image": "nami_navigation.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/nami/image_0001.png",
+                "assets/images/characters/onepiece/nami/image_0002.png",
+                "assets/images/characters/onepiece/nami/image_0003.png"
+              ]
+            },
+            {
+              "id": "onepiece-004",
+              "name": "Usopp",
+              "rating": 8.9,
+              "logo": "assets/images/logos/onepiece/usopp_logo.png",
+              "alias": [
+                "God Usopp",
+                "Sogeking",
+                "The Great Liar of Syrup Village"
+              ],
+              "title": [
+                "Sniper of Straw Hat Pirates",
+                "Brave Warrior of the Sea",
+                "8000 Followers Commander"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Wide, expressive brown eyes that show fear, excitement, or cunning. Can spot targets kilometers away. Eyes sharpen during sniper focus. Distinctive long nose (inherited trait)",
+                  "nose": "Very long, prominent nose (characteristic of his family). Excellent sense of smell for tracking",
+                  "ears": "Normal ears. Good hearing for detecting faint sounds",
+                  "extra_facial_features": "Afro-style curly black hair. Goatee post-timeskip. Face shows range from cowardly to brave expressions. Often has bandages from injuries. Wears goggles when sniping"
+                },
+                "body": {
+                  "chest": "Lean build (38 inches) more muscular post-timeskip. Strong core for stable shooting positions. Good flexibility for dodging",
+                  "arms": "Long arms (16 inches) with excellent steady hands. Strong fingers for trigger control. Good shoulder strength for weapon recoil"
+                },
+                "lower_body": {
+                  "legs": "Long legs for running (his specialty). Good balance for precarious positions. Can maintain crouched positions for hours"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Various masks as Sogeking. Goggles for eye protection. Bandana sometimes"
+                },
+                {
+                  "torso": "Practical outfits with many pockets. Sogeking costume: red overalls with white star. Post-timeskip: more tactical gear. Satchel for ammunition"
+                },
+                {
+                  "arms": "Arm guards for bowstring protection. Gloves for better grip"
+                },
+                {
+                  "legs": "Comfortable pants for mobility. Good boots for running. Knee pads for sniping positions"
+                },
+                {
+                  "accessories": "Kabuto (giant slingshot). Various pop greens and ammunition. Tool belt. Sniper goggles. First aid kit"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Sniper King Techniques",
+                  "type": "active",
+                  "short_description": "Unmatched sniping accuracy with creative ammunition",
+                  "full_description": "Can hit targets from extreme distances with perfect accuracy. Uses Kabuto slingshot with various ammunition: Fire Star, Impact Wolf, Pop Greens (living plants). Observation Haki awakened in Dressrosa (can see auras kilometers away). Creative trick shots and ricochets",
+                  "image": "usopp_sniper.png"
+                },
+                {
+                  "name": "Inventing & Crafting",
+                  "type": "passive/active",
+                  "short_description": "Creates advanced weapons and tools",
+                  "full_description": "Designed Nami's Clima-Tact, Franky's early weapons. Creates specialized ammunition. Excellent at traps and mechanical devices. Can repair and modify equipment. Made dial-based weapons from Skypeia technology",
+                  "image": "usopp_crafting.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/usopp/image_0001.png",
+                "assets/images/characters/onepiece/usopp/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-005",
+              "name": "Sanji",
+              "rating": 9.3,
+              "logo": "assets/images/logos/onepiece/sanji_logo.png",
+              "alias": [
+                "Black Leg Sanji",
+                "Mr. Prince",
+                "Soba Mask"
+              ],
+              "title": [
+                "Cook of Straw Hat Pirates",
+                "Son of Vinsmoke Judge",
+                "North Blue Native"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Blue eyes that usually appear as single line due to eyebrow covering right eye. Both eyes visible post-Wano revealing identical curly eyebrows. Eyes show passion for cooking and protectiveness toward women. Sharp gaze in combat",
+                  "nose": "Straight nose with excellent sense of smell for ingredients. Can detect poison or spoilage",
+                  "ears": "Normal ears. Pierced left ear with earring. Good hearing for kitchen timers",
+                  "extra_facial_features": "Blond hair usually covering right eye. Distinctive curly eyebrows (both spiral clockwise). Clean-shaven. Handsome features. Always has cigarette in mouth (post-timeskip electronic). Well-groomed"
+                },
+                "body": {
+                  "chest": "Lean, athletic build (42 inches) optimized for speed. Strong core for high kicks. Less muscular than Zoro but equally powerful. Skin shows few scars due to evasion skills",
+                  "arms": "Slender arms (15 inches) kept for cooking only (never uses for fighting). Hands delicate for precise cooking. Forearms strong for pot handling"
+                },
+                "lower_body": {
+                  "legs": "Extremely powerful legs (23 inches) with defined calves. Can generate friction heat for Diable Jambe. Fastest runner in crew. Always in dress shoes"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No helmet. Well-styled hair. Cigarette (or e-cigarette) always present"
+                },
+                {
+                  "torso": "Black suit jacket usually open. Dress shirt underneath. Tie. Professional cook appearance. Sometimes wears Raid Suit (Stealth Black)"
+                },
+                {
+                  "arms": "No arm protection. Suit sleeves rolled up for cooking. Watch on left wrist"
+                },
+                {
+                  "legs": "Black dress pants. Always shiny black dress shoes (reinforced for combat)"
+                },
+                {
+                  "accessories": "Cigarettes/lighter. Cooking utensils. Recipe book. Various spices and ingredients"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Black Leg Style",
+                  "type": "active",
+                  "short_description": "Kick-based martial art using only legs",
+                  "full_description": "Developed from Zeff's teachings. Techniques: Mouton Shot, Concasse, Diable Jambe (legs ignite through friction). Ifrit Jambe: advanced version combining Armament Haki. Can kick at supersonic speeds. Sky Walk allows air walking. Strong enough to break Vergo's full-body haki",
+                  "image": "sanji_blackleg.png"
+                },
+                {
+                  "name": "Enhanced Genetics & Raid Suit",
+                  "type": "active/passive",
+                  "short_description": "Modified human abilities from Germa technology",
+                  "full_description": "Vinsmoke genetic modifications: enhanced durability, strength, regeneration, exoskeleton. Raid Suit provides invisibility, flight, enhanced speed and defense. Combined with haki and black leg style makes him one of crew's strongest. Can use Germa moves like Winch Green",
+                  "image": "sanji_raidsuit.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/sanji/image_0001.png",
+                "assets/images/characters/onepiece/sanji/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-006",
+              "name": "Tony Tony Chopper",
+              "rating": 9.0,
+              "logo": "assets/images/logos/onepiece/chopper_logo.png",
+              "alias": [
+                "Cotton Candy Lover",
+                "Emergency Food Supply",
+                "Miracle Worker"
+              ],
+              "title": [
+                "Doctor of Straw Hat Pirates",
+                "Human-Human Fruit User",
+                "Honorary Member of Mink Tribe"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, innocent black eyes with white highlights. Show compassion and curiosity. Can become fierce in monster point. Blue nose (reindeer trait)",
+                  "nose": "Blue reindeer nose with excellent sense of smell for medicine. Can detect illness",
+                  "ears": "Reindeer ears under hat. Can rotate 360 degrees for better hearing",
+                  "extra_facial_features": "Pink hat (Dr. Hiriluk's gift) with 'X' mark. Brown fur with white stomach. Cute appearance in brain point. Horns visible in heavy point. Usually in hybrid form"
+                },
+                "body": {
+                  "chest": "Small in brain point, muscular in heavy point. Fur provides natural insulation. Can transform to various sizes",
+                  "arms": "Hooves that can transform to hands in hybrid form. Good dexterity for surgery"
+                },
+                "lower_body": {
+                  "legs": "Reindeer legs that allow running on all fours. Hooves for various terrains. Can walk upright"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Pink hat with 'X' symbol. Sometimes wears doctor's head mirror"
+                },
+                {
+                  "torso": "Blue shorts or pants. Medical bag across body. Sometimes doctor's coat"
+                },
+                {
+                  "arms": "No armor. Sometimes medical gloves"
+                },
+                {
+                  "legs": "Bare hooves or simple shoes"
+                },
+                {
+                  "accessories": "Medical bag with medicines. Rumble Ball container. Stethoscope. Cotton candy"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Hito Hito no Mi & Transformations",
+                  "type": "active",
+                  "short_description": "Human-Human Fruit with seven forms via Rumble Ball",
+                  "full_description": "Normal forms: Brain Point (small, intelligent), Heavy Point (humanoid), Walk Point (reindeer), Guard Point (defensive), Horn Point (strong), Jump Point (agile). Rumble Ball adds: Kung Fu Point (martial arts), Monster Point (giant, uncontrollable). Post-timeskip controls Monster Point. Can now transform partially",
+                  "image": "chopper_transform.png"
+                },
+                {
+                  "name": "Medical Genius",
+                  "type": "passive/active",
+                  "short_description": "Exceptional medical knowledge and skills",
+                  "full_description": "Trained by Dr. Kureha. Can diagnose and treat any disease. Created antidotes for unknown poisons. Performs complex surgery in battlefield conditions. Understands all body systems. Can create specialized medicines for any situation",
+                  "image": "chopper_medical.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/chopper/image_0001.png",
+                "assets/images/characters/onepiece/chopper/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-007",
+              "name": "Nico Robin",
+              "rating": 9.2,
+              "logo": "assets/images/logos/onepiece/robin_logo.png",
+              "alias": [
+                "Devil Child",
+                "Light of the Revolution",
+                "Archaeologist of the Straw Hats"
+              ],
+              "title": [
+                "Archaeologist of Straw Hat Pirates",
+                "Last Survivor of Ohara",
+                "Vice President of Revolutionary Army"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Deep blue eyes that hold ancient wisdom and hidden sadness. Intelligent, observant gaze. Can appear cold but warm when with crew. Sharp eyes for deciphering texts",
+                  "nose": "Straight, elegant nose. Good for detecting old paper and ink",
+                  "ears": "Normal ears. Often covered by hair. Good hearing for secrets",
+                  "extra_facial_features": "Black hair with bangs. Post-timeskip longer with fringe. Pale skin. Beautiful, mature features. Often serene smile. Sometimes wears glasses for reading"
+                },
+                "body": {
+                  "chest": "Tall, slender build (40 inches) with feminine curves. Good posture. Surprisingly strong core",
+                  "arms": "Slender arms (14 inches) with delicate hands. Excellent for precise archaeological work. Can sprout extra arms from anywhere"
+                },
+                "lower_body": {
+                  "legs": "Long legs (proportional). Can sprout extra legs for mobility. Good balance"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No helmet. Sometimes hat or flowers in hair. Sunglasses occasionally"
+                },
+                {
+                  "torso": "Variety of elegant outfits. Often purple or black themes. Post-timeskip more revealing. Cowboy hat sometimes. Professional archaeologist appearance"
+                },
+                {
+                  "arms": "No armor. Sometimes gloves for handling artifacts"
+                },
+                {
+                  "legs": "Skirts or shorts. High heels. Stockings sometimes"
+                },
+                {
+                  "accessories": "Archaeology tools. Poneglyph rubbings. Books. Den Den Mushi"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Hana Hana no Mi (Flower-Flower Fruit)",
+                  "type": "active",
+                  "short_description": "Sprouts body parts on any surface",
+                  "full_description": "Can grow eyes, ears, arms, legs on any surface including air. Thousands of arms possible (Gigantesco Mano). Can create clones of herself. Post-timeskip creates giant limbs for combat. Can fly by sprouting wings. Ultimate technique: Demonio Fleur (demon form)",
+                  "image": "robin_hana.png"
+                },
+                {
+                  "name": "Archaeology & Poneglyph Reading",
+                  "type": "passive",
+                  "short_description": "Only person who can read ancient poneglyphs",
+                  "full_description": "Last living person who can read ancient language. Knowledge of Void Century, Ancient Weapons, True History. Can decipher any code or language. Vast historical knowledge. Understands all ancient civilizations",
+                  "image": "robin_ponoglyph.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/robin/image_0001.png",
+                "assets/images/characters/onepiece/robin/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-008",
+              "name": "Franky",
+              "rating": 8.8,
+              "logo": "assets/images/logos/onepiece/franky_logo.png",
+              "alias": [
+                "Iron Man",
+                "Cyborg",
+                "Shipwright of the Future"
+              ],
+              "title": [
+                "Shipwright of Straw Hat Pirates",
+                "Builder of Thousand Sunny",
+                "Tom's Apprentice"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Blue eyes usually hidden behind sunglasses. Can extend telescopic eyes. Robotic enhancements allow various vision modes",
+                  "nose": "Normal nose but can extend for smelling. Partially mechanical",
+                  "ears": "Normal ears with enhanced hearing. Can filter sounds",
+                  "extra_facial_features": "Blue hair styled in pompadour (removable). Square chin. Robotic features visible. Large metal body. Always wearing speedos. STAR tattoo on left shoulder"
+                },
+                "body": {
+                  "chest": "Massive robotic chest (60+ inches). Can open for weapons. Cola-powered engine inside. Steel plating. Very heavy",
+                  "arms": "Huge mechanical arms (24 inches) with various tools. Right arm has Franky Radical Beam. Left has grappling hook. Can detach and rocket punch"
+                },
+                "lower_body": {
+                  "legs": "Massive mechanical legs (30 inches) with extendable length. Rockets in feet for flying. Can transform to tank treads. Very durable"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Swimming goggles/sunglasses. No helmet. Hair is removable wig"
+                },
+                {
+                  "torso": "Usually just speedos. Sometimes Hawaiian shirt open. Shows off cyborg body. No shirt needed"
+                },
+                {
+                  "arms": "Mechanical arms with built-in weapons. No additional armor"
+                },
+                {
+                  "legs": "Just speedos. Legs are mechanical. Sometimes wears pants for formal events"
+                },
+                {
+                  "accessories": "Cola bottles for fuel. Tool belt. Blueprints. Various mechanical parts"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Cyborg Enhancements",
+                  "type": "active",
+                  "short_description": "Full-body cybernetic modifications with weapons",
+                  "full_description": "Body modified after accident. Weapons: Franky Radical Beam (laser), Strong Right (punch), Fresh Fire (flamethrower), Coup de Vent (air cannon). General Franky: combines with Franky Shogun mech. Can reconstruct body after damage. Cola-powered. Post-timeskip stronger with new weapons",
+                  "image": "franky_cyborg.png"
+                },
+                {
+                  "name": "Shipbuilding & Engineering",
+                  "type": "passive/active",
+                  "short_description": "Master shipwright and inventor",
+                  "full_description": "Built Thousand Sunny (most advanced ship). Can repair any ship or device. Understands ancient technology (including Pluton blueprints). Creates inventions like Radical Beam. Can build bridges, buildings, vehicles quickly",
+                  "image": "franky_building.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/franky/image_0001.png",
+                "assets/images/characters/onepiece/franky/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-009",
+              "name": "Brook",
+              "rating": 8.7,
+              "logo": "assets/images/logos/onepiece/brook_logo.png",
+              "alias": [
+                "Soul King",
+                "Dead Bones",
+                "Humming Swordsman"
+              ],
+              "title": [
+                "Musician of Straw Hat Pirates",
+                "Former Battle Convoy Commander",
+                "Yomi Yomi no Mi User"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Empty eye sockets (can see without eyes). Sometimes has glowing soul energy. No pupils but expressive",
+                  "nose": "No nose bone (can smell somehow). Sometimes drawn with cartoon nose",
+                  "ears": "No ears but can hear perfectly",
+                  "extra_facial_features": "Complete skeleton. Afro (contains tone dial). Always smiling. Wears gentleman's clothes. Can detach head"
+                },
+                "body": {
+                  "chest": "Bony ribcage. Can play violin with ribs. Hollow inside. Very light weight",
+                  "arms": "Bone arms with excellent dexterity. Long fingers for instrument playing. Can detach limbs"
+                },
+                "lower_body": {
+                  "legs": "Bone legs. Very fast runner (lightweight). Can run on water. Good dancer"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Top hat with goggles. Afro (his pride). Sometimes crown as Soul King"
+                },
+                {
+                  "torso": "Elegant suit jacket. Shirt and tie. Gentleman appearance. Sometimes concert outfits"
+                },
+                {
+                  "arms": "No armor. Suit sleeves. Cane sword"
+                },
+                {
+                  "legs": "Suit pants. Dress shoes. Can remove legs to run faster"
+                },
+                {
+                  "accessories": "Cane sword. Violin. Guitar. Microphone. Tea set"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Yomi Yomi no Mi (Revive-Revive Fruit)",
+                  "type": "active/passive",
+                  "short_description": "Second chance at life with soul powers",
+                  "full_description": "Allows soul to return to body after death. Soul can leave body freely. Can interact with other souls. Cold of underworld affects physical world. Can create ice with sword. Post-timeskip: soul solidification for flight and enhanced speed",
+                  "image": "brook_yomi.png"
+                },
+                {
+                  "name": "Music & Swordmanship",
+                  "type": "active",
+                  "short_description": "Combines music with sword techniques",
+                  "full_description": "Three-Scroll Swordstyle: Humming, Arrow, and Requiem. Can cut with sound waves. Music affects enemies (sleep, hypnosis). Post-timeskip: can freeze souls. Very fast sword techniques. Can play multiple instruments simultaneously",
+                  "image": "brook_music.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/brook/image_0001.png",
+                "assets/images/characters/onepiece/brook/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-010",
+              "name": "Jinbe",
+              "rating": 9.0,
+              "logo": "assets/images/logos/onepiece/jinbe_logo.png",
+              "alias": [
+                "First Son of the Sea",
+                "Knight of the Sea",
+                "Boss"
+              ],
+              "title": [
+                "Helmsman of Straw Hat Pirates",
+                "Former Shichibukai",
+                "Former Captain of Sun Pirates"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Small, kind eyes that show wisdom and calm. Can become fierce in battle. Usually serene expression",
+                  "nose": "Whale shark nose. Can breathe underwater",
+                  "ears": "Fish-man ears. Can hear underwater currents",
+                  "extra_facial_features": "Blue whale shark fish-man. Large stature. Traditional fish-man features. Whisker-like barbels. Strong jaw. Usually serious expression. Sun Pirates tattoo on chest"
+                },
+                "body": {
+                  "chest": "Massive, powerful build (65+ inches). Whale shark skin very durable. Muscular but streamlined for swimming",
+                  "arms": "Powerful arms (25 inches) with webbed fingers. Excellent for swimming and fish-man karate"
+                },
+                "lower_body": {
+                  "legs": "Powerful legs for land movement. Better suited for swimming. Can transform tail when in water"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No helmet. Sometimes traditional hat. Usually bareheaded"
+                },
+                {
+                  "torso": "Kimono or martial arts gi. Often open to show chest tattoo. Traditional Japanese style"
+                },
+                {
+                  "arms": "No armor. Sleeves rolled up. Wristbands sometimes"
+                },
+                {
+                  "legs": "Loose pants. Barefoot or sandals"
+                },
+                {
+                  "accessories": "None. Prefers minimal gear"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Fish-Man Karate & Jujutsu",
+                  "type": "active",
+                  "short_description": "Manipulates water within all things",
+                  "full_description": "Uses water in air, bodies, and environment as weapon. Techniques: Vagabond Drill, Shark Tile, Ocean Current Shoulder Throw. Can launch water droplets that hit like cannonballs. Ultimate: Spear Wave (concentrated water piercing). Can control seawater despite Devil Fruit weakness",
+                  "image": "jinbe_karate.png"
+                },
+                {
+                  "name": "Helmsmanship & Navigation",
+                  "type": "passive/active",
+                  "short_description": "Master of sea currents and ship handling",
+                  "full_description": "Best helmsman in world. Can navigate through any storm. Understands all ocean currents. Can steer Thousand Sunny through impossible situations. Knowledge of sea weather patterns. Can predict whirlpools and storms",
+                  "image": "jinbe_helm.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/jinbe/image_0001.png",
+                "assets/images/characters/onepiece/jinbe/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-011",
+              "name": "Shanks",
+              "rating": 9.6,
+              "logo": "assets/images/logos/onepiece/shanks_logo.png",
+              "alias": [
+                "Red-Haired Shanks",
+                "The Red Emperor",
+                "Captain"
+              ],
+              "title": [
+                "Captain of Red Hair Pirates",
+                "Former Member of Roger Pirates",
+                "One of the Four Emperors"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Sharp, intelligent gray eyes that can shift from warm and jovial to deadly serious in an instant. Eyes hold immense wisdom and experience. Can glare with such intensity it stops battles",
+                  "nose": "Straight, unremarkable nose. Good sense for detecting strong opponents",
+                  "ears": "Normal ears. Three golden earrings in left ear. Can hear subtle changes in environment",
+                  "extra_facial_features": "Red hair (natural) worn in shoulder-length style. Three distinctive scars over left eye from Blackbeard. Handsome, rugged face with strong jawline. Usually smiling or laughing. Clean-shaven. Missing left arm (sacrificed for Luffy)"
+                },
+                "body": {
+                  "chest": "Well-built, powerful frame (46 inches) without being overly bulky. Muscles toned from years of sailing and combat. Missing left arm, but right arm incredibly powerful",
+                  "arms": "Only right arm remains, but extremely powerful (18 inches). Can wield sword one-handed with ease. Hand calloused from sword and sake cup"
+                },
+                "lower_body": {
+                  "legs": "Strong legs (23 inches) for stable footing on ship. Can move with incredible speed when needed. Often shown in relaxed stance"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No helmet. Straw hat (formerly) now given to Luffy. Sometimes wears bandana"
+                },
+                {
+                  "torso": "White shirt with sleeves rolled up. Open black cape over shoulders with red lining. Black pants. Simple, functional attire"
+                },
+                {
+                  "arms": "No armor on right arm. Left arm missing, sleeve usually pinned up"
+                },
+                {
+                  "legs": "Black pants. Black boots. No leg armor"
+                },
+                {
+                  "accessories": "Sword Gryphon (named blade). Sake bottle and cup. Red cloak"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Supreme Conqueror's Haki",
+                  "type": "active/passive",
+                  "short_description": "Most powerful Haoshoku Haki user shown",
+                  "full_description": "Can knock out elite Marines and damage surroundings with haki alone. Haki so strong it can damage physical objects (Whitebeard's ship, Green Bull's plants). Can end battles with haki intimidation. Advanced application allows coating in attacks without touching opponent. Can project haki over great distances",
+                  "image": "shanks_haki.png"
+                },
+                {
+                  "name": "Swordsmanship & Combat Prowess",
+                  "type": "active",
+                  "short_description": "Master swordsman capable of fighting Mihawk equally",
+                  "full_description": "Considered one of world's strongest swordsmen. Fought Mihawk to standstill in legendary duels. Can clash with Whitebeard splitting sky. Stopped Akainu's magma fist with single sword. Fast enough to intercept Kaido. Fought entire Marineford war with one arm",
+                  "image": "shanks_sword.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/shanks/image_0001.png",
+                "assets/images/characters/onepiece/shanks/image_0002.png",
+                "assets/images/characters/onepiece/shanks/image_0003.png"
+              ]
+            },
+            {
+              "id": "onepiece-012",
+              "name": "Dracule Mihawk",
+              "rating": 9.4,
+              "logo": "assets/images/logos/onepiece/mihawk_logo.png",
+              "alias": [
+                "Hawk-Eyes",
+                "Greatest Swordsman in the World",
+                "Marine Hunter"
+              ],
+              "title": [
+                "Former Shichibukai",
+                "Swordmaster Mentor",
+                "World's Strongest Swordsman"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Piercing yellow eyes that resemble hawk's eyes, giving him his epithet. Eyes can see incredible distances and detect minute details. Sharp, intense gaze that intimidates most opponents",
+                  "nose": "Straight, aristocratic nose. Good sense of direction",
+                  "ears": "Normal ears. Enhanced hearing from observation haki",
+                  "extra_facial_features": "Black hair styled in goatee and mustache combination. Pale skin. Handsome, aristocratic features. Always serious expression. Sharp facial structure. Wears small cross necklace"
+                },
+                "body": {
+                  "chest": "Lean, athletic build (44 inches) optimized for speed and precision. Not bulky but every muscle perfectly toned for swordplay. Carries himself with regal posture",
+                  "arms": "Long arms (17 inches) with perfect muscle control. Hands steady and precise. Can wield enormous Yoru with one hand. Finger strength incredible for sword control"
+                },
+                "lower_body": {
+                  "legs": "Long legs (24 inches) for graceful movement. Excellent footwork for sword stances. Can stand on floating debris in ocean"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Large black hat with feather. Sometimes jeweled. No helmet"
+                },
+                {
+                  "torso": "Elegant gentleman's attire. Often crimson or black. Frilled shirt. Waistcoat. Aristocratic appearance"
+                },
+                {
+                  "arms": "No armor. Sleeves allow free movement. Wears gloves sometimes"
+                },
+                {
+                  "legs": "Formal pants. Knee-high boots. No leg armor"
+                },
+                {
+                  "accessories": "Kokuto Yoru (world's strongest black blade). Small cross necklace. Wine glass"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "World's Strongest Swordsmanship",
+                  "type": "active",
+                  "short_description": "Unmatched skill with blade",
+                  "full_description": "Can cut enormous objects (ice mountains, ships) with casual swings. Precision to cut only what he intends. Can use tiny dagger to defeat skilled swordsmen. Created black blade Yoru through haki infusion. Fights with elegance and minimal movement. Can send flying slashes kilometers away",
+                  "image": "mihawk_swordsmanship.png"
+                },
+                {
+                  "name": "Observation Haki Mastery",
+                  "type": "passive/active",
+                  "short_description": "Extreme sensory perception",
+                  "full_description": "Can detect and predict movements from great distances. Eyesight so keen he can see ships on horizon. Can fight blindfolded using haki alone. Predicts opponent's attacks before they begin. Never caught off guard",
+                  "image": "mihawk_observation.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/mihawk/image_0001.png",
+                "assets/images/characters/onepiece/mihawk/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-013",
+              "name": "Portgas D. Ace",
+              "rating": 9.3,
+              "logo": "assets/images/logos/onepiece/ace_logo.png",
+              "alias": [
+                "Fire Fist Ace",
+                "Whitebeard's Son",
+                "Big Brother"
+              ],
+              "title": [
+                "Former 2nd Division Commander of Whitebeard Pirates",
+                "Brother of Monkey D. Luffy",
+                "Bearer of Mera Mera no Mi"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Dark gray eyes that sparkle with warmth and mischief. Brotherly affection visible when with Luffy. Can become fierce in battle. Freckles across cheeks and nose",
+                  "nose": "Straight nose with freckles. Good sense of smell",
+                  "ears": "Normal ears. Wears orange bead necklace and red pearl earring",
+                  "extra_facial_features": "Black hair styled in messy spikes. Boyish, handsome face. Always smiling or grinning. Freckles distinctive feature. Tanned skin from sun. Whitebeard Pirates tattoo on back (crossed out)"
+                },
+                "body": {
+                  "chest": "Lean, muscular build (42 inches) similar to Luffy. Well-defined abs. Whitebeard tattoo covers entire back. Scar from Akainu on chest (fatal)",
+                  "arms": "Well-toned arms (16 inches) for combat. Hands often flaming. Can generate fire from any part of body"
+                },
+                "lower_body": {
+                  "legs": "Strong legs (22 inches) for mobility. Can propel with fire jets. Good runner"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Orange cowboy hat with beads and smiley-frowny faces. No helmet"
+                },
+                {
+                  "torso": "Open black vest showing chest. Blue shorts. Orange sash. Minimal clothing"
+                },
+                {
+                  "arms": "No armor. Arms free for fire attacks"
+                },
+                {
+                  "legs": "Blue shorts. Sandals. No leg armor"
+                },
+                {
+                  "accessories": "Orange hat. Necklace with 'ASCE' beads (S crossed out). Log Pose. Dagger"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Mera Mera no Mi (Flame-Flame Fruit)",
+                  "type": "active",
+                  "short_description": "Logia-type fire control",
+                  "full_description": "Can become, create, and control fire. Techniques: Hiken (Fire Fist), Dai Enkai: Entei (Great Flame Emperor), Flame Mirror defense. Can fly using fire propulsion. Burns at extremely high temperatures. Immune to conventional weapons (except haki). Can ignite surroundings",
+                  "image": "ace_meramera.png"
+                },
+                {
+                  "name": "Haki & Physical Prowess",
+                  "type": "active/passive",
+                  "short_description": "Powerful haki user with great strength",
+                  "full_description": "Possesses all three haki types. Armament haki strong enough to fight Admirals. Conqueror's haki user (clashed with Yamato). Physically strong enough to lift giant objects. Fast enough to intercept attacks. Fought Jinbe for five days pre-Devil Fruit",
+                  "image": "ace_haki.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/ace/image_0001.png",
+                "assets/images/characters/onepiece/ace/image_0002.png",
+                "assets/images/characters/onepiece/ace/image_0003.png"
+              ]
+            },
+            {
+              "id": "onepiece-014",
+              "name": "Sabo",
+              "rating": 9.2,
+              "logo": "assets/images/logos/onepiece/sabo_logo.png",
+              "alias": [
+                "Flame Emperor",
+                "No. 2 of Revolutionary Army",
+                "Big Brother"
+              ],
+              "title": [
+                "Chief of Staff of Revolutionary Army",
+                "Bearer of Mera Mera no Mi",
+                "Brother of Luffy and Ace"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Warm gray eyes that show intelligence and compassion. Scar over left eye from Celestial Dragon attack. Eyes hold revolutionary fire and brotherly love",
+                  "nose": "Straight nose. Good sense for detecting corruption",
+                  "ears": "Normal ears. Wears goggles on forehead. Good hearing for secret meetings",
+                  "extra_facial_features": "Blond hair tied in ponytail. Handsome face with gentle features. Burn scar covering left eye area. Usually smiling. Well-groomed. Gentlemanly appearance"
+                },
+                "body": {
+                  "chest": "Lean, athletic build (43 inches) trained by Dragon. Well-defined muscles without bulk. Scar on chest from childhood. White shirt often open",
+                  "arms": "Strong arms (16 inches) for staff combat. Hands covered by gloves. Right hand has burn scars"
+                },
+                "lower_body": {
+                  "legs": "Powerful legs (23 inches) for revolutionary missions. Can move stealthily. Good runner"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Top hat with goggles. Sometimes mask when incognito. No helmet"
+                },
+                {
+                  "torso": "Elegant blue tailcoat. White shirt. Cravat. Gentleman revolutionary style"
+                },
+                {
+                  "arms": "Gloves covering hands. Sleeves allow movement. No armor"
+                },
+                {
+                  "legs": "Formal pants. Dress shoes. No leg armor"
+                },
+                {
+                  "accessories": "Metal pipe (signature weapon). Top hat. Goggles. Revolutionary Army coat"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Mera Mera no Mi + Ryusoken",
+                  "type": "active",
+                  "short_description": "Dragon Claw Fist combined with fire powers",
+                  "full_description": "Ryusoken (Dragon Claw Fist): martial art that focuses piercing attacks through fingertips. Can destroy buildings with single touch. Combined with Mera Mera no Mi creates flaming dragon techniques. Can use fire to enhance speed and power. Ultimate: Ryusoken: Kagero (Mirage Fist) with fire",
+                  "image": "sabo_ryusoken.png"
+                },
+                {
+                  "name": "Revolutionary Tactics & Leadership",
+                  "type": "passive/active",
+                  "short_description": "Master strategist and organizer",
+                  "full_description": "Second-in-command of Revolutionary Army. Plans worldwide operations. Excellent tactician in battle. Can coordinate multiple forces simultaneously. Skilled diplomat and negotiator. Understands political systems and how to overthrow them",
+                  "image": "sabo_strategy.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/sabo/image_0001.png",
+                "assets/images/characters/onepiece/sabo/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-015",
+              "name": "Trafalgar D. Water Law",
+              "rating": 9.3,
+              "logo": "assets/images/logos/onepiece/law_logo.png",
+              "alias": [
+                "Surgeon of Death",
+                "The Rebel",
+                "Worst Generation Captain"
+              ],
+              "title": [
+                "Captain of Heart Pirates",
+                "Former Shichibukai",
+                "Ope Ope no Mi User"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Intense gold eyes that show intelligence and calculation. Usually calm but can flash with anger. Eyes miss nothing in operating room or battlefield",
+                  "nose": "Straight nose. Good for detecting illness and injury",
+                  "ears": "Normal ears. Wears spotted hat that covers them. Can hear faint heartbeats",
+                  "extra_facial_features": "Black hair under hat. Goatee. Handsome but stern face. Tattoos on hands say 'DEATH'. Resting serious expression. Pale skin. Sometimes wears eyeliner"
+                },
+                "body": {
+                  "chest": "Lean, tall build (45 inches). Strong core for precise movements. Whitebeard and Donquixote tattoos on chest and back. Amber Lead syndrome marks (faded)",
+                  "arms": "Long arms (17 inches) with excellent dexterity. Tattooed fingers for surgery precision. Can perform complex operations while fighting"
+                },
+                "lower_body": {
+                  "legs": "Long legs (25 inches) for mobility. Can move quickly within Room. Good surgeon's stance"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "White spotted hat (most important). Sometimes surgical mask. No helmet"
+                },
+                {
+                  "torso": "Black hoodie with heart logo. Yellow shirt underneath. Jeans. Casual but functional"
+                },
+                {
+                  "arms": "No armor. Sleeves rolled up for surgery. Tattoos visible"
+                },
+                {
+                  "legs": "Jeans. Sneakers. No leg armor"
+                },
+                {
+                  "accessories": "Kikoku (cursed sword). Surgical tools. Den Den Mushi. Polar Tang submarine"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Ope Ope no Mi (Operation-Operation Fruit)",
+                  "type": "active",
+                  "short_description": "Creates operating room where user is god",
+                  "full_description": "Can create spherical 'Room' where Law controls spatial relationships. Can cut anything without damage, swap minds, remove hearts, teleport. Techniques: Shambles (swap), Countershock (electric), Gamma Knife (internal destruction), Injection Shot. Ultimate: 'ROOM' expands for continental-scale operations",
+                  "image": "law_opeope.png"
+                },
+                {
+                  "name": "Surgical Precision & Tactics",
+                  "type": "active/passive",
+                  "short_description": "Medical knowledge combined with combat strategy",
+                  "full_description": "Can perform life-saving surgery in battlefield. Understands all body systems for maximum damage. Excellent tactician who plans several steps ahead. Can use Room for strategic advantages (teleporting allies, removing obstacles). Immortality operation possible at cost of own life",
+                  "image": "law_surgery.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/law/image_0001.png",
+                "assets/images/characters/onepiece/law/image_0002.png",
+                "assets/images/characters/onepiece/law/image_0003.png"
+              ]
+            },
+            {
+              "id": "onepiece-016",
+              "name": "Boa Hancock",
+              "rating": 9.1,
+              "logo": "assets/images/logos/onepiece/hancock_logo.png",
+              "alias": [
+                "Pirate Empress",
+                "Snake Princess",
+                "Most Beautiful Woman"
+              ],
+              "title": [
+                "Captain of Kuja Pirates",
+                "Former Shichibukai",
+                "Empress of Amazon Lily"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Dark blue eyes that can shift from seductive to deadly. Usually look down on others with contempt. Soften only for Luffy. Beautiful eyelashes",
+                  "nose": "Perfect, straight nose. Aristocratic feature",
+                  "ears": "Normal ears. Wears snake earrings. Can hear flattery from miles away",
+                  "extra_facial_features": "Long black hair styled in various ways. Beautiful face considered perfect. Always flawless makeup. Haughty expression. Slave brand hidden by Medusa tattoo"
+                },
+                "body": {
+                  "chest": "Perfect hourglass figure (38 inches). Considered most beautiful body in world. Strong core from haki training. Slave brand on back (hidden)",
+                  "arms": "Slender but strong arms (14 inches). Elegant hands. Can perform delicate or powerful attacks"
+                },
+                "lower_body": {
+                  "legs": "Long, perfect legs (proportional). Can kick with tremendous force. Graceful movements"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No helmet. Various hairstyles with accessories. Crown as empress"
+                },
+                {
+                  "torso": "Revealing Chinese-style dress. Often red or purple. Silk fabrics. Regal appearance"
+                },
+                {
+                  "arms": "No armor. Bare arms. Sometimes long sleeves"
+                },
+                {
+                  "legs": "Dress splits for mobility. High heels. No leg armor"
+                },
+                {
+                  "accessories": "Snake Salome (pet snake). Crown. Scepter. Makeup kit"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Mero Mero no Mi (Love-Love Fruit)",
+                  "type": "active",
+                  "short_description": "Turns admirers to stone",
+                  "full_description": "Anyone who feels attraction/lust toward her turns to stone. Can fire heart-shaped beams (Mero Mero Mellow). Perfume Femur: turns surroundings to stone. Slave Arrow: shoots heart arrows that petrify. Ultimate: Pistol Kiss (combines with haki kicks)",
+                  "image": "hancock_meromero.png"
+                },
+                {
+                  "name": "Kuja Haki & Martial Arts",
+                  "type": "active",
+                  "short_description": "Advanced haki user from warrior tribe",
+                  "full_description": "All Kuja warriors use haki. Hancock's is exceptionally strong. Can coat kicks in advanced armament haki. Observation haki allows her to avoid attacks gracefully. Kicks powerful enough to destroy Pacifistas. Fought equally with Smoker and Blackbeard commanders",
+                  "image": "hancock_haki.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/hancock/image_0001.png",
+                "assets/images/characters/onepiece/hancock/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-017",
+              "name": "Kaido",
+              "rating": 9.4,
+              "logo": "assets/images/logos/onepiece/kaido_logo.png",
+              "alias": [
+                "King of the Beasts",
+                "Strongest Creature",
+                "The Invincible"
+              ],
+              "title": [
+                "Captain of Beasts Pirates",
+                "One of the Four Emperors",
+                "Uo Uo no Mi, Model: Seiryu User"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Fierce red eyes that glow with battle lust. Usually drunk and melancholy. Can become dragon-like when enraged. Sharp pupils",
+                  "nose": "Large nose. Can smell fear. Dragon nostrils when transformed",
+                  "ears": "Pointed ears like oni. Multiple earrings. Can hear distant battles",
+                  "extra_facial_features": "Massive oni appearance. Long black mustache and beard. Horns growing from forehead. Multiple scars from countless battles. Usually drunk expression. Purple dragon tattoos covering body"
+                },
+                "body": {
+                  "chest": "Gigantic muscular build (90+ inches). Tallest emperor. Muscles like mountains. Virtually indestructible body. Scars from Roger, Oden, others",
+                  "arms": "Enormous arms (40+ inches) that can swing giant club. Can lift islands. Hands large enough to crush giants"
+                },
+                "lower_body": {
+                  "legs": "Massive legs (50+ inches) that can leap between islands. Can stand after falls from sky islands. Dragon legs when transformed"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No helmet. Horns exposed. Sometimes wears traditional Japanese hat"
+                },
+                {
+                  "torso": "Often shirtless showing tattoos. Sometimes open coat. Loose pants. Minimal clothing"
+                },
+                {
+                  "arms": "No armor. Wrist cuffs sometimes. Arms always exposed"
+                },
+                {
+                  "legs": "Loose pants. Sandals or barefoot. No leg armor"
+                },
+                {
+                  "accessories": "Hassaikai (giant spiked club). Sake gourd. Dragon scales when transformed"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Uo Uo no Mi, Model: Seiryu",
+                  "type": "active",
+                  "short_description": "Mythical Zoan Azure Dragon",
+                  "full_description": "Can transform into giant blue dragon. Flight, fire breath (Bolo Breath), wind slashes, lightning creation. Hybrid form combines dragon strength with human dexterity. Can create flame clouds to lift islands. Scales nearly impenetrable. Only weak spot is old scar",
+                  "image": "kaido_dragon.png"
+                },
+                {
+                  "name": "Unbreakable Body & Advanced Haki",
+                  "type": "passive/active",
+                  "short_description": "Most durable being with all haki types",
+                  "full_description": "Body so strong he's attempted suicide for fun. Survived executions 40 times. Advanced conqueror's haki coating in attacks. Can use future sight observation haki. Armament haki strongest in world. Combined with dragon scales makes him nearly invincible",
+                  "image": "kaido_haki.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/kaido/image_0001.png",
+                "assets/images/characters/onepiece/kaido/image_0002.png",
+                "assets/images/characters/onepiece/kaido/image_0003.png"
+              ]
+            },
+            {
+              "id": "onepiece-018",
+              "name": "Charlotte Linlin (Big Mom)",
+              "rating": 9.2,
+              "logo": "assets/images/logos/onepiece/bigmom_logo.png",
+              "alias": [
+                "Big Mom",
+                "Soul Queen",
+                "Iron Balloon"
+              ],
+              "title": [
+                "Captain of Big Mom Pirates",
+                "One of the Four Emperors",
+                "Matriarch of Whole Cake Island"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Small, beady eyes that can become wide with hunger or rage. Usually cheerful but can shift to monstrous. Pink eyeshadow",
+                  "nose": "Large nose. Excellent sense for sweets. Can smell cake miles away",
+                  "ears": "Normal ears. Wears earrings. Can hear secrets whispered",
+                  "extra_facial_features": "Enormous obese woman. Long pink hair. Heavy makeup. Usually smiling like child. Can become terrifying when in tantrum. Lipstick always applied"
+                },
+                "body": {
+                  "chest": "Gigantic obese build (100+ inches). Despite size, incredibly fast and agile. Skin tough as steel (Iron Balloon). Can expand when using soul powers",
+                  "arms": "Massive arms (45+ inches) that can crush giants. Strong enough to stop Queen's brachiosaurus form. Hands often holding food or weapon"
+                },
+                "lower_body": {
+                  "legs": "Enormous legs (60+ inches) that can move surprisingly fast. Can jump great distances. Often shown floating on Zeus"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Pink hat with feathers and jewels. Crown sometimes. No helmet"
+                },
+                {
+                  "torso": "Elaborate pink dress. Often cake-themed. Regal queen appearance. Carries Napoleon sword"
+                },
+                {
+                  "arms": "No armor. Long gloves sometimes. Rings on fingers"
+                },
+                {
+                  "legs": "Dress covers legs. High heels. No leg armor"
+                },
+                {
+                  "accessories": "Napoleon (living sword). Zeus (cloud homie). Prometheus (sun homie). Various food items"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Soru Soru no Mi (Soul-Soul Fruit)",
+                  "type": "active",
+                  "short_description": "Manipulates souls of living and non-living",
+                  "full_description": "Can extract lifespan from those who fear her. Insert souls into objects creating homies. Can use own soul to empower herself. Creates weather homies (Zeus, Prometheus, Napoleon). Can steal souls on contact. Ultimate: Motherly Mercies (mass soul extraction)",
+                  "image": "bigmom_soul.png"
+                },
+                {
+                  "name": "Natural Strength & Haki",
+                  "type": "passive/active",
+                  "short_description": "Born monster with all haki types",
+                  "full_description": "Born with strength to kill giants as child. Skin naturally tough (Iron Balloon). All three haki types mastered. Conqueror's haki clashes with Kaido splitting sky. Armament haki strong enough to hurt Kaido. Can fight for days without tiring",
+                  "image": "bigmom_strength.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/bigmom/image_0001.png",
+                "assets/images/characters/onepiece/bigmom/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-019",
+              "name": "Edward Newgate (Whitebeard)",
+              "rating": 9.5,
+              "logo": "assets/images/logos/onepiece/whitebeard_logo.png",
+              "alias": [
+                "Whitebeard",
+                "Strongest Man in the World",
+                "Father"
+              ],
+              "title": [
+                "Former Captain of Whitebeard Pirates",
+                "Rival of Gol D. Roger",
+                "The Man Closest to One Piece"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Kind, paternal eyes that show care for family. Can become fierce in battle. Usually calm and wise. Age showing but spirit strong",
+                  "nose": "Large nose. Good for detecting danger to family",
+                  "ears": "Normal ears. Can hear crew's needs",
+                  "extra_facial_features": "Giant man with white mustache (crescent shape). Long white hair. Multiple battle scars. Fatherly face. Usually IV lines and medical equipment in later years. Missing tooth"
+                },
+                "body": {
+                  "chest": "Gigantic muscular build (80+ inches) even in old age. Covered in scars from decades of battles. Massive holes from Akainu and Blackbeard (fatal). Muscles still powerful",
+                  "arms": "Enormous arms (35+ inches) that can split islands. Can wield Murakumogiri with one hand. Hands large enough to hold multiple people"
+                },
+                "lower_body": {
+                  "legs": "Massive legs (45+ inches) that can create earthquakes with stomps. Stood firm against entire Marineford"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No helmet. Sometimes captain's hat. Usually bareheaded"
+                },
+                {
+                  "torso": "Open captain's coat showing chest. No shirt. Loose pants. Simple attire"
+                },
+                {
+                  "arms": "No armor. Arms exposed. IV lines attached"
+                },
+                {
+                  "legs": "Loose pants. Sandals. No leg armor"
+                },
+                {
+                  "accessories": "Murakumogiri (named bisento). Captain's coat. Medical equipment"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Gura Gura no Mi (Tremor-Tremor Fruit)",
+                  "type": "active",
+                  "short_description": "Can create earthquakes and destroy world",
+                  "full_description": "Most powerful Paramecia. Can create vibrations in air, land, and sea. Can generate tsunamis, split islands, destroy Marineford. Can focus vibrations in punches or weapon. Ultimate attack can destroy world according to Sengoku. Can negate Devil Fruit powers with vibrations",
+                  "image": "whitebeard_gura.png"
+                },
+                {
+                  "name": "Supreme Physical Prowess",
+                  "type": "passive/active",
+                  "short_description": "Strongest man even while dying",
+                  "full_description": "Fought Roger as equal. Continued fighting with half head missing. Took 267 sword wounds, 152 gunshots, 46 cannonballs, and magma to chest. Never received scar on back from running. All three haki types master. Observation haki sensed Squardo's betrayal but didn't dodge",
+                  "image": "whitebeard_strength.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/whitebeard/image_0001.png",
+                "assets/images/characters/onepiece/whitebeard/image_0002.png",
+                "assets/images/characters/onepiece/whitebeard/image_0003.png"
+              ]
+            },
+            {
+              "id": "onepiece-020",
+              "name": "Marshall D. Teach (Blackbeard)",
+              "rating": 9.3,
+              "logo": "assets/images/logos/onepiece/blackbeard_logo.png",
+              "alias": [
+                "Blackbeard",
+                "The Darkness",
+                "Double Devil Fruit User"
+              ],
+              "title": [
+                "Captain of Blackbeard Pirates",
+                "One of the Four Emperors",
+                "Only Person with Two Devil Fruits"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Small, cunning eyes that show ambition and treachery. Missing several teeth (gold replacements). Eyes can become wide with excitement or narrow with calculation",
+                  "nose": "Large nose. Good for detecting Devil Fruit users",
+                  "ears": "Normal ears. Can hear opportunities",
+                  "extra_facial_features": "Large, obese man. Black beard (epithet). Wild hair. Usually grinning with missing teeth. Gold teeth replacements. Scruffy appearance. Can look foolish but dangerous"
+                },
+                "body": {
+                  "chest": "Large, powerful build (70+ inches). Surprisingly fast despite size. Can absorb incredible damage due to Yami Yami no Mi. Scar from Shanks on eye area",
+                  "arms": "Strong arms (30+ inches) for combat. Hands often crackling with darkness or quake power. Can grab Devil Fruit users to negate powers"
+                },
+                "lower_body": {
+                  "legs": "Strong legs (40+ inches) for mobility. Can move quickly when needed. Often shown drinking"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Black bandana. Sometimes captain's hat. No helmet"
+                },
+                {
+                  "torso": "Open black coat. Often shirtless or simple shirt. Loose pants. Pirate appearance"
+                },
+                {
+                  "arms": "No armor. Arms exposed. Jewelry on wrists"
+                },
+                {
+                  "legs": "Loose pants. Boots. No leg armor"
+                },
+                {
+                  "accessories": "Multiple guns. Wine bottle. Devil Fruit collection tools"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Yami Yami no Mi (Dark-Dark Fruit)",
+                  "type": "active",
+                  "short_description": "Logia that controls gravity and darkness",
+                  "full_description": "Unique Logia that doesn't make user intangible. Creates black hole that sucks in everything including light. Can nullify Devil Fruit powers on contact. Drains energy from opponents. Can teleport through darkness. Drawback: feels more pain. Ultimate: Black Hole (sucks island)",
+                  "image": "blackbeard_dark.png"
+                },
+                {
+                  "name": "Gura Gura no Mi (Stolen)",
+                  "type": "active",
+                  "short_description": "Whitebeard's earthquake powers",
+                  "full_description": "Stole power after killing Whitebeard. Can create earthquakes and tsunamis. Can focus vibrations in punches. Combined with darkness creates ultimate destructive power. Can destroy islands. Still learning to master it fully",
+                  "image": "blackbeard_gura.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/blackbeard/image_0001.png",
+                "assets/images/characters/onepiece/blackbeard/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-021",
+              "name": "Monkey D. Garp",
+              "rating": 9.4,
+              "logo": "assets/images/logos/onepiece/garp_logo.png",
+              "alias": [
+                "Garp the Fist",
+                "Hero of the Marines",
+                "Grandfather"
+              ],
+              "title": [
+                "Vice Admiral of Marines",
+                "Father of Monkey D. Dragon",
+                "Grandfather of Luffy and Ace"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Kind but sharp eyes that show decades of experience. Can be gentle with family or fierce with enemies. Wrinkles from age but spirit young",
+                  "nose": "Large nose. Good for detecting trouble (usually caused by family)",
+                  "ears": "Normal ears. Can hear marine reports from distance",
+                  "extra_facial_features": "Elderly but powerfully built. White hair and mustache. Always eating snacks. Usually laughing loudly. Battle scars visible. Wears dog hat (marine symbol)"
+                },
+                "body": {
+                  "chest": "Still powerfully built (55+ inches) despite age. Muscles maintained through training. Can take powerful hits. Scars from Roger and other legends",
+                  "arms": "Still powerful arms (22 inches) that can throw cannonballs faster than cannons. Fists legendary throughout world"
+                },
+                "lower_body": {
+                  "legs": "Strong legs (28 inches) that can leap between ships. Can chase Luffy across islands"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Dog-shaped marine hat. No helmet. Sometimes sleeping mask"
+                },
+                {
+                  "torso": "Marine justice coat (open). White shirt. Black pants. Simple marine attire"
+                },
+                {
+                  "arms": "No armor. Sleeves rolled up. Ready to punch"
+                },
+                {
+                  "legs": "Black pants. Marine boots. No leg armor"
+                },
+                {
+                  "accessories": "Cannonballs (thrown as weapons). Snacks. Marine coat"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Haki of the Fist",
+                  "type": "active",
+                  "short_description": "Legendary armament haki user",
+                  "full_description": "Fists coated in haki so strong they're legendary. Can punch through anything. Fought equally with Gol D. Roger multiple times. Can destroy mountains with punches. Throws cannonballs like bullets. Advanced conqueror's haki user (shown when angry at Akainu)",
+                  "image": "garp_haki.png"
+                },
+                {
+                  "name": "Marine Tactics & Leadership",
+                  "type": "passive/active",
+                  "short_description": "Decades of marine experience",
+                  "full_description": "Cornered Roger Pirates multiple times. Understands pirate psychology. Trained generations of marines. Refused promotion to Admiral multiple times. Knows all marine strategies and pirate counter-strategies. Respected by allies and enemies alike",
+                  "image": "garp_tactics.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/garp/image_0001.png",
+                "assets/images/characters/onepiece/garp/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-022",
+              "name": "Sengoku",
+              "rating": 9.1,
+              "logo": "assets/images/logos/onepiece/sengoku_logo.png",
+              "alias": [
+                "Sengoku the Buddha",
+                "The Strategist",
+                "Former Fleet Admiral"
+              ],
+              "title": [
+                "Former Fleet Admiral of Marines",
+                "Current Inspector General",
+                "Hito Hito no Mi, Model: Daibutsu User"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Intelligent, calculating eyes behind glasses. Shows strategic mind. Can become compassionate or ruthless as needed. Wrinkles from stress of leadership",
+                  "nose": "Straight nose. Good for reading reports",
+                  "ears": "Normal ears. Can hear multiple reports simultaneously",
+                  "extra_facial_features": "Elderly with glasses. Black beard with mustache (former blonde). Wise appearance. Usually serious expression. Wears marine cap. Pet goat nearby"
+                },
+                "body": {
+                  "chest": "Lean but strong build (48 inches). Maintains fitness despite age. Can transform to giant golden Buddha",
+                  "arms": "Strong arms (18 inches) for combat. Can deliver shockwave punches in Buddha form"
+                },
+                "lower_body": {
+                  "legs": "Strong legs (24 inches) for stability. Can create shockwaves with stomps"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Marine cap with seagull. Glasses. No helmet"
+                },
+                {
+                  "torso": "Marine Fleet Admiral coat. White shirt. Tie. Formal marine attire"
+                },
+                {
+                  "arms": "No armor. Sleeves allow movement"
+                },
+                {
+                  "legs": "Marine pants. Dress shoes. No leg armor"
+                },
+                {
+                  "accessories": "Glasses. Den Den Mushi. Strategic reports. Pet goat"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Hito Hito no Mi, Model: Daibutsu",
+                  "type": "active",
+                  "short_description": "Mythical Zoan Golden Buddha",
+                  "full_description": "Transforms into giant golden Buddha. Size increases dramatically. Can create shockwaves from palms. Defensive capabilities immense. Strikes with concussive force. Can use in hybrid form for balanced combat",
+                  "image": "sengoku_buddha.png"
+                },
+                {
+                  "name": "Strategic Genius",
+                  "type": "passive/active",
+                  "short_description": "Master planner and tactician",
+                  "full_description": "Planned Marineford War trap for Whitebeard. Anticipates enemy movements. Understands political landscape completely. Managed entire marine force. Makes decisions considering decades of consequences. Respected by all for intelligence",
+                  "image": "sengoku_strategy.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/sengoku/image_0001.png",
+                "assets/images/characters/onepiece/sengoku/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-023",
+              "name": "Donquixote Doflamingo",
+              "rating": 9.0,
+              "logo": "assets/images/logos/onepiece/doflamingo_logo.png",
+              "alias": [
+                "Heavenly Yaksha",
+                "Joker",
+                "The King of Dressrosa"
+              ],
+              "title": [
+                "Former King of Dressrosa",
+                "Former Shichibukai",
+                "Ito Ito no Mi User"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Always hidden behind orange sunglasses. Eyes supposedly cruel and calculating. Rarely shows true emotions. Smirk usually present",
+                  "nose": "Pointed nose. Aristocratic feature",
+                  "ears": "Normal ears. Can hear secrets and plots",
+                  "extra_facial_features": "Blond hair. Sharp, handsome features. Always smiling unnervingly. Pointed goatee. Wears feather coat. Celestial Dragon demeanor"
+                },
+                "body": {
+                  "chest": "Tall, lean build (46 inches). Strong core for string manipulation. Internal organs damaged by Gamma Knife but stitched back",
+                  "arms": "Long arms (17 inches) with dexterous fingers for string control. Hands often making puppeteering motions"
+                },
+                "lower_body": {
+                  "legs": "Long legs (25 inches) for graceful movement. Can walk on air using strings. Good balance"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Orange sunglasses (never removed). Pink feather coat hood. No helmet"
+                },
+                {
+                  "torso": "Pink feather coat. Black shirt. Pants. Flamboyant style"
+                },
+                {
+                  "arms": "No armor. Bare arms. Gloves sometimes"
+                },
+                {
+                  "legs": "Pink pants. Pointed shoes. No leg armor"
+                },
+                {
+                  "accessories": "Feather coat. Sunglasses. String threads. Wine glass"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Ito Ito no Mi (String-String Fruit)",
+                  "type": "active",
+                  "short_description": "Creates and controls unbreakable strings",
+                  "full_description": "Can create strings from body that cut like blades. Control people like puppets (Black Knight). Create clones. Heal organs by stitching. Create birdcage that covers entire country. Can fly using strings (cloud walking). Awakened: turns surroundings to strings",
+                  "image": "doflamingo_ito.png"
+                },
+                {
+                  "name": "Conqueror's Haki & Intelligence",
+                  "type": "active/passive",
+                  "short_description": "Strategic mastermind with king's disposition",
+                  "full_description": "Possesses conqueror's haki. Master manipulator and strategist. Controls underground weapons trade as Joker. Understands celestial dragon politics. Can anticipate enemy moves. Keeps multiple plans running simultaneously",
+                  "image": "doflamingo_haki.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/doflamingo/image_0001.png",
+                "assets/images/characters/onepiece/doflamingo/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-024",
+              "name": "Crocodile",
+              "rating": 8.9,
+              "logo": "assets/images/logos/onepiece/crocodile_logo.png",
+              "alias": [
+                "Mr. 0",
+                "Desert King",
+                "Sir Crocodile"
+              ],
+              "title": [
+                "Former Shichibukai",
+                "President of Baroque Works",
+                "Sun Suna no Mi User"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Calculating eyes that show ambition. Usually calm and collected. Scar across face from Whitebeard. Gold hook often in mouth instead of cigar",
+                  "nose": "Straight nose. Good for detecting moisture",
+                  "ears": "Normal ears. Can hear desert winds",
+                  "extra_facial_features": "Sharp features. Black hair slicked back. Scar across face. Usually cigar in mouth (except in prison). Handsome but cruel appearance. Gold hook instead of left hand"
+                },
+                "body": {
+                  "chest": "Lean, tall build (47 inches). Dressed in fine suits. Gold hook instead of left hand. Skin dry like desert",
+                  "arms": "Right arm normal (16 inches). Left arm replaced with poison hook. Can detach hook for attacks"
+                },
+                "lower_body": {
+                  "legs": "Long legs (26 inches) for commanding presence. Can turn lower body to sand for mobility"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No helmet. Well-groomed hair. Sometimes hat"
+                },
+                {
+                  "torso": "Fine suit with fur coat. Dress shirt. Tie. Criminal mastermind style"
+                },
+                {
+                  "arms": "Gold hook on left arm. Right arm bare. No armor"
+                },
+                {
+                  "legs": "Suit pants. Dress shoes. No leg armor"
+                },
+                {
+                  "accessories": "Gold hook. Cigar. Pluton plans. Baroque Works tattoo"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Suna Suna no Mi (Sand-Sand Fruit)",
+                  "type": "active",
+                  "short_description": "Logia sand control and dehydration",
+                  "full_description": "Can become, create, and control sand. Create sandstorms, quicksand, desert blades. Can dehydrate anything on touch turning it to sand. Weak to water/liquid (becomes solid). Can fly as sand cloud. Create clones. Ultimate: Desert Spada cuts through anything",
+                  "image": "crocodile_suna.png"
+                },
+                {
+                  "name": "Strategic Mastery",
+                  "type": "passive/active",
+                  "short_description": "Master planner and manipulator",
+                  "full_description": "Planned to take over Alabasta for years. Created Baroque Works criminal organization. Almost discovered Pluton location. Understands ancient weapons. Can manipulate governments and armies. Excellent at using others as pawns",
+                  "image": "crocodile_strategy.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/crocodile/image_0001.png",
+                "assets/images/characters/onepiece/crocodile/image_0002.png"
+              ]
+            },
+            {
+              "id": "onepiece-025",
+              "name": "Bartholomew Kuma",
+              "rating": 8.8,
+              "logo": "assets/images/logos/onepiece/kuma_logo.png",
+              "alias": [
+                "Tyrant",
+                "Pacifista PX-0",
+                "The Revolutionary"
+              ],
+              "title": [
+                "Former Shichibukai",
+                "Former King of Sorbet Kingdom",
+                "Complete Cyborg"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Usually hidden behind glasses. When visible, show sadness and determination. As cyborg, eyes glow red. Can still show faint humanity",
+                  "nose": "Normal nose. Enhanced sensors as cyborg",
+                  "ears": "Normal ears. Enhanced hearing as cyborg",
+                  "extra_facial_features": "Large man with bear-like appearance. Always carries Bible. Gentle face. Completely mechanical body after modifications. Still shows original features faintly"
+                },
+                "body": {
+                  "chest": "Massive build (70+ inches). Completely mechanical after Vegapunk's modifications. Can open chest for laser cannons. Paw-paw fruit symbol on palms",
+                  "arms": "Mechanical arms (30+ inches) with paw pads on palms. Can repel anything at light speed. Strong enough to fight giants"
+                },
+                "lower_body": {
+                  "legs": "Mechanical legs (40+ inches) with rocket boosters. Can move at incredible speeds. Can teleport using paw-paw fruit"
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No helmet. Hood sometimes. Glasses. Simple appearance"
+                },
+                {
+                  "torso": "Simple coat over mechanical body. Often open showing mechanisms. Pants. Modest attire"
+                },
+                {
+                  "arms": "Mechanical arms exposed. Paw pads visible. No additional armor"
+                },
+                {
+                  "legs": "Pants over mechanical legs. Boots. No leg armor"
+                },
+                {
+                  "accessories": "Bible (always carried). Paw-paw fruit hands. Pacifista designation"
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Ursus Shock & Paw-Paw Fruit",
+                  "type": "active",
+                  "short_description": "Repels anything including pain and memories",
+                  "full_description": "Nikyu Nikyu no Mi (Paw-Paw Fruit) allows repelling of anything. Can repel people to specific locations (3 days travel). Can repel pain and fatigue from bodies. Ursus Shock: compresses air into bear shape that explodes. Can repel memories (extracted from Zoro). Can create permanent barriers",
+                  "image": "kuma_paw.png"
+                },
+                {
+                  "name": "Cyborg Enhancements",
+                  "type": "active/passive",
+                  "short_description": "Complete mechanical conversion by Vegapunk",
+                  "full_description": "Body completely mechanical. Lasers from mouth and palms. Enhanced strength and durability. Can self-destruct. Programmed to follow orders. Still retains some original will. Can communicate with Revolutionaries secretly",
+                  "image": "kuma_cyborg.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/onepiece/kuma/image_0001.png",
+                "assets/images/characters/onepiece/kuma/image_0002.png"
               ]
             }
           ]
