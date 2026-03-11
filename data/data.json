@@ -8888,6 +8888,1293 @@
               ]
             }
           ]
+        },
+        {
+          "id": "anime-006",
+          "name": "Attack on Titan Series",
+          "characters": [
+            {
+              "id": "anime-aot-001",
+              "name": "Eren Yeager",
+              "rating": 9.7,
+              "logo": "assets/images/logos/attack_on_titan/eren_logo.png",
+              "alias": [
+                "The Attack Titan",
+                "The Rogue",
+                "The Devil of Paradis",
+                "Freedom Seeker"
+              ],
+              "title": [
+                "Member of the Survey Corps",
+                "Holder of the Attack Titan",
+                "The Founder's Vessel",
+                "The One Who Unleashed the Rumbling"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Intense, teal-green eyes that burn with determination and rage. Often wide with fury or narrowed in focus. They reflect a deep-seated desire for freedom and a haunting gaze that can unsettle even his comrades.",
+                  "nose": "Straight, average nose, often with a slight frown. Occasionally has a cut or bruise from battles.",
+                  "ears": "Normal human ears, but always alert to the sound of approaching Titans or the whir of ODM gear.",
+                  "extra_facial_features": "Mid-length black hair that is often unkempt and falls around his face. In his Titan form, his face is elongated with sharp features. He has a strong jawline and often sports a determined scowl. After years of combat, he has a few faint scars, including one under his eye."
+                },
+                "body": {
+                  "chest": "Athletic and lean (42 inches) from years of ODM gear training. Muscles are toned for agility and endurance rather than bulk. His chest bears the scars of numerous battles, including the marks from his Titan transformations.",
+                  "arms": "Well-defined arms (15 inches) with strong forearms from gripping ODM gear handles. His hands are calloused and scarred. He has a particular scar on his left hand from a childhood incident."
+                },
+                "lower_body": {
+                  "legs": "Powerful legs (23 inches) built for the constant maneuvering and high-impact landings. His thighs are particularly strong to support the ODM gear's stress. Calves are defined and sinewy."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Brown leather hood attached to the Survey Corps cloak, often worn down. A white cravat around his neck. No headgear, his hair is always visible."
+                },
+                {
+                  "torso": "The iconic Survey Corps green jacket with the Wings of Freedom emblem on the back. Underneath, a white button-up shirt and brown leather straps and harness for the ODM gear. The jacket is often worn and battle-torn."
+                },
+                {
+                  "arms": "Leather gloves with reinforced fingers for gripping ODM gear handles. The sleeves of the jacket are sometimes rolled up, revealing his forearms. Wrist straps for gear control."
+                },
+                {
+                  "legs": "White or beige pants, often with knee-high leather boots that have metal stirrups for the ODM gear. The pants are tight-fitting to avoid snagging."
+                },
+                {
+                  "accessories": "ODM gear with gas canisters at the hips, blade holsters on the thighs, and a grappling hook system. A Survey Corps cloak with the Wings of Freedom. Sometimes a canteen or small pouch."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Titan Shifting",
+                  "type": "active",
+                  "short_description": "Ability to transform into a 15-meter Titan with incredible regenerative powers.",
+                  "full_description": "Eren can bite his hand to trigger a transformation into the Attack Titan. He gains immense strength, speed, and the ability to harden his skin. His Titan form has elongated ears and a determined expression. He can also manifest partial transformations, like hardening his fists or creating a skeleton. Later, he gains the power of the Founding Titan, allowing him to control other Titans and even initiate the Rumbling.",
+                  "image": "eren_titan.png"
+                },
+                {
+                  "name": "ODM Gear Proficiency",
+                  "type": "active",
+                  "short_description": "Expert use of the Three-Dimensional Maneuver Gear for high-speed aerial combat.",
+                  "full_description": "Eren is highly skilled with ODM gear, able to navigate complex urban environments and engage Titans with precision. His reckless but effective style often puts him in danger, but his Titan shifting allows him to survive. He can perform sharp turns, rapid ascents, and accurate blade strikes on Titan nape.",
+                  "image": "eren_odm.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/aot/eren/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-aot-002",
+              "name": "Mikasa Ackerman",
+              "rating": 9.8,
+              "logo": "assets/images/logos/attack_on_titan/mikasa_logo.png",
+              "alias": [
+                "The Strongest Soldier",
+                "The Girl with the Scarlet Scarf",
+                "Eren's Protector"
+              ],
+              "title": [
+                "Ackerman Clan Heir",
+                "Survey Corps Ace",
+                "The One Who Never Gives Up"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Dark, slate-grey eyes that are usually calm and emotionless, but can flash with intense protective fury. They are sharp and observant, missing nothing in battle.",
+                  "nose": "Small and delicate, with a slight curve. Often smudged with dirt or blood.",
+                  "ears": "Small, often hidden by her dark hair. Exceptionally sharp hearing, able to detect Titans from a distance.",
+                  "extra_facial_features": "Jet-black hair cut in a short, asymmetrical bob with bangs that often cover her right eye. Pale complexion. A distinctive red scarf always wrapped around her neck. She has a small mole near her left eye. Her expression is typically stoic."
+                },
+                "body": {
+                  "chest": "Lean and athletic (38 inches) with remarkable muscle density due to Ackerman physiology. Her build is optimized for speed and precision, with minimal body fat.",
+                  "arms": "Slim but incredibly strong arms (14 inches) with well-defined muscles. Her forearms are particularly powerful from years of ODM gear use. She has a tattoo of the Wings of Freedom on her left arm (in some depictions)."
+                },
+                "lower_body": {
+                  "legs": "Long, powerful legs (22 inches) that allow her to perform incredible feats of agility. Her thighs and calves are perfectly toned, enabling her to kick with devastating force."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "She wears the standard Survey Corps hood, but often keeps it down, revealing her hair. The red scarf is always around her neck, even under the gear."
+                },
+                {
+                  "torso": "Green Survey Corps jacket with Wings of Freedom, worn over a white shirt and the leather harness. The jacket is tailored to fit her slim frame. She sometimes wears a black undershirt."
+                },
+                {
+                  "arms": "Fingerless leather gloves that allow for dexterity. Her arms are often bare from the elbow down, showing her muscular forearms. She has wrist straps for the gear."
+                },
+                {
+                  "legs": "White pants similar to the standard uniform, with knee-high boots. Her legs are always ready for swift movement."
+                },
+                {
+                  "accessories": "ODM gear with gas canisters and blade holsters. The iconic red scarf is her most cherished accessory. She carries a small knife for close combat."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Ackerman Combat Prowess",
+                  "type": "passive",
+                  "short_description": "Innate superhuman strength, speed, and reflexes from Ackerman bloodline.",
+                  "full_description": "Mikasa possesses extraordinary physical abilities, allowing her to outmatch most soldiers. She can perform incredible feats of strength, such as lifting heavy objects, and her reflexes are unmatched. This power awakens during moments of extreme stress, making her a one-woman army.",
+                  "image": "mikasa_combat.png"
+                },
+                {
+                  "name": "ODM Gear Mastery",
+                  "type": "active",
+                  "short_description": "Unparalleled skill with the Three-Dimensional Maneuver Gear, able to take down multiple Titans single-handedly.",
+                  "full_description": "Mikasa is considered the best ODM gear user in the Survey Corps. Her movements are fluid, precise, and incredibly fast. She can navigate through dense forests and urban areas with ease, striking Titan nape with surgical accuracy. Her style is elegant yet deadly.",
+                  "image": "mikasa_odm.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/aot/mikasa/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-aot-003",
+              "name": "Armin Arlert",
+              "rating": 9.3,
+              "logo": "assets/images/logos/attack_on_titan/armin_logo.png",
+              "alias": [
+                "The Colossal Titan",
+                "The Genius Strategist",
+                "The Brave Heart"
+              ],
+              "title": [
+                "15th Commander of the Survey Corps",
+                "Holder of the Colossal Titan",
+                "The One Who Sees the Ocean"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, bright blue eyes that sparkle with curiosity and intelligence. They often widen in surprise or narrow in deep thought. After becoming the Colossal Titan, they gain a slightly more intense look.",
+                  "nose": "Small and slightly rounded, often with a freckled bridge.",
+                  "ears": "Normal ears, but always listening for strategic information. He is known for his keen hearing of enemy movements.",
+                  "extra_facial_features": "Blond hair that is usually kept short and neat. He has a gentle, kind face with a soft jawline. After the timeskip, his hair is longer and he has a more mature appearance. He often has a thoughtful expression."
+                },
+                "body": {
+                  "chest": "Slim and not particularly muscular (38 inches) as he relies more on brains than brawn. However, after inheriting the Colossal Titan, his body becomes more robust due to Titan regeneration.",
+                  "arms": "Slender arms (13 inches) with little muscle definition, but he is capable of using ODM gear effectively. His hands are dexterous for writing and strategizing."
+                },
+                "lower_body": {
+                  "legs": "Average legs (21 inches) for a soldier, not particularly powerful but capable of standard ODM maneuvers. He relies on his mind to avoid physical confrontations."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Standard Survey Corps hood, often worn up to shield from cold. He also wears a brown leather cap in some seasons."
+                },
+                {
+                  "torso": "Green jacket with Wings of Freedom, over a white shirt and harness. His jacket is often less worn than others due to his less aggressive combat role."
+                },
+                {
+                  "arms": "Leather gloves, but sometimes removes them for better feel. His arms are usually covered by sleeves."
+                },
+                {
+                  "legs": "Standard white pants and knee-high boots. His ODM gear is always properly maintained."
+                },
+                {
+                  "accessories": "He carries a notebook and pen for jotting down strategies. ODM gear with gas canisters and blades, though he uses them sparingly. He also has a small satchel for books."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Strategic Genius",
+                  "type": "passive",
+                  "short_description": "Exceptional intellect and tactical planning, able to devise strategies that turn the tide of battle.",
+                  "full_description": "Armin possesses a brilliant mind, capable of analyzing complex situations and predicting enemy movements. He often comes up with innovative plans that save his comrades, such as using Titans against each other or exploiting weaknesses. His ability to think several steps ahead makes him invaluable.",
+                  "image": "armin_strategy.png"
+                },
+                {
+                  "name": "Colossal Titan",
+                  "type": "active",
+                  "short_description": "After inheriting the Colossal Titan, Armin can transform into a massive 60-meter Titan with explosive steam emission.",
+                  "full_description": "Armin's Titan form is enormous, with a skeletal appearance and no skin in some areas. He can release immense heat and steam to burn enemies or create cover. His transformation itself causes a massive explosion. However, the strain is enormous, and he must be careful not to harm allies.",
+                  "image": "armin_colossal.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/aot/armin/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-aot-004",
+              "name": "Levi Ackerman",
+              "rating": 9.9,
+              "logo": "assets/images/logos/attack_on_titan/levi_logo.png",
+              "alias": [
+                "Humanity's Strongest Soldier",
+                "Captain Levi",
+                "The Clean Freak"
+              ],
+              "title": [
+                "Special Operations Squad Captain",
+                "Ackerman Clan Member",
+                "The One Who Keeps Swearing"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Sharp, dark grey eyes that are constantly scanning for threats. They are cold and intense, yet can show rare moments of concern. His gaze is intimidating to enemies.",
+                  "nose": "Straight and well-defined, with a slight hook. Often has a permanent scowl.",
+                  "ears": "Normal ears, but incredibly acute hearing, able to detect Titans and enemies from far away.",
+                  "extra_facial_features": "Jet-black hair cut in a neat undercut, with longer bangs sometimes falling over his forehead. He has a pale complexion and a small scar on his chin. His expression is usually stoic or annoyed. He is often seen with a cup of tea."
+                },
+                "body": {
+                  "chest": "Compact and incredibly muscular (40 inches) despite his short stature. His body is a powerhouse of strength and agility, with low body fat.",
+                  "arms": "Well-defined arms (15 inches) with visible veins and muscles. His forearms are exceptionally strong from years of ODM gear use and combat. His hands are calloused and scarred."
+                },
+                "lower_body": {
+                  "legs": "Short but powerful legs (21 inches) that allow him to move with explosive speed. His thighs are thick with muscle, enabling him to perform rapid direction changes and high-speed maneuvers."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "He rarely wears a hood, preferring his hair free. Sometimes he wears a white cravat or scarf. In cold weather, he might wear a black cap."
+                },
+                {
+                  "torso": "The Survey Corps green jacket, often with the sleeves rolled up. Underneath, a white button-up shirt and the leather ODM harness. His jacket is always clean and well-maintained."
+                },
+                {
+                  "arms": "He wears fingerless leather gloves that allow for a firm grip. His forearms are often bare, showing his muscles. Sometimes he has wrist wraps."
+                },
+                {
+                  "legs": "White pants that are tight-fitting, with knee-high leather boots. His boots are always polished."
+                },
+                {
+                  "accessories": "ODM gear with custom modifications for his fighting style. He carries two sets of blades and extra gas canisters. He also carries a small cleaning cloth for his gear and a tea set (in some interpretations)."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Ackerman Awakening",
+                  "type": "passive",
+                  "short_description": "Superhuman physical abilities, including strength, speed, and reflexes, making him the strongest soldier.",
+                  "full_description": "Levi's Ackerman heritage grants him incredible combat prowess. He can take down dozens of Titans single-handedly, moving faster than the eye can see. His reflexes allow him to dodge attacks that would kill anyone else. He is also an expert in hand-to-hand combat.",
+                  "image": "levi_combat.png"
+                },
+                {
+                  "name": "ODM Gear Perfection",
+                  "type": "active",
+                  "short_description": "Unmatched skill with ODM gear, performing acrobatic feats and precision strikes.",
+                  "full_description": "Levi is the undisputed master of ODM gear. He can perform complex aerial maneuvers, such as the famous 'Levi Spin' where he cuts multiple Titans in a spiral. His control is so precise that he can land on a Titan's head and slice its nape in an instant.",
+                  "image": "levi_odm.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/aot/levi/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-aot-005",
+              "name": "Erwin Smith",
+              "rating": 9.6,
+              "logo": "assets/images/logos/attack_on_titan/erwin_logo.png",
+              "alias": [
+                "The Demon",
+                "Commander Erwin",
+                "The Strategist"
+              ],
+              "title": [
+                "13th Commander of the Survey Corps",
+                "The One Who Led Humanity to Hope",
+                "The Man Who Gave Up His Humanity"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Piercing blue eyes that hold unwavering determination and a hint of madness. They are always calculating, missing no detail. His gaze can inspire both fear and loyalty.",
+                  "nose": "Prominent, strong nose with a straight bridge. Often has a stern expression.",
+                  "ears": "Normal ears, but he is known for his keen hearing in meetings and battles.",
+                  "extra_facial_features": "Blond hair slicked back, with a distinct widow's peak. He has a strong jawline and a commanding presence. After losing his right arm, he often has a slight grimace from phantom pain. His eyebrows are thick and expressive."
+                },
+                "body": {
+                  "chest": "Tall and broad-shouldered (44 inches) with a commanding physique. His chest is strong from years of horseback riding and combat, though he lost his right arm in battle.",
+                  "arms": "His left arm is muscular (16 inches) and capable. His right arm is a prosthetic, often hidden under his cloak. His hands are large and authoritative."
+                },
+                "lower_body": {
+                  "legs": "Long legs (24 inches) that make him an imposing figure on horseback. He is an excellent rider and can maintain long hours in the saddle."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "He wears the Survey Corps hood, but often keeps it down. In formal settings, he wears the commander's cap with the Wings of Freedom insignia."
+                },
+                {
+                  "torso": "The standard Survey Corps green jacket, but with additional commander's insignia on the collar. Underneath, a white shirt and harness. His jacket is always immaculate."
+                },
+                {
+                  "arms": "He wears leather gloves on both hands. His right sleeve is often pinned up after his arm loss, or he wears a prosthetic arm with a glove."
+                },
+                {
+                  "legs": "Standard white pants and knee-high boots. He also wears riding boots when on horseback."
+                },
+                {
+                  "accessories": "ODM gear, though he uses it less after losing his arm. He carries a signal flare gun and a notebook with strategies. His most iconic accessory is his commanding presence and the trust of his soldiers."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Tactical Mastermind",
+                  "type": "passive",
+                  "short_description": "Brilliant strategic mind capable of planning large-scale operations and inspiring troops.",
+                  "full_description": "Erwin is a genius tactician who can devise complex plans that often involve sacrificing soldiers for the greater good. His ability to read the battlefield and predict enemy movements is unparalleled. He is also a master of psychological warfare, using his own life as a gambit.",
+                  "image": "erwin_tactics.png"
+                },
+                {
+                  "name": "Leadership",
+                  "type": "passive",
+                  "short_description": "Inspiring leader who commands absolute loyalty and courage from his soldiers.",
+                  "full_description": "Erwin's speeches and unwavering resolve motivate his troops to charge into certain death. His famous 'Shinzou wo Sasageyo!' rally cry has become a symbol of hope. He leads from the front, never asking his soldiers to do something he wouldn't do.",
+                  "image": "erwin_leadership.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/aot/erwin/image_0001.png"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "anime-007",
+          "name": "Akame ga Kill Series",
+          "characters": [
+            {
+              "id": "anime-akame-001",
+              "name": "Akame",
+              "rating": 9.8,
+              "logo": "assets/images/logos/akame_ga_kill/akame_logo.png",
+              "alias": [
+                "The Killer",
+                "Night Raid's Assassin",
+                "The One Who Murders with a Smile"
+              ],
+              "title": [
+                "Member of Night Raid",
+                "Bearer of the Imperial Arms: Murasame",
+                "Former Elite Assassin of the Empire"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, deep crimson eyes that hold a calm, almost melancholic gaze. They sharpen with lethal focus during combat, reflecting her trained assassin's instincts. Often appear tired from the weight of her kills.",
+                  "nose": "Small and delicate, with a slight point. Her nose is often smudged with dirt or blood after missions.",
+                  "ears": "Small, partially hidden by her long black hair. Highly sensitive, able to detect faint sounds of approaching enemies.",
+                  "extra_facial_features": "Long, straight black hair that reaches her lower back, often tied in a ponytail with a red ribbon. Pale complexion. A small beauty mark below her left eye. Her expression is usually stoic, but rare smiles are genuine and warm. She has a small scar on her chin from a childhood training accident."
+                },
+                "body": {
+                  "chest": "Slender and athletic (36 inches), built for speed and agility rather than brute strength. Her frame is lightweight, allowing her to move silently. Minimal curves, typical of a trained assassin.",
+                  "arms": "Lean but muscular arms (13 inches) with well-defined forearms from years of sword training. Her hands are calloused and nimble, perfect for gripping her katana. She has a small tattoo of a dragon on her left wrist (a Night Raid insignia)."
+                },
+                "lower_body": {
+                  "legs": "Long, powerful legs (22 inches) that enable her to perform incredible jumps and rapid sprints. Her thighs are toned for explosive movement, and her calves are sinewy from constant training."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "She rarely wears headgear, letting her black hair flow freely. Sometimes she wears a black ribbon to keep hair out of her face during missions. No helmet or hood."
+                },
+                {
+                  "torso": "A form-fitting black sleeveless top with a high collar, often with a red accent. Over it, she wears a short black jacket with silver buttons, left open. The Night Raid emblem is sometimes embroidered on the back."
+                },
+                {
+                  "arms": "Her arms are bare, showing her pale skin. She wears black fingerless gloves that extend to her mid-forearm, providing grip and protection. Sometimes she has arm warmers in colder weather."
+                },
+                {
+                  "legs": "Black shorts that reach mid-thigh, paired with black thigh-high socks or stockings. She wears black combat boots with reinforced soles for silent movement. A utility belt around her waist holds small pouches."
+                },
+                {
+                  "accessories": "Murasame, her Imperial Arms, a black katana with a purple sheath and a distinctive curved guard. She also carries a small pouch with throwing knives and a communication device. A red ribbon tied around her left thigh is a memento from her sister."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Murasame: One-Cut Killer",
+                  "type": "active",
+                  "short_description": "A cursed katana that inflicts a deadly curse upon any living being cut by it, killing them in seconds.",
+                  "full_description": "Murasame is an Imperial Arms that embodies the concept of 'instant death.' Any wound, no matter how small, triggers a curse that spreads through the victim's body, causing necrosis and death within moments. The only way to survive is to amputate the affected limb immediately or possess a powerful healing ability. Akame can also use Murasame's hidden ability: she can extend the curse through her own blood, creating a ranged attack called 'Murasame: Bloodstained Dance.'",
+                  "image": "akame_murasame.png"
+                },
+                {
+                  "name": "Assassin's Instinct",
+                  "type": "passive",
+                  "short_description": "Superhuman senses and reflexes honed through years of deadly training, allowing her to detect and eliminate threats with precision.",
+                  "full_description": "Akame possesses an innate ability to sense danger, track enemies, and move without a sound. Her reflexes are so sharp that she can dodge bullets and counter attacks in an instant. She is also skilled in stealth, infiltration, and silent killing, making her one of the deadliest assassins in the series.",
+                  "image": "akame_instinct.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/akame_ga_kill/akame/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-akame-002",
+              "name": "Tatsumi",
+              "rating": 9.4,
+              "logo": "assets/images/logos/akame_ga_kill/tatsumi_logo.png",
+              "alias": [
+                "The Determined Fighter",
+                "Night Raid's Newcomer",
+                "Incursio's Wielder"
+              ],
+              "title": [
+                "Member of Night Raid",
+                "Bearer of the Imperial Arms: Incursio",
+                "The One Who Fights for Justice"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Bright, determined blue eyes that reflect his unwavering will to protect his friends. They widen in surprise or narrow in focus during battle. Often show a mix of naivety and growing resolve.",
+                  "nose": "Average-sized nose, slightly rounded. Often has a few freckles from his rural upbringing.",
+                  "ears": "Normal ears, but he is attentive and can hear whispers in the dark.",
+                  "extra_facial_features": "Short, spiky black hair that is often messy. He has a youthful face with a strong jawline. After joining Night Raid, he develops a few small scars on his cheeks. His expression is usually earnest and determined."
+                },
+                "body": {
+                  "chest": "Athletic and well-built (41 inches) from years of training and combat. His chest muscles are defined, and he has a sturdy frame that can withstand heavy blows, especially after mastering Incursio.",
+                  "arms": "Strong arms (15 inches) with visible biceps and forearms. His hands are calloused from wielding his weapon and climbing. He has a scar on his right shoulder from an early battle."
+                },
+                "lower_body": {
+                  "legs": "Powerful legs (23 inches) built for endurance and agility. He can run for long distances and perform high jumps. His thighs are muscular, and his calves are solid from constant movement."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "He often goes without headgear, but sometimes wears a bandana or headband to keep sweat out of his eyes. In colder weather, he might pull up a hood."
+                },
+                {
+                  "torso": "A simple white shirt or black undershirt, often with a green vest or jacket over it. After obtaining Incursio, he wears the Incursio armor which is a sleek, dark, chitin-like suit that covers his torso and limbs."
+                },
+                {
+                  "arms": "When not in Incursio, he wears fingerless gloves or wraps around his forearms. In Incursio, his arms are covered by the armor's gauntlets with sharp claws."
+                },
+                {
+                  "legs": "Dark pants, often with knee guards. In Incursio, his legs are fully armored with reinforced boots that allow for enhanced mobility."
+                },
+                {
+                  "accessories": "Incursio, which can transform into a cloak or full armor. He also carries a small pouch with supplies and a dagger. A pendant from his hometown is sometimes around his neck."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Incursio: Armor of Concealment",
+                  "type": "active",
+                  "short_description": "An Imperial Arms that grants its user a powerful armor with the ability to become invisible and evolve through combat.",
+                  "full_description": "Incursio is a living armor that adapts to its user's fighting style. It provides immense defensive capabilities and enhances strength and speed. Its primary ability is 'Stealth,' allowing Tatsumi to become invisible and mask his presence. As he fights, Incursio evolves, granting new forms like 'Incursio: Tyrant's Fist' for powerful attacks. However, prolonged use strains the user's body.",
+                  "image": "tatsumi_incursio.png"
+                },
+                {
+                  "name": "Combat Adaptability",
+                  "type": "passive",
+                  "short_description": "Tatsumi's ability to learn and adapt quickly in battle, improving his skills with each fight.",
+                  "full_description": "Despite being a rookie, Tatsumi has a natural talent for combat. He learns from his opponents and quickly develops new strategies. His determination allows him to push beyond his limits, often surprising stronger enemies. He is skilled in swordsmanship and hand-to-hand combat.",
+                  "image": "tatsumi_adapt.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/akame_ga_kill/tatsumi/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-akame-003",
+              "name": "Leone",
+              "rating": 9.3,
+              "logo": "assets/images/logos/akame_ga_kill/leone_logo.png",
+              "alias": [
+                "The Wild Beast",
+                "Night Raid's Brawler",
+                "The Lioness"
+              ],
+              "title": [
+                "Member of Night Raid",
+                "Bearer of the Imperial Arms: Lionelle",
+                "The One Who Fights with Passion"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Fierce golden-yellow eyes that gleam with confidence and wild energy. They narrow predatorily when hunting enemies, but soften with warmth around comrades.",
+                  "nose": "Small and delicate, with a slight upturn. Often wrinkled when she smiles or laughs.",
+                  "ears": "Normal human ears, but after using Lionelle, they become slightly pointed and more sensitive, able to detect distant sounds.",
+                  "extra_facial_features": "Long, flowing blonde hair that reaches her waist, often left loose. She has a mature, beautiful face with full lips and a perpetual smirk. Her complexion is fair, and she has a small beauty mark near her mouth. In her Lionelle form, she gains feline features like sharper canines and slit pupils."
+                },
+                "body": {
+                  "chest": "Voluptuous and athletic (38 inches) with a toned, curvy figure. Her chest is ample but firm, and her abs are defined from constant combat. She exudes a powerful, sensual presence.",
+                  "arms": "Well-defined arms (14 inches) with visible muscle tone. Her hands are strong and capable of tearing through flesh when enhanced by Lionelle. She often wears bracelets or bands."
+                },
+                "lower_body": {
+                  "legs": "Long, shapely legs (23 inches) with powerful thighs that allow her to pounce and kick with devastating force. Her calves are toned, and she moves with a feline grace."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "She rarely wears headgear, letting her blonde hair flow. Sometimes she wears a small black headband or decorative hairpin. In Lionelle form, her hair becomes wilder."
+                },
+                {
+                  "torso": "A revealing black top that resembles a bikini or corset, showing off her midriff. Over it, she sometimes wears a short jacket or cloak. Her outfit is designed for mobility and allure."
+                },
+                {
+                  "arms": "She wears black gloves that extend to her elbows, often with metal studs. Her arms are otherwise bare, showing her muscles."
+                },
+                {
+                  "legs": "Tight black shorts that barely cover her thighs, paired with thigh-high boots with high heels. The boots are reinforced for combat. A belt with pouches hangs around her waist."
+                },
+                {
+                  "accessories": "Lionelle, which manifests as a pair of clawed gauntlets and boots when activated. She also carries a small flask of alcohol and a comb. She often wears a necklace with a lion pendant."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Lionelle: Beast Transformation",
+                  "type": "active",
+                  "short_description": "An Imperial Arms that grants the user enhanced physical abilities and feline characteristics, turning them into a humanoid lion.",
+                  "full_description": "Lionelle is a beast-type Imperial Arms that amplifies Leone's natural strength, speed, and senses to superhuman levels. When activated, she gains claws, fangs, and a lion's mane-like hair. Her regeneration is greatly enhanced, allowing her to heal from wounds rapidly. She can also use her claws to tear through armor and her roar to intimidate enemies. However, prolonged use can strain her body.",
+                  "image": "leone_lionelle.png"
+                },
+                {
+                  "name": "Brawling Expertise",
+                  "type": "passive",
+                  "short_description": "Leone is a master of hand-to-hand combat, using her enhanced strength and agility to overwhelm opponents.",
+                  "full_description": "Leone prefers close-quarters combat, using her fists, kicks, and grappling techniques. She is incredibly agile, able to dodge attacks and counter with ferocious strikes. Her fighting style is wild and unpredictable, often catching enemies off guard. She can also use her surroundings to her advantage, throwing objects or using terrain.",
+                  "image": "leone_brawl.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/akame_ga_kill/leone/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-akame-004",
+              "name": "Mine",
+              "rating": 8.9,
+              "logo": "assets/images/logos/akame_ga_kill/mine_logo.png",
+              "alias": [
+                "The Pink Sniper",
+                "Night Raid's Sharpshooter",
+                "The Explosive Heart"
+              ],
+              "title": [
+                "Member of Night Raid",
+                "Bearer of the Imperial Arms: Pumpkin",
+                "The One Who Shoots with Emotion"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, vibrant pink eyes that match her hair. They are expressive, showing her tsundere personality—often angry or flustered, but also soft when caring. In battle, they focus with precision.",
+                  "nose": "Small and button-like, often scrunched up when she's annoyed.",
+                  "ears": "Small, partially hidden by her twin-tails. She has sensitive hearing, useful for spotting enemies.",
+                  "extra_facial_features": "Long, bright pink hair styled into twin tails with large curls. She has a fair complexion with rosy cheeks. Her face is youthful and cute, often with a pout or blush. She wears a small black headband or bow."
+                },
+                "body": {
+                  "chest": "Slender and petite (34 inches) with a small bust. Her frame is light, ideal for a sniper who needs to stay mobile. She has little muscle mass but is surprisingly resilient.",
+                  "arms": "Thin arms (12 inches) but with good dexterity for handling her rifle. Her hands are small and nimble, perfect for delicate trigger work."
+                },
+                "lower_body": {
+                  "legs": "Slim legs (21 inches) that are agile but not particularly strong. She relies on positioning rather than physical combat. Her thighs are lightly toned from walking and crouching."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "She wears a small black headband or a bow in her hair. Sometimes she dons a hooded cloak for stealth. No helmet."
+                },
+                {
+                  "torso": "A frilly black and pink dress-like top with a corset belt, showing her midriff. Over it, she wears a short black jacket with fluffy trim. The outfit is both cute and practical."
+                },
+                {
+                  "arms": "She wears long black gloves that reach her upper arms, often with lace or frills. Her shoulders are sometimes bare."
+                },
+                {
+                  "legs": "Black thigh-high stockings with garter belts, and short shorts or a skirt. She wears black boots with moderate heels. A belt holds her ammunition pouches."
+                },
+                {
+                  "accessories": "Pumpkin, her Imperial Arms, which is a large, ornate rifle that glows with her emotions. She also carries extra magazines and a small scope. A pink ribbon is tied around her wrist."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Pumpkin: Emotional Amplifier",
+                  "type": "active",
+                  "short_description": "A rifle-type Imperial Arms that fires energy bullets whose power depends on the user's emotional state.",
+                  "full_description": "Pumpkin is a sniper rifle that channels Mine's emotions into destructive power. When she is calm, it fires standard shots. But when her emotions run high—especially anger or determination—the bullets become exponentially more powerful, capable of piercing through armor and even destroying buildings. The rifle can also charge up for a massive blast. However, overuse can drain her energy.",
+                  "image": "mine_pumpkin.png"
+                },
+                {
+                  "name": "Sharpshooting",
+                  "type": "passive",
+                  "short_description": "Mine is an expert marksman, able to hit targets from incredible distances with precision.",
+                  "full_description": "Mine's skill with Pumpkin is unmatched. She can calculate wind, distance, and trajectory instinctively, making her a deadly sniper. She often provides cover fire for her teammates and can eliminate key targets from afar. Her ability to remain calm under pressure allows her to make difficult shots.",
+                  "image": "mine_sharpshooting.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/akame_ga_kill/mine/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-akame-005",
+              "name": "Lubbock",
+              "rating": 8.7,
+              "logo": "assets/images/logos/akame_ga_kill/lubbock_logo.png",
+              "alias": [
+                "The Green Thread",
+                "Night Raid's Tactician",
+                "The Perverted Strategist"
+              ],
+              "title": [
+                "Member of Night Raid",
+                "Bearer of the Imperial Arms: Cross Tail",
+                "The One Who Weaves Traps"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Sharp green eyes that are often mischievous or calculating. They can be playful when teasing, but turn serious in battle. He has a habit of winking at girls.",
+                  "nose": "Average nose, slightly pointed. Often has a smirk on his face.",
+                  "ears": "Normal ears, but he is attentive to conversations, especially gossip.",
+                  "extra_facial_features": "Short, spiky green hair that is well-groomed. He has a youthful, handsome face with a charming smile. He sometimes has a small scar on his left cheek from a fight. His expression is usually confident or flirtatious."
+                },
+                "body": {
+                  "chest": "Lean and athletic (40 inches) with a toned build. He is not as muscular as Tatsumi but has a wiry strength. His chest is defined from using his threads.",
+                  "arms": "Slender but strong arms (14 inches) with exceptional dexterity. His fingers are nimble and precise, necessary for manipulating his threads. He has a few small cuts on his hands from his weapon."
+                },
+                "lower_body": {
+                  "legs": "Average legs (22 inches) built for agility and quick movements. He can jump and dodge effectively, relying on his threads for mobility."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "He often wears a green bandana or headband to keep his hair in place. Sometimes he wears a hooded cloak for infiltration."
+                },
+                {
+                  "torso": "A green long-sleeved shirt with a high collar, often left open at the chest. Over it, he wears a brown vest or jacket. The Night Raid emblem is sometimes visible."
+                },
+                {
+                  "arms": "He wears fingerless gloves that allow him to handle his threads. His forearms are sometimes wrapped in bandages."
+                },
+                {
+                  "legs": "Dark green pants with multiple pockets, tucked into boots. He wears a utility belt with pouches for his thread spools."
+                },
+                {
+                  "accessories": "Cross Tail, his Imperial Arms, which consists of multiple spools of nearly invisible, razor-sharp threads that he can control. He also carries a book or a small notebook for strategies. A necklace with a cross pendant is often around his neck."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Cross Tail: Thread Manipulation",
+                  "type": "active",
+                  "short_description": "An Imperial Arms that allows Lubbock to create and control nearly invisible, incredibly strong threads for various purposes.",
+                  "full_description": "Cross Tail grants Lubbock the ability to produce and manipulate threads that are almost invisible and as sharp as blades. He can use them to create traps, bind enemies, slice through objects, or even create complex structures like nets or bridges. He can also use them for mobility, swinging like a spider. His strategic mind allows him to set up elaborate traps that catch enemies off guard.",
+                  "image": "lubbock_threads.png"
+                },
+                {
+                  "name": "Trap Mastery",
+                  "type": "passive",
+                  "short_description": "Lubbock is a genius at setting up traps and ambushes, using his threads and environment to his advantage.",
+                  "full_description": "Lubbock's true strength lies in his ability to plan and execute traps. He can turn any area into a deadly maze of threads, anticipating enemy movements. He is also skilled at reading opponents and predicting their actions, making him an excellent strategist for Night Raid.",
+                  "image": "lubbock_traps.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/akame_ga_kill/lubbock/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-akame-006",
+              "name": "Bulat",
+              "rating": 9.1,
+              "logo": "assets/images/logos/akame_ga_kill/bulat_logo.png",
+              "alias": [
+                "The Immortal",
+                "Night Raid's Strongest",
+                "Incursio's First Master"
+              ],
+              "title": [
+                "Former Member of Night Raid",
+                "Bearer of the Imperial Arms: Incursio (formerly)",
+                "The One Who Taught Tatsumi"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Piercing blue eyes that radiate confidence and strength. They are calm and reassuring, but can become fierce in battle. He often has a gentle smile.",
+                  "nose": "Strong, straight nose with a slight bump from an old fight.",
+                  "ears": "Normal ears, but he is always alert, even when relaxed.",
+                  "extra_facial_features": "Short, dark blue hair styled back, with a few strands falling over his forehead. He has a chiseled, handsome face with a strong jawline and a small scar above his left eyebrow. His expression is usually calm and friendly, with a hint of wisdom."
+                },
+                "body": {
+                  "chest": "Massively muscular (46 inches) with a broad chest and well-defined pectorals. His body is a testament to years of intense training, with low body fat and visible abs.",
+                  "arms": "Thick, powerful arms (17 inches) with bulging biceps and strong forearms. His hands are large and calloused, capable of crushing stone. He has numerous scars from battles."
+                },
+                "lower_body": {
+                  "legs": "Tree-trunk-like legs (25 inches) with massive thighs that provide incredible stability and power. He can stand firm against powerful attacks and deliver crushing kicks."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "He often goes without headgear, but sometimes wears a bandana. His hair is always neatly styled."
+                },
+                {
+                  "torso": "He wears a sleeveless black shirt that shows off his muscles, or sometimes a vest open at the chest. In battle, he dons the Incursio armor, which fits his muscular frame perfectly."
+                },
+                {
+                  "arms": "His arms are usually bare, showing his impressive muscles. He wears leather wristbands or simple wraps."
+                },
+                {
+                  "legs": "Dark pants, often with knee guards. In Incursio, his legs are armored with greaves."
+                },
+                {
+                  "accessories": "Incursio, which he later passes to Tatsumi. He also carries a large sword or a spear as a backup weapon. A necklace with a small charm is sometimes visible."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Incursio Mastery",
+                  "type": "active",
+                  "short_description": "Bulat was the original master of Incursio, able to fully utilize its armor and evolution abilities.",
+                  "full_description": "Bulat had complete control over Incursio, using its stealth and enhancement to become an unstoppable warrior. He could manifest the armor's full power, including the 'Incursio: Evolution' ability that allowed him to adapt to any threat. His fighting style was aggressive and overwhelming, often ending fights quickly.",
+                  "image": "bulat_incursio.png"
+                },
+                {
+                  "name": "Unarmed Combat",
+                  "type": "passive",
+                  "short_description": "Even without Incursio, Bulat is a formidable hand-to-hand combatant, using his immense strength and skill.",
+                  "full_description": "Bulat's physical prowess is such that he can fight equally well with or without weapons. He is skilled in various martial arts, using his powerful fists and kicks to defeat enemies. His durability and endurance are legendary, earning him the nickname 'The Immortal.'",
+                  "image": "bulat_unarmed.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/akame_ga_kill/bulat/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-akame-007",
+              "name": "Sheele",
+              "rating": 8.8,
+              "logo": "assets/images/logos/akame_ga_kill/sheele_logo.png",
+              "alias": [
+                "The Gentle Clumsy Assassin",
+                "Night Raid's Cleaner",
+                "The One Who Cuts with Kindness"
+              ],
+              "title": [
+                "Former Member of Night Raid",
+                "Bearer of the Imperial Arms: Extase",
+                "The One Who Loved Books"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, soft blue eyes that are often dreamy or unfocused. They convey a gentle, kind nature, but sharpen when she needs to focus on a task. Often appear sad or thoughtful.",
+                  "nose": "Small and rounded, with a few freckles. She often wears glasses that slip down her nose.",
+                  "ears": "Small, partially hidden by her hair. She is easily startled by loud noises.",
+                  "extra_facial_features": "Long, light purple hair styled in soft waves, often with a small braid. She has a gentle, round face with a perpetual slight smile. She wears round glasses that give her a bookish appearance. Her expression is usually kind and somewhat spacey."
+                },
+                "body": {
+                  "chest": "Average build (36 inches) with a soft, feminine figure. She is not particularly muscular, but her body is capable of surprising strength when wielding Extase.",
+                  "arms": "Slender arms (13 inches) that appear delicate, but she has surprising grip strength from using her large scissors. Her hands are often stained with ink from writing."
+                },
+                "lower_body": {
+                  "legs": "Average legs (21 inches) that are slightly uncoordinated; she is known for being clumsy and often trips. However, when focused, she can move with purpose."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "She wears a small black headband or a bow in her hair. Her glasses are always on her face. Sometimes she wears a hooded cloak."
+                },
+                {
+                  "torso": "A simple white or light purple blouse with a black vest or corset. She often wears a long skirt or dress-like outfit that is practical for movement."
+                },
+                {
+                  "arms": "She wears long gloves or arm warmers, often in white or black. Her arms are usually covered."
+                },
+                {
+                  "legs": "A long skirt that reaches her ankles, or loose pants. She wears simple shoes or boots. A belt with a pouch holds small items."
+                },
+                {
+                  "accessories": "Extase, her Imperial Arms, which is a pair of giant, sharp scissors that she carries on her back. She also carries a book or a journal, as she loves reading. A small ribbon is tied around her wrist."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Extase: Giant Scissors",
+                  "type": "active",
+                  "short_description": "A pair of enormous, razor-sharp scissors that can cut through almost anything, including armor and flesh.",
+                  "full_description": "Extase is a unique Imperial Arms that resembles giant shears. Despite their size, Sheele wields them with surprising ease, using them to slice through enemies and objects. The scissors are incredibly sharp and durable, capable of cutting through steel. Sheele's gentle nature contrasts with the brutal efficiency of her weapon.",
+                  "image": "sheele_extase.png"
+                },
+                {
+                  "name": "Clumsy but Deadly",
+                  "type": "passive",
+                  "short_description": "Despite her clumsy demeanor, Sheele is a capable assassin who uses her apparent weakness to lull enemies into complacency.",
+                  "full_description": "Sheele often appears clumsy and distracted, but when it's time to fight, she becomes focused and precise. Her opponents underestimate her, allowing her to strike unexpectedly. She is also highly dedicated to her friends and will protect them at all costs.",
+                  "image": "sheele_clumsy.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/akame_ga_kill/sheele/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-akame-008",
+              "name": "Chelsea",
+              "rating": 8.9,
+              "logo": "assets/images/logos/akame_ga_kill/chelsea_logo.png",
+              "alias": [
+                "The Chameleon",
+                "Night Raid's Disguise Master",
+                "The One Who Hides in Plain Sight"
+              ],
+              "title": [
+                "Member of Night Raid",
+                "Bearer of the Imperial Arms: Gaea Foundation",
+                "The One Who Loves Fashion"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, expressive brown eyes that sparkle with mischief and curiosity. They are always observing, taking in details to use for disguises. Often have a playful glint.",
+                  "nose": "Small and cute, with a slight upturn. She often has a mischievous smile.",
+                  "ears": "Small, pierced with tiny earrings. She is attentive to conversations and accents.",
+                  "extra_facial_features": "Short, light brown hair with a distinctive ahoge (cowlick) that sticks up. She has a youthful, cute face with freckles on her cheeks. Her expression is usually cheerful and playful. She sometimes wears makeup to enhance her disguises."
+                },
+                "body": {
+                  "chest": "Slender and petite (35 inches) with a small, athletic build. Her body is lightweight, allowing her to easily change outfits and move silently.",
+                  "arms": "Thin arms (12 inches) with good dexterity for applying makeup and handling small tools. Her hands are nimble and steady."
+                },
+                "lower_body": {
+                  "legs": "Slim legs (21 inches) that are agile and quick. She can run and dodge, but relies more on stealth than combat."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "She often wears a variety of headgear depending on her disguise—hats, wigs, hoods. Her natural hair is usually styled with a bow or hairpin."
+                },
+                {
+                  "torso": "Her default outfit is a stylish black and pink dress with a short skirt, often with a corset. She also wears a short jacket or cape. Her clothes are fashionable and allow for quick changes."
+                },
+                {
+                  "arms": "She wears long gloves or arm warmers, often in black or pink. Her arms are usually covered to hide any identifying marks."
+                },
+                {
+                  "legs": "Black thigh-high stockings with garter belts, and short shorts. She wears knee-high boots with moderate heels. A belt holds her disguise tools."
+                },
+                {
+                  "accessories": "Gaea Foundation, her Imperial Arms, which is a makeup kit that allows her to transform her appearance. She also carries a small mirror, brushes, and various cosmetics. A small handbag holds her supplies."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Gaea Foundation: Perfect Disguise",
+                  "type": "active",
+                  "short_description": "An Imperial Arms that allows Chelsea to change her appearance, voice, and even clothing to perfectly mimic anyone.",
+                  "full_description": "Gaea Foundation is a makeup kit that grants the user the ability to transform into any person they have seen or imagined. The transformation is so perfect that even close friends can be fooled. Chelsea uses this to infiltrate enemy bases, gather information, and assassinate targets without being detected. The disguise can be maintained indefinitely but requires concentration.",
+                  "image": "chelsea_disguise.png"
+                },
+                {
+                  "name": "Infiltration Expert",
+                  "type": "passive",
+                  "short_description": "Chelsea is a master of blending in, using her acting skills and knowledge of human behavior to avoid suspicion.",
+                  "full_description": "Beyond her Imperial Arms, Chelsea is skilled in acting, mimicry, and social engineering. She can adopt different personalities and mannerisms to suit her disguise. She is also adept at gathering intelligence and escaping unnoticed.",
+                  "image": "chelsea_infiltration.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/akame_ga_kill/chelsea/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-akame-009",
+              "name": "Susanoo",
+              "rating": 9.0,
+              "logo": "assets/images/logos/akame_ga_kill/susanoo_logo.png",
+              "alias": [
+                "The Guardian",
+                "Night Raid's Protector",
+                "The Bioweapon"
+              ],
+              "title": [
+                "Member of Night Raid",
+                "Bearer of the Imperial Arms: Susanoo (himself)",
+                "The One Who Serves Najenda"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Calm, wise blue eyes that reflect his ancient, artificial nature. They are usually serene, but can become sharp and focused in battle. They show a deep loyalty to Najenda.",
+                  "nose": "Straight and well-defined, giving him a dignified appearance.",
+                  "ears": "Normal human ears, but he can hear at superhuman levels due to his construction.",
+                  "extra_facial_features": "Short, silver-white hair styled neatly. He has a mature, handsome face with a calm expression. His skin is pale and slightly metallic in texture. He often has a gentle smile. He has no scars, as his body can regenerate."
+                },
+                "body": {
+                  "chest": "Well-built and muscular (43 inches) with a powerful, athletic frame. His body is optimized for combat, with defined pectorals and abs. He appears human but is actually a living weapon.",
+                  "arms": "Strong arms (16 inches) with visible muscle definition. His hands are large and capable of wielding his sword with precision. He has no scars or blemishes."
+                },
+                "lower_body": {
+                  "legs": "Powerful legs (23 inches) that allow him to move swiftly and stand firm. He can jump great distances and deliver strong kicks."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "He often wears a simple black headband or nothing at all. His hair is always neatly styled."
+                },
+                {
+                  "torso": "A traditional Japanese-style outfit: a dark blue or black kimono top with wide sleeves, often worn open to show his chest. He wears a sash around his waist. In battle, he may wear light armor."
+                },
+                {
+                  "arms": "His arms are usually bare, showing his muscular build. Sometimes he wears arm guards or wraps."
+                },
+                {
+                  "legs": "Matching hakama pants (loose-fitting) and traditional sandals or boots. He wears a belt with pouches."
+                },
+                {
+                  "accessories": "His Imperial Arms is himself, but he also wields a large nodachi (sword) called 'Magatsuchi' that he can summon. He carries a small fan or a scroll as a personal item. A small charm given by Najenda is tied to his sash."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Susanoo: Living Imperial Arms",
+                  "type": "active",
+                  "short_description": "Susanoo is himself an Imperial Arms, a bioweapon created to serve his master with immense combat capabilities.",
+                  "full_description": "Susanoo is a unique Imperial Arms that takes human form. He possesses superhuman strength, speed, and durability, and can regenerate from damage. He can also use his 'Magatsuchi' form to unleash powerful attacks. His most devastating ability is 'Susanoo: Okami,' where he transforms into a massive wolf-like beast with immense power, but this consumes his own life force.",
+                  "image": "susanoo_okami.png"
+                },
+                {
+                  "name": "Swordsmanship",
+                  "type": "passive",
+                  "short_description": "Susanoo is a master swordsman, wielding his nodachi with precision and power.",
+                  "full_description": "Susanoo's combat style is elegant and deadly. He uses his sword to cut down enemies with swift, powerful strokes. His centuries of existence have honed his skills to perfection. He can also use his sword to defend others, acting as the ultimate guardian.",
+                  "image": "susanoo_sword.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/akame_ga_kill/susanoo/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-akame-010",
+              "name": "Najenda",
+              "rating": 9.2,
+              "logo": "assets/images/logos/akame_ga_kill/najenda_logo.png",
+              "alias": [
+                "The Commander",
+                "Night Raid's Leader",
+                "The One-Eyed General"
+              ],
+              "title": [
+                "Leader of Night Raid",
+                "Bearer of the Imperial Arms: Susanoo (master)",
+                "Former Imperial General"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Sharp, intelligent amber eyes that miss nothing. Her right eye is covered by an eyepatch, but her left eye gleams with authority and experience. They can be stern or warm depending on the situation.",
+                  "nose": "Straight and strong, fitting her commanding presence.",
+                  "ears": "Normal ears, but she is always listening to reports and battlefield sounds.",
+                  "extra_facial_features": "Long, silver-white hair that reaches her waist, often tied in a ponytail or left loose. She has a mature, beautiful face with high cheekbones and a confident expression. A black eyepatch covers her right eye. She has a small scar on her left cheek. Her lips are often set in a determined line."
+                },
+                "body": {
+                  "chest": "Athletic and well-proportioned (39 inches) with a fit, strong body from years of military training. She has a womanly figure but is clearly built for combat.",
+                  "arms": "Toned arms (14 inches) with visible muscle. Her hands are steady and capable of wielding a sword or giving orders. She has a prosthetic right arm from a past battle, which is mechanical and highly functional."
+                },
+                "lower_body": {
+                  "legs": "Long, strong legs (23 inches) that allow her to stand firm and move with purpose. She is an excellent rider and can keep up with her team."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "She wears a black eyepatch over her right eye. Sometimes she wears a military cap or hood. Her hair is often tied back."
+                },
+                {
+                  "torso": "A stylish black and white military-style outfit with a short jacket over a white shirt. She wears a corset-like belt and has the Night Raid emblem on her shoulder. Her outfit is both functional and commanding."
+                },
+                {
+                  "arms": "Her left arm is bare or gloved, while her right arm is a mechanical prosthetic with metal plating. She often wears a glove on her left hand."
+                },
+                {
+                  "legs": "Black pants tucked into knee-high boots. She wears a utility belt with pouches and a holster for a pistol."
+                },
+                {
+                  "accessories": "She carries a sword or a pistol as backup. She also has a communication device and a notebook for plans. A small locket with a photo of her former comrades is sometimes worn."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Tactical Command",
+                  "type": "passive",
+                  "short_description": "Najenda is a brilliant strategist and leader, able to coordinate Night Raid's operations and outthink enemies.",
+                  "full_description": "As a former general, Najenda has extensive experience in military tactics and leadership. She can devise complex plans, anticipate enemy moves, and inspire her team. Her decisions have kept Night Raid alive through countless missions. She is also skilled in diplomacy and intelligence gathering.",
+                  "image": "najenda_tactics.png"
+                },
+                {
+                  "name": "Combat Proficiency",
+                  "type": "active",
+                  "short_description": "Despite losing an eye and an arm, Najenda is a capable fighter, using her prosthetic arm to deliver powerful blows.",
+                  "full_description": "Najenda's prosthetic arm is a weapon in itself, able to punch through walls and deflect attacks. She is also skilled with a sword and pistol. Her combat experience allows her to hold her own against powerful enemies, though she prefers to lead from the rear.",
+                  "image": "najenda_combat.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/akame_ga_kill/najenda/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-akame-011",
+              "name": "Esdeath",
+              "rating": 9.9,
+              "logo": "assets/images/logos/akame_ga_kill/esdeath_logo.png",
+              "alias": [
+                "The Ice Queen",
+                "The Empire's Strongest",
+                "The Bloodthirsty General"
+              ],
+              "title": [
+                "General of the Imperial Army",
+                "Bearer of the Imperial Arms: Demon's Extract",
+                "The One Who Lives for Battle"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Piercing, ice-blue eyes that reflect her sadistic nature and love for battle. They are often cold and calculating, but can warm slightly when she thinks of Tatsumi. They gleam with excitement during combat.",
+                  "nose": "Straight and elegant, fitting her aristocratic beauty.",
+                  "ears": "Small and delicate, often adorned with small earrings. She can hear the slightest sound of an enemy's fear.",
+                  "extra_facial_features": "Long, flowing blue hair that reaches her waist, often styled with a small hat or headpiece. She has a stunningly beautiful face with pale skin and full lips. Her expression is usually a confident smirk or a manic grin during battle. She has no visible scars, as she rarely gets injured."
+                },
+                "body": {
+                  "chest": "Voluptuous and athletic (39 inches) with a toned, powerful figure. Her body is both alluring and deadly, with defined abs and a strong core.",
+                  "arms": "Slim but muscular arms (14 inches) that can deliver devastating strikes. Her hands are elegant but capable of wielding her rapier with deadly precision."
+                },
+                "lower_body": {
+                  "legs": "Long, shapely legs (24 inches) that are incredibly powerful. She can move at superhuman speeds and deliver kicks that can shatter stone. Her thighs are well-muscled from years of combat."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "She often wears a military cap with a feather, or a small fascinator. Her blue hair is always perfectly styled. Sometimes she wears a hooded cloak in cold weather."
+                },
+                {
+                  "torso": "A white and blue military uniform with a high collar, often with gold accents. The outfit is form-fitting and shows off her figure. She wears a short cape or cloak over one shoulder."
+                },
+                {
+                  "arms": "She wears long white gloves that reach her elbows. Her arms are otherwise covered by the uniform's sleeves."
+                },
+                {
+                  "legs": "A short skirt or mini-dress portion of the uniform, with thigh-high boots that have heels. She wears a belt with a sword holster."
+                },
+                {
+                  "accessories": "Demon's Extract, which manifests as an ice-making ability, but she also carries a rapier. She has a small flask of wine and a hand mirror. A locket with a photo of Tatsumi (in her imagination) is sometimes mentioned."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Demon's Extract: Ice Manipulation",
+                  "type": "active",
+                  "short_description": "Esdeath can create and control ice at will, with powers ranging from freezing individual targets to creating massive glaciers.",
+                  "full_description": "Demon's Extract grants Esdeath complete mastery over ice. She can freeze anything instantly, create ice weapons, armor, and structures, and even manipulate the weather to create blizzards. Her most powerful technique is 'Mahapadma,' which freezes time itself for all within range, allowing her to move freely. She can also create ice soldiers and beasts to fight for her.",
+                  "image": "esdeath_ice.png"
+                },
+                {
+                  "name": "Combat Savagery",
+                  "type": "passive",
+                  "short_description": "Esdeath is a sadistic warrior who revels in combat, possessing immense physical strength, speed, and endurance.",
+                  "full_description": "Even without her ice, Esdeath is a formidable fighter. She is an expert swordswoman and hand-to-hand combatant, able to take on entire squads alone. Her love for battle makes her unpredictable and ruthless. She also has a high pain tolerance and regenerative abilities due to her power.",
+                  "image": "esdeath_combat.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/akame_ga_kill/esdeath/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-akame-012",
+              "name": "Wave",
+              "rating": 8.6,
+              "logo": "assets/images/logos/akame_ga_kill/wave_logo.png",
+              "alias": [
+                "The Honest Soldier",
+                "Jaegers Member",
+                "The One Who Seeks Justice"
+              ],
+              "title": [
+                "Member of the Jaegers",
+                "Bearer of the Imperial Arms: Grand Chariot",
+                "The One Who Questions the Empire"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Honest, deep blue eyes that reflect his straightforward nature and inner conflict. They show determination and sometimes doubt about the Empire's actions.",
+                  "nose": "Average nose, slightly broad. He has a friendly, open face.",
+                  "ears": "Normal ears, often covered by his hair. He listens carefully to orders but also to his conscience.",
+                  "extra_facial_features": "Short, spiky black hair with a few strands falling over his forehead. He has a youthful, handsome face with a strong jawline. He often has a determined or thoughtful expression. He has a small scar on his left cheek from training."
+                },
+                "body": {
+                  "chest": "Athletic and muscular (42 inches) from rigorous military training. His chest is broad and strong, suitable for wearing the Grand Chariot armor.",
+                  "arms": "Strong arms (15 inches) with well-defined biceps and forearms. His hands are calloused from wielding his weapon and training."
+                },
+                "lower_body": {
+                  "legs": "Powerful legs (23 inches) built for endurance and speed. He can run long distances and perform acrobatic maneuvers in his armor."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "He often wears a simple headband or nothing. In battle, he wears the Grand Chariot helmet, which covers his head."
+                },
+                {
+                  "torso": "A dark military uniform with a jacket and white shirt underneath. When using Grand Chariot, he dons a suit of silver and blue armor that covers his torso and limbs."
+                },
+                {
+                  "arms": "In uniform, his arms are covered by sleeves. In armor, he wears gauntlets that enhance his strength."
+                },
+                {
+                  "legs": "Dark pants and boots. In armor, he wears greaves and reinforced boots."
+                },
+                {
+                  "accessories": "Grand Chariot, which is a suit of armor that he can summon. He also carries a sword or a spear. A small pendant from his hometown is sometimes around his neck."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Grand Chariot: Armor of the Shooting Star",
+                  "type": "active",
+                  "short_description": "A suit of armor that grants the user immense defensive and offensive capabilities, including flight and enhanced speed.",
+                  "full_description": "Grand Chariot is an armor-type Imperial Arms that covers Wave in a powerful suit of armor. It enhances his physical abilities, allows him to fly at high speeds, and provides protection against most attacks. He can also use energy blasts and create a protective barrier. The armor's ultimate attack is 'Grand Chariot: Meteor Impact,' a devastating diving strike.",
+                  "image": "wave_armor.png"
+                },
+                {
+                  "name": "Loyal Soldier",
+                  "type": "passive",
+                  "short_description": "Wave is a dedicated and skilled soldier, trained in various combat techniques and tactics.",
+                  "full_description": "Wave is proficient in swordsmanship, hand-to-hand combat, and military tactics. He follows orders but also thinks for himself, often questioning the morality of his missions. His loyalty to his comrades, especially Kurome, is unwavering.",
+                  "image": "wave_soldier.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/akame_ga_kill/wave/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-akame-013",
+              "name": "Kurome",
+              "rating": 9.0,
+              "logo": "assets/images/logos/akame_ga_kill/kurome_logo.png",
+              "alias": [
+                "The Little Sister",
+                "Jaegers Assassin",
+                "The One Who Commands the Dead"
+              ],
+              "title": [
+                "Member of the Jaegers",
+                "Bearer of the Imperial Arms: Yatsufusa",
+                "Akame's Younger Sister"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Dark, lifeless crimson eyes that mirror her sister Akame's, but hold a deeper emptiness due to the drugs she takes. They can flash with killing intent, but sometimes show a longing for her sister.",
+                  "nose": "Small and delicate, similar to Akame's. Often has a blank expression.",
+                  "ears": "Small, hidden by her long hair. She is always alert, but her drug use dulls her senses.",
+                  "extra_facial_features": "Long, black hair that reaches her waist, often styled with a large ribbon or bow. She has a pale complexion and a youthful face that looks younger than her age. Her expression is usually emotionless or slightly sad. She has a small scar on her neck from a past battle."
+                },
+                "body": {
+                  "chest": "Slender and petite (35 inches) like her sister, built for speed and agility. Her body is lightweight, allowing her to move silently. She has little muscle mass but is surprisingly strong due to her Imperial Arms.",
+                  "arms": "Thin arms (12 inches) that are nimble and precise. Her hands are often wrapped in bandages to hide needle marks from the drugs she injects."
+                },
+                "lower_body": {
+                  "legs": "Slim legs (21 inches) that are agile and quick. She can perform rapid movements and acrobatic flips."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "She often wears a large black bow or ribbon in her hair. Sometimes she wears a hooded cloak. No helmet."
+                },
+                {
+                  "torso": "A dark, gothic-style dress or outfit, often with frills and lace. It is black and purple, with a short skirt and a corset. She wears a jacket or capelet over her shoulders."
+                },
+                {
+                  "arms": "She wears long black gloves that reach her upper arms, often with lace. Her arms are otherwise bare."
+                },
+                {
+                  "legs": "Black thigh-high stockings with garter belts, and short shorts. She wears knee-high boots with heels. A belt holds her sword and drug supplies."
+                },
+                {
+                  "accessories": "Yatsufusa, her Imperial Arms, which is a katana that can control corpses. She also carries a syringe case with drugs that enhance her abilities but shorten her life. A small doll or charm is sometimes attached to her outfit."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Yatsufusa: Corpse Manipulation",
+                  "type": "active",
+                  "short_description": "A cursed katana that allows Kurome to control the corpses of those she has killed, turning them into loyal puppets.",
+                  "full_description": "Yatsufusa grants Kurome the power to resurrect and control up to eight corpses, known as 'Corpse Soldiers.' These soldiers retain their abilities and can fight for her. She can also use them for reconnaissance or defense. The most powerful among them are the 'Eight Generals' she has collected. However, maintaining control requires constant concentration and drug use.",
+                  "image": "kurome_yatsufusa.png"
+                },
+                {
+                  "name": "Drug-Enhanced Combat",
+                  "type": "passive",
+                  "short_description": "Kurome uses dangerous drugs to enhance her physical abilities, making her faster and stronger at the cost of her health.",
+                  "full_description": "To keep up with her enemies, Kurome injects herself with performance-enhancing drugs. These drugs grant her temporary boosts in speed, strength, and reflexes, but they also damage her body and shorten her lifespan. She is a skilled swordswoman even without drugs, but relies on them in intense battles.",
+                  "image": "kurome_drugs.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/akame_ga_kill/kurome/image_0001.png"
+              ]
+            },
+            {
+              "id": "anime-akame-014",
+              "name": "Seryu",
+              "rating": 8.2,
+              "logo": "assets/images/logos/akame_ga_kill/seryu_logo.png",
+              "alias": [
+                "The Absolute Justice",
+                "Imperial Police",
+                "The One Who Kills for Justice"
+              ],
+              "title": [
+                "Member of the Imperial Police",
+                "Bearer of the Imperial Arms: Hekatonkheir",
+                "The One Who Believes in Absolute Justice"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, bright green eyes that shine with fanatical devotion to justice. They are often wide and intense, showing her obsessive nature. They can become manic when she perceives evil.",
+                  "nose": "Small and button-like, fitting her youthful face.",
+                  "ears": "Small, often covered by her hair. She listens for any sign of crime.",
+                  "extra_facial_features": "Short, light green hair styled in a bob with bangs. She has a cute, innocent face that contrasts with her brutal actions. She often has a cheerful smile, but it can turn into a sinister grin. She wears a small hairpin or bow."
+                },
+                "body": {
+                  "chest": "Small and petite (34 inches) with a youthful, undeveloped figure. Her body is light and agile, but she relies on her Imperial Arms for strength.",
+                  "arms": "Thin arms (11 inches) that are deceptively strong when using Hekatonkheir. Her hands are small but capable of wielding her weapon."
+                },
+                "lower_body": {
+                  "legs": "Slim legs (20 inches) that are quick and agile. She can move rapidly in combat, but her small stature limits her physical power."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "She wears a police cap or a simple headband. Her hair is always neatly styled."
+                },
+                {
+                  "torso": "A white and blue police uniform with a short skirt and a jacket. She wears a harness for her Imperial Arms. The outfit is clean and official-looking."
+                },
+                {
+                  "arms": "She wears white gloves that reach her elbows. Her arms are otherwise covered by sleeves."
+                },
+                {
+                  "legs": "A short skirt with white thigh-high socks and brown boots. She wears a belt with pouches."
+                },
+                {
+                  "accessories": "Hekatonkheir, her Imperial Arms, which is a large, dog-like bioweapon that can transform into a cannon or other forms. She also carries a notebook where she records 'evil' deeds. A small badge of the Imperial Police is pinned to her chest."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Hekatonkheir: Bioweapon",
+                  "type": "active",
+                  "short_description": "A living Imperial Arms that takes the form of a large dog and can transform into various weapons, including a massive cannon.",
+                  "full_description": "Hekatonkheir is a loyal bioweapon that accompanies Seryu. It can transform into a powerful cannon that fires explosive rounds, or into a shield for defense. It can also extend its limbs to attack. Seryu often rides on its back. The combination of her fanatical justice and Hekatonkheir's firepower makes her a deadly opponent.",
+                  "image": "seryu_hekatonkheir.png"
+                },
+                {
+                  "name": "Fanatical Justice",
+                  "type": "passive",
+                  "short_description": "Seryu's unwavering belief in absolute justice drives her to extreme measures, making her ruthless and unpredictable.",
+                  "full_description": "Seryu views the world in black and white: anyone she deems evil must be eliminated. This mindset gives her a relentless determination and no hesitation to kill. She is also skilled in tracking and interrogation, using her twisted sense of morality to justify any action.",
+                  "image": "seryu_justice.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/akame_ga_kill/seryu/image_0001.png"
+              ]
+            }
+          ]
         }
       ]
     }
