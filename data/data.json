@@ -10175,6 +10175,1966 @@
               ]
             }
           ]
+        },
+        {
+          "id": "anime-004",
+          "name": "Dragon Ball Series",
+          "characters": [
+            {
+              "id": "anime-db-001",
+              "name": "Son Goku",
+              "rating": 10.0,
+              "logo": "assets/images/logos/dragonball/goku_logo.png",
+              "alias": [
+                "Kakarot",
+                "The Earth's Protector",
+                "The Saiyan Who Defeated Frieza",
+                "The Ultra Instinct Master"
+              ],
+              "title": [
+                "Low-Class Saiyan Warrior",
+                "Martial Arts Master",
+                "God of Destruction Candidate",
+                "The One Who Surpasses Limits"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, expressive onyx-black eyes that radiate pure-heartedness and childlike wonder. In combat, they sharpen with intense focus, and during Super Saiyan transformations, they turn fierce with greenish-blue irises. When accessing Ultra Instinct, his eyes become silver with a distant, serene gaze.",
+                  "nose": "Small and rounded, often with a single nostril visible. Typically has a smudge or two from training or fighting.",
+                  "ears": "Normal human ears, slightly pointed like most Saiyans. Highly sensitive to energy signatures and distant sounds.",
+                  "extra_facial_features": "Spiky, jet-black hair that defies gravity and remains in the same style from childhood through adulthood, though it grows longer in Super Saiyan forms. After achieving Super Saiyan, his hair turns golden and stands up more dramatically. He has a cheerful, boyish face with a perpetual grin. A small scar on his left cheek from a childhood accident. His face is framed by thick, expressive eyebrows. In Super Saiyan God form, his hair becomes crimson and his eyes gain a reddish tint."
+                },
+                "body": {
+                  "chest": "Compact yet incredibly muscular (44 inches) with a fighter's build optimized for explosive power and agility. His chest is broad with well-defined pectorals, and his physique becomes more defined with each transformation. His body carries numerous small scars from countless battles, including the mark from Raditz's attack.",
+                  "arms": "Powerful, well-defined arms (16 inches) with visible muscle striations. His forearms are thick from years of training and combat. His hands are calloused and strong, capable of delivering devastating blows yet gentle enough to hold his children."
+                },
+                "lower_body": {
+                  "legs": "Stocky but powerful legs (24 inches) with massive thighs that provide explosive jumping power and stability. His calves are thick and defined from constant training and the unique combat stance of martial arts."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Rarely wears headgear, but occasionally dons a sweatband during intense training. In the Other World, he wears a halo. No helmet."
+                },
+                {
+                  "torso": "His iconic orange dogi (martial arts uniform) with a blue undershirt, featuring the kanji for 'Go' (亀 - Turtle) on the front and back. The uniform is often torn and battle-damaged. On King Kai's planet, he wears a blue training gi with the kanji for 'Kai' (界). During the Cell Games, he wears a sleeveless orange gi with a blue undershirt and the 'Go' symbol."
+                },
+                {
+                  "arms": "His arms are usually bare, showing his muscular build. He wears blue wristbands or forearm guards, sometimes with weights during training. His hands are often wrapped in white cloth or bandages for intense fights."
+                },
+                {
+                  "legs": "Matching orange pants with blue shin guards or boots. He wears traditional martial arts boots that allow for maximum mobility and kicking power. A yellow or orange sash is tied around his waist."
+                },
+                {
+                  "accessories": "The Power Pole (Nyoi Bo) in his youth, though rarely used as an adult. He carries Senzu Beans in a small pouch. The Flying Nimbus (Kinto'un) cloud serves as his transportation when not flying. He also wears the One-Star Dragon Ball as a keepsake from his grandfather."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Kamehameha",
+                  "type": "active",
+                  "short_description": "A powerful energy wave focused and fired from the palms, channeling ki into a concentrated beam.",
+                  "full_description": "Master Roshi's signature technique, perfected by Goku over decades. By cupping his hands and focusing ki, Goku can unleash a devastating blue energy wave that can destroy mountains, pierce through enemies, and even deflect other energy attacks. He has developed numerous variants including the Super Kamehameha, Warp Kamehameha (combined with Instant Transmission), and the God Kamehameha in his divine forms. The technique's power scales with his transformations, reaching universe-threatening levels.",
+                  "image": "goku_kamehameha.png"
+                },
+                {
+                  "name": "Super Saiyan Transformations",
+                  "type": "active",
+                  "short_description": "A legendary Saiyan transformation triggered by intense emotion, multiplying power exponentially and altering appearance.",
+                  "full_description": "Goku was the first in a millennium to achieve the legendary Super Saiyan form during his battle with Frieza. This initial transformation turns his hair golden, eyes green, and increases his power 50-fold. He later masters Super Saiyan 2 (further power increase with sharper hair and electrical aura), Super Saiyan 3 (extremely long hair, no eyebrows, immense power but high stamina drain), Super Saiyan God (crimson hair, slim build, divine ki), Super Saiyan Blue (Super Saiyan God with Super Saiyan, blue hair, godly ki), and finally Ultra Instinct (silver hair and eyes, autonomous movement where body fights without thought).",
+                  "image": "goku_transformations.png"
+                },
+                {
+                  "name": "Instant Transmission",
+                  "type": "active",
+                  "short_description": "The ability to teleport instantly to any location by sensing a ki signature.",
+                  "full_description": "Goku learned this technique from the Yardrats after escaping Planet Namek. By concentrating on a specific ki signature, he can instantly teleport anywhere in the universe, regardless of distance. He can also bring others along by maintaining physical contact. The technique has limitations—he must be able to sense a ki signature at the destination, and it requires a moment of concentration, making it less useful against faster opponents.",
+                  "image": "goku_instant.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/goku/image_0001.png",
+                "assets/images/characters/dragonball/goku/image_0002.png",
+                "assets/images/characters/dragonball/goku/image_0003.png",
+                "assets/images/characters/dragonball/goku/image_0004.png",
+                "assets/images/characters/dragonball/goku/image_0005.png",
+                "assets/images/characters/dragonball/goku/image_0006.png"
+              ]
+            },
+            {
+              "id": "anime-db-002",
+              "name": "Vegeta",
+              "rating": 9.9,
+              "logo": "assets/images/logos/dragonball/vegeta_logo.png",
+              "alias": [
+                "Prince of All Saiyans",
+                "The Saiyan Prince",
+                "Goku's Rival",
+                "The Elite Warrior"
+              ],
+              "title": [
+                "Royal Heir of Planet Vegeta",
+                "Prince of the Fallen Saiyan Race",
+                "Super Saiyan God SS Evolved Master",
+                "The One Who Never Stops Chasing"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Sharp, proud onyx eyes that narrow with intensity and determination. They reflect his royal heritage and burning desire to surpass Goku. In Super Saiyan forms, they become fierce with a blue-green tint. His glare can intimidate even the strongest foes.",
+                  "nose": "Straight, well-defined nose with a slight aristocratic curve, befitting his royal status.",
+                  "ears": "Normal Saiyan ears, slightly pointed. Highly sensitive to ki signatures and threats.",
+                  "extra_facial_features": "Jet-black hair with a distinctive widow's peak and M-shaped hairline, spiking upward in sharp points. His hair becomes golden in Super Saiyan form and remains in a similar but more pronounced style. He has a strong, chiseled jawline and a perpetual scowl or smirk. In Super Saiyan Blue Evolved, his hair becomes a deeper blue with more defined spikes, and he gains a royal blue aura. He has a small scar above his left eyebrow from early battles."
+                },
+                "body": {
+                  "chest": "Compact but densely muscular (43 inches) with a warrior's build optimized for power and explosive speed. His chest is broad with sharply defined pectorals, showing years of intense gravity training. His physique is slightly more compact than Goku's but equally powerful.",
+                  "arms": "Powerful, well-defined arms (16 inches) with pronounced biceps and forearms. His hands are strong and capable, often crossed in his signature pose. The muscle definition in his arms is extremely sharp from countless hours of training."
+                },
+                "lower_body": {
+                  "legs": "Stocky, powerful legs (23 inches) with massive thighs that generate incredible explosive power. His calves are thick and defined, allowing him to move at incredible speeds despite his compact build."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Initially wears the standard Saiyan scouter on his left ear. Later, he rarely wears headgear, letting his prideful hair show. During the Namek saga, he wears a damaged Saiyan armor helmet briefly."
+                },
+                {
+                  "torso": "His iconic Saiyan battle armor: a blue or pink (initially) bodysuit with white shoulder pauldrons and a white chest plate with the Saiyan royal crest. After moving to Earth, he adopts the Capsule Corp logo on his armor. In the Buu saga, he wears a black tank top with the Capsule Corp logo and white gloves. Later, he wears a dark blue training gi with the Saiyan royal armor chest plate."
+                },
+                {
+                  "arms": "Initially wears blue or white gauntlets covering his forearms. Later, he wears white gloves or fingerless training gloves. In his standard Earth attire, his arms are bare or covered by a tight shirt."
+                },
+                {
+                  "legs": "White or blue Saiyan armor leggings with knee guards and white boots with blue accents. Later, he wears dark blue training pants tucked into white boots. A white or blue sash is sometimes tied around his waist."
+                },
+                {
+                  "accessories": "The Saiyan scouter in early appearances (later destroyed). He wears the Capsule Corp logo on much of his Earth attire. During the Majin Buu saga, he bears the 'M' (Majin) symbol on his forehead while under Babidi's control, though this is temporary."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Galick Gun",
+                  "type": "active",
+                  "short_description": "A powerful purple energy attack fired from both hands, Vegeta's signature technique and answer to the Kamehameha.",
+                  "full_description": "Vegeta's signature energy attack, first used against Goku during their initial battle on Earth. By bringing his hands together and channeling massive amounts of ki, he fires a concentrated purple energy beam capable of destroying planets. The technique requires immense focus and power, and Vegeta has developed it through his various transformations, creating variants like the Super Galick Gun and using it as a primary offensive technique against powerful foes.",
+                  "image": "vegeta_galickgun.png"
+                },
+                {
+                  "name": "Final Flash",
+                  "type": "active",
+                  "short_description": "A devastating, high-concentration energy attack that requires several seconds to charge but delivers enormous destructive power.",
+                  "full_description": "One of Vegeta's most powerful techniques, first used against Semi-Perfect Cell. By extending his arms and gathering an immense amount of ki, he creates a massive golden energy sphere that he then fires as a wide, devastating beam. The attack requires significant charge time and leaves Vegeta vulnerable, but its power is immense—it was powerful enough to seriously injure Cell, who was far stronger than Vegeta at the time. He has used it throughout the series, including against Majin Buu and later foes.",
+                  "image": "vegeta_finalflash.png"
+                },
+                {
+                  "name": "Super Saiyan Blue Evolution",
+                  "type": "active",
+                  "short_description": "An advanced form of Super Saiyan Blue that pushes the transformation beyond its normal limits, granting immense power at the cost of stamina.",
+                  "full_description": "Vegeta's unique evolution of Super Saiyan Blue, achieved by pushing his ki to its absolute limits and breaking through the form's normal constraints. In this form, his hair becomes a deeper, more vibrant blue, his aura is charged with royal blue electrical sparks, and his pupils disappear, leaving only white sclera with a blue iris. The form grants him power rivaling Goku's Ultra Instinct Omen, though without the autonomous movement. It represents Vegeta's pride and determination to forge his own path rather than simply copying Goku's techniques.",
+                  "image": "vegeta_blueevo.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/vegeta/image_0001.png",
+                "assets/images/characters/dragonball/vegeta/image_0002.png",
+                "assets/images/characters/dragonball/vegeta/image_0003.png",
+                "assets/images/characters/dragonball/vegeta/image_0004.png",
+                "assets/images/characters/dragonball/vegeta/image_0005.png"
+              ]
+            },
+            {
+              "id": "anime-db-003",
+              "name": "Son Gohan",
+              "rating": 9.5,
+              "logo": "assets/images/logos/dragonball/gohan_logo.png",
+              "alias": [
+                "The Scholar Warrior",
+                "The Hidden Power",
+                "The One Who Defeated Cell",
+                "Great Saiyaman"
+              ],
+              "title": [
+                "First Half-Saiyan Hybrid",
+                "Cell Games Champion",
+                "Mystic Warrior",
+                "Professor of Anthropology"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, gentle black eyes inherited from his father, but with a softer, more intelligent quality. In battle, they sharpen with focus and hidden power. During Super Saiyan 2, they become fierce with a blue-green tint and electrical sparks. After achieving Mystic form, his eyes gain a calm, serene intensity.",
+                  "nose": "Small and rounded like his father's, with a few faint freckles across the bridge in his youth.",
+                  "ears": "Normal Saiyan ears, slightly pointed. Sensitive to energy signatures.",
+                  "extra_facial_features": "Black hair that changes dramatically with age: as a child, it's a soft, bowl-cut style; as a pre-teen, it becomes spikier like Goku's; as a teenager, it's longer and more styled; as an adult, it's neat and academic. In Super Saiyan forms, his hair turns golden and stands up dramatically, with longer bangs in Super Saiyan 2. He has a gentle, kind face inherited from his mother Chi-Chi, but with his father's features. He wears glasses as an adult due to studying. A small scar on his forehead from training with Piccolo."
+                },
+                "body": {
+                  "chest": "Slim and athletic in youth, but develops a powerful, muscular build (43 inches) as a teenager and adult, though he tends to let himself go when not training. His chest shows defined musculature when in fighting shape, but softens during peaceful periods.",
+                  "arms": "Well-defined arms (15 inches) when trained, with visible muscle tone. His hands are dexterous from writing and studying, yet strong enough for combat."
+                },
+                "lower_body": {
+                  "legs": "Long, powerful legs (23 inches) capable of incredible explosive speed when necessary. His thighs and calves are well-developed when in fighting condition."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "As a child, he wears Piccolo's weighted turban and cape during training. As the Great Saiyaman, he wears an elaborate superhero helmet with a gold visor and a red feather. As an adult, he wears his academic glasses."
+                },
+                {
+                  "torso": "As a child, he wears Piccolo's purple and white outfit with the Demon symbol. During the Cell Games, he wears his father's orange gi with blue undershirt and the 'Go' symbol, but with Piccolo's cape. As Great Saiyaman, he wears a colorful superhero costume with a black bodysuit, gold and pink armor pieces, and a red cape. As an adult, he wears a green gi with orange undershirt and black boots, or academic attire."
+                },
+                {
+                  "arms": "As a child, he wears Piccolo's heavy weighted training gear. During the Cell Games, he wears blue wristbands. As Great Saiyaman, he wears gold gauntlets."
+                },
+                {
+                  "legs": "Matching pants to his gi, with boots. Piccolo's weighted boots as a child. Great Saiyaman wears gold boots with his costume."
+                },
+                {
+                  "accessories": "As Great Saiyaman, he carries a portable tape player for his transformation music and poses. He also wears the Potara earring from the Supreme Kai during the Buu saga, which unlocks his Mystic potential. He carries books and academic materials as an adult."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Hidden Power Unleashed",
+                  "type": "passive",
+                  "short_description": "Gohan possesses immense latent potential that surfaces during emotional moments, far exceeding his normal limits.",
+                  "full_description": "From childhood, Gohan has shown incredible bursts of power when emotionally triggered. His rage against Raditz freed him from a space pod and injured the much stronger Saiyan. Against Nappa, his anger overwhelmed the elite warrior. This power culminated in his Super Saiyan 2 transformation against Cell, where his rage at Android 16's death pushed him beyond normal limits to achieve a form even Goku hadn't mastered, allowing him to defeat the perfect villain.",
+                  "image": "gohan_rage.png"
+                },
+                {
+                  "name": "Mystic Form",
+                  "type": "active",
+                  "short_description": "A state where all of Gohan's latent power is unlocked by the Elder Kai, allowing him to access his full potential without transforming.",
+                  "full_description": "During the Buu saga, the Elder Kai performed a ritual that unlocked all of Gohan's hidden potential, granting him access to his full power without the need for Super Saiyan transformations. In this state, Gohan's appearance remains normal (black hair) but his power rivals and even surpasses Super Saiyan 3. His eyes gain a calm intensity, and his aura is white and serene. This form allows him to fight at maximum power without the stamina drain of transformations, making him incredibly efficient in battle.",
+                  "image": "gohan_mystic.png"
+                },
+                {
+                  "name": "Masenko",
+                  "type": "active",
+                  "short_description": "An energy attack taught by Piccolo, fired by bringing both hands above the head and channeling ki into a descending beam.",
+                  "full_description": "Piccolo's signature technique passed to Gohan, the Masenko is a powerful energy wave fired from above the head, typically aimed downward at enemies. Gohan first used it against Nappa, and it became one of his go-to attacks throughout his childhood. The technique channels ki through both hands held together above the head, then releases it as a concentrated yellow or orange beam. It's particularly effective against grounded opponents and can be charged for additional power.",
+                  "image": "gohan_masenko.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/gohan/image_0001.png",
+                "assets/images/characters/dragonball/gohan/image_0002.png",
+                "assets/images/characters/dragonball/gohan/image_0003.png",
+                "assets/images/characters/dragonball/gohan/image_0004.png"
+              ]
+            },
+            {
+              "id": "anime-db-004",
+              "name": "Piccolo",
+              "rating": 9.4,
+              "logo": "assets/images/logos/dragonball/piccolo_logo.png",
+              "alias": [
+                "The Demon King's Son",
+                "The Namekian Warrior",
+                "Gohan's Mentor",
+                "The Strategist"
+              ],
+              "title": [
+                "Reincarnation of King Piccolo",
+                "Nameless Namekian's Evil Half",
+                "Earth's Guardian (Kami) Reunited",
+                "The One Who Redeemed Himself"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Piercing red eyes with white pupils that narrow with intensity and wisdom. They reflect his Namekian heritage and the calm of a warrior strategist. In moments of emotion, they widen with concern or narrow with deadly intent.",
+                  "nose": "Namekians lack visible noses, breathing through pores in their skin. Instead, he has a smooth, green face with defined ridges where a nose would be.",
+                  "ears": "Large, pointed Namekian ears that extend from the sides of his head, capable of detecting the slightest sounds and ki fluctuations.",
+                  "extra_facial_features": "Green skin characteristic of Namekians, with darker green markings on his forehead and cheeks. He wears a white turban with a purple stripe that covers most of his head, revealing only his face and ears. After fusing with Kami, his facial features become slightly more refined, and he gains a calmer expression. He has pronounced brow ridges that give him an intense, focused look. His antennae (Namekian sensory organs) are visible as two small protrusions beneath his turban."
+                },
+                "body": {
+                  "chest": "Tall and powerfully built (45 inches) with a lean, muscular Namekian physique. His chest is broad with defined pectorals, but lacks the bulk of Saiyan warriors, emphasizing agility and reach instead. His skin is smooth green with darker green markings on his shoulders and torso.",
+                  "arms": "Exceptionally long, muscular arms (17 inches) that provide incredible reach in combat. His hands have four fingers (characteristic of Namekians) with strong, dexterous digits capable of powerful strikes and energy manipulation."
+                },
+                "lower_body": {
+                  "legs": "Long, powerful legs (25 inches) that give him incredible speed and jumping ability. His legs are lean but muscular, allowing him to move with Namekian grace and power."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "His iconic white turban with a purple stripe, worn at all times except when heavily damaged in battle. The turban conceals his Namekian head and provides some protection. After fusing with Kami, he sometimes removes it during training."
+                },
+                {
+                  "torso": "A purple and white Namekian outfit consisting of a purple chest piece over a white bodysuit. The chest piece has shoulder guards and the Namekian symbol on the front. A white cape with a high collar is worn over his shoulders, flowing behind him dramatically. After the Cell Games, his outfit becomes more streamlined with darker purple."
+                },
+                {
+                  "arms": "Long white sleeves from his bodysuit cover his arms, with purple wrist guards or bands. His hands are usually bare, showing his four-fingered hands."
+                },
+                {
+                  "legs": "Matching white pants with purple knee guards and white boots with purple accents. The pants are loose enough for full mobility."
+                },
+                {
+                  "accessories": "He carries heavy weighted training clothes when training Gohan. As the Earth's Guardian (after fusing with Kami), he is connected to the Lookout and the Dragon Balls. He sometimes carries Senzu Beans in a pouch."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Special Beam Cannon",
+                  "type": "active",
+                  "short_description": "A piercing energy attack where Piccolo charges ki in two fingers, then fires a spiraling, drill-like beam that can penetrate almost anything.",
+                  "full_description": "Piccolo's signature technique, developed specifically to kill Goku. By placing two fingers to his forehead and gathering ki, he charges a powerful energy sphere, then fires it as a thin, spiraling beam that rotates like a drill, allowing it to pierce through even the toughest defenses. The technique requires several seconds to charge, leaving Piccolo vulnerable, but its penetrating power is immense—it was the only technique capable of piercing Raditz's defenses, though it required Goku's sacrifice to land the hit. Piccolo has since developed faster variants and can fire it with one hand.",
+                  "image": "piccolo_sbc.png"
+                },
+                {
+                  "name": "Namekian Regeneration",
+                  "type": "passive",
+                  "short_description": "The ability to regenerate lost limbs and heal from severe wounds by concentrating ki.",
+                  "full_description": "As a Namekian, Piccolo possesses remarkable regenerative abilities. He can regrow lost limbs, heal severe wounds, and recover from injuries that would kill a human or Saiyan. This regeneration requires concentration and ki, and regenerating major body parts drains significant energy. He demonstrated this against Cell when he regrew an arm, and against numerous foes throughout the series. The ability is common among Namekians but Piccolo's skill makes him particularly adept at it.",
+                  "image": "piccolo_regeneration.png"
+                },
+                {
+                  "name": "Hellzone Grenade",
+                  "type": "active",
+                  "short_description": "A technique where Piccolo creates multiple energy orbs that surround the enemy, then closes them in for a devastating combined explosion.",
+                  "full_description": "A powerful technique Piccolo used against Android 17. By creating numerous small energy spheres and scattering them around the battlefield, he surrounds his opponent completely. He then manipulates the orbs to close in simultaneously, creating a massive, multi-directional explosion that leaves the enemy with nowhere to dodge. The technique requires precise ki control and strategic positioning, showcasing Piccolo's tactical genius.",
+                  "image": "piccolo_hellzone.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/piccolo/image_0001.png",
+                "assets/images/characters/dragonball/piccolo/image_0002.png",
+                "assets/images/characters/dragonball/piccolo/image_0003.png",
+                "assets/images/characters/dragonball/piccolo/image_0004.png"
+              ]
+            },
+            {
+              "id": "anime-db-005",
+              "name": "Krillin",
+              "rating": 8.8,
+              "logo": "assets/images/logos/dragonball/krillin_logo.png",
+              "alias": [
+                "The Strongest Earthling",
+                "Goku's Best Friend",
+                "The Bald Warrior",
+                "The Brave Monk"
+              ],
+              "title": [
+                "Master Roshi's Disciple",
+                "Z Fighter Veteran",
+                "Android 18's Husband",
+                "Father of Marron"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, expressive brown eyes that show his emotional nature—fear, courage, love, and determination. They widen in terror against powerful foes but narrow with resolve when protecting loved ones.",
+                  "nose": "Notably absent—Krillin lacks a nose (a distinctive feature), breathing through his mouth and sensing the world through other means.",
+                  "ears": "Normal human ears, though he's self-conscious about his lack of nose, not his ears.",
+                  "extra_facial_features": "Completely bald head, a result of his training at Orin Temple and later Master Roshi's training. He has six small dots (bindis) tattooed on his forehead, representing his monk training. He has a friendly, approachable face with a slight smile usually present. As he ages, he develops a small goatee and slightly receding hairline (still bald on top). In the Android saga, he grows out his hair briefly but returns to his bald look."
+                },
+                "body": {
+                  "chest": "Short but athletic (38 inches) with a compact, muscular build. Despite his height, he's incredibly strong for an Earthling, with defined pectorals and abs from years of training.",
+                  "arms": "Well-defined arms (14 inches) with visible muscle tone. His forearms are strong from martial arts training and his hands are capable of delivering powerful energy attacks."
+                },
+                "lower_body": {
+                  "legs": "Short but powerful legs (21 inches) built for agility and quick movements. He can jump high and move fast despite his stature."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Bald head with six dots—no headgear typically. During the Namek saga, he wears a Namekian-style hat briefly. Sometimes wears a sweatband during training."
+                },
+                {
+                  "torso": "Traditional orange turtle hermit gi with blue undershirt and the 'Go' (亀) symbol on front and back. During the Namek saga, he wears a dark blue Namekian-style outfit with white shoulder pads. As a police officer in Dragon Ball Super, he wears a standard police uniform with a cap."
+                },
+                {
+                  "arms": "Blue wristbands or forearm guards. His arms are usually bare."
+                },
+                {
+                  "legs": "Matching orange pants with blue shin guards and traditional martial arts boots. A yellow sash around his waist."
+                },
+                {
+                  "accessories": "He carries Senzu Beans in a pouch during major battles. As a police officer, he carries standard police equipment. He also carries a small photo of Android 18 and his daughter Marron."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Destructo Disc",
+                  "type": "active",
+                  "short_description": "A razor-sharp energy disc that can cut through almost any material, fired from an extended hand.",
+                  "full_description": "Krillin's signature technique and one of the most feared in the Dragon Ball universe. By focusing ki into a flat, circular disc, he creates a blade of pure energy that spins rapidly and can slice through virtually anything—including much stronger opponents. The disc ignores conventional durability, cutting through armor, flesh, and even energy barriers. Krillin used it to nearly kill Nappa (who only survived because Vegeta warned him), and it was one of the few techniques that could have harmed Frieza. The disc requires concentration to control and can be thrown in a straight line or guided remotely.",
+                  "image": "krillin_destructodisc.png"
+                },
+                {
+                  "name": "Solar Flare",
+                  "type": "active",
+                  "short_description": "A technique that emits an intense flash of light, temporarily blinding all who see it, regardless of power level.",
+                  "full_description": "Krillin learned this technique from Tien Shinhan, and it became one of his most useful support abilities. By placing his hands near his face and emitting a massive burst of light, he temporarily blinds everyone looking at him, including opponents far stronger than himself. The technique doesn't cause damage but creates crucial openings for escape or attack. Krillin has used it against Nappa, Frieza, Cell, and numerous other enemies, often saving his teammates' lives. The Solar Flare works on any opponent with working eyes, regardless of their power level.",
+                  "image": "krillin_solarflare.png"
+                },
+                {
+                  "name": "Potential Unlock",
+                  "type": "passive",
+                  "short_description": "Krillin's latent potential was unlocked by Guru on Namek, significantly increasing his power and abilities.",
+                  "full_description": "During the Namek saga, Guru (the Grand Elder of Namek) performed a ritual that unlocked Krillin's hidden potential. This significantly increased his power level, making him the strongest Earthling at the time and allowing him to keep up with the Frieza Force soldiers. The potential unlock didn't grant new techniques but amplified his existing abilities and ki reserves, allowing him to fight effectively against much stronger opponents.",
+                  "image": "krillin_potential.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/krillin/image_0001.png",
+                "assets/images/characters/dragonball/krillin/image_0002.png",
+                "assets/images/characters/dragonball/krillin/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-db-006",
+              "name": "Bulma Briefs",
+              "rating": 9.2,
+              "logo": "assets/images/logos/dragonball/bulma_logo.png",
+              "alias": [
+                "The Genius Inventor",
+                "The Dragon Ball Finder",
+                "Vegeta's Wife",
+                "The Blue-Haired Scientist"
+              ],
+              "title": [
+                "Founder of Capsule Corporation",
+                "Creator of the Dragon Radar",
+                "Mother of Trunks and Bra",
+                "The One Who Started It All"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, intelligent turquoise-blue eyes that sparkle with curiosity and mischief. They reflect her genius intellect and adventurous spirit, often widening in excitement or narrowing in concentration while inventing.",
+                  "nose": "Small and delicate with a slight upturn, giving her a youthful appearance even as she ages.",
+                  "ears": "Small, often adorned with various earrings—pearls, studs, or fashionable drops. She has pierced ears and frequently changes her jewelry to match her outfits.",
+                  "extra_facial_features": "Signature turquoise-blue hair that changes style dramatically over the years: initially long and straight with bangs, then various styles including ponytails, shorter cuts, and eventually kept stylishly modern. She has a beautiful, expressive face with full lips that frequently curl into a confident smile or pout when annoyed. She wears makeup including lipstick and eyeshadow, always fashionable. As she ages, she maintains her beauty with minimal visible aging due to her wealth and access to advanced technology."
+                },
+                "body": {
+                  "chest": "Slim and athletic (36 inches) with a feminine figure that she maintains throughout the series. Not muscular, but healthy from her various adventures (though she dislikes fighting).",
+                  "arms": "Slender arms (12 inches) with delicate hands perfect for precise scientific work. She's not a fighter, so her arms show no muscle definition."
+                },
+                "lower_body": {
+                  "legs": "Long, shapely legs (22 inches) that she often shows off in fashionable outfits. She's not athletic but can run when necessary and has good endurance from traveling."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Frequently changes hairstyles and accessories—headbands, bows, hair clips, and fashionable hats depending on the era and occasion. No combat headgear."
+                },
+                {
+                  "torso": "Extremely varied wardrobe reflecting her wealth and fashion sense. Initially: a pink short-sleeved shirt with white shorts and a red bow. Later: everything from casual Capsule Corp t-shirts, to elegant dresses, to revealing outfits, to practical adventure wear. In Dragon Ball Super, she often wears stylish dresses or casual wear with the Capsule Corp logo."
+                },
+                {
+                  "arms": "Varies with outfit—often bare, sometimes with gloves or stylish sleeves."
+                },
+                {
+                  "legs": "Initially shorts, later everything from pants to skirts to shorts depending on fashion. Often wears boots or fashionable shoes."
+                },
+                {
+                  "accessories": "Her Dragon Radar—the device she invented to track Dragon Balls—is her most important accessory. She carries a capsule case with countless items. She wears a variety of jewelry including earrings, necklaces, and bracelets. Later, she wears a wedding ring from Vegeta. She always has her capsule case and communication device."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Genius Inventor",
+                  "type": "passive",
+                  "short_description": "Bulma possesses genius-level intellect and engineering skills, creating technology far beyond Earth's normal capabilities.",
+                  "full_description": "Bulma is one of the greatest scientific minds in the universe. As a teenager, she invented the Dragon Radar, a device capable of detecting the energy signals of Dragon Balls anywhere on Earth. She later created shrink technology, a microband that could make her small enough to enter people's bodies. Her greatest achievement is the time machine, which allowed Future Trunks to travel back in time and save the world from the Androids. She also built the spaceship that took Goku to Namek, gravity training rooms that allow Saiyans to train under 300+ times Earth's gravity, and countless other inventions that have saved Earth multiple times.",
+                  "image": "bulma_inventor.png"
+                },
+                {
+                  "name": "Resourcefulness",
+                  "type": "passive",
+                  "short_description": "Bulma's quick thinking and problem-solving abilities often save the day even when she can't fight.",
+                  "full_description": "Throughout the series, Bulma's intelligence proves as valuable as any fighter's power. She talks her way out of dangerous situations, creates plans that utilize technology rather than brute force, and always has a capsule containing exactly what's needed. On Namek, despite being surrounded by enemies, she managed to collect Dragon Balls, communicate with the Namekians, and coordinate with the fighters through clever use of her technology.",
+                  "image": "bulma_resourceful.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/bulma/image_0001.png",
+                "assets/images/characters/dragonball/bulma/image_0002.png",
+                "assets/images/characters/dragonball/bulma/image_0003.png",
+                "assets/images/characters/dragonball/bulma/image_0004.png"
+              ]
+            },
+            {
+              "id": "anime-db-007",
+              "name": "Trunks",
+              "rating": 9.3,
+              "logo": "assets/images/logos/dragonball/trunks_logo.png",
+              "alias": [
+                "The Future Savior",
+                "Vegeta's Son",
+                "The Time Traveler",
+                "The Sword-Wielding Saiyan"
+              ],
+              "title": [
+                "Prince of All Saiyans (Future)",
+                "Time Traveler from Apocalyptic Future",
+                "Super Saiyan Rage Master",
+                "The One Who Warned of the Androids"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Sharp, determined lavender-blue eyes inherited from his mother Bulma, combined with Vegeta's intense gaze. In the future timeline, they hold deep sorrow and unwavering resolve. In the main timeline, they're brighter and more carefree but still show Saiyan pride.",
+                  "nose": "Straight, well-defined nose similar to Vegeta's, with a slight aristocratic quality.",
+                  "ears": "Normal Saiyan ears, slightly pointed. Sensitive to ki signatures.",
+                  "extra_facial_features": "Lavender-blue hair (matching his eyes) that's long and flowing in the future timeline, styled back with bangs. In the main timeline as a child, it's spiky like young Vegeta's; as a teenager, it becomes longer and more styled. He has a handsome, youthful face with strong features from both parents. In Super Saiyan form, his hair turns golden and stands up dramatically. In Super Saiyan Rage (anime-only), his hair becomes blue with a fiery aura. He has no visible scars in the main timeline, but Future Trunks bears the emotional scars of watching everyone die."
+                },
+                "body": {
+                  "chest": "Athletic and well-built (41 inches) for his age, with a lean but muscular Saiyan physique. His chest shows defined musculature from training, especially in the future timeline where constant combat kept him in peak condition.",
+                  "arms": "Well-defined arms (15 inches) with visible muscle tone. In the future timeline, his arms show scars from countless battles. He's particularly skilled with his sword, so his right arm is slightly more developed."
+                },
+                "lower_body": {
+                  "legs": "Powerful legs (23 inches) built for Saiyan combat and speed. His thighs are well-developed from years of fighting and training in gravity chambers."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Future Trunks initially wears no headgear, his long lavender hair flowing freely. Later, he wears a Capsule Corp headband or bandana. Child Trunks sometimes wears a cap."
+                },
+                {
+                  "torso": "Future Trunks: a dark blue sleeveless jacket over a turtle neck shirt, with the Capsule Corp logo on the back. Underneath, he wears a dark blue or black bodysuit with Saiyan armor chest plate. Main timeline child: a light blue gi with dark blue undershirt and the Capsule Corp logo. Teen Trunks: various outfits including a black tank top with blue jeans, or Saiyan armor with Capsule Corp colors."
+                },
+                {
+                  "arms": "He wears dark blue or black gloves, often fingerless for better sword grip. His arms are usually covered by his jacket or sleeves."
+                },
+                {
+                  "legs": "Dark blue pants with white boots and knee guards. His outfit is practical for combat and time travel."
+                },
+                {
+                  "accessories": "His most iconic accessory: a large sword (a modified version of Tapion's sword from the movie) that he carries on his back, though he rarely needs it after achieving Super Saiyan. He carries Bulma's time machine remote and a capsule case. A small Capsule Corp logo is often visible on his clothing."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Super Saiyan Transformation",
+                  "type": "active",
+                  "short_description": "Trunks achieved Super Saiyan at a very young age (8 in the main timeline, younger in the future), showing exceptional talent.",
+                  "full_description": "Future Trunks achieved Super Saiyan after witnessing his mentor Gohan's death at the hands of the Androids, transforming through grief and rage. In the main timeline, child Trunks achieved it even younger through natural talent and training with Vegeta. Both demonstrate the form's standard abilities: 50x power boost, golden hair, green eyes. Future Trunks later achieves Super Saiyan 2 and, in Dragon Ball Super, a unique form called Super Saiyan Rage—a state combining Super Saiyan 2 with rage-induced power, granting him blue hair and power rivaling Super Saiyan Blue, though it's unstable and emotion-driven.",
+                  "image": "trunks_ssj.png"
+                },
+                {
+                  "name": "Burning Attack",
+                  "type": "active",
+                  "short_description": "A powerful energy attack where Trunks fires a blue energy sphere from both hands, often used as his signature finishing move.",
+                  "full_description": "Trunks' signature energy technique, first used against Frieza and King Cold. By gathering ki in both hands, he creates a large blue energy sphere that he then fires at opponents with a powerful thrust. The attack has multiple variants: he can fire it as a single massive blast, split it into multiple smaller blasts, or charge it for additional power. It's one of his most reliable techniques and has been used throughout his appearances, including against Cell and in Dragon Ball Super against Goku Black.",
+                  "image": "trunks_burningattack.png"
+                },
+                {
+                  "name": "Sword Skills",
+                  "type": "passive",
+                  "short_description": "Trunks is an expert swordsman, trained by his mother's stories and necessity in the future timeline.",
+                  "full_description": "Future Trunks developed exceptional sword skills as a way to compensate for power differences before achieving Super Saiyan. He wields a large sword (a replica of Tapion's blade) with precision and power, capable of slicing through enemies and even energy attacks. His most famous technique combines his sword with ki, creating a glowing energy blade that can cut through almost anything. He used this to effortlessly defeat Frieza and King Cold upon his first appearance, shocking even the legendary tyrant.",
+                  "image": "trunks_sword.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/trunks/image_0001.png",
+                "assets/images/characters/dragonball/trunks/image_0002.png",
+                "assets/images/characters/dragonball/trunks/image_0003.png",
+                "assets/images/characters/dragonball/trunks/image_0004.png"
+              ]
+            },
+            {
+              "id": "anime-db-008",
+              "name": "Frieza",
+              "rating": 9.7,
+              "logo": "assets/images/logos/dragonball/frieza_logo.png",
+              "alias": [
+                "Emperor of the Universe",
+                "The Tyrant",
+                "The One Who Destroyed Planet Vegeta",
+                "The Golden Emperor"
+              ],
+              "title": [
+                "Ruler of Universe 7's Underworld",
+                "Leader of the Frieza Force",
+                "Mutant Prodigy of the Frieza Race",
+                "The One Who Feared the Super Saiyan Legend"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Cold, cruel crimson eyes with slit pupils that radiate malice and absolute authority. They narrow with sadistic pleasure during torture and widen only in shock or fear—rare occurrences. In his final form, they become more intense with purple markings beneath.",
+                  "nose": "His face lacks a visible nose in most forms. In his first form, he has a smooth facial structure with a flat area where a nose would be. In later forms, his facial features become more defined but still lack a prominent nose.",
+                  "ears": "His ears vary by form: first form has large, curved horn-like structures on his head (not ears for hearing). His actual hearing organs are small and hidden. In final form, he has small, pointed ears on the sides of his head.",
+                  "extra_facial_features": "Frieza's appearance changes dramatically across his forms. First form: short, with two large curved horns on his head, a smooth white-purple face, and a tail. Second form: taller with a long, pointed horn on his forehead. Third form: elongated head with a mask-like face. Final form: sleek, white and purple, with a smooth head and purple highlights on his shoulders, chest, and forehead. Golden Frieza: golden with purple accents and a more regal appearance. Black Frieza: black and white with a menacing aura. He has a perpetual cruel smirk and eyes that show no mercy."
+                },
+                "body": {
+                  "chest": "First form: short and compact (variable). Final form: sleek, medium-height (about 5'4\" in his smallest form) but with a powerful, compact build. His chest is white with purple plating, smooth and elegant but concealing immense power. His body is deceptively frail-looking but contains universe-level destructive capability.",
+                  "arms": "Slender but incredibly powerful arms, with hands that can fire death beams from fingertips. His fingers are long and elegant but capable of crushing planets with energy attacks."
+                },
+                "lower_body": {
+                  "legs": "In final form, he has digitigrade legs (like a bird or dinosaur) with powerful thighs and lower legs ending in hoof-like feet. His legs are white with purple highlights and capable of incredible speed."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "First form: a horned, helmet-like headpiece that's actually part of his body. Later forms have natural armor-like skin. Golden Frieza has a more golden sheen to his entire body."
+                },
+                {
+                  "torso": "Frieza's body has natural armor plating—purple or golden sections that function as protection. He wears no additional clothing except for his hoverchair in first form and occasional capes or decorative pieces. In first form, he wears a shoulder cape and armor-like bodysuit that's actually his skin."
+                },
+                {
+                  "arms": "Natural armor covers his arms, with purple plating on shoulders and forearms. His hands are bare."
+                },
+                {
+                  "legs": "Natural armor continues down his legs, with purple highlights on thighs and shins. His feet are hoof-like and natural."
+                },
+                {
+                  "accessories": "His hoverchair in first form (he rarely walked). He wears a scouter in early appearances. He also has a command staff or scepter symbolizing his authority. In some appearances, he wears a cape."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Multiple Transformations",
+                  "type": "active",
+                  "short_description": "Frieza can transform through four distinct forms, each suppressing his true power, with his final form being his natural state.",
+                  "full_description": "Unlike Saiyans who transform to increase power, Frieza's transformations are designed to suppress his enormous power. His first form is his preferred state—small and cute—but only uses about 1% of his power. Each subsequent form releases more suppression: second form is larger and more monstrous; third form is grotesque and alien; final form is his true state—sleek, elegant, and terrifyingly powerful. In his final form, he can further power up, reaching 50%, 70%, and 100% of his full power, though 100% strains his body. He later achieves Golden Frieza (a new transformation with godly ki) and Black Frieza (an even more powerful form achieved after training in a time chamber).",
+                  "image": "frieza_forms.png"
+                },
+                {
+                  "name": "Death Beam",
+                  "type": "active",
+                  "short_description": "Finger-fired energy beams that can pierce through almost anything with incredible speed and precision.",
+                  "full_description": "Frieza's signature attack, fired from his index finger with a simple gesture. These thin, pink energy beams travel at incredible speeds and can pierce through most defenses, killing opponents instantly. He can fire them rapidly, charge them for more power, or use them for precise assassination. The beams are so fast that even much stronger opponents struggle to dodge them. He used this technique to kill Krillin, which triggered Goku's first Super Saiyan transformation.",
+                  "image": "frieza_deathbeam.png"
+                },
+                {
+                  "name": "Supernova",
+                  "type": "active",
+                  "short_description": "A massive energy sphere capable of destroying entire planets, created by gathering enormous amounts of ki.",
+                  "full_description": "Frieza's ultimate attack—a technique he used to destroy Planet Vegeta and nearly destroyed Namek. By gathering a massive amount of ki, he creates a gigantic energy sphere that he hurls at a planet, causing total destruction upon impact. The technique requires significant charge time but is virtually unstoppable once launched. He has used various versions, including multiple simultaneous Supernovas and, in Golden form, a massive golden sphere that can destroy planets with ease.",
+                  "image": "frieza_supernova.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/frieza/image_0001.png",
+                "assets/images/characters/dragonball/frieza/image_0002.png",
+                "assets/images/characters/dragonball/frieza/image_0003.png",
+                "assets/images/characters/dragonball/frieza/image_0004.png",
+                "assets/images/characters/dragonball/frieza/image_0005.png"
+              ]
+            },
+            {
+              "id": "anime-db-009",
+              "name": "Cell",
+              "rating": 9.4,
+              "logo": "assets/images/logos/dragonball/cell_logo.png",
+              "alias": [
+                "The Perfect Bio-Android",
+                "Dr. Gero's Masterpiece",
+                "The Absorber",
+                "The Perfect Being"
+              ],
+              "title": [
+                "Ultimate Android Creation",
+                "Cell Games Host",
+                "The One Who Absorbed 17 and 18",
+                "The Self-Proclaimed Perfect Warrior"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Compound, insect-like eyes that change with his forms. In Imperfect form: large, black compound eyes with multiple facets. In Semi-Perfect form: more human-like but still with compound structure and red pupils. In Perfect form: completely human-like blue eyes with flecks of red, showing his perfected state. His eyes reflect cold intelligence and sadistic pleasure in battle.",
+                  "nose": "Imperfect form has no visible nose, just a smooth face with mandible-like structures. Semi-Perfect gains a more humanoid nose structure. Perfect form has a refined, human-like nose.",
+                  "ears": "Insect-like antennae on the sides of his head in all forms, serving as sensory organs. In Perfect form, they're smaller and more refined.",
+                  "extra_facial_features": "Cell's appearance evolves dramatically. Imperfect form: insect-like with a tail, green skin with black spots, and a gaping mouth. Semi-Perfect form: more humanoid, larger build, still with tail and wings beginning to form. Perfect form: humanoid perfection—green skin with purple spots, refined features, full wings, and a confident expression. Super Perfect form: Perfect form with golden electrical aura and enhanced power after self-destruction and regeneration. He has a perpetual smirk of superiority."
+                },
+                "body": {
+                  "chest": "Imperfect: insectoid torso with exoskeleton plating. Semi-Perfect: muscular humanoid chest with green and black plating. Perfect: perfectly proportioned muscular build (45 inches) with green skin, purple spots on shoulders and chest, and defined musculature that's both aesthetic and functional.",
+                  "arms": "Imperfect: insect-like limbs with claws. Semi-Perfect: muscular arms with some plating. Perfect: perfectly proportioned arms with green skin, purple spots, and human-like hands capable of devastating attacks."
+                },
+                "lower_body": {
+                  "legs": "Imperfect: insectoid legs with claws. Semi-Perfect: powerful humanoid legs. Perfect: perfectly proportioned legs with green skin, purple spots, and feet designed for combat."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No clothing—Cell's body provides its own natural armor through exoskeleton plating. In Perfect form, he has a more refined head with no additional headgear."
+                },
+                {
+                  "torso": "Cell wears no clothing, his natural exoskeleton serving as protection. The green and purple/pink coloring is his natural skin. In Perfect form, he has purple spots on his chest and shoulders arranged in a pattern reminiscent of armor."
+                },
+                {
+                  "arms": "Bare, showing his green skin with purple spots. His hands are human-like but slightly elongated."
+                },
+                {
+                  "legs": "Bare, with digitigrade-like legs ending in feet with two large toes."
+                },
+                {
+                  "accessories": "His tail is a significant feature—it has a stinger-like end that he uses to absorb Android 17 and 18. In Perfect form, the tail is retracted and hidden. He also has large insect-like wings on his back in Perfect form, allowing flight without ki use."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Perfect Form",
+                  "type": "active",
+                  "short_description": "Cell's ultimate form achieved by absorbing Androids 17 and 18, granting him balanced power, speed, and intelligence.",
+                  "full_description": "Cell's final evolution, achieved after absorbing both Android 17 and 18. In this form, he attains what he considers perfection: a balanced, humanoid appearance with all the power of his previous forms but none of the drawbacks. He gains immense power—enough to easily defeat Super Saiyan Vegeta and Trunks, and push Super Saiyan 2 Gohan to his limits. He also gains full access to the techniques of the warriors whose cells he contains: Goku, Vegeta, Piccolo, Frieza, and Tien. Super Perfect Cell, achieved after self-destruction and regeneration with Goku's cells, gains even more power and the ability to use Instant Transmission.",
+                  "image": "cell_perfect.png"
+                },
+                {
+                  "name": "Regeneration",
+                  "type": "passive",
+                  "short_description": "Cell possesses Piccolo's Namekian regeneration ability, allowing him to regenerate from almost any wound as long as his core remains intact.",
+                  "full_description": "From Piccolo's cells, Cell gained incredible regenerative abilities. He can regenerate lost limbs, heal severe wounds, and even regrow his entire body from a small piece of his head (his core). This makes him nearly impossible to kill through conventional means—Gohan's Super Kamehameha destroyed his entire body, but he survived and regenerated from a single cell, returning as Super Perfect Cell. The only way to permanently destroy him is to completely annihilate every cell of his body, as Gohan eventually did with Goku's help.",
+                  "image": "cell_regeneration.png"
+                },
+                {
+                  "name": "Solar Kamehameha",
+                  "type": "active",
+                  "short_description": "Cell's ultimate attack, combining Frieza's Death Beam properties with the Kamehameha's power in a massive golden energy wave.",
+                  "full_description": "Cell's most powerful technique, used in his final confrontation with Gohan. By drawing upon the techniques in his cellular memory—particularly Goku's Kamehameha and Frieza's death beams—he creates a massive golden energy wave that he fires with devastating effect. The technique requires significant charge time but delivers power far beyond a standard Kamehameha. He used this in his Super Perfect form against Gohan, and only Gohan's own Kamehameha, powered by Goku's spirit, was able to overcome it.",
+                  "image": "cell_solarkamehameha.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/cell/image_0001.png",
+                "assets/images/characters/dragonball/cell/image_0002.png",
+                "assets/images/characters/dragonball/cell/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-db-010",
+              "name": "Majin Buu",
+              "rating": 9.3,
+              "logo": "assets/images/logos/dragonball/buu_logo.png",
+              "alias": [
+                "The Majin",
+                "The Djinn",
+                "The Magical Being",
+                "Mr. Buu"
+              ],
+              "title": [
+                "Creation of Bibidi",
+                "Primordial Force of Destruction",
+                "The One Who Absorbed the Kais",
+                "Earth's Unlikely Friend"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Varies dramatically by form. Innocent Buu: large, round black eyes that are childlike and expressive—showing joy, confusion, anger, and innocence. Evil Buu: narrower, more malicious eyes. Super Buu: sharp, dangerous eyes with pupils. Kid Buu: small, wild, insane eyes with no pupils—pure chaos incarnate.",
+                  "nose": "Small, rounded nubs instead of a human nose. He has two small holes for breathing.",
+                  "ears": "Small, rounded ears on the sides of his head, often hidden by his pink skin and antenna.",
+                  "extra_facial_features": "Innocent Buu: round, pink body with a child-like face, a single antenna on his head, a cape and vest, and a perpetual smile. Evil Buu: similar but leaner with a meaner expression. Super Buu: taller, leaner, with a more defined face and a cruel smirk. Kid Buu: small, pure chaos—no clothing except shorts, wild eyes, and insane laughter. He has a hole in his chest and stomach in some forms, characteristic of Majin physiology. His skin is pink in most forms (except gray in some variations). He has a cape-like membrane on his back in Innocent form."
+                },
+                "body": {
+                  "chest": "Innocent Buu: round, fat body (variable) with a soft, pudgy appearance but containing immense power. Super Buu: lean, muscular build with defined chest. Kid Buu: small, wiry build with chaotic energy.",
+                  "arms": "Innocent Buu: short, pudgy arms. Super Buu: long, muscular arms. Kid Buu: thin, wiry arms. All capable of stretching and morphing due to his rubbery physiology."
+                },
+                "lower_body": {
+                  "legs": "Innocent Buu: short, stubby legs. Super Buu: long, powerful legs. Kid Buu: small, thin legs. All can stretch and reshape at will."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Innocent Buu wears no headgear, but has a single antenna. Super Buu has no antenna in some forms. Kid Buu has no antenna."
+                },
+                {
+                  "torso": "Innocent Buu: a black vest with orange lining, a white cape with black spots, and white gloves. Super Buu: no clothing except white pants and a belt. Kid Buu: only white pants and boots. After becoming good, Mr. Buu wears various Earth clothing including a bow tie and vest."
+                },
+                {
+                  "arms": "Innocent Buu wears white gloves. Other forms have bare pink arms."
+                },
+                {
+                  "legs": "Innocent Buu wears white pants and brown boots. Other forms wear variations of white pants and boots."
+                },
+                {
+                  "accessories": "Innocent Buu carries a magic staff (though rarely uses it). He also has a dog named Bee who becomes his best friend, and Mr. Satan becomes his companion. He also has a chocolate bar he's always eating."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Magic",
+                  "type": "active",
+                  "short_description": "Buu possesses numerous magical abilities including healing, candy transformation, and reality manipulation.",
+                  "full_description": "As a magical being created by Bibidi, Buu has access to numerous magical powers beyond standard ki techniques. His most famous is Chocolate Beam—a pink energy wave that transforms anyone it hits into chocolate or other food, which he then eats. He can also heal others instantly, create magic cocoons to regenerate or absorb others, use teleportation, and create magic barriers. His magic operates on different rules than ki, making him unpredictable and dangerous even to stronger opponents.",
+                  "image": "buu_magic.png"
+                },
+                {
+                  "name": "Absorption",
+                  "type": "active",
+                  "short_description": "Buu can absorb others by enveloping them with his body, gaining their powers, memories, and physical characteristics.",
+                  "full_description": "One of Buu's most dangerous abilities. By covering a victim with his malleable body, he can absorb them completely, incorporating them into his own form. The absorbed being's consciousness exists within Buu, and he gains their powers and physical traits. He absorbed the Grand Supreme Kai, which gave him his Innocent form and suppressed his destructive nature. He later absorbed Gotenks, Piccolo, and Gohan to become progressively more powerful. The only way to free absorbed victims is to cut open Buu's body in specific ways, releasing them as pink smoke.",
+                  "image": "buu_absorption.png"
+                },
+                {
+                  "name": "Regeneration",
+                  "type": "passive",
+                  "short_description": "Buu possesses near-perfect regeneration, able to reform from any injury, even being reduced to smoke or vapor.",
+                  "full_description": "Buu's regeneration is perhaps the most complete in Dragon Ball. He can regenerate from any wound instantly, regrowing limbs, organs, or his entire body. Even when Vegeta vaporized him completely, he regenerated from the smoke. The only way to permanently destroy Buu is to completely annihilate every molecule of his body—which eventually required Goku's Super Spirit Bomb, channeling the energy of all life on Earth. His regeneration is magical in nature, making it different from Namekian regeneration.",
+                  "image": "buu_regeneration.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/buu/image_0001.png",
+                "assets/images/characters/dragonball/buu/image_0002.png",
+                "assets/images/characters/dragonball/buu/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-db-011",
+              "name": "Master Roshi",
+              "rating": 8.5,
+              "logo": "assets/images/logos/dragonball/roshi_logo.png",
+              "alias": [
+                "The Turtle Hermit",
+                "Muten Roshi",
+                "The God of Martial Arts",
+                "The Perverted Master"
+              ],
+              "title": [
+                "Creator of the Kamehameha",
+                "Trainer of Goku and Krillin",
+                "Earth's Oldest Martial Arts Master",
+                "The One Who Lived for Thousands of Years"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Small, squinty black eyes that usually appear closed behind his sunglasses. When he opens them (rare), they show surprising wisdom and intensity. They pop wide open when he sees pretty women.",
+                  "nose": "Small and rounded, with a large white mustache covering his upper lip.",
+                  "ears": "Normal elderly ears, often hidden by his bald head and sunglasses.",
+                  "extra_facial_features": "Completely bald head with age spots. A long, flowing white beard that reaches his chest. He wears a large pair of sunglasses constantly, both day and night. His face is deeply wrinkled with age but shows vitality. He has a perpetual perverted grin when women are around, but a serious, wise expression during training."
+                },
+                "body": {
+                  "chest": "Extremely old and frail-looking (36 inches) when relaxed, with a thin, hunched frame. However, when he flexes his muscles for combat, his body transforms into a massively muscular, powerful form—showing his true martial arts mastery. His combat form has broad shoulders and defined muscles.",
+                  "arms": "Usually thin and spindly, but when flexing, they become powerful, muscular arms with bulging biceps capable of delivering devastating blows."
+                },
+                "lower_body": {
+                  "legs": "Thin and elderly in relaxed state. When fighting, they become powerful, muscular legs capable of incredible speed and jumping ability."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Bald head, usually with sunglasses. Sometimes wears a straw hat or turtle shell on his back for training."
+                },
+                {
+                  "torso": "A colorful Hawaiian-style shirt, usually open to show his bare chest. He wears this over his regular clothes. Underneath, he wears a simple gi. In combat, he often removes the shirt to reveal his muscular form. Sometimes wears a turtle shell on his back."
+                },
+                {
+                  "arms": "Usually bare, thin arms. In combat form, they become muscular."
+                },
+                {
+                  "legs": "Dark blue or black pants with traditional martial arts boots. A sash around his waist."
+                },
+                {
+                  "accessories": "His signature sunglasses. He carries a wooden staff (bō) for walking. He lives on Kame House and drives a small car. He has a collection of adult magazines that he's always reading. He also has a pet turtle (Umigame) who serves as his messenger."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Kamehameha",
+                  "type": "active",
+                  "short_description": "The legendary technique Roshi invented after 50 years of study, channeling ki into a powerful energy wave.",
+                  "full_description": "Master Roshi invented the Kamehameha after 50 years of intense study and training. The technique involves focusing one's ki, cupping hands, and releasing it as a concentrated energy wave. Roshi first used it to extinguish the fire on Fire Mountain. Despite his age, his Kamehameha is still powerful enough to destroy the moon (as he demonstrated against Goku's Great Ape form). He taught the technique to Goku and Krillin, and it became the foundation of modern ki attacks. Even in his old age, his Kamehameha can still affect powerful opponents.",
+                  "image": "roshi_kamehameha.png"
+                },
+                {
+                  "name": "Max Power Form",
+                  "type": "active",
+                  "short_description": "Roshi's true combat form, achieved by flexing all his muscles to reveal his hidden power, though it drains his stamina rapidly.",
+                  "full_description": "Despite his frail appearance, Master Roshi possesses immense hidden power that he reveals only when necessary. By focusing his ki and flexing his muscles, he transforms from a weak old man into a massively muscular warrior with incredible strength and speed. In this form, he can match opponents far above normal human levels. However, the form drains his stamina rapidly due to his age, and he can only maintain it for short periods. He demonstrated this against various enemies and, in Dragon Ball Super, against Jiren during the Tournament of Power, earning even the Pride Troopers' respect.",
+                  "image": "roshi_maxpower.png"
+                },
+                {
+                  "name": "Mafuba",
+                  "type": "active",
+                  "short_description": "A forbidden technique that seals opponents in a small container by trapping their soul, at great risk to the user.",
+                  "full_description": "The Evil Containment Wave, a forbidden technique Roshi learned but rarely uses due to its dangers. By preparing a special seal (usually paper on a container) and performing the technique, the user can trap an opponent's soul in a small container, effectively defeating them regardless of power level. However, the technique requires perfect execution—any mistake can trap the user instead, costing their life. Roshi used it against King Piccolo but failed due to a mistimed seal, costing him his life (he was later revived). He later taught it to future generations, and it was used against Piccolo, Vegeta (attempted), and Zamasu.",
+                  "image": "roshi_mafuba.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/roshi/image_0001.png",
+                "assets/images/characters/dragonball/roshi/image_0002.png",
+                "assets/images/characters/dragonball/roshi/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-db-012",
+              "name": "Tien Shinhan",
+              "rating": 8.6,
+              "logo": "assets/images/logos/dragonball/tien_logo.png",
+              "alias": [
+                "The Three-Eyed Warrior",
+                "The Crane Hermit's Disciple",
+                "Goku's Former Rival",
+                "The Determined Fighter"
+              ],
+              "title": [
+                "Descendant of the Three-Eyed Clan",
+                "Master of the Neo Tri-Beam",
+                "Earthling's Strongest Warrior",
+                "The One Who Never Gives Up"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Two normal black eyes on the sides, with a third eye in the center of his forehead—the mark of the Three-Eyed Clan. His eyes are intense and focused, showing his warrior's spirit and determination. They narrow with concentration during battle and show deep respect for worthy opponents.",
+                  "nose": "Straight, well-defined nose, fitting his strong facial features.",
+                  "ears": "Normal human ears, though slightly pointed like many martial artists in Dragon Ball.",
+                  "extra_facial_features": "A third eye in the center of his forehead, which can close like normal eyes. He has black hair, usually kept short and neat, though in early appearances it was longer. He has a strong, chiseled face with a perpetual serious expression. He rarely smiles, but when he does, it shows deep satisfaction. In Dragon Ball Super, he grows a beard and longer hair, giving him a more rugged, hermit-like appearance."
+                },
+                "body": {
+                  "chest": "Tall and powerfully built (42 inches) with a lean, muscular physique. His chest is broad with defined pectorals, showing years of intense martial arts training. He's taller than most Earthling fighters, giving him reach advantage.",
+                  "arms": "Long, muscular arms (16 inches) with well-defined biceps and forearms. His hands are large and powerful, capable of delivering devastating strikes and complex energy techniques."
+                },
+                "lower_body": {
+                  "legs": "Long, powerful legs (24 inches) that provide excellent stability and speed. He's known for his strong stances and ability to plant himself against powerful attacks."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Bald in his initial appearance (shaved as a Crane School disciple). Later, he grows hair and sometimes wears a headband or bandana during training. No helmet."
+                },
+                {
+                  "torso": "Traditional Chinese martial arts uniform: a blue or purple vest-like top over a bare chest, with the kanji for 'Crane' (鶴) on the back initially, later replaced with 'Tien' or no symbol. In Dragon Ball Super, he wears a simple orange gi with no symbols, looking more like a hermit. He sometimes wears a heavy training weights vest."
+                },
+                {
+                  "arms": "Usually bare, showing his muscular arms. Sometimes wears wristbands or forearm guards."
+                },
+                {
+                  "legs": "Matching blue or purple pants with white or black boots. Traditional martial arts boots with good grip. A sash around his waist."
+                },
+                {
+                  "accessories": "He carries few accessories—sometimes a water gourd or training weights. He and Chiaotzu are inseparable, and he often carries Chiaotzu when needed."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Tri-Beam",
+                  "type": "active",
+                  "short_description": "A powerful energy attack formed by making a triangle with both hands and firing a devastating beam that drains the user's life force.",
+                  "full_description": "Tien's signature technique and one of the most powerful Earthling attacks. By forming a triangle with his hands and focusing his ki, he fires a massive energy beam that can cut through almost anything. The technique's power is immense—he used it to hold back Second Form Cell, who was vastly stronger than him, and even managed to push Cell back temporarily. However, the Tri-Beam drains the user's life force with each use; Tien fired multiple shots against Cell despite knowing each one could kill him, showing his incredible willpower. In Dragon Ball Super, he develops a Neo Tri-Beam with even more power.",
+                  "image": "tien_tribeam.png"
+                },
+                {
+                  "name": "Solar Flare",
+                  "type": "active",
+                  "short_description": "A blinding flash of light that temporarily blinds all opponents, regardless of power level—a technique Tien invented.",
+                  "full_description": "Tien invented the Solar Flare technique, which he later taught to Krillin and others. By placing his hands near his face and emitting a massive burst of light, he temporarily blinds anyone looking at him. The technique doesn't depend on power level—it works on any opponent with working eyes, from Saibamen to Cell to Jiren. Tien has used it creatively, combining it with other attacks or using it to create openings for teammates. It's one of the most useful support techniques in the Dragon Ball universe.",
+                  "image": "tien_solarflare.png"
+                },
+                {
+                  "name": "Four Witches Technique",
+                  "type": "active",
+                  "short_description": "An ability allowing Tien to grow two extra arms from his back, quadrupling his striking power in close combat.",
+                  "full_description": "A unique technique of the Three-Eyed Clan, allowing Tien to manifest two additional arms from his back. These arms are fully functional and can strike independently, effectively giving him four arms in combat. He used this against Goku during the 22nd World Martial Arts Tournament, overwhelming him with a barrage of strikes. The technique requires concentration to maintain but dramatically increases his close-combat capabilities. He can also use it to perform multiple techniques simultaneously.",
+                  "image": "tien_fourwitches.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/tien/image_0001.png",
+                "assets/images/characters/dragonball/tien/image_0002.png",
+                "assets/images/characters/dragonball/tien/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-db-013",
+              "name": "Android 18",
+              "rating": 9.1,
+              "logo": "assets/images/logos/dragonball/android18_logo.png",
+              "alias": [
+                "Lazuli",
+                "The Blonde Android",
+                "Krillin's Wife",
+                "The Cyborg Beauty"
+              ],
+              "title": [
+                "Dr. Gero's Creation (No. 18)",
+                "Infinite Energy Android",
+                "Mother of Marron",
+                "The One Who Chose Family"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Cool, calm blue eyes that reflect her android nature—often showing boredom, slight interest, or cold indifference. They warm slightly around her family, especially Krillin and Marron. In battle, they show detached confidence.",
+                  "nose": "Small and delicate, fitting her beautiful features.",
+                  "ears": "Normal human ears, with small earrings often visible.",
+                  "extra_facial_features": "Blonde hair (her natural color was brown before conversion) worn in various styles—usually long and straight, sometimes in a ponytail or with bangs. She has a beautiful, striking face with high cheekbones and full lips. Her expression is usually neutral or slightly bored, rarely showing strong emotion. She wears a small black choker—a signature accessory. In Dragon Ball Super, she keeps her hair shorter and more practical."
+                },
+                "body": {
+                  "chest": "Slim and athletic (36 inches) with a feminine, toned figure. Not muscular, but her android body contains immense strength. She has a model-like figure, which she uses in her early appearance to lure victims.",
+                  "arms": "Slender arms (13 inches) that appear normal but can deliver devastating blows. Her hands are delicate but can crush steel."
+                },
+                "lower_body": {
+                  "legs": "Long, shapely legs (22 inches) that are incredibly strong. She can kick with enough force to damage much stronger opponents."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No headgear. Her blonde hair is her signature feature. Sometimes wears a bandana or hair tie when fighting."
+                },
+                {
+                  "torso": "Initially: a dark blue denim vest over a black shirt, with jeans. Later: a variety of casual clothing—jackets, t-shirts, dresses. In battle, she often wears practical fighting clothes: tank tops, tight pants. In Dragon Ball Super, she wears a simple black tank top and dark pants during the Tournament of Power."
+                },
+                {
+                  "arms": "Usually bare or with simple sleeves. No armor or protection needed due to her android body."
+                },
+                {
+                  "legs": "Initially: blue jeans. Later: various pants, shorts, or skirts. Practical boots or shoes."
+                },
+                {
+                  "accessories": "Her signature black choker. She also wears small hoop earrings. After marrying Krillin, she wears a wedding ring. She carries a small purse in daily life. She also has a capsule case."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Infinite Energy Reactor",
+                  "type": "passive",
+                  "short_description": "Android 18 possesses an eternal energy reactor that never runs out of ki, allowing her to fight indefinitely without fatigue.",
+                  "full_description": "Unlike standard androids that require charging, Android 18 (and 17) were built with infinite energy reactors. This grants them unlimited stamina—they never tire, never run out of ki, and can fight at full power indefinitely. This makes them incredibly dangerous opponents, as they can outlast any non-android fighter. The reactor also gives them permanent superhuman strength, speed, and durability without needing to \"power up.\" This ability made her one of the most valuable members of Universe 7's team in the Tournament of Power.",
+                  "image": "android18_infinite.png"
+                },
+                {
+                  "name": "Energy Shield",
+                  "type": "active",
+                  "short_description": "Android 18 can create a powerful barrier of energy that protects her from attacks.",
+                  "full_description": "A defensive technique Android 18 demonstrated during her fight with Vegeta. By focusing her energy, she creates a transparent, spherical barrier around herself that can withstand powerful attacks. The barrier protected her from Vegeta's assault and allowed her to counterattack. The technique requires concentration but provides excellent defense against energy attacks. She rarely uses it, preferring to rely on her speed and durability, but it's available when needed.",
+                  "image": "android18_shield.png"
+                },
+                {
+                  "name": "Destructo Disc",
+                  "type": "active",
+                  "short_description": "After marrying Krillin, Android 18 learned his signature technique and can now use the razor-sharp energy disc.",
+                  "full_description": "Android 18 learned the Destructo Disc from her husband Krillin, adding it to her arsenal. Like Krillin's version, her energy discs can cut through almost anything, ignoring conventional durability. She demonstrated this during the Tournament of Power, using the technique effectively against multiple opponents. Her infinite energy reactor means she can use the technique without worrying about stamina drain, making her particularly dangerous with it.",
+                  "image": "android18_destructodisc.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/android18/image_0001.png",
+                "assets/images/characters/dragonball/android18/image_0002.png",
+                "assets/images/characters/dragonball/android18/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-db-014",
+              "name": "Android 17",
+              "rating": 9.0,
+              "logo": "assets/images/logos/dragonball/android17_logo.png",
+              "alias": [
+                "Lapis",
+                "The Twin Android",
+                "The Park Ranger",
+                "The One Who Surpassed Expectations"
+              ],
+              "title": [
+                "Dr. Gero's Creation (No. 17)",
+                "Infinite Energy Android",
+                "Winner of the Tournament of Power",
+                "Protector of Animals"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Sharp, confident blue-green eyes that show his laid-back but determined personality. They reflect his android nature—often calm, sometimes playful, but always aware. In battle, they sharpen with focus.",
+                  "nose": "Straight, well-defined nose, similar to his sister's.",
+                  "ears": "Normal human ears, with a small earring in one ear.",
+                  "extra_facial_features": "Black hair worn in a ponytail with a red bandana in his initial appearance. Later, after years as a park ranger, he cuts his hair short and practical, losing the bandana. He has a handsome face with a confident smirk. He wears a small black choker like his sister. His expression is usually relaxed and slightly amused."
+                },
+                "body": {
+                  "chest": "Athletic and well-built (40 inches) with a lean, powerful android physique. His body is optimized for combat, with defined but not bulky muscles.",
+                  "arms": "Well-defined arms (15 inches) with visible muscle tone. His hands are capable of delivering powerful energy attacks."
+                },
+                "lower_body": {
+                  "legs": "Strong, athletic legs (23 inches) built for speed and agility. He can move incredibly fast and maintain perfect balance."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Initially: a red bandana tied around his head, covering his hair. Later, after becoming a park ranger, he has short hair and wears no headgear, sometimes a ranger hat."
+                },
+                {
+                  "torso": "Initially: a black vest over a white shirt, with blue jeans. Later, as a park ranger: a green ranger uniform with a badge, or a simple green vest over a white shirt. During the Tournament of Power, he wears a dark green vest and black pants."
+                },
+                {
+                  "arms": "Usually bare, showing his muscular arms. Sometimes wears simple wristbands."
+                },
+                {
+                  "legs": "Initially: blue jeans. Later: dark pants or ranger uniform pants. Practical boots."
+                },
+                {
+                  "accessories": "His signature red bandana (initially). Later, he wears a park ranger badge and carries ranger equipment. He also wears a small earring and the same black choker as his sister. He has a capsule case and sometimes carries animal supplies."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Infinite Energy Reactor",
+                  "type": "passive",
+                  "short_description": "Like his sister, Android 17 possesses an eternal energy reactor that grants unlimited stamina and ki.",
+                  "full_description": "Android 17 was built with the same infinite energy reactor as his twin sister. This grants him unlimited stamina, allowing him to fight at full power indefinitely without tiring. His reactor also gives him permanent superhuman physical abilities. After years of training (while working as a park ranger, fighting poachers and wild animals), his power grew dramatically—by the Tournament of Power, he was one of the strongest fighters on Universe 7's team, capable of matching Super Saiyan Blue Goku and ultimately surviving to win the tournament.",
+                  "image": "android17_infinite.png"
+                },
+                {
+                  "name": "Barrier",
+                  "type": "active",
+                  "short_description": "Android 17 can create a powerful, nearly impenetrable energy barrier for defense.",
+                  "full_description": "Android 17's signature defensive technique. Unlike his sister's spherical barrier, his is more versatile—he can create barriers of various shapes and sizes, from personal shields to large walls protecting others. His barriers are incredibly durable, withstanding attacks from opponents far stronger than himself. During the Tournament of Power, his barriers were crucial to Universe 7's survival, protecting teammates and blocking powerful attacks. The barriers require concentration but benefit from his infinite energy, allowing him to maintain them longer than most.",
+                  "image": "android17_barrier.png"
+                },
+                {
+                  "name": "Android Assault",
+                  "type": "active",
+                  "short_description": "A rapid-fire energy barrage technique unique to Android 17, firing countless small energy spheres.",
+                  "full_description": "Android 17's signature offensive technique, used effectively against Cell and later opponents. By gathering energy rapidly, he unleashes a storm of small, powerful energy spheres that overwhelm opponents through sheer volume. The technique benefits from his infinite energy reactor, allowing him to maintain the barrage for extended periods. In the Tournament of Power, he used this technique to great effect against multiple opponents simultaneously, combining it with his barrier for offense and defense.",
+                  "image": "android17_assault.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/android17/image_0001.png",
+                "assets/images/characters/dragonball/android17/image_0002.png",
+                "assets/images/characters/dragonball/android17/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-db-015",
+              "name": "Son Goten",
+              "rating": 8.5,
+              "logo": "assets/images/logos/dragonball/goten_logo.png",
+              "alias": [
+                "Goku's Second Son",
+                "The Young Prodigy",
+                "Gotenks' Other Half",
+                "The Playful Saiyan"
+              ],
+              "title": [
+                "Half-Saiyan Hybrid",
+                "Super Saiyan Child Prodigy",
+                "Trunks' Best Friend",
+                "The One Who Never Knew War"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, cheerful black eyes identical to his father Goku's—full of innocence and playful energy. They show his kind heart and love for adventure. In battle, they can sharpen with focus, but he rarely shows true Saiyan intensity.",
+                  "nose": "Small and rounded, just like Goku's, with a few faint freckles.",
+                  "ears": "Normal Saiyan ears, slightly pointed. Not particularly sensitive due to his young age and lack of training.",
+                  "extra_facial_features": "Spiky black hair identical to Goku's childhood style—messy and gravity-defying. He has a round, youthful face full of innocence and mischief. His expression is usually a cheerful grin. He looks almost exactly like Goku did as a child, often leading to confusion. In Super Saiyan, his hair turns golden and stands up just like his father's."
+                },
+                "body": {
+                  "chest": "Small and childlike (30 inches) with no muscle definition yet. Despite his small size, he possesses immense Saiyan strength far beyond normal adults.",
+                  "arms": "Thin, childlike arms (10 inches) that contain hidden Saiyan power. His hands are small and playful."
+                },
+                "lower_body": {
+                  "legs": "Short, childlike legs (18 inches) that can still generate surprising speed and jumping ability thanks to his Saiyan heritage."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No headgear. His spiky black hair is his signature feature. Sometimes wears a cap or headband for fun."
+                },
+                {
+                  "torso": "Initially: a blue and yellow outfit similar to Gohan's early clothes. Later: a blue gi with an orange undershirt, similar to Goku's but with different colors. Sometimes wears casual clothes—t-shirts, jackets. During the Buu saga, he wears a green vest with the kanji for 'Son' on the back."
+                },
+                {
+                  "arms": "Usually bare, or with simple sleeves. No armor."
+                },
+                {
+                  "legs": "Blue or black pants with boots. Sometimes wears shorts in casual settings."
+                },
+                {
+                  "accessories": "He carries few accessories. Sometimes plays with toys or spends time with Trunks. He also has a capsule case for emergencies."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Super Saiyan Transformation",
+                  "type": "active",
+                  "short_description": "Goten achieved Super Saiyan at the youngest age ever (around 7) with almost no training, showing incredible natural talent.",
+                  "full_description": "Goten is a prodigy even by Saiyan standards. Without any formal training or emotional trigger, he achieved Super Saiyan simply by playing and watching his family. This demonstrates his immense latent potential and the ease with which hybrid Saiyans can access the form. He can transform instantly and maintain it with little strain, though he lacks the combat experience to use it effectively against serious opponents. He later achieves Super Saiyan 2 (in some media) and can fuse with Trunks to become Gotenks.",
+                  "image": "goten_ssj.png"
+                },
+                {
+                  "name": "Fusion",
+                  "type": "active",
+                  "short_description": "Goten can perform the Fusion Dance with Trunks to become the immensely powerful warrior Gotenks.",
+                  "full_description": "Goten learned the Fusion Dance from Goku's instructions (via Piccolo) and can fuse with Trunks to create Gotenks. The fusion requires perfect synchronization and identical power levels. When successful, Gotenks possesses power far exceeding either individual, achieving Super Saiyan 3 (a form neither could achieve alone) and creating powerful techniques like the Super Ghost Kamikaze Attack. The fusion lasts 30 minutes but can be shortened by using too much power.",
+                  "image": "goten_fusion.png"
+                },
+                {
+                  "name": "Saiyan Heritage",
+                  "type": "passive",
+                  "short_description": "As Goku's son, Goten possesses all the inherent Saiyan abilities, including enhanced strength and the ability to grow stronger through combat.",
+                  "full_description": "Despite his young age and playful nature, Goten has all standard Saiyan abilities: enhanced strength (he can lift cars easily), durability, the ability to fly (through ki control), and the Saiyan trait of Zenkai—growing significantly stronger after recovering from near-death injuries. However, due to the peaceful era he grew up in, he rarely faces life-threatening situations, so his power doesn't grow as rapidly as his father's did.",
+                  "image": "goten_saiyan.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/goten/image_0001.png",
+                "assets/images/characters/dragonball/goten/image_0002.png",
+                "assets/images/characters/dragonball/goten/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-db-016",
+              "name": "Yamcha",
+              "rating": 7.5,
+              "logo": "assets/images/logos/dragonball/yamcha_logo.png",
+              "alias": [
+                "The Desert Bandit",
+                "The Former Rival",
+                "Bulma's Ex-Boyfriend",
+                "The Baseball Star"
+              ],
+              "title": [
+                "Z Fighter Veteran",
+                "Master Roshi's Disciple",
+                "Professional Baseball Player",
+                "The One Who Became a Meme"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Sharp, confident brown eyes that show his former bandit nature and martial arts training. They can flash with determination or widen in fear when facing overwhelming opponents.",
+                  "nose": "Straight, well-defined nose, giving him a handsome appearance.",
+                  "ears": "Normal human ears, with a small scar from his bandit days.",
+                  "extra_facial_features": "Distinctive spiky black hair with long bangs that frame his face. In Dragon Ball Super, his hair is shorter and more styled. He has a handsome face with strong features and a confident smirk. He has two scars on his left cheek from his fight with Goku in the desert. His expression is usually confident or flirtatious (around women)."
+                },
+                "body": {
+                  "chest": "Athletic and well-built (41 inches) with a lean, muscular physique from years of martial arts training. His chest shows defined pectorals and abs.",
+                  "arms": "Well-defined arms (15 inches) with visible muscle tone. His hands are strong from wielding his signature sword and martial arts."
+                },
+                "lower_body": {
+                  "legs": "Powerful legs (23 inches) built for speed and agility. He was once one of the fastest Z Fighters, known for his quick movements."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Initially: a turban-like headwrap in the desert. Later: no headgear, showing his spiky hair. Sometimes wears a sweatband during training."
+                },
+                {
+                  "torso": "Initially: a blue Chinese-style shirt with white pants. Later: the standard orange Turtle Hermit gi with blue undershirt and the 'Go' symbol. In Dragon Ball Super, he wears a baseball uniform as a professional player—white with blue stripes and a cap."
+                },
+                {
+                  "arms": "Blue wristbands or bare arms. Sometimes wears gloves."
+                },
+                {
+                  "legs": "Matching gi pants with boots. In his baseball career, standard baseball pants and cleats."
+                },
+                {
+                  "accessories": "Initially carried a sword (katana) as a bandit. Later, he carries few accessories. In Dragon Ball Super, he carries baseball equipment—glove, bat, etc. He also has a capsule case."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Wolf Fang Fist",
+                  "type": "active",
+                  "short_description": "Yamcha's signature technique, a rapid flurry of claw-like strikes and kicks mimicking a wolf's attack.",
+                  "full_description": "Yamcha developed this technique during his desert bandit days. By channeling his ki into claw-like hand strikes and combining them with swift kicks, he unleashes a rapid barrage that mimics a wolf pack's attack. The technique is fast and unpredictable, overwhelming opponents with speed. He used it effectively against Goku in their first encounter and later against various opponents. In Dragon Ball Super, he still uses it occasionally, though it's less effective against modern threats.",
+                  "image": "yamcha_wolffang.png"
+                },
+                {
+                  "name": "Spirit Ball",
+                  "type": "active",
+                  "short_description": "A ki technique where Yamcha creates an energy sphere that he can control remotely, guiding it to hit opponents.",
+                  "full_description": "Yamcha's signature energy technique, learned during his training with King Kai after his death against the Saibamen. By creating a ball of ki, he can control its flight path remotely, guiding it to pursue and strike opponents from unexpected angles. The technique requires concentration but is highly effective against slower opponents. He used it during the Saiyan saga and in video game appearances. It's similar to Krillin's Destructo Disc but without the cutting ability, focusing instead on guided impact.",
+                  "image": "yamcha_spiritball.png"
+                },
+                {
+                  "name": "Baseball Skills",
+                  "type": "passive",
+                  "short_description": "After retiring from active fighting, Yamcha became a professional baseball player, using his martial arts skills to excel.",
+                  "full_description": "In Dragon Ball Super, Yamcha has found success as a professional baseball player. His martial arts training gives him incredible hand-eye coordination, speed, and power, making him one of the best players in the league. He's wealthy and successful in this career, though he still misses his fighting days. He participated in the exhibition baseball game against the Pride Troopers, showing that his skills are still sharp even if his combat power has been left behind.",
+                  "image": "yamcha_baseball.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/yamcha/image_0001.png",
+                "assets/images/characters/dragonball/yamcha/image_0002.png",
+                "assets/images/characters/dragonball/yamcha/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-db-017",
+              "name": "Chiaotzu",
+              "rating": 6.5,
+              "logo": "assets/images/logos/dragonball/chiaotzu_logo.png",
+              "alias": [
+                "Tien's Best Friend",
+                "The Psychic Warrior",
+                "The Little White Fighter",
+                "The Loyal Companion"
+              ],
+              "title": [
+                "Crane School Disciple",
+                "Z Fighter Veteran",
+                "Master of Psychic Powers",
+                "The One Who Sacrificed Himself"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, round black eyes with small pupils that give him a doll-like appearance. They show childlike innocence and unwavering loyalty to Tien. In battle, they can show intense concentration.",
+                  "nose": "Two small dots instead of a human nose—he lacks a prominent nose structure.",
+                  "ears": "Small, round ears on the sides of his head, often hidden by his white skin and red cheeks.",
+                  "extra_facial_features": "Round, completely white face with two bright red circles on his cheeks (similar to traditional Chinese opera makeup). He has small, black hair in a style resembling a traditional Chinese queue. His expression is usually innocent or worried, rarely aggressive. He has a small mouth that often shows concern."
+                },
+                "body": {
+                  "chest": "Extremely small and childlike (28 inches) with no muscle definition. His body is tiny and light, which aids in his psychic abilities.",
+                  "arms": "Thin, small arms (9 inches) with tiny hands. He's not physically strong, relying on his psychic powers for combat."
+                },
+                "lower_body": {
+                  "legs": "Short, thin legs (16 inches) that can barely reach the ground when standing. He often floats using his psychic powers rather than walking."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No headgear. His white face and red cheeks are distinctive. Sometimes wears a small hat in casual settings."
+                },
+                {
+                  "torso": "Traditional Chinese-style outfit: a black and yellow uniform with long sleeves and a sash. The outfit has the Crane School symbol initially. In later appearances, he wears a simpler outfit but maintains the Chinese aesthetic."
+                },
+                {
+                  "arms": "Long sleeves cover his thin arms. His tiny hands peek out from the sleeves."
+                },
+                {
+                  "legs": "Matching black pants with boots or slippers. He often floats, so his feet rarely touch the ground."
+                },
+                {
+                  "accessories": "He carries few accessories. He and Tien are inseparable, and he's always near Tien. Sometimes carries a small bag or pouch."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Psychic Powers",
+                  "type": "active",
+                  "short_description": "Chiaotzu possesses powerful telekinetic abilities, allowing him to move objects and people with his mind.",
+                  "full_description": "Chiaotzu's primary abilities are psychic rather than physical. He can telekinetically move objects, lift people, and even immobilize opponents. His powers are strong enough to hold much stronger enemies temporarily, though they require concentration. He used these powers against various opponents, including during the 22nd World Martial Arts Tournament and against the Saibamen. His psychic abilities also allow him to float and fly without using standard ki flight techniques.",
+                  "image": "chiaotzu_psychic.png"
+                },
+                {
+                  "name": "Dodon Ray",
+                  "type": "active",
+                  "short_description": "An energy beam fired from the forehead, similar to the Crane School's signature technique.",
+                  "full_description": "Chiaotzu learned the Dodon Ray from the Crane School, though his version is weaker than Tien's. By focusing ki to his forehead, he fires a thin, pink energy beam at opponents. The technique is fast and precise but lacks the power of other energy attacks. He used it during the 22nd Tournament and against various enemies, though it's rarely effective against major villains. Still, it shows his dedication to martial arts despite his physical limitations.",
+                  "image": "chiaotzu_dodon.png"
+                },
+                {
+                  "name": "Self-Destruct",
+                  "type": "active",
+                  "short_description": "Chiaotzu can sacrifice himself by exploding with all his energy, a technique he used against Nappa.",
+                  "full_description": "During the Saiyan invasion, Chiaotzu attempted to sacrifice himself to destroy Nappa. By wrapping his arms around Nappa and detonating all his ki, he created a massive explosion that he hoped would kill the stronger Saiyan. Unfortunately, the power difference was too great—Nappa survived with minimal damage while Chiaotzu died. He was later revived by the Dragon Balls. This selfless act demonstrated his courage and loyalty to Tien and his friends, despite knowing he was outmatched.",
+                  "image": "chiaotzu_selfdestruct.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/chiaotzu/image_0001.png",
+                "assets/images/characters/dragonball/chiaotzu/image_0002.png"
+              ]
+            },
+            {
+              "id": "anime-db-018",
+              "name": "Videl",
+              "rating": 8.2,
+              "logo": "assets/images/logos/dragonball/videl_logo.png",
+              "alias": [
+                "The Great Saiyaman's Partner",
+                "Hercule's Daughter",
+                "Gohan's Wife",
+                "The Feisty Fighter"
+              ],
+              "title": [
+                "World Martial Arts Tournament Finalist",
+                "Crime Fighter",
+                "Mother of Pan",
+                "The One Who Tamed Gohan"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, determined blue eyes that reflect her strong will and fiery personality. They show confidence, curiosity, and later, deep love for Gohan. In battle, they narrow with focus and competitive spirit.",
+                  "nose": "Small and delicate, similar to her father Hercule's but more refined.",
+                  "ears": "Normal human ears, with small earrings in some appearances.",
+                  "extra_facial_features": "Long black hair worn in a ponytail with bangs in her initial appearance. After marrying Gohan, she cuts it shorter, more practical for motherhood. She has a beautiful, strong face with high cheekbones. Her expression is usually confident or determined, rarely showing fear. She has no visible scars, though she took quite a beating during the Buu saga."
+                },
+                "body": {
+                  "chest": "Athletic and fit (36 inches) with a toned, muscular build from years of martial arts training. She's strong for a human, with defined abs and a fit figure.",
+                  "arms": "Toned arms (13 inches) with visible muscle definition. Her hands are strong from training and fighting crime."
+                },
+                "lower_body": {
+                  "legs": "Strong, athletic legs (22 inches) built for martial arts and crime-fighting. She's agile and quick, with good jumping ability."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Initially: a white bandana or headband to keep her hair back. Later: no headgear, showing her shorter hair."
+                },
+                {
+                  "torso": "Initially: a blue tank top with black shorts, or a school uniform as a high school student. As the Great Saiyaman's partner, she wears a modified version of his costume—a black bodysuit with gold accents, a red cape, and a helmet. In Dragon Ball Super, she wears casual clothes—t-shirts, jackets, comfortable pants."
+                },
+                {
+                  "arms": "Bare arms showing her toned muscles. Sometimes wears gloves as a crime fighter."
+                },
+                {
+                  "legs": "Black shorts or pants with boots. Practical clothing for fighting."
+                },
+                {
+                  "accessories": "As a crime fighter, she wears a helmet similar to the Great Saiyaman's. She also carries a communication device. After marrying Gohan, she wears a wedding ring. She also has a capsule case."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Martial Arts",
+                  "type": "passive",
+                  "short_description": "Videl is a skilled martial artist trained by her father Hercule, capable of competing at high levels despite lacking ki abilities.",
+                  "full_description": "Videl learned martial arts from her father, the World Martial Arts Champion (though his skills are exaggerated). She's an excellent fighter by human standards, skilled in striking, grappling, and acrobatics. She reached the finals of the 25th World Martial Arts Tournament, defeating opponents easily until facing Spopovich. Her skills allowed her to fight crime in Satan City as a vigilante before meeting Gohan. She's tough, determined, and doesn't back down from fights, even against much stronger opponents.",
+                  "image": "videl_martialarts.png"
+                },
+                {
+                  "name": "Flight",
+                  "type": "active",
+                  "short_description": "Videl learned to fly from Gohan, becoming one of the few Earthlings capable of unassisted flight.",
+                  "full_description": "Gohan taught Videl how to control her ki and fly, a skill rare among Earthlings. She learned remarkably quickly, demonstrating natural talent for ki manipulation. Though her power level is low compared to the Z Fighters, she can fly competently and use basic ki control. This skill was crucial during the Buu saga, allowing her to escape danger and participate in the battle (though she was quickly outmatched). Her ability to learn ki techniques so quickly impressed Gohan and showed her potential.",
+                  "image": "videl_flight.png"
+                },
+                {
+                  "name": "Determination",
+                  "type": "passive",
+                  "short_description": "Videl's incredible willpower and refusal to give up, even against impossible odds, defines her character.",
+                  "full_description": "Videl's greatest strength is her indomitable spirit. During her match with Spopovich (who was empowered by Babidi), she refused to stay down despite horrific injuries—broken bones, severe bleeding, and overwhelming pain. She continued fighting long after any normal person would have collapsed, driven by pure determination. This same spirit led her to chase after Gohan during the Buu crisis and to support her family through everything. Her courage inspires those around her, including the much stronger Z Fighters.",
+                  "image": "videl_determination.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/videl/image_0001.png",
+                "assets/images/characters/dragonball/videl/image_0002.png",
+                "assets/images/characters/dragonball/videl/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-db-019",
+              "name": "Beerus",
+              "rating": 9.6,
+              "logo": "assets/images/logos/dragonball/beerus_logo.png",
+              "alias": [
+                "The God of Destruction",
+                "Lord Beerus",
+                "The Destroyer",
+                "The Cat God"
+              ],
+              "title": [
+                "God of Destruction of Universe 7",
+                "Whis' Pupil",
+                "The One Who Hates Saiyans",
+                "The Gourmet Destroyer"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, cat-like yellow eyes with slit pupils that reflect his divine nature and playful cruelty. They narrow with amusement or widen with genuine surprise. When angry, they become terrifyingly intense. They show ancient wisdom, childish whimsy, and destructive power all at once.",
+                  "nose": "Small, cat-like nose, fitting his feline appearance. Pink and slightly upturned.",
+                  "ears": "Large, pointed cat ears on the sides of his head, highly sensitive and twitching at sounds.",
+                  "extra_facial_features": "Purple skin with a feline appearance—he looks like an anthropomorphic Egyptian cat god. He has a slender, elegant face with pronounced cheekbones. His expression is usually bored or amused, rarely serious. He has long, droopy whiskers on his cheeks. His mouth often curls into a lazy smirk."
+                },
+                "body": {
+                  "chest": "Lean and elegant (42 inches) with a slender, feline build. Despite his slim appearance, he possesses universe-level destructive power. His chest is smooth purple skin with no visible muscle definition, but his power is immense.",
+                  "arms": "Long, slender arms (variable) that end in sharp claws. His hands are deceptively delicate but can destroy planets with a touch."
+                },
+                "lower_body": {
+                  "legs": "Long, feline legs with digitigrade structure, ending in clawed feet. He moves with cat-like grace and speed."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No headgear. His cat ears and whiskers are natural. He wears Egyptian-style eye makeup—thick black lines extending from his eyes."
+                },
+                {
+                  "torso": "Traditional Egyptian-style god robes: a white and gold outfit with a decorative chest piece, shoulder guards, and a long skirt-like garment. The outfit is elegant and divine, befitting his station. He also wears a large, decorative belt with a sun-like symbol."
+                },
+                {
+                  "arms": "His arms are bare except for golden bracelets or armlets on his upper arms and wrists. His claws are natural."
+                },
+                {
+                  "legs": "His legs are partially covered by his skirt-like garment. He wears golden anklets."
+                },
+                {
+                  "accessories": "He carries a staff of office, though rarely uses it. He's almost always accompanied by his angel attendant Whis. He also has a particular love for pudding and other gourmet foods, and his mood often depends on meal quality."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Destruction",
+                  "type": "active",
+                  "short_description": "As the God of Destruction, Beerus can destroy anything—from objects to planets to souls—with a touch or thought.",
+                  "full_description": "Beerus's primary divine ability: the power to erase anything from existence. Using a technique called Hakai, he can destroy matter at a fundamental level, leaving no trace behind. He can destroy planets with a gesture, erase souls permanently (preventing afterlife revival), and even destroy abstract concepts. The power is absolute—once destroyed by a God of Destruction, nothing can be restored, not even by Super Shenron (in most cases). He demonstrated this by destroying half a planet to make a point and threatening to destroy Earth over food.",
+                  "image": "beerus_hakai.png"
+                },
+                {
+                  "name": "Divine Combat",
+                  "type": "passive",
+                  "short_description": "Beerus possesses godly combat abilities far beyond mortal comprehension, including Ultra Instinct at a mastered level.",
+                  "full_description": "Beerus has mastered combat over millions of years. He's one of the few beings who has fully mastered Ultra Instinct (though he chooses not to use it constantly), allowing his body to move and fight completely autonomously without thought. His speed, power, and skill far exceed anything mortal warriors can achieve. He defeated Super Saiyan 3 Goku with a single tap, fought evenly with Super Saiyan God Goku while using only a fraction of his power, and demonstrated techniques and abilities beyond mortal understanding. His combat experience spans eons, making him nearly unbeatable.",
+                  "image": "beerus_combat.png"
+                },
+                {
+                  "name": "Divine Senses",
+                  "type": "passive",
+                  "short_description": "Beerus can sense godly ki and events across the universe, and even detect when someone mentions his name.",
+                  "full_description": "As a god, Beerus possesses sensory abilities far beyond mortals. He can sense divine ki across vast distances, detect when someone speaks his name (a trait shared with gods in many mythologies), and perceive events happening throughout Universe 7. This is why he appeared on Earth when Goku and others discussed him. He can also sense the power levels of mortals with perfect accuracy and detect lies and deception. His senses are so refined that he can tell when someone is holding back or using techniques beyond normal perception.",
+                  "image": "beerus_senses.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/beerus/image_0001.png",
+                "assets/images/characters/dragonball/beerus/image_0002.png",
+                "assets/images/characters/dragonball/beerus/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-db-020",
+              "name": "Whis",
+              "rating": 9.5,
+              "logo": "assets/images/logos/dragonball/whis_logo.png",
+              "alias": [
+                "The Angel Attendant",
+                "Beerus's Teacher",
+                "The Martial Arts Master",
+                "The Gourmet Guide"
+              ],
+              "title": [
+                "Angel of Universe 7",
+                "Son of the Grand Minister",
+                "Attendant to the God of Destruction",
+                "The One Who Trains Gods"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, serene blue eyes that hold infinite wisdom and ancient knowledge. They are always calm, never showing surprise or fear. They reflect his angelic nature—peaceful yet powerful, watching all with patient amusement.",
+                  "nose": "Small and delicate, fitting his elegant features.",
+                  "ears": "Pointed, elf-like ears that mark his angelic heritage. Long and elegant.",
+                  "extra_facial_features": "Pale blue skin with an otherworldly glow. Long, flowing white hair styled in an elaborate, gravity-defying arrangement with a large curl at the front. He has a slender, androgynous face with high cheekbones and full lips. His expression is perpetually calm and slightly amused. He wears a gem on his forehead—a large blue oval that matches his eyes. Around his neck is a distinctive white ring (angel halo)."
+                },
+                "body": {
+                  "chest": "Tall, slender, and elegant (variable) with an androgynous build. His body appears almost ethereal, with no visible muscle definition despite his infinite power.",
+                  "arms": "Long, graceful arms that end in delicate hands. He holds his angel staff constantly."
+                },
+                "lower_body": {
+                  "legs": "Long, elegant legs. As an angel, he floats rather than walks, his feet rarely touching the ground."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No headgear, but he wears a large blue gem on his forehead. His elaborate white hair is his most distinctive feature. He also wears the angel halo—a white ring floating behind his neck."
+                },
+                {
+                  "torso": "Angelic robes: a form-fitting white and blue outfit with intricate patterns. The design is elegant and otherworldly, with a high collar and decorative elements. He wears a large blue gem on his chest matching his forehead gem."
+                },
+                {
+                  "arms": "Long white sleeves cover his arms, with blue accents. His hands are usually visible, holding his staff."
+                },
+                {
+                  "legs": "Long, flowing robes cover his legs. He floats, so his feet are rarely visible."
+                },
+                {
+                  "accessories": "His angel staff—a long, ornate rod topped with a floating orb that glows with divine energy. The staff is both a symbol of office and a tool. He also carries a small bag of supplies, often including gourmet food for Beerus."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Angelic Powers",
+                  "type": "passive",
+                  "short_description": "As an angel, Whis possesses powers far beyond gods of destruction, including mastery of Ultra Instinct and reality manipulation.",
+                  "full_description": "Angels are the highest beings in the Dragon Ball hierarchy, second only to the Omni-King. Whis has mastered Ultra Instinct completely (unlike Goku's imperfect version), allowing his body to fight autonomously with perfect efficiency. He can reverse time (up to three minutes), teleport across the universe instantly, heal wounds, and create pocket dimensions. His power is so far beyond Beerus that he can defeat the God of Destruction with a single finger tap while barely trying. Angels are forbidden from fighting unless in self-defense, but Whis's power is effectively infinite.",
+                  "image": "whis_angelic.png"
+                },
+                {
+                  "name": "Time Rewind",
+                  "type": "active",
+                  "short_description": "Whis can reverse time by up to three minutes, allowing him to undo events and prevent catastrophes.",
+                  "full_description": "One of Whis's most useful abilities—he can rewind time by up to three minutes, effectively resetting events within that window. He used this during the fight with Frieza on Earth, rewinding time to save the planet from destruction. The ability has limits: he can only rewind three minutes, and he must be aware of the event to reverse it. He can also use it in training, allowing students to learn from mistakes by experiencing them multiple times. This ability makes him effectively unbeatable—he can simply undo any defeat.",
+                  "image": "whis_timerewind.png"
+                },
+                {
+                  "name": "Divine Training",
+                  "type": "passive",
+                  "short_description": "Whis is an unparalleled martial arts teacher, having trained Beerus, Goku, and Vegeta to godly levels.",
+                  "full_description": "Whis serves as the martial arts instructor for his assigned God of Destruction and, more recently, for Goku and Vegeta. His training methods are unorthodox but incredibly effective—he teaches through experience, allowing students to learn by doing. He trained Beerus for millions of years, making him the powerful god he is today. In just a few years of part-time training, he elevated Goku and Vegeta to Super Saiyan Blue and Ultra Instinct levels. His teaching focuses on fundamentals, ki control, and most importantly, the principle of \"moving without thinking\" that leads to Ultra Instinct.",
+                  "image": "whis_training.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/whis/image_0001.png",
+                "assets/images/characters/dragonball/whis/image_0002.png",
+                "assets/images/characters/dragonball/whis/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-db-021",
+              "name": "Chi-Chi",
+              "rating": 8.0,
+              "logo": "assets/images/logos/dragonball/chichi_logo.png",
+              "alias": [
+                "Goku's Wife",
+                "The Ox Princess",
+                "The Fierce Mother",
+                "The Demon of Discipline"
+              ],
+              "title": [
+                "Princess of Fire Mountain",
+                "Martial Artist",
+                "Mother of Gohan and Goten",
+                "The One Who Rules the Son Family"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, expressive black eyes that flash with fiery determination when angered, but soften with love for her family. They can narrow into a terrifying glare that makes even Goku and Vegeta cower.",
+                  "nose": "Small and delicate, often wrinkled when she's angry or scolding someone.",
+                  "ears": "Normal human ears, often hidden by her hair. She has excellent hearing, especially when her sons are up to mischief.",
+                  "extra_facial_features": "Long, straight black hair worn in a traditional Chinese bun or ponytail, often with decorative hairpins. She has a beautiful, youthful face that has aged gracefully. Her expression is usually stern or worried, but occasionally soft and loving. In her youth, she wore a helmet with horns as the Ox Princess."
+                },
+                "body": {
+                  "chest": "Slim and athletic (37 inches) with a toned figure from her martial arts background. Not muscular, but fit and healthy.",
+                  "arms": "Slender arms (12 inches) with deceptively strong hands from years of housework and occasional combat. She can swing a frying pan with devastating accuracy."
+                },
+                "lower_body": {
+                  "legs": "Shapely legs (21 inches) that are quick and agile, though she rarely uses them for combat anymore. She can still kick when necessary."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "In her youth: a traditional Chinese helmet with horns. As an adult: decorative hairpins or a simple headband. Sometimes wears a bandana when cleaning."
+                },
+                {
+                  "torso": "Initially: a pink and white Chinese-style dress with a purple sash. Later: a pink blouse or dress with an apron over it, her iconic homemaker outfit. Sometimes wears a green training gi when forced to fight."
+                },
+                {
+                  "arms": "Usually covered by sleeves. Her hands are often gloved when doing housework or holding her ever-present frying pan."
+                },
+                {
+                  "legs": "Long skirt or practical pants. Comfortable shoes for chasing Goku and her sons."
+                },
+                {
+                  "accessories": "Her signature frying pan—both a cooking tool and a weapon. She also carries a ladle, a rolling pin, and various kitchen utensils that double as disciplining tools. A wedding ring from Goku. Sometimes an umbrella."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Frying Pan Strike",
+                  "type": "active",
+                  "short_description": "Chi-Chi's signature attack, using her frying pan to deliver devastating blows to anyone who upsets her—especially Goku.",
+                  "full_description": "A seemingly simple but incredibly effective technique. Chi-Chi wields her cast-iron frying pan with the precision of a master martial artist, striking with enough force to dent metal and knock out even Super Saiyans. The attack is always unexpected and never misses its target when Chi-Chi is angry. It has been used to discipline Goku, Gohan, Goten, and even intimidated Vegeta. The psychological impact is as devastating as the physical blow.",
+                  "image": "chichi_fryingpan.png"
+                },
+                {
+                  "name": "Ox Princess Style",
+                  "type": "passive",
+                  "short_description": "Chi-Chi learned martial arts from her father, the Ox King, and is a skilled fighter by human standards.",
+                  "full_description": "Before becoming a full-time mother, Chi-Chi was a capable martial artist. She trained under her father, the Ox King, and participated in the 23rd World Martial Arts Tournament, where she fought Goku (though she was more interested in marrying him). Her skills include basic strikes, kicks, and grappling. While far outclassed by Saiyans, she can still handle normal threats and has been known to throw Goku across the room when annoyed.",
+                  "image": "chichi_martialarts.png"
+                },
+                {
+                  "name": "Intimidation",
+                  "type": "passive",
+                  "short_description": "Chi-Chi's anger is so fearsome that it can terrify even the strongest warriors in the universe.",
+                  "full_description": "Chi-Chi possesses a unique ability to intimidate beings far more powerful than herself. When angered, her aura transforms into something primal and terrifying—even Beerus has shown discomfort when she yells at him about food. This ability stems from her role as a mother and wife, and her absolute authority in the Son household. It bypasses power levels entirely, affecting gods and mortals alike.",
+                  "image": "chichi_intimidation.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/chichi/image_0001.png",
+                "assets/images/characters/dragonball/chichi/image_0002.png",
+                "assets/images/characters/dragonball/chichi/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-db-022",
+              "name": "Broly",
+              "rating": 9.5,
+              "logo": "assets/images/logos/dragonball/broly_logo.png",
+              "alias": [
+                "The Legendary Super Saiyan",
+                "The Devil",
+                "The Berserker",
+                "The One Who Hates Goku"
+              ],
+              "title": [
+                "Legendary Super Saiyan of Legend",
+                "Warrior from Planet Vegeta",
+                "The Saiyan Who Destroys Everything",
+                "The One Who Cannot Be Controlled"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Piercing green eyes that glow with savage fury and madness. In his Legendary Super Saiyan form, they lose pupils and become completely white, radiating pure destructive instinct. When calm, they show deep sadness and confusion.",
+                  "nose": "Straight, well-defined nose, often flared in rage.",
+                  "ears": "Normal Saiyan ears, slightly pointed. He has a small earring-like device in his first appearance (a remote shock collar).",
+                  "extra_facial_features": "Long, wild black hair that reaches his waist in base form. When transformed into Legendary Super Saiyan, his hair turns golden-green, grows even longer, and stands on end with immense energy. He has a muscular, angular face with sharp features. A small scar above his right eye. His expression is usually a maniacal grin or a blank stare of rage. He wears a traditional Saiyan headband with metal plates (in his first movie appearance)."
+                },
+                "body": {
+                  "chest": "Massively muscular (55 inches) with a physique far exceeding normal Saiyans. His chest is broad beyond measure, with pectorals that seem carved from stone. His entire body radiates power, with muscles so dense they appear armor-like.",
+                  "arms": "Colossal arms (20 inches) with bulging biceps and forearms that can crush planets. His hands are enormous, capable of gripping and tearing anything."
+                },
+                "lower_body": {
+                  "legs": "Tree-trunk-like legs (30 inches) that support his massive frame with explosive power. His thighs are immense, allowing him to move with terrifying speed despite his size."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "Traditional Saiyan headband with metal plates and a small controller device (used by Paragus to control him). In his base form, his hair is tied back with a small band."
+                },
+                {
+                  "torso": "Standard Saiyan battle armor: a dark blue bodysuit with white shoulder pauldrons and chest plate. The armor is often torn and stretched to its limits by his massive muscles. In the second coming, he wears torn pants and a chest harness."
+                },
+                {
+                  "arms": "White gauntlets cover his forearms. His arms are otherwise bare, showing his incredible muscle definition."
+                },
+                {
+                  "legs": "Matching dark blue Saiyan armor leggings with knee guards and white boots. Often damaged during his rampages."
+                },
+                {
+                  "accessories": "The shock collar/controller on his head, used by Paragus to keep him in check. A small capsule containing his father (in some versions). He also wears a traditional Saiyan tail (though it's often hidden)."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Legendary Super Saiyan Form",
+                  "type": "active",
+                  "short_description": "A unique transformation far beyond normal Super Saiyan, granting immense power, size increase, and uncontrollable rage.",
+                  "full_description": "Broly's legendary transformation is unique among Saiyans. When activated, his power increases exponentially—far beyond Super Saiyan 3 or even God forms in some continuities. His hair turns golden-green, his eyes lose their pupils, and his muscles swell to monstrous proportions. In this form, he gains an energy aura that destroys everything around him, can create massive energy spheres (Eraser Cannon/Gigantic Meteor), and becomes virtually unstoppable. The form also drives him berserk, making him attack friend and foe alike, with a particular obsession with killing Goku due to their shared infancy trauma.",
+                  "image": "broly_legendary.png"
+                },
+                {
+                  "name": "Eraser Cannon",
+                  "type": "active",
+                  "short_description": "Broly's signature energy attack—a massive green energy sphere that can destroy entire planets and galaxies.",
+                  "full_description": "Broly charges an enormous sphere of green energy between his hands, then hurls it at his target. The attack's power is immense—in his first movie, he used a variant (Gigantic Meteor) that threatened to destroy the entire South Galaxy. The energy sphere tracks its target and detonates with catastrophic force. Even the name \"Eraser Cannon\" suggests it erases whatever it hits from existence. He can also create multiple spheres simultaneously.",
+                  "image": "broly_erasercannon.png"
+                },
+                {
+                  "name": "Omega Blaster",
+                  "type": "active",
+                  "short_description": "A devastating continuous energy blast fired from Broly's hands, sweeping across the battlefield.",
+                  "full_description": "Broly extends his hands and unleashes a massive, continuous beam of green energy that he can sweep across entire landscapes. The Omega Blaster was used to destroy everything in his path during his rampage on Earth. The beam's width and power are immense, capable of leveling mountains and carving canyons. It requires enormous energy, but Broly's legendary form provides more than enough.",
+                  "image": "broly_omegablaster.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/broly/image_0001.png",
+                "assets/images/characters/dragonball/broly/image_0002.png",
+                "assets/images/characters/dragonball/broly/image_0003.png",
+                "assets/images/characters/dragonball/broly/image_0004.png"
+              ]
+            },
+            {
+              "id": "anime-db-023",
+              "name": "King Kai",
+              "rating": 8.7,
+              "logo": "assets/images/logos/dragonball/kingkai_logo.png",
+              "alias": [
+                "The North Kai",
+                "Goku's Mentor",
+                "The God of Comedy",
+                "The Pun Master"
+              ],
+              "title": [
+                "Kai of the North Galaxy",
+                "Teacher of the Spirit Bomb and Kaioken",
+                "Guardian of the Serpent Road",
+                "The One Who Trained Goku"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Small, cheerful black eyes that twinkle with mischief and wisdom. They often squint in amusement or widen in surprise at his students' antics.",
+                  "nose": "Small and round, fitting his short, pudgy face.",
+                  "ears": "Small, hidden by his white hair. He has antennae on his head—two small, black protrusions that are his Kai sensory organs.",
+                  "extra_facial_features": "Blue skin characteristic of Kais. White hair that forms a halo-like ring around his head, with a small bald patch on top. He wears a pair of sunglasses constantly, even indoors. He has a round, jolly face with a perpetual smile or amused grin. He also has a white mustache and small goatee. A small halo floats above his head, as he is deceased."
+                },
+                "body": {
+                  "chest": "Short and round (40 inches) with a potbelly. His body is not built for combat, though he is quite strong for a Kai.",
+                  "arms": "Short, pudgy arms (14 inches) that are surprisingly strong from his years of training and his daily exercises with weights and his car."
+                },
+                "lower_body": {
+                  "legs": "Short, stout legs (20 inches) that allow him to move around his tiny planet with ease. He can jump surprisingly high when motivated."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No headgear besides his sunglasses. His halo floats behind his head. His antennae are natural."
+                },
+                {
+                  "torso": "Traditional Kai attire: a dark blue or black outfit with a white cape and high collar. The outfit has the symbol of the Kais on the chest. He also wears a red sash around his waist."
+                },
+                {
+                  "arms": "Long sleeves cover his arms, with simple cuffs. His hands are bare."
+                },
+                {
+                  "legs": "Matching dark pants with simple boots."
+                },
+                {
+                  "accessories": "His most prized possession: a small, vintage car that he drives around his tiny planet (which is only large enough for a house, a car, and some trees). He also has a monkey named Bubbles who helps with training. He carries a staff of office on occasion."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Kaioken",
+                  "type": "active",
+                  "short_description": "A technique King Kai developed that multiplies the user's power temporarily by focusing ki in a dangerous burst.",
+                  "full_description": "The Kaioken is King Kai's signature technique, taught to Goku during his training on King Kai's planet. By focusing ki and pushing beyond normal limits, the user can multiply their power by a factor (Kaioken x2, x3, etc.) for a short time. However, the technique places immense strain on the body—using too high a multiplier can cause severe damage or death. King Kai developed this technique to allow fighters to briefly exceed their limits, and it remains one of the most versatile techniques in the Dragon Ball universe, later combined with Super Saiyan Blue by Goku.",
+                  "image": "kingkai_kaioken.png"
+                },
+                {
+                  "name": "Spirit Bomb",
+                  "type": "active",
+                  "short_description": "A technique that gathers energy from all living things and the environment to create a massive energy sphere.",
+                  "full_description": "King Kai taught Goku the Spirit Bomb, a technique that draws upon the life energy of all living beings, as well as the energy of the planet and atmosphere. The user must remain still and concentrate while gathering energy, making it difficult to use in combat. However, the resulting sphere is immensely powerful—capable of destroying evil beings beyond normal means. Goku used it to defeat Frieza, Kid Buu, and other villains. The technique requires a pure heart to use effectively, as evil intentions prevent gathering energy.",
+                  "image": "kingkai_spiritbomb.png"
+                },
+                {
+                  "name": "Telepathy",
+                  "type": "passive",
+                  "short_description": "King Kai can communicate telepathically with anyone across vast distances, even between planets and the afterlife.",
+                  "full_description": "As a Kai, King Kai possesses powerful telepathic abilities. He can communicate with anyone in the universe, regardless of distance, and can even transmit thoughts across the boundary between the living world and the afterlife. He used this ability constantly to coach Goku during battles on Namey and Earth, and to coordinate the Z Fighters. He can also sense ki and events across his assigned quadrant of the universe.",
+                  "image": "kingkai_telepathy.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/kingkai/image_0001.png",
+                "assets/images/characters/dragonball/kingkai/image_0002.png",
+                "assets/images/characters/dragonball/kingkai/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-db-024",
+              "name": "Bardock",
+              "rating": 8.9,
+              "logo": "assets/images/logos/dragonball/bardock_logo.png",
+              "alias": [
+                "The Saiyan Rebel",
+                "Goku's Father",
+                "The One Who Defied Frieza",
+                "The Low-Class Warrior"
+              ],
+              "title": [
+                "Low-Class Saiyan Warrior",
+                "Leader of Team Bardock",
+                "The First to Know Frieza's Betrayal",
+                "The One Who Saw the Future"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Sharp, determined black eyes that reflect his warrior spirit and rebellious nature. They show cunning, experience, and a fierce love for his comrades. In his final moments, they blazed with defiance.",
+                  "nose": "Straight, well-defined nose, similar to his son Goku's but more mature.",
+                  "ears": "Normal Saiyan ears, slightly pointed. He has a small scar on his left ear.",
+                  "extra_facial_features": "Spiky black hair identical to Goku's, but with more angular, mature styling. He has a strong, weathered face with a scar on his left cheek from battle. A bandana is tied around his forehead, a signature feature. He has a small goatee or stubble. His expression is usually serious or grim, rarely smiling. A long, furry Saiyan tail is often visible."
+                },
+                "body": {
+                  "chest": "Athletic and well-built (43 inches) with a lean, muscular Saiyan physique. His chest shows the scars of countless battles.",
+                  "arms": "Strong arms (16 inches) with visible muscle definition. His hands are calloused and scarred from years of combat. He has a tattoo-like marking on his left shoulder (the symbol of his squad)."
+                },
+                "lower_body": {
+                  "legs": "Powerful legs (23 inches) built for Saiyan combat and agility. He can move quickly and jump great distances."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "His signature red bandana tied around his forehead, with the ends hanging down. He also wears a Saiyan scouter on his left eye."
+                },
+                {
+                  "torso": "Standard Saiyan battle armor: a dark blue or black bodysuit with white shoulder pauldrons and a chest plate bearing the Saiyan royal crest (or his squad's symbol). Over it, he sometimes wears a brown leather vest or harness."
+                },
+                {
+                  "arms": "White or brown gauntlets covering his forearms. His arms are otherwise bare."
+                },
+                {
+                  "legs": "Matching dark blue armor leggings with knee guards and white boots."
+                },
+                {
+                  "accessories": "The Saiyan scouter on his left eye. He also carries a small pouch with supplies. His tail is often wrapped around his waist when not in use."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Energy Blast Barrage",
+                  "type": "active",
+                  "short_description": "Bardock's signature technique—firing rapid energy spheres from his hands in quick succession.",
+                  "full_description": "Bardock is a skilled ki user, capable of firing rapid energy blasts that overwhelm opponents through sheer volume. He used this technique against Dodoria's forces and in his final stand against Frieza. The blasts are powerful enough to destroy space pods and injure elite soldiers. His proficiency with ki attacks is notable for a low-class warrior.",
+                  "image": "bardock_barrage.png"
+                },
+                {
+                  "name": "Future Sight",
+                  "type": "passive",
+                  "short_description": "Bardock gained the ability to see glimpses of the future after being blasted into the past by Frieza's attack.",
+                  "full_description": "During the destruction of Planet Vegeta, Bardock was caught in Frieza's Supernova and thrown back in time. This event gave him brief glimpses of the future—he saw his son Kakarot (Goku) growing up on Earth, fighting Frieza, and becoming a Super Saiyan. These visions drove him to defy his orders and attempt to warn his comrades, ultimately leading to his heroic last stand. The ability was temporary and tied to his time-displaced state.",
+                  "image": "bardock_futuresight.png"
+                },
+                {
+                  "name": "Super Saiyan",
+                  "type": "active",
+                  "short_description": "In some continuities, Bardock achieved Super Saiyan during his final battle, becoming the legendary warrior.",
+                  "full_description": "In the TV special 'Episode of Bardock,' Bardock achieved Super Saiyan after being sent to the past and facing Frieza's ancestor, Chilled. His rage and Saiyan pride unlocked the transformation, turning his hair golden and his eyes green. He used this power to defeat Chilled and became a legend among the Planet Plant natives, who drew a mural of him that would inspire the Super Saiyan legend for generations. This form grants him the standard 50x power boost and the iconic golden aura.",
+                  "image": "bardock_ssj.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/bardock/image_0001.png",
+                "assets/images/characters/dragonball/bardock/image_0002.png",
+                "assets/images/characters/dragonball/bardock/image_0003.png"
+              ]
+            },
+            {
+              "id": "anime-db-025",
+              "name": "Shenron",
+              "rating": 10.0,
+              "logo": "assets/images/logos/dragonball/shenron_logo.png",
+              "alias": [
+                "The Eternal Dragon",
+                "The Dragon God",
+                "Wish Granter",
+                "Guardian of the Dragon Balls"
+              ],
+              "title": [
+                "Creator of the Dragon Balls",
+                "The One Who Grants Wishes",
+                "Guardian of Earth's Dragons",
+                "The Eternal Being"
+              ],
+              "appearance": {
+                "head": {
+                  "eyes": "Large, glowing red eyes with slit pupils that radiate ancient wisdom and immense power. They stare down at those who summon him, judging whether their wish is worthy.",
+                  "nose": "Dragon-like with flared nostrils. He has long, flowing whiskers extending from his snout.",
+                  "ears": "No visible ears, but he hears all wishes clearly. He has two long, curved antlers on his head, resembling a deer or Chinese dragon.",
+                  "extra_facial_features": "A long, serpentine dragon face with green scales, a pronounced snout, and sharp teeth visible when he speaks. His head is adorned with a red mane-like crest and flowing whiskers. His expression is usually solemn and majestic, but can show amusement or irritation."
+                },
+                "body": {
+                  "chest": "Immense, serpentine dragon body that stretches across the sky. His scales are green with yellow underbelly. His body is long and coiled, capable of wrapping around mountains.",
+                  "arms": "He has four legs, each with three claws (typical of Eastern dragons). His claws are sharp and capable of gripping clouds."
+                },
+                "lower_body": {
+                  "legs": "His body continues into an infinitely long tail that coils through the heavens. He has no lower body separation—his entire form is serpentine."
+                }
+              },
+              "armor_costume": [
+                {
+                  "head": "No clothing. His natural features include his antlers, whiskers, and red mane."
+                },
+                {
+                  "torso": "No clothing—his scales are his natural armor. His green scales are incredibly durable, and his yellow underbelly is softer but still resilient."
+                },
+                {
+                  "arms": "His claws are natural weapons. No coverings."
+                },
+                {
+                  "legs": "His legs are scaled like the rest of his body. No footwear."
+                },
+                {
+                  "accessories": "The Dragon Balls themselves are his essence—when summoned, he appears from them. After granting a wish, he scatters into seven balls that turn to stone for a year."
+                }
+              ],
+              "abilities": [
+                {
+                  "name": "Wish Granting",
+                  "type": "active",
+                  "short_description": "Shenron can grant any wish within the power of his creator, Kami (and later Dende), with certain limitations.",
+                  "full_description": "When all seven Dragon Balls are gathered and the summoning incantation is spoken, Shenron appears and grants a single wish. His power is limited by his creator—originally, he could not grant wishes beyond Kami's power (e.g., cannot kill those stronger than Kami). After Dende became Guardian, Shenron's power increased, allowing multiple wishes and resurrection of multiple people at once. He cannot grant the same wish twice, cannot grant wishes that exceed his creator's power, and after granting a wish, he scatters into stone balls for one year. Wishes can resurrect the dead, restore youth, create objects, and more.",
+                  "image": "shenron_wish.png"
+                },
+                {
+                  "name": "Divine Communication",
+                  "type": "passive",
+                  "short_description": "Shenron can communicate telepathically with those who summoned him and understand any language.",
+                  "full_description": "Shenron speaks directly to the minds of those who summoned him, in whatever language they understand. His voice is deep, resonant, and majestic. He can also communicate with his creator (Kami or Dende) and can perceive the nature of wishes and whether they are within his power to grant. He often comments on the wishes, sometimes with amusement or irritation.",
+                  "image": "shenron_communication.png"
+                },
+                {
+                  "name": "Immortality",
+                  "type": "passive",
+                  "short_description": "Shenron is an eternal being who cannot be killed; even if the Dragon Balls are destroyed, he will return when they are recreated.",
+                  "full_description": "As a magical construct tied to the Dragon Balls, Shenron cannot truly die. If the Dragon Balls are destroyed, he ceases to exist only until they are recreated. He has been summoned countless times over millennia and will continue to exist as long as the Dragon Balls exist. He cannot be harmed in any meaningful way—he is a spiritual manifestation rather than a physical being. When not summoned, he resides within the Dragon Balls as pure energy.",
+                  "image": "shenron_immortal.png"
+                }
+              ],
+              "gallery": [
+                "assets/images/characters/dragonball/shenron/image_0001.png",
+                "assets/images/characters/dragonball/shenron/image_0002.png",
+                "assets/images/characters/dragonball/shenron/image_0003.png"
+              ]
+            }
+          ]
         }
       ]
     }
